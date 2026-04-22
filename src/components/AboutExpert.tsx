@@ -14,9 +14,7 @@ export default function AboutExpert() {
 
           {/* Expert Photo Placeholder */}
           <div className="flex justify-center mb-6">
-            <div className="w-20 h-20 sm:w-24 sm:h-24 bg-primary-navy/10 rounded-full flex items-center justify-center">
-              <span className="text-3xl sm:text-4xl font-bold text-primary-navy">DZ</span>
-            </div>
+            <img src="/david.jpg" alt="David Zhang" className="w-20 h-20 sm:w-24 sm:h-24 rounded-full object-cover shadow-md" />
           </div>
 
           {/* Expert Bio */}
