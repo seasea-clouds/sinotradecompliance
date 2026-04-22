@@ -28,7 +28,7 @@ export default function Footer() {
               className="flex items-center gap-2 text-white/80 hover:text-white transition-colors"
             >
               <MessageCircle className="w-4 h-4" />
-              <span className="text-sm">+86 138 0000 0000</span>
+              <span className="text-sm">WhatsApp</span>
             </a>
 
             {/* Location */}
