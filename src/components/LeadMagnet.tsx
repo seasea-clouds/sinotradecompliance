@@ -57,23 +57,6 @@ export default function LeadMagnet() {
                 value="https://www.sinotradecompliance.com/thank-you"
               />
 
-              {/* Name Input */}
-              <div className="mb-4">
-                <label
-                  htmlFor="name"
-                  className="block text-sm font-semibold text-text-charcoal mb-1"
-                >
-                  Full Name
-                </label>
-                <input
-                  type="text"
-                  name="name"
-                  id="name"
-                  placeholder="e.g. Michael Scott"
-                  required
-                  className="w-full px-4 py-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-primary-navy focus:border-transparent transition-all shadow-sm"
-                />
-              </div>
 
               {/* Email Input */}
               <div className="mb-4">
