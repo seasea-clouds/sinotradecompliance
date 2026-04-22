@@ -29,7 +29,7 @@ export default function Navbar() {
 
           {/* WhatsApp CTA */}
           <a
-            href="https://wa.me/8613800000000"
+            href="https://wa.me/message/HPPZ5X6XZSMLM1"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-accent-blue hover:bg-accent-blue/90 text-white font-semibold px-4 py-2 rounded-md transition-all hover:shadow-md text-sm"

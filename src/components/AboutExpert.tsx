@@ -34,7 +34,7 @@ export default function AboutExpert() {
           {/* CTA Button */}
           <div className="text-center">
             <a
-              href="https://wa.me/8613800000000"
+              href="https://wa.me/message/HPPZ5X6XZSMLM1"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-accent-blue hover:bg-accent-blue/90 text-white font-bold py-3 px-6 rounded-md transition-all hover:shadow-md"
