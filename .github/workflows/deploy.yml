@@ -19,13 +19,11 @@ jobs:
           node-version: '20'
           cache: 'npm'
       - run: npm ci
-      - run: npx @cloudflare/next-on-pages
-        env:
-          NODE_VERSION: 20
+      - run: npx next build
       - uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: sinotradecompliance
-          directory: .vercel/output/static
+          directory: out
           wranglerVersion: '3'
