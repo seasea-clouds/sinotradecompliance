@@ -1,7 +1,6 @@
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, getTranslations } from 'next-intl/server';
-import { notFound } from 'next/navigation';
-import { locales } from '@/i18n/routing';
+import { locales, defaultLocale } from '@/i18n/routing';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import LanguageSwitcher from '@/components/LanguageSwitcher';
@@ -12,8 +11,8 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
-  const { locale } = await params;
-  if (!locales.includes(locale as any)) notFound();
+  const { locale: rawLocale } = await params;
+  const locale = locales.includes(rawLocale as any) ? rawLocale : defaultLocale;
 
   const t = await getTranslations({ locale, namespace: 'Hero' });
 
@@ -44,8 +43,8 @@ export default async function LocaleLayout({
   children: React.ReactNode;
   params: Promise<{ locale: string }>;
 }) {
-  const { locale } = await params;
-  if (!locales.includes(locale as any)) notFound();
+  const { locale: rawLocale } = await params;
+  const locale = locales.includes(rawLocale as any) ? rawLocale : defaultLocale;
 
   const messages = await getMessages();
 
@@ -83,10 +82,7 @@ export default async function LocaleLayout({
         />
       </head>
       <body className="min-h-full flex flex-col antialiased">
-        <NextIntlClientProvider
-          messages={messages}
-
-        >
+        <NextIntlClientProvider messages={messages}>
           <Navbar />
           {children}
           <Footer />
