@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Dienste",
+    "process": "Proses",
+    "faq": "Vrae",
+    "contact": "Kontak Ons"
+  },
+  "Hero": {
+    "title": "Verduidelik China Doeane Sonder die Gedoe.",
+    "subtitle": "Vinnige, konforme en gewaarborgde GACC Dekreet 248 registrasie vir wêreldwye Kos & Drank handelsmerke. Ons hanteer die ingewikkelde Chinese CIFER-stelsel.",
+    "cta": "Kry Jou Gratis Assessering",
+    "trust": "Vertrou deur 200+ wêreldwye F&B handelsmerke"
+  },
+  "Problem": {
+    "title": "Uitvoer na China? Jy Sal Hierdie Hoofpyn In die Gesig Staar",
+    "card1Title": "Taal Barrière",
+    "card1Desc": "Slegs Chinese CIFER-stelsel, ingewikkelde regulasies, en nul Engelse ondersteuning.",
+    "card2Title": "HS Kode Chaos",
+    "card2Desc": "Verkeerde HS/CIQ kodes lei tot verwerpte aansoeke en vertraagde skeepsvrag.",
+    "card3Title": "Vrag Vasgehou by Grens",
+    "card3Desc": "Sonder behoorlike GACC registrasie, jou goedere is vasgesteek. Bergingsfooie hoop op."
+  },
+  "Solution": {
+    "title": "Ons Hanteer die Ingewikkelde Deel",
+    "step1Title": "CIFER Rekening Opstel",
+    "step1Desc": "Ons skep en bestuur jou Chinese doeane registrasie rekening.",
+    "step2Title": "HS/CIQ Kode Belyning",
+    "step2Desc": "Deskundige passing van jou produkte aan die korrekte Chinese klassifikasie kodes.",
+    "step3Title": "Volledige Dokumentasie",
+    "step3Desc": "Vertaling, etikettering nakoming, en alle vereiste dokumentasie.",
+    "step4Title": "Vaste Fooi, Geen Verrassings",
+    "step4Desc": "$1,200 USD plat fooi. Een prys, volledige diens, gewaarborgde uitkoms.",
+    "cta": "Begin Jou Registrasie"
+  },
+  "LeadMagnet": {
+    "title": "Gratis GACC Nakomings Kontrolelys",
+    "subtitle": "Laai ons stap-vir-stap gids af vir registrasie van jou Kos & Drank handelsmerk.",
+    "placeholder": "Voer jou e-pos in",
+    "button": "Laai Gratis PDF Af",
+    "privacy": "Geen spam. Kanselleer enige tyd."
+  },
+  "Expert": {
+    "title": "Meet Jou China Spesialis",
+    "name": "David Zhang",
+    "role": "GACC Registrasie Ekspert",
+    "desc": "10+ jaar hulp aan Kos & Drank vervaardigers om Chinese doeane regulasies te navigeer.",
+    "cta": "Klets op WhatsApp"
+  },
+  "Footer": {
+    "contact": "Kontak",
+    "services": "Dienste",
+    "gaccRegistration": "GACC Registrasie",
+    "ciferCompliance": "CIFER Nakoming",
+    "hsCodeClassification": "HS/CIQ Klassifikasie",
+    "labelReview": "Etiket Hersiening",
+    "rights": "© 2026 SinoTrade Compliance. Alle regte voorbehou."
+  },
+  "Common": {
+    "whatsapp": "WhatsApp Ons"
+  }
+}

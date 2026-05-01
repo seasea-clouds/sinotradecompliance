@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Xidmətlər",
+    "process": "Proses",
+    "faq": "FAQ",
+    "contact": "Əlaqə"
+  },
+  "Hero": {
+    "title": "Çin Gömrüklərini Çətinliksiz Keçin.",
+    "subtitle": "Qlobal Qida və İçki markaları üçün sürətli, uyğun və zəmanətli GACC Fərman 248 qeydiyyatı. Mürəkkəb Çin CIFER sistemini biz idarə edirik.",
+    "cta": "Pulsuz Qiymətləndirmənizi Alın",
+    "trust": "200+ qlobal F&B markası etibar edir"
+  },
+  "Problem": {
+    "title": "Çinə İxrac Edirsiniz?",
+    "card1Title": "Dil Baryeri",
+    "card1Desc": "Yalnız Çin dilində CIFER sistemi, mürəkkəb qaydalar, ingilis dəstəyi yoxdur.",
+    "card2Title": "HS Kodu Xaosu",
+    "card2Desc": "Səhv HS/CIQ kodları rədd edilmiş ərizələrə və gecikmiş yüklərə səbəb olur.",
+    "card3Title": "Yük Sərhəddə Saxlanılır",
+    "card3Desc": "Düzgün GACC qeydiyyatı olmadan mallarınız ilişib qalır."
+  },
+  "Solution": {
+    "title": "Mürəkkəb Hissəni Biz İdarə Edirik",
+    "step1Title": "CIFER Hesab Qurulumu",
+    "step1Desc": "Çin gömrük qeydiyyat hesabınızı yaradır və idarə edirik.",
+    "step2Title": "HS/CIQ Kod Uyğunluğu",
+    "step2Desc": "Məhsullarınızın doğru Çin təsnifat kodlarına ekspert uyğunluğu.",
+    "step3Title": "Tam Sənədləşdirmə",
+    "step3Desc": "Tərcümə, etiket uyğunluğu və tələb olunan bütün sənədlər.",
+    "step4Title": "Sabit Haqq, Sürpriz Yoxdur",
+    "step4Desc": "$1,200 USD sabit haqq. Bir qiymət, tam xidmət, zəmanətli nəticə.",
+    "cta": "Qeydiyyatınıza Başlayın"
+  },
+  "LeadMagnet": {
+    "title": "Pulsuz GACC Uyğunluq Yoxlama Siyahısı",
+    "subtitle": "Qida və İçki markanızı Çin üçün qeydiyyatdan keçirmək üçün addım-addım bələdçi.",
+    "placeholder": "E-poçtunuzu daxil edin",
+    "button": "Pulsuz PDF Yüklə",
+    "privacy": "Spam yoxdur. İstənilən vaxt ləğv edin."
+  },
+  "Expert": {
+    "title": "Çin Mütəxəssisinizlə Tanış Olun",
+    "name": "David Zhang",
+    "role": "GACC Qeydiyyat Eksperti",
+    "desc": "10+ il Qida və İçki istehsalçılarına Çin gömrük qaydalarında kömək edir.",
+    "cta": "WhatsApp-da Yazışın"
+  },
+  "Footer": {
+    "contact": "Əlaqə",
+    "services": "Xidmətlər",
+    "gaccRegistration": "GACC Qeydiyyatı",
+    "ciferCompliance": "CIFER Uyğunluğu",
+    "hsCodeClassification": "HS/CIQ Təsnifatı",
+    "labelReview": "Etiket Nəzərdən Keçirmə",
+    "rights": "© 2026 SinoTrade Compliance. Bütün hüquqlar qorunur."
+  },
+  "Common": {
+    "whatsapp": "WhatsApp-da Yazın"
+  }
+}

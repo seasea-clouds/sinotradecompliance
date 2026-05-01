@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Shërbime",
+    "process": "Procesi",
+    "faq": "FAQ",
+    "contact": "Na Kontaktoni"
+  },
+  "Hero": {
+    "title": "Kaloni Doganat e Kinës Pa Shqetësime.",
+    "subtitle": "Regjistrim i shpejtë, i përputhshëm dhe i garantuar GACC Dekret 248 për markat globale të Ushqimit & Pijeve. Ne trajtojmë sistemin kompleks kinez CIFER.",
+    "cta": "Merrni Vlerësimin Tuaj Falas",
+    "trust": "E besuar nga 200+ marka globale F&B"
+  },
+  "Problem": {
+    "title": "Eksportoni në Kinë? Do të Përballeni me Këto Kokëçarje",
+    "card1Title": "Barriera e Gjuhës",
+    "card1Desc": "Vetëm sistemi kinez CIFER, rregullore komplekse, dhe zero mbështetje në anglisht.",
+    "card2Title": "Kaosi i Kodit HS",
+    "card2Desc": "Kodet e gabuara HS/CIQ çojnë në aplikime të refuzuara dhe dërgesa të vonuara.",
+    "card3Title": "Ngarkesa e Ndaluar në Kufi",
+    "card3Desc": "Pa regjistrimin e duhur GACC, mallrat tuaja janë të bllokuara."
+  },
+  "Solution": {
+    "title": "Ne Trajtojmë Pjesën Komplekse",
+    "step1Title": "Konfigurimi i Llogarisë CIFER",
+    "step1Desc": "Ne krijojmë dhe menaxhojmë llogarinë tuaj të regjistrimit doganor kinez.",
+    "step2Title": "Përafrimi i Kodeve HS/CIQ",
+    "step2Desc": "Përputhje eksperte e produkteve tuaja me kodet e duhura të klasifikimit kinez.",
+    "step3Title": "Dokumentacion i Plotë",
+    "step3Desc": "Përkthim, pajtueshmëri etiketimi dhe të gjitha dokumentet e nevojshme.",
+    "step4Title": "Tarifë e Fiksuar, Pa Surpriza",
+    "step4Desc": "$1,200 USD tarifë e sheshtë. Një çmim, shërbim i plotë, rezultat i garantuar.",
+    "cta": "Filloni Regjistrimin Tuaj"
+  },
+  "LeadMagnet": {
+    "title": "Kontroll Listë Falas GACC",
+    "subtitle": "Shkarkoni udhëzuesin hap-pas-hapi për regjistrimin e markës suaj të Ushqimit & Pijeve.",
+    "placeholder": "Shkruani email-in tuaj",
+    "button": "Shkarko PDF Falas",
+    "privacy": "Pa spam. Çregjistrohuni kurdo."
+  },
+  "Expert": {
+    "title": "Njihuni me Specialistin Tuaj të Kinës",
+    "name": "David Zhang",
+    "role": "Ekspert i Regjistrimit GACC",
+    "desc": "10+ vite duke ndihmuar prodhuesit e Ushqimit & Pijeve me rregullat doganore kineze.",
+    "cta": "Bisedoni në WhatsApp"
+  },
+  "Footer": {
+    "contact": "Kontakt",
+    "services": "Shërbime",
+    "gaccRegistration": "Regjistrimi GACC",
+    "ciferCompliance": "Pajtueshmëria CIFER",
+    "hsCodeClassification": "Klasifikimi HS/CIQ",
+    "labelReview": "Rishikimi i Etiketat",
+    "rights": "© 2026 SinoTrade Compliance. Të gjitha të drejtat e rezervuara."
+  },
+  "Common": {
+    "whatsapp": "Na Shkruani në WhatsApp"
+  }
+}
