@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "Compliment de SinoTrade",
+    "services": "Serveis",
+    "process": "De procés",
+    "faq": "FAQ",
+    "contact": "Contacta amb nosaltres"
+  },
+  "Hero": {
+    "title": "Esborra les duanes de la Xina sense problemes.",
+    "subtitle": "Registre ràpid, conforme i garantit pel Decret 248 del GACC per a les marques globals d'aliments i begudes. Gestionem el complex sistema CIFER xinès perquè puguis centrar-te en l'exportació.",
+    "cta": "Aconsegueix la teva avaluació gratu",
+    "trust": "Més de 200 marques globals de F&B confien en tu"
+  },
+  "Problem": {
+    "title": "Vols exportar a la Xina? T'enfrontaràs a aquests mals de cap",
+    "card1Title": "BARRERA IDIOMÀTICA.",
+    "card1Desc": "El sistema CIFER exclusiu per a xinesos, la complexa normativa i el zero suport de l'anglès fan que sigui gairebé impossible per a les empreses estrangeres.",
+    "card2Title": "HS Code Chaos",
+    "card2Desc": "Els codis HS/CIQ incorrectes donen lloc a sol·licituds rebutjades, enviaments retardats i costoses penalitzacions duaneres.",
+    "card3Title": "Càrrega retenida a la frontera",
+    "card3Desc": "Sense un registre GACC adequat, els teus productes quedaran bloquejats. Les tarifes d'emmagatzematge s'acumulen mentre busques respostes."
+  },
+  "Solution": {
+    "title": "Gestionem la part complexa",
+    "step1Title": "Configuració del compte CIFER",
+    "step1Desc": "Creem i gestionem el teu compte de registre duaner xinès.",
+    "step2Title": "Alineació del codi HS/CIQ",
+    "step2Desc": "Expert en fer coincidir els teus productes amb els codis de classificació xinesos correctes.",
+    "step3Title": "Llegiu la documentació completa",
+    "step3Desc": "La traducció, el compliment de l'etiquetatge i tota la documentació necessària s'han gestionat de punta a punta.",
+    "step4Title": "Tarifa fixa, sense sorpreses",
+    "step4Desc": "Tarifa plana de 1.200 $. Un preu, servei complet, resultat garantit.",
+    "cta": "Inicia el registre"
+  },
+  "LeadMagnet": {
+    "title": "Llista de comprovació gratuïta de compliment de GACC",
+    "subtitle": "Descarrega't la nostra guia pas a pas per registrar la teva marca d'aliments i begudes a la Xina.",
+    "placeholder": "Introduïu el vostre correu electrònic",
+    "button": "Descarrega el PDF gratuït",
+    "privacy": "Sense correu brossa. Cancel·la la subscripció en qualsevol moment."
+  },
+  "Expert": {
+    "title": "Coneix el teu especialista a la Xina",
+    "name": "David Zhang",
+    "role": "Expert en registre GACC",
+    "desc": "Més de 10 anys ajudant els fabricants d'aliments i begudes a navegar per la normativa duanera xinesa. Amb seu a la Xina, treballa a tot el món.",
+    "cta": "Xateja per WhatsApp"
+  },
+  "Footer": {
+    "contact": "Contacte",
+    "services": "Serveis",
+    "gaccRegistration": "Registre GACC",
+    "ciferCompliance": "Compliment CIFER",
+    "hsCodeClassification": "Classificació HS/CIQ",
+    "labelReview": "Revisió de l'etiqueta",
+    "rights": "© 2026 Compliment de SinoTrade. Tots els drets reservats."
+  },
+  "Common": {
+    "whatsapp": "WhatsApp amb nosaltres"
+  }
+}

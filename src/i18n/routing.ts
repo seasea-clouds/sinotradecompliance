@@ -5,7 +5,7 @@ export const locales = [
   'ar', 'ko', 'it', 'nl', 'tr', 'vi', 'id', 'th',
   'hi', 'pl', 'sv', 'el', 'cs', 'ro', 'hu', 'fi',
   'da', 'no', 'uk', 'bg', 'hr', 'sr', 'sk', 'sl',
-  'ms', 'ka',
+  'ms', 'ka', 'he', 'sw', 'bn', 'ca',
 ] as const;
 export type Locale = (typeof locales)[number];
 export const defaultLocale: Locale = 'en';
@@ -45,6 +45,10 @@ export const localeNames: Record<Locale, string> = {
   sl: '🇸🇮 Slovenščina',
   ms: '🇲🇾 Bahasa Melayu',
   ka: '🇬🇪 ქართული',
+  he: '🇮🇱 עברית',
+  sw: '🇰🇪 Kiswahili',
+  bn: '🇧🇩 বাংলা',
+  ca: '🇦🇩 Català',
 };
 
 export const routing = defineRouting({

@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "Uzingatiaji wa SinoTrade",
+    "services": "Huduma",
+    "process": "Mchakato",
+    "faq": "Maswali Yanayoulizwa Mara kwa Mara ",
+    "contact": "Wasiliana Nasi"
+  },
+  "Hero": {
+    "title": "Futa Forodha za China Bila Usumbufu.",
+    "subtitle": "Haraka, inatii na imehakikishiwa Amri ya GACC 248 ya usajili wa chapa za kimataifa za Chakula na Vinywaji. Tunashughulikia mfumo mgumu wa Kichina wa CIFER ili uweze kuzingatia usafirishaji.",
+    "cta": "Pata Tathmini Yako ya Bure",
+    "trust": "Inaaminika na chapa 200 na zaidi za kimataifa za F&B"
+  },
+  "Problem": {
+    "title": "Unasafirisha kwenda China? Utakabiliwa na maumivu haya ya kichwa",
+    "card1Title": "Kizuizi cha Lugha",
+    "card1Desc": "Mfumo wa CIFER wa Kichina pekee, kanuni ngumu na usaidizi usio wa Kiingereza hufanya isiwezekane kwa makampuni ya kigeni.",
+    "card2Title": "Machafuko ya Msimbo wa HS",
+    "card2Desc": "Misimbo isiyo sahihi ya HS/CIQ husababisha maombi yaliyokataliwa, kucheleweshwa kwa usafirishaji na adhabu za gharama kubwa za forodha.",
+    "card3Title": "Mizigo Inayoshikiliwa Mpakani",
+    "card3Desc": "Bila usajili sahihi wa GACC, bidhaa zako zimekwama. Ada za uhifadhi hujilimbikiza huku ukikimbilia kupata majibu."
+  },
+  "Solution": {
+    "title": "Tunashughulikia Sehemu Tata",
+    "step1Title": "Usanidi wa Akaunti ya CIFER",
+    "step1Desc": "Tunaunda na kusimamia akaunti yako ya usajili wa forodha ya Kichina.",
+    "step2Title": "Ulinganifu wa Msimbo wa HS/CIQ",
+    "step2Desc": "Ulinganishaji wa kitaalamu wa bidhaa zako na misimbo sahihi ya uainishaji ya Kichina.",
+    "step3Title": "Hati Kamili",
+    "step3Desc": "Tafsiri, kutii lebo, na makaratasi yote yanayohitajika yanayoshughulikiwa mwisho hadi mwisho.",
+    "step4Title": "Ada Isiyobadilika, Hakuna Maajabu",
+    "step4Desc": "Ada isiyobadilika ya $ 1,200 USD. Bei moja, huduma kamili, matokeo yaliyohakikishwa.",
+    "cta": "Anza Usajili Wako"
+  },
+  "LeadMagnet": {
+    "title": "Orodha Kaguzi ya Utekelezaji wa Bila Malipo ya GACC",
+    "subtitle": "Pakua mwongozo wetu wa hatua kwa hatua wa kusajili chapa yako ya Chakula na Vinywaji kwa ajili ya China.",
+    "placeholder": "Ingiza barua pepe yako",
+    "button": "Pakua PDF Bila Malipo",
+    "privacy": "Hakuna barua taka. Jiondoe wakati wowote."
+  },
+  "Expert": {
+    "title": "Kutana na Mtaalamu wako wa Uchina",
+    "name": "David Zhang",
+    "role": "Mtaalamu wa Usajili wa GACC",
+    "desc": "Miaka 10 na zaidi kuwasaidia wazalishaji wa Chakula na Vinywaji kupitia kanuni za forodha za Kichina. Makao yake nchini China, akifanya kazi duniani kote.",
+    "cta": "Piga gumzo kwenye WhatsApp"
+  },
+  "Footer": {
+    "contact": "Mawasiliano",
+    "services": "Huduma",
+    "gaccRegistration": "Usajili wa GACC",
+    "ciferCompliance": "Uzingatiaji wa CIFER",
+    "hsCodeClassification": "Uainishaji wa HS/CIQ",
+    "labelReview": "Tathmini ya Lebo",
+    "rights": "© 2026 SinoTrade Compliance. Haki zote zimehifadhiwa."
+  },
+  "Common": {
+    "whatsapp": "WhatsApp Us"
+  }
+}
