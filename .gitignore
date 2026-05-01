@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# 项目管理文档（OpenClaw 内部使用）
+GOAL.md
+TASK.md
+NOTES.md
+SOP.md
+REDESIGN-PLAN.md

@@ -4,6 +4,7 @@ import { locales, defaultLocale } from '@/i18n/routing';
 import { messagesMap } from '@/i18n/messages';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import OrganizationJsonLd from '@/components/OrganizationJsonLd';
 import '../../globals.css';
 
 export function generateStaticParams() {
@@ -12,11 +13,11 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const locale = (await params).locale;
-  const t = await getTranslations({ locale, namespace: 'Hero' });
+  const t = await getTranslations({ locale, namespace: 'Home' });
 
   return {
-    title: t('title'),
-    description: t('subtitle'),
+    title: t('heroTitle'),
+    description: t('heroSubtitle'),
     alternates: {
       canonical: `https://sinotradecompliance.com/${locale}/`,
       languages: Object.fromEntries(
@@ -47,6 +48,7 @@ export default async function LocaleLayout({
 
   return (
     <NextIntlClientProvider messages={messages} locale={locale}>
+      <OrganizationJsonLd />
       <Navbar />
       {children}
       <Footer />

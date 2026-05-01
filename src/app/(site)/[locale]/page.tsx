@@ -1,17 +1,21 @@
 import Hero from '@/components/Hero';
-import Problem from '@/components/Problem';
-import Solution from '@/components/Solution';
+import ServicesGrid from '@/components/ServicesGrid';
+import WhyUsCards from '@/components/WhyUsCards';
+import ProcessSteps from '@/components/ProcessSteps';
+import AboutExpert from '@/components/AboutExpert';
+import CTASection from '@/components/CTASection';
 import LeadMagnet from '@/components/LeadMagnet';
-import Expert from '@/components/AboutExpert';
 
 export default function HomePage() {
   return (
-    <>
+    <main>
       <Hero />
-      <Problem />
-      <Solution />
+      <ServicesGrid />
+      <WhyUsCards count={4} />
+      <ProcessSteps namespace="Home" />
+      <AboutExpert />
+      <CTASection namespace="Home" />
       <LeadMagnet />
-      <Expert />
-    </>
+    </main>
   );
 }
