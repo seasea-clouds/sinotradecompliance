@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Diensten",
+    "process": "Werkwijze",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "title": "Chinese douane, zonder gedoe.",
+    "subtitle": "Snelle, conforme en gegarandeerde GACC Decree 248-registratie voor wereldwijde food & drank-merken. Wij beheren het complexe Chinese CIFER-systeem, zodat jij je kunt richten op exporteren.",
+    "cta": "Gratis Analyse Aanvragen",
+    "trust": "Vertrouwd door 200+ internationale F&B-merken"
+  },
+  "Problem": {
+    "title": "Exporteer je naar China? Dit zijn je uitdagingen",
+    "card1Title": "Taalbarrière",
+    "card1Desc": "Het CIFER-systeem is alleen in het Chinees, complexe regelgeving en geen Engelstalige ondersteuning maken het bijna onmogelijk voor buitenlandse bedrijven.",
+    "card2Title": "HS-code chaos",
+    "card2Desc": "Verkeerde HS/CIQ-codes leiden tot afgewezen aanvragen, vertraagde zendingen en dure douaneboetes.",
+    "card3Title": "Lading vastgehouden aan de grens",
+    "card3Desc": "Zonder juiste GACC-registratie blijft je goederen vastzitten. Opslagkosten lopen op terwijl je naar oplossingen zoekt."
+  },
+  "Solution": {
+    "title": "Wij regelen het complexe deel",
+    "step1Title": "CIFER-account instellen",
+    "step1Desc": "Wij maken en beheren je Chinese douaneregistratie-account.",
+    "step2Title": "HS/CIQ-code afstemming",
+    "step2Desc": "Expert matching van jouw producten met de juiste Chinese classificatiecodes.",
+    "step3Title": "Volledige documentatie",
+    "step3Desc": "Vertaling, etiketconformiteit en alle benodigde documenten, end-to-end geregeld.",
+    "step4Title": "Vast tarief, geen verrassingen",
+    "step4Desc": "$1,200 USD vast tarief. Één prijs, volledige service, gegarandeerd resultaat.",
+    "cta": "Start Je Registratie"
+  },
+  "LeadMagnet": {
+    "title": "Gratis GACC-nalevingschecklist",
+    "subtitle": "Download onze stap-voor-stap gids voor het registreren van jouw food & drank-merk in China.",
+    "placeholder": "Voer je e-mail in",
+    "button": "Download Gratis PDF",
+    "privacy": "Geen spam. Op elk moment afmelden."
+  },
+  "Expert": {
+    "title": "Maak Kennis Met Jouw China-Specialist",
+    "name": "David Zhang",
+    "role": "GACC-registratie-expert",
+    "desc": "10+ jaar ervaring in het helpen van food & drank-fabrikanten met Chinese douaneregelgeving. Gevestigd in China, wereldwijd actief.",
+    "cta": "Chat op WhatsApp"
+  },
+  "Footer": {
+    "contact": "Contact",
+    "services": "Diensten",
+    "gaccRegistration": "GACC-registratie",
+    "ciferCompliance": "CIFER-naleving",
+    "hsCodeClassification": "HS/CIQ-classificatie",
+    "labelReview": "Etiketbeoordeling",
+    "rights": "© 2026 SinoTrade Compliance. Alle rechten voorbehouden."
+  },
+  "Common": {
+    "whatsapp": "WhatsApp ons"
+  }
+}

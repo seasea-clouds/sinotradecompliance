@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "サービス",
+    "process": "プロセス",
+    "faq": "よくある質問",
+    "contact": "お問い合わせ"
+  },
+  "Hero": {
+    "title": "中国税関をスムーズにクリア。",
+    "subtitle": "世界中の食品・飲料ブランド向けに、迅速でコンプライアンス準拠のGACC令248登録サービスを提供。複雑な中国CIFERシステムを私たちが代行し、あなたは輸出ビジネスに集中できます。",
+    "cta": "無料診断を申し込む",
+    "trust": "世界200以上の食品・飲料ブランドに信頼されています"
+  },
+  "Problem": {
+    "title": "中国への輸出？こうした課題に直面します",
+    "card1Title": "言語の壁",
+    "card1Desc": "中国語のみのCIFERシステム、複雑な規制、英語サポートゼロ。外国企業にはほぼ不可能です。",
+    "card2Title": "HSコードの混乱",
+    "card2Desc": "HS/CIQコードの誤りが申請却下、発送遅延、高額な関税罰則につながります。",
+    "card3Title": "国境で足止め",
+    "card3Desc": "適切なGACC登録がなければ、货物は足止め。保管料がかさむ中、答えを探して右往左往。"
+  },
+  "Solution": {
+    "title": "複雑な部分は私たちにお任せください",
+    "step1Title": "CIFERアカウント開設",
+    "step1Desc": "中国税関登録アカウントの作成と管理を代行します。",
+    "step2Title": "HS/CIQコード照合",
+    "step2Desc": "専門家があなたの製品に最適な中国分類コードを照合します。",
+    "step3Title": "完全な書類対応",
+    "step3Desc": "翻訳、ラベル遵守、必要な全書類を一貫して対応。",
+    "step4Title": "固定料金、隠れコストなし",
+    "step4Desc": "1,200米ドルの一律料金。1つの価格でフルサービス、結果保証付き。",
+    "cta": "登録を始める"
+  },
+  "LeadMagnet": {
+    "title": "無料GACCコンプライアンスチェックリスト",
+    "subtitle": "中国向け食品・飲料ブランド登録のステップバイステップガイドをダウンロード。",
+    "placeholder": "メールアドレスを入力",
+    "button": "無料PDFをダウンロード",
+    "privacy": "スパムなし。いつでも解約可能。"
+  },
+  "Expert": {
+    "title": "中国スペシャリストをご紹介",
+    "name": "David Zhang",
+    "role": "GACC登録エキスパート",
+    "desc": "10年以上にわたり、食品・飲料メーカーの中国税関法規対応を支援。中国在住、グローバル対応。",
+    "cta": "WhatsAppでチャット"
+  },
+  "Footer": {
+    "contact": "お問い合わせ",
+    "services": "サービス",
+    "gaccRegistration": "GACC登録",
+    "ciferCompliance": "CIFERコンプライアンス",
+    "hsCodeClassification": "HS/CIQ分類",
+    "labelReview": "ラベル審査",
+    "rights": "© 2026 SinoTrade Compliance. All rights reserved."
+  },
+  "Common": {
+    "whatsapp": "WhatsApp"
+  }
+}

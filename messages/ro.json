@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Servicii",
+    "process": "Proces",
+    "faq": "Întrebări frecvente",
+    "contact": "Contactați-ne"
+  },
+  "Hero": {
+    "title": "Vămuire în China fără bătăi de cap.",
+    "subtitle": "Înregistrare GACC Decree 248 rapidă, conformă și garantată pentru branduri globale de alimente și băuturi. Noi gestionăm sistemul complex chinezesc CIFER, ca voi să vă concentrați pe export.",
+    "cta": "Obțineți Evaluarea Gratuită",
+    "trust": "De încredere pentru 200+ branduri F&B globale"
+  },
+  "Problem": {
+    "title": "Exportați în China? Veți întâlni aceste probleme",
+    "card1Title": "Bariera lingvistică",
+    "card1Desc": "Sistemul CIFER doar în chineză, reglementări complexe și lipsa suportului în engleză fac procesul aproape imposibil pentru companiile străine.",
+    "card2Title": "Haosul codurilor HS",
+    "card2Desc": "Codurile HS/CIQ greșite duc la cereri respinse, livrări întârziate și penalități vamale costisitoare.",
+    "card3Title": "Marfă reținută la graniță",
+    "card3Desc": "Fără înregistrarea GACC corespunzătoare, marfa voastră rămâne blocată. Taxele de depozitare se acumulează în timp ce căutați soluții."
+  },
+  "Solution": {
+    "title": "Noi gestionăm partea complicată",
+    "step1Title": "Configurare cont CIFER",
+    "step1Desc": "Creăm și gestionăm contul vostru de înregistrare vamală chineză.",
+    "step2Title": "Aliniere coduri HS/CIQ",
+    "step2Desc": "Potrivire expertă a produselor voastre cu codurile corecte de clasificare chineze.",
+    "step3Title": "Documentație completă",
+    "step3Desc": "Traducere, conformitatea etichetelor și toate documentele necesare gestionate de la început până la sfârșit.",
+    "step4Title": "Taxă fixă, fără surprize",
+    "step4Desc": "$1,200 USD taxă fixă. Un singur preț, serviciu complet, rezultat garantat.",
+    "cta": "Începeți Înregistrarea"
+  },
+  "LeadMagnet": {
+    "title": "Lista de Verificare Gratuită pentru Conformitatea GACC",
+    "subtitle": "Descărcați ghidul nostru pas cu pas pentru înregistrarea brandului vostru de alimente și băuturi în China.",
+    "placeholder": "Introduceți adresa de email",
+    "button": "Descărcați PDF gratuit",
+    "privacy": "Fără spam. Dezabonare oricând."
+  },
+  "Expert": {
+    "title": "Cunoașteți Specialistul Vostru pentru China",
+    "name": "David Zhang",
+    "role": "Expert în înregistrare GACC",
+    "desc": "Peste 10 ani de experiență în ajutorarea producătorilor de alimente și băuturi în navigarea reglementărilor vamale chineze. Cu sediul în China, activitate globală.",
+    "cta": "Chat pe WhatsApp"
+  },
+  "Footer": {
+    "contact": "Contact",
+    "services": "Servicii",
+    "gaccRegistration": "Înregistrare GACC",
+    "ciferCompliance": "Conformitate CIFER",
+    "hsCodeClassification": "Clasificare HS/CIQ",
+    "labelReview": "Revizuire etichete",
+    "rights": "© 2026 SinoTrade Compliance. Toate drepturile rezervate."
+  },
+  "Common": {
+    "whatsapp": "Scrieți-ne pe WhatsApp"
+  }
+}

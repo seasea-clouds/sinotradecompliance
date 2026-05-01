@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "서비스",
+    "process": "절차",
+    "faq": "자주 묻는 질문",
+    "contact": "문의하기"
+  },
+  "Hero": {
+    "title": "중국 통관, 번거로움 없이.",
+    "subtitle": "글로벌 식품 및 음료 브랜드를 위한 빠르고 규정 준수하며 보장된 GACC Decree 248 등록. 복잡한 중국 CIFER 시스템은 우리가 처리하므로 귀하는 수출에만 집중하세요.",
+    "cta": "무료 평가받기",
+    "trust": "200개 이상의 글로벌 식품 브랜드가 신뢰합니다"
+  },
+  "Problem": {
+    "title": "중국에 수출하시나요? 이런 문제에 직면합니다",
+    "card1Title": "언어 장벽",
+    "card1Desc": "중국어 전용 CIFER 시스템, 복잡한 규정, 영어 지원 부재로 인해 외국 기업에는 거의 불가능합니다.",
+    "card2Title": "HS 코드 혼란",
+    "card2Desc": "잘못된 HS/CIQ 코드는 신청 거부, 배송 지연 및 고액의 관세 벌금으로 이어집니다.",
+    "card3Title": "국경에서 화물 억류",
+    "card3Desc": "적절한 GACC 등록이 없으면 화물이 발이 묶입니다. 해결책을 찾는 동안 보관료가 쌓여갑니다."
+  },
+  "Solution": {
+    "title": "복잡한 부분은 우리가 처리합니다",
+    "step1Title": "CIFER 계정 설정",
+    "step1Desc": "중국 세관 등록 계정을 생성하고 관리합니다.",
+    "step2Title": "HS/CIQ 코드 매칭",
+    "step2Desc": "제품을 올바른 중국 분류 코드에 전문가가 매칭합니다.",
+    "step3Title": "전체 서류 준비",
+    "step3Desc": "번역, 라벨 준수 및 필요한 모든 서류를 처음부터 끝까지 처리합니다.",
+    "step4Title": "고정 수수료, 놀라움 없음",
+    "step4Desc": "$1,200 USD 고정 요금. 하나의 가격, 풀서비스, 보장된 결과.",
+    "cta": "등록 시작하기"
+  },
+  "LeadMagnet": {
+    "title": "무료 GACC 준수 체크리스트",
+    "subtitle": "중국에 식품 및 음료 브랜드를 등록하기 위한 단계별 가이드를 다운로드하세요.",
+    "placeholder": "이메일을 입력하세요",
+    "button": "무료 PDF 다운로드",
+    "privacy": "스팸 없음. 언제든지 구독 해제 가능합니다."
+  },
+  "Expert": {
+    "title": "중국 전문 상담사를 만나보세요",
+    "name": "David Zhang",
+    "role": "GACC 등록 전문가",
+    "desc": "10년 이상 식품 및 음료 제조업체의 중국 세관 규정 안내 지원. 중국 거주, 글로벌 업무.",
+    "cta": "WhatsApp으로 채팅"
+  },
+  "Footer": {
+    "contact": "문의",
+    "services": "서비스",
+    "gaccRegistration": "GACC 등록",
+    "ciferCompliance": "CIFER 준수",
+    "hsCodeClassification": "HS/CIQ 분류",
+    "labelReview": "라벨 검토",
+    "rights": "© 2026 SinoTrade Compliance. 모든 권리 보유."
+  },
+  "Common": {
+    "whatsapp": "WhatsApp 문의"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Services",
+    "process": "Processus",
+    "faq": "FAQ",
+    "contact": "Contactez-nous"
+  },
+  "Hero": {
+    "title": "Dédouanez en Chine Sans Tracas.",
+    "subtitle": "Enregistrement GACC Décret 248 rapide, conforme et garanti pour les marques mondiales d'aliments et de boissons. Nous gérons le complexe système CIFER chinois pour que vous puissiez vous concentrer sur l'exportation.",
+    "cta": "Obtenez Votre Évaluation Gratuite",
+    "trust": "Plus de 200 marques mondiales nous font confiance"
+  },
+  "Problem": {
+    "title": "Vous Exportez en Chine? Voici les Obstacles",
+    "card1Title": "Barrière de la Langue",
+    "card1Desc": "Système CIFER uniquement en chinois, réglementations complexes et aucun support en anglais rendent la tâche presque impossible pour les entreprises étrangères.",
+    "card2Title": "Chaos des Codes SH",
+    "card2Desc": "Des codes SH/CIQ incorrects entraînent des refus, des retards d'expédition et de coûteuses pénalités douanières.",
+    "card3Title": "Marchandises Bloquées à la Frontière",
+    "card3Desc": "Sans enregistrement GACC approprié, vos marchandises sont bloquées. Les frais de stockage s'accumulent pendant que vous cherchez des réponses."
+  },
+  "Solution": {
+    "title": "Nous Gérons la Partie Complexe",
+    "step1Title": "Création de Compte CIFER",
+    "step1Desc": "Nous créons et gérons votre compte d'enregistrement douanier chinois.",
+    "step2Title": "Alignement des Codes SH/CIQ",
+    "step2Desc": "Correspondance experte de vos produits avec les codes de classification chinois appropriés.",
+    "step3Title": "Documentation Complète",
+    "step3Desc": "Traduction, conformité d'étiquetage et toute la paperasse nécessaire gérée de A à Z.",
+    "step4Title": "Forfait Fixe, Pas de Surprises",
+    "step4Desc": "1 200 $ USD forfaitaire. Un prix, service complet, résultat garanti.",
+    "cta": "Commencez Votre Enregistrement"
+  },
+  "LeadMagnet": {
+    "title": "Liste de Conformité GACC Gratuite",
+    "subtitle": "Téléchargez notre guide étape par étape pour enregistrer votre marque alimentaire pour la Chine.",
+    "placeholder": "Entrez votre email",
+    "button": "Télécharger le PDF Gratuit",
+    "privacy": "Pas de spam. Désabonnement à tout moment."
+  },
+  "Expert": {
+    "title": "Rencontrez Votre Expert Chine",
+    "name": "David Zhang",
+    "role": "Expert en Enregistrement GACC",
+    "desc": "Plus de 10 ans d'expérience à aider les fabricants d'aliments et de boissons à naviguer les réglementations douanières chinoises. Basé en Chine, travaillant mondialement.",
+    "cta": "Discuter sur WhatsApp"
+  },
+  "Footer": {
+    "contact": "Contact",
+    "services": "Services",
+    "gaccRegistration": "Enregistrement GACC",
+    "ciferCompliance": "Conformité CIFER",
+    "hsCodeClassification": "Classification SH/CIQ",
+    "labelReview": "Révision d'Étiquettes",
+    "rights": "© 2026 SinoTrade Compliance. Tous droits réservés."
+  },
+  "Common": {
+    "whatsapp": "WhatsApp"
+  }
+}

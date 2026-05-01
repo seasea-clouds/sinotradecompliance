@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Hizmetler",
+    "process": "Süreç",
+    "faq": "SSS",
+    "contact": "Bize Ulaşın"
+  },
+  "Hero": {
+    "title": "Çin gümrük işlemleri zahmetsiz.",
+    "subtitle": "Küresel gıda ve içecek markaları için hızlı, uyumlu ve garantili GACC Decree 248 kaydı. Karmaşık Çin CIFER sistemini biz yönetiyoruz, siz ihracata odaklanın.",
+    "cta": "Ücretsiz Değerlendirme Alın",
+    "trust": "200'den fazla küresel gıda markası tarafından tercih ediliyor"
+  },
+  "Problem": {
+    "title": "Çin'e ihracat mı yapıyorsunuz? Bu zorluklarla karşılaşacaksınız",
+    "card1Title": "Dil Engeli",
+    "card1Desc": "Yalnızca Çince CIFER sistemi, karmaşık düzenlemeler ve İngilizce desteğin olmaması, yabancı şirketler için işi neredeyse imkansız hale getiriyor.",
+    "card2Title": "HS Kodu Karmaşası",
+    "card2Desc": "Yanlış HS/CIQ kodları, reddedilen başvurulara, geciken gönderilere ve yüksek gümrük cezalarına yol açar.",
+    "card3Title": "Sınırdaki Yükünüz Bekletiliyor",
+    "card3Desc": "Uygun GACC kaydı olmadan mallarınız bekler. Çözüm ararken depolama ücretleri artar."
+  },
+  "Solution": {
+    "title": "Karmaşık kısmı biz hallediyoruz",
+    "step1Title": "CIFER Hesap Kurulumu",
+    "step1Desc": "Çin gümrük kayıt hesabınızı oluşturuyor ve yönetiyoruz.",
+    "step2Title": "HS/CIQ Kodu Eşleştirmesi",
+    "step2Desc": "Ürünlerinizin doğru Çin sınıflandırma kodlarıyla uzman eşleştirmesi.",
+    "step3Title": "Tam Dokümantasyon",
+    "step3Desc": "Çeviri, etiket uyumluluğu ve gerekli tüm belgeler baştan sona halledilir.",
+    "step4Title": "Sabit Ücret, Sürpriz Yok",
+    "step4Desc": "$1,200 USD sabit ücret. Tek fiyat, tam hizmet, garantili sonuç.",
+    "cta": "Kaydınızı Başlatın"
+  },
+  "LeadMagnet": {
+    "title": "Ücretsiz GACC Uyumluluk Kontrol Listesi",
+    "subtitle": "Gıda ve içecek markanızı Çin'e kaydetmek için adım adım kılavuzumuzu indirin.",
+    "placeholder": "E-posta adresinizi girin",
+    "button": "Ücretsiz PDF İndir",
+    "privacy": "Spam yok. İstediğiniz zaman abonelikten çıkabilirsiniz."
+  },
+  "Expert": {
+    "title": "Çin Uzmanınızla Tanışın",
+    "name": "David Zhang",
+    "role": "GACC Kayıt Uzmanı",
+    "desc": "10 yılı aşkın süredir gıda ve içecek üreticilerinin Çin gümrük düzenlemelerinde yol bulmasına yardımcı oluyor. Çin merkezli, küresel çalışma.",
+    "cta": "WhatsApp'tan Yazın"
+  },
+  "Footer": {
+    "contact": "İletişim",
+    "services": "Hizmetler",
+    "gaccRegistration": "GACC Kaydı",
+    "ciferCompliance": "CIFER Uyumluluğu",
+    "hsCodeClassification": "HS/CIQ Sınıflandırması",
+    "labelReview": "Etiket İnceleme",
+    "rights": "© 2026 SinoTrade Compliance. Tüm hakları saklıdır."
+  },
+  "Common": {
+    "whatsapp": "WhatsApp ile Ulaşın"
+  }
+}

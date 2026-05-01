@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Szolgáltatások",
+    "process": "Folyamat",
+    "faq": "GYIK",
+    "contact": "Kapcsolat"
+  },
+  "Hero": {
+    "title": "Kínai vámkezelés macera nélkül.",
+    "subtitle": "Gyors, megfeleléses és garantált GACC Decree 248 regisztráció globális élelmiszer és ital márkák számára. Mi kezeljük a bonyolult kínai CIFER rendszert, hogy Ön az exportra koncentrálhasson.",
+    "cta": "Kérjen Ingyenes Felmérést",
+    "trust": "200+ globális F&B márka bízik bennünk"
+  },
+  "Problem": {
+    "title": "Kínába exportál? Ezekkel a problémákkal fog szembenézni",
+    "card1Title": "Nyelvi akadály",
+    "card1Desc": "A kizárólag kínai nyelvű CIFER rendszer, a bonyolult szabályozások és az angol támogatás hiánya miatt külföldi cégeknek szinte lehetetlen.",
+    "card2Title": "HS-kód káosz",
+    "card2Desc": "A hibás HS/CIQ kódok elutasított kérelmekhez, késedelmes szállítmányokhoz és költséges vámokhoz vezetnek.",
+    "card3Title": "Rakomány feltartóztatva a határon",
+    "card3Desc": "Megfelelő GACC regisztráció nélkül az áruja beragad. A tárolási díjak halmozódnak, miközben megoldást keres."
+  },
+  "Solution": {
+    "title": "Mi kezeljük a bonyolult részt",
+    "step1Title": "CIFER fiók beállítása",
+    "step1Desc": "Létrehozzuk és kezeljük a kínai vámregisztrációs fiókját.",
+    "step2Title": "HS/CIQ kód egyeztetés",
+    "step2Desc": "Szakértő termékegyeztetés a megfelelő kínai besorolási kódokhoz.",
+    "step3Title": "Teljes dokumentáció",
+    "step3Desc": "Fordítás, címke-megfelelőség és minden szükséges irat elintézése elejétől a végéig.",
+    "step4Title": "Fix díj, meglepetések nélkül",
+    "step4Desc": "$1,200 USD fix díj. Egy ár, teljes szolgáltatás, garantált eredmény.",
+    "cta": "Indítsa el a Regisztrációt"
+  },
+  "LeadMagnet": {
+    "title": "Ingyenes GACC Megfelelési Ellenőrzőlista",
+    "subtitle": "Töltse le lépésről lépésre útmutatónkat az élelmiszer és ital márkája kínai regisztrációjához.",
+    "placeholder": "Adja meg email címét",
+    "button": "Ingyenes PDF letöltése",
+    "privacy": "Nincs spam. Bármikor leiratkozhat."
+  },
+  "Expert": {
+    "title": "Ismerje meg Kína-szakértőjét",
+    "name": "David Zhang",
+    "role": "GACC regisztrációs szakértő",
+    "desc": "Több mint 10 év tapasztalat az élelmiszer és ital gyártók kínai vámrendszerbeli segítésében. Kínai székhellyel, globális működés.",
+    "cta": "Chat WhatsApp-on"
+  },
+  "Footer": {
+    "contact": "Kapcsolat",
+    "services": "Szolgáltatások",
+    "gaccRegistration": "GACC regisztráció",
+    "ciferCompliance": "CIFER megfelelés",
+    "hsCodeClassification": "HS/CIQ besorolás",
+    "labelReview": "Címke felülvizsgálat",
+    "rights": "© 2026 SinoTrade Compliance. Minden jog fenntartva."
+  },
+  "Common": {
+    "whatsapp": "Írjon WhatsApp-on"
+  }
+}

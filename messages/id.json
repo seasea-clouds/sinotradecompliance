@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Layanan",
+    "process": "Proses",
+    "faq": "FAQ",
+    "contact": "Hubungi Kami"
+  },
+  "Hero": {
+    "title": "Bea Cukai China Tanpa Ribet.",
+    "subtitle": "Pendaftaran GACC Decree 248 yang cepat, patuh, dan terjamin untuk merek Makanan & Minuman global. Kami menangani sistem CIFER China yang kompleks agar Anda bisa fokus pada ekspor.",
+    "cta": "Dapatkan Penilaian Gratis",
+    "trust": "Dipercaya oleh 200+ merek F&B global"
+  },
+  "Problem": {
+    "title": "Ekspor ke China? Anda Akan Menghadapi Masalah Ini",
+    "card1Title": "Hambatan Bahasa",
+    "card1Desc": "Sistem CIFER hanya dalam bahasa Mandarin, regulasi kompleks, dan tanpa dukungan bahasa Inggris menyulitkan perusahaan asing.",
+    "card2Title": "Kekacauan Kode HS",
+    "card2Desc": "Kode HS/CIQ yang salah menyebabkan penolakan aplikasi, pengiriman tertunda, dan denda bea cukai yang mahal.",
+    "card3Title": "Kargo Terjebak di Perbatasan",
+    "card3Desc": "Tanpa pendaftaran GACC yang tepat, barang Anda terjebak. Biaya penyimpanan menumpuk sementara Anda mencari solusi."
+  },
+  "Solution": {
+    "title": "Kami Tangani Bagian yang Rumit",
+    "step1Title": "Pengaturan Akun CIFER",
+    "step1Desc": "Kami membuat dan mengelola akun pendaftaran bea cukai China Anda.",
+    "step2Title": "Penyelarasan Kode HS/CIQ",
+    "step2Desc": "Pencocokan produk Anda dengan kode klasifikasi China yang benar oleh ahli.",
+    "step3Title": "Dokumentasi Lengkap",
+    "step3Desc": "Terjemahan, kepatuhan label, dan semua dokumen yang diperlukan ditangani dari awal hingga akhir.",
+    "step4Title": "Biaya Tetap, Tanpa Kejutan",
+    "step4Desc": "$1,200 USD biaya tetap. Satu harga, layanan penuh, hasil terjamin.",
+    "cta": "Mulai Pendaftaran Anda"
+  },
+  "LeadMagnet": {
+    "title": "Daftar Periksa Kepatuhan GACC Gratis",
+    "subtitle": "Unduh panduan langkah demi langkah untuk mendaftarkan merek Makanan & Minuman Anda di China.",
+    "placeholder": "Masukkan email Anda",
+    "button": "Unduh PDF Gratis",
+    "privacy": "Tanpa spam. Berhenti berlangganan kapan saja."
+  },
+  "Expert": {
+    "title": "Temui Spesialis China Anda",
+    "name": "David Zhang",
+    "role": "Ahli Pendaftaran GACC",
+    "desc": "10+ tahun membantu produsen Makanan & Minumenavigasi regulasi bea cukai China. Berbasis di China, bekerja secara global.",
+    "cta": "Chat di WhatsApp"
+  },
+  "Footer": {
+    "contact": "Kontak",
+    "services": "Layanan",
+    "gaccRegistration": "Pendaftaran GACC",
+    "ciferCompliance": "Kepatuhan CIFER",
+    "hsCodeClassification": "Klasifikasi HS/CIQ",
+    "labelReview": "Tinjauan Label",
+    "rights": "© 2026 SinoTrade Compliance. Hak cipta dilindungi."
+  },
+  "Common": {
+    "whatsapp": "Hubungi via WhatsApp"
+  }
+}

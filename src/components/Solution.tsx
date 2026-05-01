@@ -1,39 +1,50 @@
 'use client';
 
-import { CheckCircle } from 'lucide-react';
-
-const features = [
-  'CIFER System Account Creation & Full Management',
-  'English-to-Mandarin Legal & Technical Translation',
-  'HS & CIQ Code Alignment by Local Experts',
-  'Flat-Fee Consulting: No hidden costs, completely transparent.',
-];
+import { useTranslations } from 'next-intl';
+import { CheckCircle, ArrowRight } from 'lucide-react';
 
 export default function Solution() {
+  const t = useTranslations('Solution');
+
+  const steps = [
+    { title: t('step1Title'), desc: t('step1Desc') },
+    { title: t('step2Title'), desc: t('step2Desc') },
+    { title: t('step3Title'), desc: t('step3Desc') },
+    { title: t('step4Title'), desc: t('step4Desc') },
+  ];
+
   return (
     <section id="process" className="bg-white py-16 sm:py-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto">
-        {/* Section Header */}
-        <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-primary-navy text-center mb-6">
-          Your On-the-Ground Compliance Partner in China.
+        <h2 className="text-2xl sm:text-3xl font-bold text-center text-[#333333] mb-4">
+          {t('title')}
         </h2>
-
-        {/* Description */}
-        <p className="text-lg text-text-muted text-center mb-10 leading-relaxed">
-          We bridge the language and regulatory gap. You provide the basic documents,
-          and our local experts in Shanghai handle the rest.
-        </p>
-
-        {/* Feature List */}
-        <div className="bg-bg-ice rounded-lg p-6 sm:p-8">
-          <ul className="space-y-4">
-            {features.map((feature, index) => (
-              <li key={index} className="flex items-start gap-3">
-                <CheckCircle className="w-5 h-5 text-accent-blue mt-0.5 flex-shrink-0" />
-                <span className="text-text-charcoal font-medium">{feature}</span>
-              </li>
-            ))}
-          </ul>
+        <div className="space-y-6 mt-12">
+          {steps.map((step, i) => (
+            <div key={i} className="flex items-start gap-4">
+              <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1B365D] text-white flex items-center justify-center font-bold">
+                {i + 1}
+              </div>
+              <div className="flex-1">
+                <div className="flex items-center gap-2 mb-1">
+                  <CheckCircle className="w-5 h-5 text-[#2563EB]" />
+                  <h3 className="text-lg font-bold text-[#333333]">{step.title}</h3>
+                </div>
+                <p className="text-[#7F8C8D] leading-relaxed ml-7">{step.desc}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+        <div className="text-center mt-12">
+          <a
+            href="https://wa.me/message/HPPZ5X6XZSMLM1"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 bg-[#2563EB] hover:bg-[#2563EB]/90 text-white font-semibold px-8 py-4 rounded-md text-lg transition-all hover:shadow-lg"
+          >
+            {t('cta')}
+            <ArrowRight className="w-5 h-5" />
+          </a>
         </div>
       </div>
     </section>

@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Serviços",
+    "process": "Processo",
+    "faq": "FAQ",
+    "contact": "Contato"
+  },
+  "Hero": {
+    "title": "A Alfândega Chinesa Sem Complicação.",
+    "subtitle": "Registro GACC Decreto 248 rápido, conforme e garantido para marcas globais de alimentos e bebidas. Cuidamos do complexo sistema CIFER chinês para que você possa focar na exportação.",
+    "cta": "Obtenha Sua Avaliação Gratuita",
+    "trust": "Confiado por 200+ marcas globais de F&B"
+  },
+  "Problem": {
+    "title": "Exportando para a China? Você Enfrentará Estes Problemas",
+    "card1Title": "Barreira do Idioma",
+    "card1Desc": "Sistema CIFER apenas em chinês, regulamentos complexos e zero suporte em inglês tornam quase impossível para empresas estrangeiras.",
+    "card2Title": "Caos de Códigos HS",
+    "card2Desc": "Códigos HS/CIQ incorretos levam a aplicações rejeitadas, atrasos em envios e multas aduaneiras custosas.",
+    "card3Title": "Carga Retida na Fronteira",
+    "card3Desc": "Sem o registro GACC adequado, suas mercadorias ficam presas. Taxas de armazenamento se acumulam enquanto você busca respostas."
+  },
+  "Solution": {
+    "title": "Nós Cuidamos da Parte Complexa",
+    "step1Title": "Criação de Conta CIFER",
+    "step1Desc": "Criamos e gerenciamos sua conta de registro aduaneiro chinês.",
+    "step2Title": "Alinhamento de Códigos HS/CIQ",
+    "step2Desc": "Correspondência especialista de seus produtos com os códigos de classificação chineses corretos.",
+    "step3Title": "Documentação Completa",
+    "step3Desc": "Tradução, conformidade de rotulagem e toda a papelada necessária tratada de ponta a ponta.",
+    "step4Title": "Taxa Fixa, Sem Surpresas",
+    "step4Desc": "$1.200 USD preço fixo. Um preço, serviço completo, resultado garantido.",
+    "cta": "Inicie Seu Registro"
+  },
+  "LeadMagnet": {
+    "title": "Lista de Verificação GACC Gratuita",
+    "subtitle": "Baixe nosso guia passo a passo para registrar sua marca de alimentos e bebidas para a China.",
+    "placeholder": "Digite seu email",
+    "button": "Baixar PDF Gratuito",
+    "privacy": "Sem spam. Cancele quando quiser."
+  },
+  "Expert": {
+    "title": "Conheça Seu Especialista em China",
+    "name": "David Zhang",
+    "role": "Especialista em Registro GACC",
+    "desc": "Mais de 10 anos ajudando fabricantes de alimentos e bebidas a navegar regulamentos aduaneiros chineses. Baseado na China, trabalhando globalmente.",
+    "cta": "Chat no WhatsApp"
+  },
+  "Footer": {
+    "contact": "Contato",
+    "services": "Serviços",
+    "gaccRegistration": "Registro GACC",
+    "ciferCompliance": "Conformidade CIFER",
+    "hsCodeClassification": "Classificação HS/CIQ",
+    "labelReview": "Revisão de Rótulos",
+    "rights": "© 2026 SinoTrade Compliance. Todos os direitos reservados."
+  },
+  "Common": {
+    "whatsapp": "WhatsApp"
+  }
+}

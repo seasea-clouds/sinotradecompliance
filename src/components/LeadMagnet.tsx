@@ -1,96 +1,39 @@
 'use client';
 
+import { useTranslations } from 'next-intl';
+import { Download, Mail } from 'lucide-react';
+import { useState } from 'react';
+
 export default function LeadMagnet() {
+  const t = useTranslations('LeadMagnet');
+  const [email, setEmail] = useState('');
+
   return (
-    <section id="lead-magnet" className="bg-bg-ice py-16 sm:py-20 px-4 sm:px-6 lg:px-8">
-      <div className="max-w-5xl mx-auto">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-center">
-          {/* Left: Text */}
-          <div className="text-center lg:text-left">
-            <h2 className="text-2xl sm:text-3xl font-bold text-primary-navy mb-4">
-              Not Sure What Documents You Need?
-            </h2>
-            <p className="text-lg text-text-muted leading-relaxed mb-6">
-              Download our exclusive 2026 GACC Decree 248 Master Checklist.
-              This comprehensive guide covers everything you need for successful registration.
-            </p>
-            <div className="hidden lg:block">
-              <p className="text-sm text-text-muted">
-                ✓ Complete document list<br />
-                ✓ Timeline expectations<br />
-                ✓ Common pitfalls to avoid
-              </p>
-            </div>
+    <section className="bg-[#F4F6F9] py-16 sm:py-20 px-4 sm:px-6 lg:px-8">
+      <div className="max-w-2xl mx-auto text-center">
+        <Download className="w-12 h-12 text-[#1B365D] mx-auto mb-4" />
+        <h2 className="text-2xl sm:text-3xl font-bold text-[#333333] mb-3">
+          {t('title')}
+        </h2>
+        <p className="text-[#7F8C8D] mb-8 leading-relaxed">
+          {t('subtitle')}
+        </p>
+        <div className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
+          <div className="flex-1 relative">
+            <Mail className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-[#7F8C8D]" />
+            <input
+              type="email"
+              placeholder={t('placeholder')}
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              className="w-full pl-10 pr-4 py-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#1B365D] focus:border-transparent text-[#333333]"
+            />
           </div>
-
-          {/* Right: Form */}
-          <div className="w-full">
-            <form
-              action="https://api.web3forms.com/submit"
-              method="POST"
-              className="w-full max-w-md mx-auto bg-white rounded-lg p-6 sm:p-8 shadow-lg"
-            >
-              <input
-                type="hidden"
-                name="access_key"
-                value="b1e6d34d-9fdc-4dc1-9bb2-6fc9090b361c"
-              />
-              <input
-                type="hidden"
-                name="subject"
-                value="🔥 New Lead: GACC Checklist Download!"
-              />
-              <input
-                type="hidden"
-                name="from_name"
-                value="SinoTrade Website"
-              />
-              <input
-                type="checkbox"
-                name="botcheck"
-                className="hidden"
-                style={{ display: 'none' }}
-              />
-              <input
-                type="hidden"
-                name="redirect"
-                value="https://www.sinotradecompliance.com/thank-you"
-              />
-
-
-              {/* Email Input */}
-              <div className="mb-4">
-                <label
-                  htmlFor="email"
-                  className="block text-sm font-semibold text-text-charcoal mb-1"
-                >
-                  Business Email
-                </label>
-                <input
-                  type="email"
-                  name="email"
-                  id="email"
-                  placeholder="michael@company.com"
-                  required
-                  className="w-full px-4 py-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-primary-navy focus:border-transparent transition-all shadow-sm"
-                />
-              </div>
-
-              {/* Submit Button */}
-              <button
-                type="submit"
-                className="w-full mt-2 bg-primary-navy hover:bg-primary-navy/90 text-white font-bold py-3.5 px-4 rounded-md transition-colors duration-300 shadow-md flex justify-center items-center gap-2"
-              >
-                Download Free Checklist →
-              </button>
-
-              {/* Privacy Notice */}
-              <p className="text-xs text-text-muted text-center mt-3">
-                We respect your privacy. No spam, ever.
-              </p>
-            </form>
-          </div>
+          <button className="bg-[#1B365D] hover:bg-[#1B365D]/90 text-white font-semibold px-6 py-3 rounded-md transition-all hover:shadow-md whitespace-nowrap">
+            {t('button')}
+          </button>
         </div>
+        <p className="text-xs text-[#7F8C8D] mt-3">{t('privacy')}</p>
       </div>
     </section>
   );

@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Palvelut",
+    "process": "Prosessi",
+    "faq": "UKK",
+    "contact": "Ota yhteyttä"
+  },
+  "Hero": {
+    "title": "Kiinan tulliselvitys ilman vaivaa.",
+    "subtitle": "Nopea, vaatimustenmukainen ja taattu GACC Decree 248 -rekisteröinti maailmanlaajuisille elintarvike- ja juomabrändeille. Me hoidamme monimutkaisen kiinalaisen CIFER-järjestelmän, jotta sinä voit keskittyä vientiin.",
+    "cta": "Pyydä Ilmainen Arviointi",
+    "trust": "Yli 200 maailmanlaajuista F&B-brändiä luottaa meihin"
+  },
+  "Problem": {
+    "title": "Vietetkö Kiinaan? Kohtaat nämä haasteet",
+    "card1Title": "Kielimuuri",
+    "card1Desc": "Vain kiinan kielinen CIFER-järjestelmä, monimutkaiset säännökset ja englanninkielisen tuen puute tekevät siitä lähes mahdotonta ulkomaisille yrityksille.",
+    "card2Title": "HS-koodien kaaos",
+    "card2Desc": "Väärät HS/CIQ-koodit johtavat hylättyihin hakemuksiin, viivästyneisiin lähetyksiin ja kalliisiin tullisakkoihin.",
+    "card3Title": "Lasti jumissa rajalla",
+    "card3Desc": "Ilman oikeaa GACC-rekisteröintiä tavarasi ovat jumissa. Varastomaksut kertyvät etsiessäsi ratkaisuja."
+  },
+  "Solution": {
+    "title": "Me hoidamme monimutkaisen osan",
+    "step1Title": "CIFER-tilin asetus",
+    "step1Desc": "Luomme ja hallinnoimme Kiinan tullirekisteröintitiliäsi.",
+    "step2Title": "HS/CIQ-koodien kohdistus",
+    "step2Desc": "Asiantuntijoiden tuoteyhdistys oikeisiin kiinalaisiin luokituskoodihin.",
+    "step3Title": "Täydellinen dokumentaatio",
+    "step3Desc": "Käännös, vaatimustenmukaiset etiketit ja kaikki tarvittavat asiakirjat hoidetaan alusta loppuun.",
+    "step4Title": "Kiinteä hinta, ei yllätyksiä",
+    "step4Desc": "$1,200 USD kiinteä hinta. Yksi hinta, täysi palvelu, taattu tulos.",
+    "cta": "Aloita Rekisteröinti"
+  },
+  "LeadMagnet": {
+    "title": "Ilmainen GACC-vaatimustenmukaisuustarkistuslista",
+    "subtitle": "Lataa vaiheittainen oppaamme elintarvike- ja juomabrändisi rekisteröintiin Kiinassa.",
+    "placeholder": "Syötä sähköpostisi",
+    "button": "Lataa ilmainen PDF",
+    "privacy": "Ei roskapostia. Peru tilaus milloin tahansa."
+  },
+  "Expert": {
+    "title": "Tutustu Kiina-asiantuntijaasi",
+    "name": "David Zhang",
+    "role": "GACC-rekisteröintiasiantuntija",
+    "desc": "Yli 10 vuotta apua elintarvike- ja juomavalmistajille Kiinan tullimääräysten navigoinnissa. Toimipiste Kiinassa, toiminta maailmanlaajuisesti.",
+    "cta": "Keskustele WhatsAppissa"
+  },
+  "Footer": {
+    "contact": "Yhteystiedot",
+    "services": "Palvelut",
+    "gaccRegistration": "GACC-rekisteröinti",
+    "ciferCompliance": "CIFER-vaatimustenmukaisuus",
+    "hsCodeClassification": "HS/CIQ-luokitus",
+    "labelReview": "Etikettien tarkistus",
+    "rights": "© 2026 SinoTrade Compliance. Kaikki oikeudet pidätetään."
+  },
+  "Common": {
+    "whatsapp": "Ota yhteyttä WhatsAppissa"
+  }
+}

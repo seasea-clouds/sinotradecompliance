@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Tjenester",
+    "process": "Proces",
+    "faq": "FAQ",
+    "contact": "Kontakt os"
+  },
+  "Hero": {
+    "title": "Kinesisk toldklarering uden besvær.",
+    "subtitle": "Hurtig, compliant og garanteret GACC Decree 248-registrering for globale fødevare- og drikkevaremærker. Vi håndterer det komplekse kinesiske CIFER-system, så du kan fokusere på eksport.",
+    "cta": "Få Din Gratis Vurdering",
+    "trust": "Betroet af 200+ globale F&B-mærker"
+  },
+  "Problem": {
+    "title": "Eksporterer du til Kina? Du vil møde disse udfordringer",
+    "card1Title": "Sprogbarriere",
+    "card1Desc": "Kun kinesisk CIFER-system, komplekse regler og ingen engelsk support gør det næsten umuligt for udenlandske virksomheder.",
+    "card2Title": "HS-kode kaos",
+    "card2Desc": "Forkerte HS/CIQ-koder fører til afviste ansøgninger, forsinkede forsendelser og dyre toldbøder.",
+    "card3Title": "Last fastholdt ved grænsen",
+    "card3Desc": "Uden korrekt GACC-registrering sidder dine varer fast. Opbevaringsgebyrer hober sig op, mens du søger svar."
+  },
+  "Solution": {
+    "title": "Vi håndterer den komplekse del",
+    "step1Title": "CIFER-kontoopsætning",
+    "step1Desc": "Vi opretter og administrerer din kinesiske toldregistreringskonto.",
+    "step2Title": "HS/CIQ-kodejustering",
+    "step2Desc": "Ekspertmatchning af dine produkter til de korrekte kinesiske klassifikationskoder.",
+    "step3Title": "Fuld dokumentation",
+    "step3Desc": "Oversættelse, etiketoverholdelse og alt nødvendigt papirarbejde håndteret fra start til slut.",
+    "step4Title": "Fast gebyr, ingen overraskelser",
+    "step4Desc": "$1,200 USD fast gebyr. Én pris, fuld service, garanteret resultat.",
+    "cta": "Start Din Registrering"
+  },
+  "LeadMagnet": {
+    "title": "Gratis GACC-Overholdelsestjekliste",
+    "subtitle": "Download vores trin-for-trin guide til registrering af dit fødevare- og drikkevaremærke i Kina.",
+    "placeholder": "Indtast din e-mail",
+    "button": "Download gratis PDF",
+    "privacy": "Ingen spam. Afmeld når som helst."
+  },
+  "Expert": {
+    "title": "Mød Din Kina-specialist",
+    "name": "David Zhang",
+    "role": "GACC-registreringsekspert",
+    "desc": "10+ års erfaring med at hjælpe fødevare- og drikkevareproducenter med at navigere kinesiske toldregler. Baseret i Kina, arbejder globalt.",
+    "cta": "Chat på WhatsApp"
+  },
+  "Footer": {
+    "contact": "Kontakt",
+    "services": "Tjenester",
+    "gaccRegistration": "GACC-registrering",
+    "ciferCompliance": "CIFER-overholdelse",
+    "hsCodeClassification": "HS/CIQ-klassifikation",
+    "labelReview": "Etiketgennemgang",
+    "rights": "© 2026 SinoTrade Compliance. Alle rettigheder forbeholdes."
+  },
+  "Common": {
+    "whatsapp": "Kontakt os på WhatsApp"
+  }
+}

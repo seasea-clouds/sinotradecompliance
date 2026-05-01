@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Služby",
+    "process": "Proces",
+    "faq": "FAQ",
+    "contact": "Kontaktujte nás"
+  },
+  "Hero": {
+    "title": "Čínské celnictví bez starostí.",
+    "subtitle": "Rychlá, compliantní a zaručená registrace GACC Decree 248 pro globální značky potravin a nápojů. Spravujeme komplexní čínský systém CIFER, abyste se mohli soustředit na export.",
+    "cta": "Získejte Bezplatné Posouzení",
+    "trust": "Důvěřuje 200+ globálních značek F&B"
+  },
+  "Problem": {
+    "title": "Exportujete do Číny? Setkáte se s těmito problémy",
+    "card1Title": "Jazyková bariéra",
+    "card1Desc": "Pouze čínský systém CIFER, složité předpisy a žádná anglická podpora činí proces pro zahraniční firmy téměř nemožným.",
+    "card2Title": "Chaos v kódech HS",
+    "card2Desc": "Špatné kódy HS/CIQ vedou k zamítnutým žádostem, zpožděným zásilkám a nákladným celním pokutám.",
+    "card3Title": "Náklad zadržený na hranici",
+    "card3Desc": "Bez správné registrace GACC vaše zboží uvízne. Skladovací poplatky narůstají, zatímco hledáte řešení."
+  },
+  "Solution": {
+    "title": "My se postaráme o složitou část",
+    "step1Title": "Nastavení účtu CIFER",
+    "step1Desc": "Vytváříme a spravujeme váš účet čínské celní registrace.",
+    "step2Title": "Sladění kódů HS/CIQ",
+    "step2Desc": "Expertní přiřazení vašich produktů ke správným čínským klasifikačním kódům.",
+    "step3Title": "Kompletní dokumentace",
+    "step3Desc": "Překlady, soulad etiket a veškerá potřebná dokumentace vyřízená od začátku do konce.",
+    "step4Title": "Paušální poplatek, žádná překvapení",
+    "step4Desc": "$1,200 USD paušální poplatek. Jedna cena, kompletní služba, zaručený výsledek.",
+    "cta": "Začněte Registraci"
+  },
+  "LeadMagnet": {
+    "title": "Bezplatný Kontrolní Seznam Shody GACC",
+    "subtitle": "Stáhněte si našeho průvodce krok za krokem pro registraci vaší značky potravin a nápojů v Číně.",
+    "placeholder": "Zadejte svůj e-mail",
+    "button": "Stáhnout zdarma PDF",
+    "privacy": "Bez spamu. Odhlásit se můžete kdykoli."
+  },
+  "Expert": {
+    "title": "Seznamte se se Specialistou na Čínu",
+    "name": "David Zhang",
+    "role": "Expert na registraci GACC",
+    "desc": "Více než 10 let pomoci výrobcům potravin a nápojů s orientací v čínských celních předpisech. Sídlo v Číně, působíme globálně.",
+    "cta": "Chat na WhatsApp"
+  },
+  "Footer": {
+    "contact": "Kontakt",
+    "services": "Služby",
+    "gaccRegistration": "Registrace GACC",
+    "ciferCompliance": "Soulad CIFER",
+    "hsCodeClassification": "Klasifikace HS/CIQ",
+    "labelReview": "Kontrola etiket",
+    "rights": "© 2026 SinoTrade Compliance. Všechna práva vyhrazena."
+  },
+  "Common": {
+    "whatsapp": "Napište na WhatsApp"
+  }
+}

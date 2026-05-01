@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Dịch vụ",
+    "process": "Quy trình",
+    "faq": "Câu hỏi thường gặp",
+    "contact": "Liên hệ"
+  },
+  "Hero": {
+    "title": "Thông quan Trung Quốc dễ dàng.",
+    "subtitle": "Đăng ký GACC Decree 248 nhanh chóng, tuân thủ và đảm bảo cho các thương hiệu thực phẩm & đồ uống toàn cầu. Chúng tôi xử lý hệ thống CIFER phức tạp của Trung Quốc để bạn tập trung vào xuất khẩu.",
+    "cta": "Nhận Đánh Giá Miễn Phí",
+    "trust": "Được 200+ thương hiệu F&B toàn cầu tin tưởng"
+  },
+  "Problem": {
+    "title": "Xuất khẩu sang Trung Quốc? Bạn sẽ gặp những vấn đề này",
+    "card1Title": "Rào cản ngôn ngữ",
+    "card1Desc": "Hệ thống CIFER chỉ bằng tiếng Trung, quy định phức tạp và không có hỗ trợ tiếng Anh khiến các công ty nước ngoài gần như không thể thực hiện.",
+    "card2Title": "Hỗn loạn mã HS",
+    "card2Desc": "Mã HS/CIQ sai dẫn đến đơn bị từ chối, lô hàng bị trì hoãn và phạt hải quan tốn kém.",
+    "card3Title": "Hàng bị giữ tại biên giới",
+    "card3Desc": "Không có đăng ký GACC phù hợp, hàng hóa của bạn bị mắc kẹt. Phí lưu kho tăng lên trong khi bạn tìm giải pháp."
+  },
+  "Solution": {
+    "title": "Chúng tôi xử lý phần phức tạp",
+    "step1Title": "Thiết lập tài khoản CIFER",
+    "step1Desc": "Chúng tôi tạo và quản lý tài khoản đăng ký hải quan Trung Quốc của bạn.",
+    "step2Title": "Đối chiếu mã HS/CIQ",
+    "step2Desc": "Chuyên gia khớp sản phẩm của bạn với mã phân loại Trung Quốc chính xác.",
+    "step3Title": "Tài liệu đầy đủ",
+    "step3Desc": "Dịch thuật, tuân thủ nhãn mác và mọi giấy tờ cần thiết được xử lý từ đầu đến cuối.",
+    "step4Title": "Phí cố định, không phát sinh",
+    "step4Desc": "$1,200 USD phí cố định. Một giá, trọn dịch vụ, kết quả đảm bảo.",
+    "cta": "Bắt đầu Đăng Ký"
+  },
+  "LeadMagnet": {
+    "title": "Danh sách kiểm tra tuân thủ GACC miễn phí",
+    "subtitle": "Tải hướng dẫn từng bước đăng ký thương hiệu thực phẩm & đồ uống của bạn tại Trung Quốc.",
+    "placeholder": "Nhập email của bạn",
+    "button": "Tải PDF miễn phí",
+    "privacy": "Không spam. Hủy đăng ký bất cứ lúc nào."
+  },
+  "Expert": {
+    "title": "Gặp Chuyên Gia Trung Quốc Của Bạn",
+    "name": "David Zhang",
+    "role": "Chuyên gia đăng ký GACC",
+    "desc": "Hơn 10 năm hỗ trợ nhà sản xuất thực phẩm & đồ uống điều hướng quy định hải quan Trung Quốc. Dựa tại Trung Quốc, làm việc toàn cầu.",
+    "cta": "Chat qua WhatsApp"
+  },
+  "Footer": {
+    "contact": "Liên hệ",
+    "services": "Dịch vụ",
+    "gaccRegistration": "Đăng ký GACC",
+    "ciferCompliance": "Tuân thủ CIFER",
+    "hsCodeClassification": "Phân loại HS/CIQ",
+    "labelReview": "Xem xét nhãn mác",
+    "rights": "© 2026 SinoTrade Compliance. Mọi quyền được bảo lưu."
+  },
+  "Common": {
+    "whatsapp": "Nhắn WhatsApp"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Storitve",
+    "process": "Postopek",
+    "faq": "Pogosta vprašanja",
+    "contact": "Kontaktirajte nas"
+  },
+  "Hero": {
+    "title": "Kitajska carina brez težav.",
+    "subtitle": "Hitra, skladna in zagotovljena registracija GACC Decree 248 za globalne blagovne znamke živil in pijač. Mi upravljamo kompleksen kitajski sistem CIFER, da se vi lahko osredotočite na izvoz.",
+    "cta": "Pridobite Brezplačno Oceno",
+    "trust": "Zaupanje 200+ globalnih F&B blagovnih znamk"
+  },
+  "Problem": {
+    "title": "Izvažate na Kitajsko? Soočili se boste s temi težavami",
+    "card1Title": "Jezikovna ovira",
+    "card1Desc": "Izključno kitajski sistem CIFER, kompleksni predpisi in nikakršna podpora v angleščini otežujejo postopek za tuja podjetja.",
+    "card2Title": "Zmešnjava s HS kodami",
+    "card2Desc": "Napačne HS/CIQ kode vodijo do zavrnjenih prijav, zamujenih pošiljk in dragih carinskih kazni.",
+    "card3Title": "Tovor zadržan na meji",
+    "card3Desc": "Brez ustrezne GACC registracije vaše blago obtiči. Stroški skladiščenja naraščajo, medtem ko iščete rešitve."
+  },
+  "Solution": {
+    "title": "Mi poskrbimo za zahteven del",
+    "step1Title": "Nastavitev CIFER računa",
+    "step1Desc": "Ustvarimo in upravljamo vaš račun za kitajsko carinsko registracijo.",
+    "step2Title": "Uskladitev HS/CIQ kod",
+    "step2Desc": "Strokovno ujemanje vaših izdelkov s pravilnimi kitajskimi klasifikacijskimi kodami.",
+    "step3Title": "Popolna dokumentacija",
+    "step3Desc": "Prevajanje, skladnost etiket in vsa potrebna dokumentacija od začetka do konca.",
+    "step4Title": "Fiksna cena, brez presenečenj",
+    "step4Desc": "$1,200 USD fiksna cena. Ena cena, popolna storitev, zagotovljen rezultat.",
+    "cta": "Začnite Registracijo"
+  },
+  "LeadMagnet": {
+    "title": "Brezplačen Kontrolni Seznam Skladnosti GACC",
+    "subtitle": "Prenesite naš vodnik po korakih za registracijo vaše blagovne znamke živil in pijač na Kitajskem.",
+    "placeholder": "Vnesite vaš e-poštni naslov",
+    "button": "Prenesite Brezplačen PDF",
+    "privacy": "Brez neželenih sporočil. Odjavite se kadarkoli."
+  },
+  "Expert": {
+    "title": "Spoznajte Vašega Strokovnjaka za Kitajsko",
+    "name": "David Zhang",
+    "role": "Strokovnjak za GACC Registracijo",
+    "desc": "Več kot 10 let pomoči proizvajalcem živil in pijač pri navigaciji kitajskih carinskih predpisov. S sedežem na Kitajskem, delujemo globalno.",
+    "cta": "Klepetajte na WhatsApp"
+  },
+  "Footer": {
+    "contact": "Kontakt",
+    "services": "Storitve",
+    "gaccRegistration": "GACC Registracija",
+    "ciferCompliance": "Skladnost CIFER",
+    "hsCodeClassification": "HS/CIQ Klasifikacija",
+    "labelReview": "Pregled etiket",
+    "rights": "© 2026 SinoTrade Compliance. Vse pravice pridržane."
+  },
+  "Common": {
+    "whatsapp": "Kontaktirajte nas na WhatsApp"
+  }
+}

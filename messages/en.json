@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Services",
+    "process": "Process",
+    "faq": "FAQ",
+    "contact": "Contact Us"
+  },
+  "Hero": {
+    "title": "Clear China Customs Without the Hassle.",
+    "subtitle": "Fast, compliant, and guaranteed GACC Decree 248 registration for global Food & Beverage brands. We handle the complex Chinese CIFER system so you can focus on exporting.",
+    "cta": "Get Your Free Assessment",
+    "trust": "Trusted by 200+ global F&B brands"
+  },
+  "Problem": {
+    "title": "Exporting to China? You'll Face These Headaches",
+    "card1Title": "Language Barrier",
+    "card1Desc": "Chinese-only CIFER system, complex regulations, and zero English support make it nearly impossible for foreign companies.",
+    "card2Title": "HS Code Chaos",
+    "card2Desc": "Wrong HS/CIQ codes lead to rejected applications, delayed shipments, and costly customs penalties.",
+    "card3Title": "Cargo Held at Border",
+    "card3Desc": "Without proper GACC registration, your goods are stuck. Storage fees pile up while you scramble for answers."
+  },
+  "Solution": {
+    "title": "We Handle the Complex Part",
+    "step1Title": "CIFER Account Setup",
+    "step1Desc": "We create and manage your Chinese customs registration account.",
+    "step2Title": "HS/CIQ Code Alignment",
+    "step2Desc": "Expert matching of your products to the correct Chinese classification codes.",
+    "step3Title": "Full Documentation",
+    "step3Desc": "Translation, labeling compliance, and all required paperwork handled end-to-end.",
+    "step4Title": "Fixed Fee, No Surprises",
+    "step4Desc": "$1,200 USD flat fee. One price, full service, guaranteed outcome.",
+    "cta": "Start Your Registration"
+  },
+  "LeadMagnet": {
+    "title": "Free GACC Compliance Checklist",
+    "subtitle": "Download our step-by-step guide to registering your Food & Beverage brand for China.",
+    "placeholder": "Enter your email",
+    "button": "Download Free PDF",
+    "privacy": "No spam. Unsubscribe anytime."
+  },
+  "Expert": {
+    "title": "Meet Your China Specialist",
+    "name": "David Zhang",
+    "role": "GACC Registration Expert",
+    "desc": "10+ years helping Food & Beverage manufacturers navigate Chinese customs regulations. Based in China, working globally.",
+    "cta": "Chat on WhatsApp"
+  },
+  "Footer": {
+    "contact": "Contact",
+    "services": "Services",
+    "gaccRegistration": "GACC Registration",
+    "ciferCompliance": "CIFER Compliance",
+    "hsCodeClassification": "HS/CIQ Classification",
+    "labelReview": "Label Review",
+    "rights": "© 2026 SinoTrade Compliance. All rights reserved."
+  },
+  "Common": {
+    "whatsapp": "WhatsApp Us"
+  }
+}

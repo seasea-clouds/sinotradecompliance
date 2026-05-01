@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Usluge",
+    "process": "Proces",
+    "faq": "FAQ",
+    "contact": "Kontaktirajte nas"
+  },
+  "Hero": {
+    "title": "Kineska carina bez problema.",
+    "subtitle": "Brza, usklađena i garantirana GACC Decree 248 registracija za globalne brendove hrane i pića. Mi upravljamo kompleksnim kineskim CIFER sustavom kako biste se vi mogli usredotočiti na izvoz.",
+    "cta": "Zatražite Besplatnu Procjenu",
+    "trust": "Povjerenje 200+ globalnih F&B brendova"
+  },
+  "Problem": {
+    "title": "Izvozite u Kinu? Suočit ćete se s ovim problemima",
+    "card1Title": "Jezična barijera",
+    "card1Desc": "Isključivo kineski CIFER sustav, kompleksni propisi i nikakva podrška na engleskom čine proces gotovo nemogućim za strane tvrtke.",
+    "card2Title": "Kaos s HS kodovima",
+    "card2Desc": "Pogrešni HS/CIQ kodovi dovode do odbijenih prijava, kašnjenja u isporuci i skupih carinskih kazni.",
+    "card3Title": "Teret zadržan na granici",
+    "card3Desc": "Bez odgovarajuće GACC registracije vaša roba je zaglavljena. Troškovi skladištenja se gomilaju dok tražite rješenja."
+  },
+  "Solution": {
+    "title": "Mi se brinemo o kompleksnom dijelu",
+    "step1Title": "Postavljanje CIFER računa",
+    "step1Desc": "Kreiramo i upravljamo vašim računom za registraciju kineske carine.",
+    "step2Title": "Usklađivanje HS/CIQ kodova",
+    "step2Desc": "Stručno usklađivanje vaših proizvoda s ispravnim kineskim klasifikacijskim kodovima.",
+    "step3Title": "Potpuna dokumentacija",
+    "step3Desc": "Prijevod, usklađenost etiketa i sva potrebna dokumentacija od početka do kraja.",
+    "step4Title": "Fiksna naknada, bez iznenađenja",
+    "step4Desc": "$1,200 USD fiksna naknada. Jedna cijena, potpuna usluga, garantirani rezultat.",
+    "cta": "Započnite Registraciju"
+  },
+  "LeadMagnet": {
+    "title": "Besplatna GACC Kontrolna Lista Usklađenosti",
+    "subtitle": "Preuzmite naš vodič korak po korak za registraciju vašeg brenda hrane i pića u Kini.",
+    "placeholder": "Unesite vaš email",
+    "button": "Preuzmite Besplatan PDF",
+    "privacy": "Bez spama. Otkažite pretplatu u bilo kojem trenutku."
+  },
+  "Expert": {
+    "title": "Upoznajte Vašeg Kineskog Specijalista",
+    "name": "David Zhang",
+    "role": "Ekspert za GACC Registraciju",
+    "desc": "Preko 10 godina iskustva u pomaganju proizvođačima hrane i pića da se snađu u kineskim carinskim propisima. Baziran u Kini, radi globalno.",
+    "cta": "Ćaskajte na WhatsApp-u"
+  },
+  "Footer": {
+    "contact": "Kontakt",
+    "services": "Usluge",
+    "gaccRegistration": "GACC Registracija",
+    "ciferCompliance": "CIFER Usklađenost",
+    "hsCodeClassification": "HS/CIQ Klasifikacija",
+    "labelReview": "Pregled Etiketa",
+    "rights": "© 2026 SinoTrade Compliance. Sva prava pridržana."
+  },
+  "Common": {
+    "whatsapp": "Kontaktirajte nas na WhatsApp"
+  }
+}

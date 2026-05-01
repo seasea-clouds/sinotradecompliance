@@ -1,14 +1,17 @@
 'use client';
 
+import { useTranslations } from 'next-intl';
 import { Mail, MessageCircle, MapPin } from 'lucide-react';
 
 export default function Footer() {
+  const t = useTranslations('Footer');
+
   return (
-    <footer className="bg-primary-navy py-12 sm:py-16 px-4 sm:px-6 lg:px-8">
+    <footer className="bg-[#1B365D] py-12 sm:py-16 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto">
-        {/* Contact Info */}
+        {/* Contact Info — never change these */}
         <div className="text-center text-white mb-8">
-          <h4 className="text-lg font-bold mb-6">Contact Us</h4>
+          <h4 className="text-lg font-bold mb-6">{t('contact')}</h4>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-8 mb-6">
             {/* Email */}
@@ -43,7 +46,7 @@ export default function Footer() {
         <div className="border-t border-white/20 pt-6">
           {/* Copyright */}
           <p className="text-center text-white/60 text-sm mb-4">
-            © 2026 SinoTrade Compliance. All rights reserved.
+            {t('rights')}
           </p>
 
           {/* Disclaimer */}

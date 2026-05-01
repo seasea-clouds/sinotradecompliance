@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Servizi",
+    "process": "Processo",
+    "faq": "FAQ",
+    "contact": "Contattaci"
+  },
+  "Hero": {
+    "title": "Sdogana in Cina, senza complicazioni.",
+    "subtitle": "Registrazione GACC Decree 248 rapida, conforme e garantita per i marchi globali di Food & Beverage. Gestiamo noi il complesso sistema CIFER cinese, così tu puoi concentrarti sull'esportazione.",
+    "cta": "Richiedi una Valutazione Gratuita",
+    "trust": "Scelto da oltre 200 marchi F&B globali"
+  },
+  "Problem": {
+    "title": "Esporti in Cina? Ecco le difficoltà che affronti",
+    "card1Title": "Barriera linguistica",
+    "card1Desc": "Il sistema CIFER è solo in cinese, normative complesse e zero supporto in inglese rendono tutto quasi impossibile per le aziende straniere.",
+    "card2Title": "Caos dei codici HS",
+    "card2Desc": "Codici HS/CIQ errati portano a domande respinte, spedizioni ritardate e costose sanzioni doganali.",
+    "card3Title": "Merce bloccata alla frontiera",
+    "card3Desc": "Senza la corretta registrazione GACC, la tua merce resta bloccata. Le spese di magazzinaggio aumentano mentre cerchi una soluzione."
+  },
+  "Solution": {
+    "title": "Gestiamo noi la parte complessa",
+    "step1Title": "Configurazione account CIFER",
+    "step1Desc": "Creiamo e gestiamo il tuo account di registrazione doganale cinese.",
+    "step2Title": "Allineamento codici HS/CIQ",
+    "step2Desc": "Abbinamento esperto dei tuoi prodotti ai corretti codici di classificazione cinesi.",
+    "step3Title": "Documentazione completa",
+    "step3Desc": "Traduzione, conformità delle etichette e tutta la documentazione necessaria gestita dall'inizio alla fine.",
+    "step4Title": "Tariffa fissa, nessuna sorpresa",
+    "step4Desc": "$1,200 USD tariffa fissa. Un prezzo, servizio completo, risultato garantito.",
+    "cta": "Inizia la Tua Registrazione"
+  },
+  "LeadMagnet": {
+    "title": "Checklist Gratuita Conformità GACC",
+    "subtitle": "Scarica la nostra guida passo-passo per registrare il tuo marchio Food & Beverage in Cina.",
+    "placeholder": "Inserisci la tua email",
+    "button": "Scarica PDF Gratuito",
+    "privacy": "Nessuno spam. Disiscriviti quando vuoi."
+  },
+  "Expert": {
+    "title": "Incontra il Tuo Specialista per la Cina",
+    "name": "David Zhang",
+    "role": "Esperto Registrazione GACC",
+    "desc": "Oltre 10 anni ad aiutare i produttori di Food & Beverage a navigare le normative doganali cinesi. Basato in Cina, operativo a livello globale.",
+    "cta": "Chatta su WhatsApp"
+  },
+  "Footer": {
+    "contact": "Contatti",
+    "services": "Servizi",
+    "gaccRegistration": "Registrazione GACC",
+    "ciferCompliance": "Conformità CIFER",
+    "hsCodeClassification": "Classificazione HS/CIQ",
+    "labelReview": "Revisione Etichette",
+    "rights": "© 2026 SinoTrade Compliance. Tutti i diritti riservati."
+  },
+  "Common": {
+    "whatsapp": "Contattaci su WhatsApp"
+  }
+}

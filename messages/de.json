@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Leistungen",
+    "process": "Ablauf",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "Hero": {
+    "title": "Chinas Zoll Ohne Ärme.",
+    "subtitle": "Schnelle, konforme und garantierte GACC Verordnung 248 Registrierung für globale Lebensmittel- und Getränkemarken. Wir handhaben das komplexe chinesische CIFER-System, damit Sie sich auf den Export konzentrieren können.",
+    "cta": "Kostenlose Bewertung",
+    "trust": "Vertraut von 200+ globalen F&B-Marken"
+  },
+  "Problem": {
+    "title": "Export nach China? Diese Probleme erwarten Sie",
+    "card1Title": "Sprachbarriere",
+    "card1Desc": "Nur-chinesisches CIFER-System, komplexe Vorschriften und kein englischer Support machen es ausländischen Unternehmen nahezu unmöglich.",
+    "card2Title": "HS-Code-Chaos",
+    "card2Desc": "Falsche HS/CIQ-Codes führen zu abgelehnten Anträgen, verzögerten Sendungen und teuren Zollstrafen.",
+    "card3Title": "Ware an der Grenze Festgehalten",
+    "card3Desc": "Ohne ordnungsgemäße GACC-Registrierung stecken Ihre Waren fest. Lagerkosten häufen sich."
+  },
+  "Solution": {
+    "title": "Wir Kümmern Uns Um den Komplexen Teil",
+    "step1Title": "CIFER-Kontoerstellung",
+    "step1Desc": "Wir erstellen und verwalten Ihr chinesisches Zollregistrierungskonto.",
+    "step2Title": "HS/CIQ-Code-Zuordnung",
+    "step2Desc": "Experten-Zuordnung Ihrer Produkte zu den richtigen chinesischen Klassifizierungscodes.",
+    "step3Title": "Volle Dokumentation",
+    "step3Desc": "Übersetzung, Etikettenkonformität und alle erforderlichen Unterlagen — End-to-End.",
+    "step4Title": "Festpreis, Keine Überraschungen",
+    "step4Desc": "1.200 USD Pauschalpreis. Ein Preis, voller Service, garantiertes Ergebnis.",
+    "cta": "Registrierung Starten"
+  },
+  "LeadMagnet": {
+    "title": "Kostenloser GACC-Checklisten",
+    "subtitle": "Laden Sie unsere Schritt-für-Schritt-Anleitung zur Registrierung Ihrer Lebensmittelmarke für China herunter.",
+    "placeholder": "E-Mail eingeben",
+    "button": "Kostenloses PDF",
+    "privacy": "Kein Spam. Jederzeit abbestellbar."
+  },
+  "Expert": {
+    "title": "Ihr China-Spezialist",
+    "name": "David Zhang",
+    "role": "GACC-Registrierungsexperte",
+    "desc": "Über 10 Jahre Erfahrung bei der Unterstützung von Lebensmittelherstellern durch chinesische Zollvorschriften. Ansässig in China, weltweit tätig.",
+    "cta": "WhatsApp Chat"
+  },
+  "Footer": {
+    "contact": "Kontakt",
+    "services": "Leistungen",
+    "gaccRegistration": "GACC-Registrierung",
+    "ciferCompliance": "CIFER-Konformität",
+    "hsCodeClassification": "HS/CIQ-Klassifizierung",
+    "labelReview": "Etikettenprüfung",
+    "rights": "© 2026 SinoTrade Compliance. Alle Rechte vorbehalten."
+  },
+  "Common": {
+    "whatsapp": "WhatsApp"
+  }
+}

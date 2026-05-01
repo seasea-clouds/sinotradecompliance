@@ -1,0 +1,62 @@
+{
+  "Navbar": {
+    "logo": "SinoTrade Compliance",
+    "services": "Perkhidmatan",
+    "process": "Proses",
+    "faq": "Soalan Lazim",
+    "contact": "Hubungi Kami"
+  },
+  "Hero": {
+    "title": "Kastam China Tanpa Kerumitan.",
+    "subtitle": "Pendaftaran GACC Decree 248 yang pantas, pematuhan terjamin untuk jenama Makanan & Minuman global. Kami mengendalikan sistem CIFER China yang kompleks supaya anda boleh menumpukan pada eksport.",
+    "cta": "Dapatkan Penilaian Percuma",
+    "trust": "Dipercayai oleh 200+ jenama F&B global"
+  },
+  "Problem": {
+    "title": "Eksport ke China? Anda Akan Menghadapi Masalah Ini",
+    "card1Title": "Halangan Bahasa",
+    "card1Desc": "Sistem CIFER hanya dalam bahasa Mandarin, peraturan kompleks dan tiada sokongan bahasa Inggeris menyukarkan syarikat asing.",
+    "card2Title": "Kekacauan Kod HS",
+    "card2Desc": "Kod HS/CIQ yang salah menyebabkan permohonan ditolak, penghantaran tertangguh dan denda kastam yang mahal.",
+    "card3Title": "Kargo Tersekat di Sempadan",
+    "card3Desc": "Tanpa pendaftaran GACC yang betul, barang anda tersekat. Caj penyimpanan meningkat manakala anda mencari penyelesaian."
+  },
+  "Solution": {
+    "title": "Kami Uruskan Bahagian yang Rumit",
+    "step1Title": "Persediaan Akaun CIFER",
+    "step1Desc": "Kami mencipta dan mengurus akaun pendaftaran kastam China anda.",
+    "step2Title": "Penjajaran Kod HS/CIQ",
+    "step2Desc": "Pemadanan pakar produk anda dengan kod klasifikasi China yang betul.",
+    "step3Title": "Dokumentasi Penuh",
+    "step3Desc": "Terjemahan, pematuhan pelabelan dan semua dokumentasi yang diperlukan diuruskan dari awal hingga akhir.",
+    "step4Title": "Yuran Tetap, Tiada Kejutan",
+    "step4Desc": "$1,200 USD yuran tetap. Satu harga, perkhidmatan penuh, hasil terjamin.",
+    "cta": "Mulakan Pendaftaran Anda"
+  },
+  "LeadMagnet": {
+    "title": "Senarai Semak Pematuhan GACC Percuma",
+    "subtitle": "Muat turun panduan langkah demi langkah untuk mendaftarkan jenama Makanan & Minuman anda di China.",
+    "placeholder": "Masukkan e-mel anda",
+    "button": "Muat Turun PDF Percuma",
+    "privacy": "Tiada spam. Boleh berhenti langganan pada bila-bila masa."
+  },
+  "Expert": {
+    "title": "Kenali Pakar China Anda",
+    "name": "David Zhang",
+    "role": "Pakar Pendaftaran GACC",
+    "desc": "Lebih 10 tahun membantu pengeluar Makanan & Minuman menavigasi peraturan kastam China. Berpangkalan di China, beroperasi secara global.",
+    "cta": "Sembang di WhatsApp"
+  },
+  "Footer": {
+    "contact": "Hubungi",
+    "services": "Perkhidmatan",
+    "gaccRegistration": "Pendaftaran GACC",
+    "ciferCompliance": "Pematuhan CIFER",
+    "hsCodeClassification": "Pengelasan HS/CIQ",
+    "labelReview": "Semakan Label",
+    "rights": "© 2026 SinoTrade Compliance. Hak cipta terpelihara."
+  },
+  "Common": {
+    "whatsapp": "Hubungi melalui WhatsApp"
+  }
+}
