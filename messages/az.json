@@ -45,7 +45,11 @@
     "processStep4Desc": "Məhsullarınız tam uyğundur və Çin bazarına hazırdır.",
     "ctaTitle": "Çinə Daxil Olmağa Hazırsınız?",
     "ctaSubtitle": "Məhsullarınız üçün bu gün pulsuz uyğunluq qiymətləndirməsi alın.",
-    "ctaButton": "Pulsuz Qiymətləndirmə Alın"
+    "ctaButton": "Pulsuz Qiymətləndirmə Alın",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Xidmətlərimiz",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Bu xidmət haqqında ən çox verilən suallara cavablar tapın.",
     "ctaTitle": "Bu Xidmətə Ehtiyacınız Var?",
     "ctaSubtitle": "Məhsullarınıza uyğun pulsuz uyğunluq qiymətləndirməsi alın.",
-    "ctaButton": "Pulsuz Qiymətləndirmə Alın"
+    "ctaButton": "Pulsuz Qiymətləndirmə Alın",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Uyğunluq Paketləri",
@@ -255,7 +261,8 @@
     "packages": "Paketlər",
     "faq": "SSS",
     "about": "Haqqımızda",
-    "rights": "© 2026 SinoTrade Compliance. Bütün hüquqlar qorunur."
+    "rights": "© 2026 SinoTrade Compliance. Bütün hüquqlar qorunur.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Təşəkkür Edirik!",

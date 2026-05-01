@@ -45,7 +45,11 @@
     "processStep4Desc": "Dine produkter er fuldt ud overholdende og klar til det kinesiske marked.",
     "ctaTitle": "Klar til at træde ind i Kina?",
     "ctaSubtitle": "Få en gratis overholdelsesvurdering af dine produkter i dag.",
-    "ctaButton": "Få gratis vurdering"
+    "ctaButton": "Få gratis vurdering",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Vores tjenester",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Find svar på de mest stillede spørgsmål om denne tjeneste.",
     "ctaTitle": "Har du brug for denne tjeneste?",
     "ctaSubtitle": "Få en gratis overholdelsesvurdering skræddersyet til dine produkter.",
-    "ctaButton": "Få gratis vurdering"
+    "ctaButton": "Få gratis vurdering",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Overholdelsespakker",
@@ -255,7 +261,8 @@
     "packages": "Pakker",
     "faq": "FAQ",
     "about": "Om os",
-    "rights": "© 2026 SinoTrade Compliance. Alle rettigheder forbeholdes."
+    "rights": "© 2026 SinoTrade Compliance. Alle rettigheder forbeholdes.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Tak!",

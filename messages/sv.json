@@ -45,7 +45,11 @@
     "processStep4Desc": "Dina produkter är fullt regelefterlevande och redo för den kinesiska marknaden.",
     "ctaTitle": "Redo att gå in i Kina?",
     "ctaSubtitle": "Få en kostnadsfri regelefterlevnadsbedömning för dina produkter idag.",
-    "ctaButton": "Få kostnadsfri bedömning"
+    "ctaButton": "Få kostnadsfri bedömning",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Våra tjänster",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Hitta svar på de vanligaste frågorna om denna tjänst.",
     "ctaTitle": "Behöver du denna tjänst?",
     "ctaSubtitle": "Få en kostnadsfri regelefterlevnadsbedömning skräddarsydd för dina produkter.",
-    "ctaButton": "Få kostnadsfri bedömning"
+    "ctaButton": "Få kostnadsfri bedömning",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Regelefterlevnadspaket",
@@ -255,7 +261,8 @@
     "packages": "Paket",
     "faq": "FAQ",
     "about": "Om oss",
-    "rights": "© 2026 SinoTrade Compliance. Alla rättigheter förbehållna."
+    "rights": "© 2026 SinoTrade Compliance. Alla rättigheter förbehållna.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Tack!",

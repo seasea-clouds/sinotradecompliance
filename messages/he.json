@@ -45,7 +45,11 @@
     "processStep4Desc": "המוצרים שלכם תואמים לחלוטין ומוכנים לשוק הסיני.",
     "ctaTitle": "מוכנים להיכנס לסין?",
     "ctaSubtitle": "קבלו הערכת תאימות חינם למוצרים שלכם עוד היום.",
-    "ctaButton": "קבלו הערכה חינם"
+    "ctaButton": "קבלו הערכה חינם",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "השירותים שלנו",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "מצאו תשובות לשאלות הנפוצות ביותר על שירות זה.",
     "ctaTitle": "צריכים שירות זה?",
     "ctaSubtitle": "קבלו הערכת תאימות חינם מותאמת למוצרים שלכם.",
-    "ctaButton": "קבלו הערכה חינם"
+    "ctaButton": "קבלו הערכה חינם",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "חבילות תאימות",
@@ -255,7 +261,8 @@
     "packages": "חבילות",
     "faq": "שאלות נפוצות",
     "about": "אודותינו",
-    "rights": "© 2026 SinoTrade Compliance. כל הזכויות שמורות."
+    "rights": "© 2026 SinoTrade Compliance. כל הזכויות שמורות.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "תודה רבה!",

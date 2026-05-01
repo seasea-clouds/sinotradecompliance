@@ -35,10 +35,6 @@ export default function Navbar() {
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
-            <Link href={`/${locale}/services`} className="text-white/80 hover:text-white transition-colors text-sm font-medium">
-              {t('services')}
-            </Link>
-
             {/* Services Dropdown */}
             <div
               className="relative"

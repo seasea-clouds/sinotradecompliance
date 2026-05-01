@@ -45,7 +45,11 @@
     "processStep4Desc": "Vaši izdelki so popolnoma skladni in pripravljeni za kitajski trg.",
     "ctaTitle": "Pripravljeni na vstop na Kitajsko?",
     "ctaSubtitle": "Pridobite brezplačno oceno skladnosti za vaše izdelke še danes.",
-    "ctaButton": "Pridobite brezplačno oceno"
+    "ctaButton": "Pridobite brezplačno oceno",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Naše storitve",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Poiščite odgovore na najpogosteje zastavljena vprašanja o tej storitvi.",
     "ctaTitle": "Potrebujete to storitev?",
     "ctaSubtitle": "Pridobite brezplačno oceno skladnosti, prilagojeno vašim izdelkom.",
-    "ctaButton": "Pridobite brezplačno oceno"
+    "ctaButton": "Pridobite brezplačno oceno",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Paketi skladnosti",
@@ -255,7 +261,8 @@
     "packages": "Paketi",
     "faq": "Pogosta vprašanja",
     "about": "O nas",
-    "rights": "© 2026 SinoTrade Compliance. Vse pravice pridržane."
+    "rights": "© 2026 SinoTrade Compliance. Vse pravice pridržane.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Hvala!",

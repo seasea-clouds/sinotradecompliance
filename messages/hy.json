@@ -45,7 +45,11 @@
     "processStep4Desc": "Ձեր ապրանքները լիովին համապատասխան են և պատրաստ չինական շուկայի համար։",
     "ctaTitle": "Պատրա՞ստ եք մտնել Չինաստան։",
     "ctaSubtitle": "Ստացեք անվճար համապատասխանության գնահատական ձեր ապրանքների համար այսօր։",
-    "ctaButton": "Ստացեք Անվճար Գնահատական"
+    "ctaButton": "Ստացեք Անվճար Գնահատական",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Մեր ծառայությունները",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Գտեք պատասխաններ այս ծառայության մասին ամենահաճախ տրվող հարցերին։",
     "ctaTitle": "Պե՞տք է այս ծառայությունը",
     "ctaSubtitle": "Ստացեք անվճար համապատասխանության գնահատական՝ հարմարեցված ձեր ապրանքներին։",
-    "ctaButton": "Ստացեք Անվճար Գնահատական"
+    "ctaButton": "Ստացեք Անվճար Գնահատական",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Համապատասխանության փաթեթներ",
@@ -255,7 +261,8 @@
     "packages": "Փաթեթներ",
     "faq": "ՀՏՀ",
     "about": "Մեր մասին",
-    "rights": "© 2026 SinoTrade Compliance. Բոլոր իրավունքները պաշտպանված են։"
+    "rights": "© 2026 SinoTrade Compliance. Բոլոր իրավունքները պաշտպանված են։",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Շնորհակալությո՛ւն։",

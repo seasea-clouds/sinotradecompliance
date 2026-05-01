@@ -45,7 +45,11 @@
     "processStep4Desc": "Termékei teljesen megfelelnek és készen állnak a kínai piacra.",
     "ctaTitle": "Készen áll belépni Kínába?",
     "ctaSubtitle": "Kérjen ingyenes megfelelőségi felmérést termékeire még ma.",
-    "ctaButton": "Ingyenes felmérés"
+    "ctaButton": "Ingyenes felmérés",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Szolgáltatásaink",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Válaszok a szolgáltatással kapcsolatos leggyakoribb kérdésekre.",
     "ctaTitle": "Szüksége van erre a szolgáltatásra?",
     "ctaSubtitle": "Kérjen ingyenes, termékeire szabott megfelelőségi felmérést.",
-    "ctaButton": "Ingyenes felmérés"
+    "ctaButton": "Ingyenes felmérés",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Megfelelőségi csomagok",
@@ -255,7 +261,8 @@
     "packages": "Csomagok",
     "faq": "GYIK",
     "about": "Rólunk",
-    "rights": "© 2026 SinoTrade Compliance. Minden jog fenntartva."
+    "rights": "© 2026 SinoTrade Compliance. Minden jog fenntartva.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Köszönjük!",

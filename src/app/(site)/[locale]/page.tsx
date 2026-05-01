@@ -11,7 +11,7 @@ export default function HomePage() {
     <main>
       <Hero />
       <ServicesGrid />
-      <WhyUsCards count={4} />
+      <WhyUsCards namespace="Home" count={4} />
       <ProcessSteps namespace="Home" />
       <AboutExpert />
       <CTASection namespace="Home" />

@@ -45,7 +45,11 @@
     "processStep4Desc": "Τα προϊόντα σας είναι πλήρως συμμορφούμενα και έτοιμα για την κινεζική αγορά.",
     "ctaTitle": "Έτοιμοι να εισέλθετε στην Κίνα;",
     "ctaSubtitle": "Λάβετε δωρεάν αξιολόγηση συμμόρφωσης για τα προϊόντα σας σήμερα.",
-    "ctaButton": "Δωρεάν αξιολόγηση"
+    "ctaButton": "Δωρεάν αξιολόγηση",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Οι υπηρεσίες μας",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Βρείτε απαντήσεις στις πιο συχνές ερωτήσεις σχετικά με αυτήν την υπηρεσία.",
     "ctaTitle": "Χρειάζεστε αυτήν την υπηρεσία;",
     "ctaSubtitle": "Λάβετε δωρεάν αξιολόγηση συμμόρφωσης προσαρμοσμένη στα προϊόντα σας.",
-    "ctaButton": "Δωρεάν αξιολόγηση"
+    "ctaButton": "Δωρεάν αξιολόγηση",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Πακέτα συμμόρφωσης",
@@ -255,7 +261,8 @@
     "packages": "Πακέτα",
     "faq": "Συχνές ερωτήσεις",
     "about": "Σχετικά με εμάς",
-    "rights": "© 2026 SinoTrade Compliance. Με επιφύλαξη παντός δικαιώματος."
+    "rights": "© 2026 SinoTrade Compliance. Με επιφύλαξη παντός δικαιώματος.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Σας ευχαριστούμε!",

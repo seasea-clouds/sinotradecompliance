@@ -45,7 +45,11 @@
     "processStep4Desc": "Your products are fully compliant and ready for the Chinese market.",
     "ctaTitle": "Ready to Enter China?",
     "ctaSubtitle": "Get a free compliance assessment for your products today.",
-    "ctaButton": "Get Free Assessment"
+    "ctaButton": "Get Free Assessment",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Our Services",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
     "ctaTitle": "Need This Service?",
     "ctaSubtitle": "Get a free compliance assessment tailored to your products.",
-    "ctaButton": "Get Free Assessment"
+    "ctaButton": "Get Free Assessment",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Compliance Packages",
@@ -255,7 +261,8 @@
     "packages": "Packages",
     "faq": "FAQ",
     "about": "About Us",
-    "rights": "© 2026 SinoTrade Compliance. All rights reserved."
+    "rights": "© 2026 SinoTrade Compliance. All rights reserved.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Thank You!",

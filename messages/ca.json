@@ -45,7 +45,11 @@
     "processStep4Desc": "Els vostres productes estan totalment conformes i llestos per al mercat xinès.",
     "ctaTitle": "Preparats per Entrar a la Xina?",
     "ctaSubtitle": "Obteniu una avaluació de conformitat gratuïta per als vostres productes avui.",
-    "ctaButton": "Obteniu una Avaluació Gratuïta"
+    "ctaButton": "Obteniu una Avaluació Gratuïta",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Els Nostres Serveis",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Trobeu respostes a les preguntes més freqüents sobre aquest servei.",
     "ctaTitle": "Necessiteu Aquest Servei?",
     "ctaSubtitle": "Obteniu una avaluació de conformitat gratuïta adaptada als vostres productes.",
-    "ctaButton": "Obteniu una Avaluació Gratuïta"
+    "ctaButton": "Obteniu una Avaluació Gratuïta",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Paquets de Conformitat",
@@ -255,7 +261,8 @@
     "packages": "Paquets",
     "faq": "PMF",
     "about": "Sobre Nosaltres",
-    "rights": "© 2026 SinoTrade Compliance. Tots els drets reservats."
+    "rights": "© 2026 SinoTrade Compliance. Tots els drets reservats.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Gràcies!",

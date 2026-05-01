@@ -45,7 +45,11 @@
     "processStep4Desc": "آپ کی مصنوعات مکمل طور پر کمپلائنٹ ہیں اور چینی مارکیٹ کے لیے تیار ہیں۔",
     "ctaTitle": "چین میں داخل ہونے کے لیے تیار ہیں؟",
     "ctaSubtitle": "آج ہی اپنی مصنوعات کے لیے مفت کمپلائنس تشخیص حاصل کریں۔",
-    "ctaButton": "مفت تشخیص حاصل کریں"
+    "ctaButton": "مفت تشخیص حاصل کریں",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "ہماری خدمات",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "اس سروس کے بارے میں سب سے زیادہ پوچھے جانے والے سوالات کے جوابات دریافت کریں۔",
     "ctaTitle": "اس سروس کی ضرورت ہے؟",
     "ctaSubtitle": "اپنی مصنوعات کے لیے حسب ضرورت مفت کمپلائنس تشخیص حاصل کریں۔",
-    "ctaButton": "مفت تشخیص حاصل کریں"
+    "ctaButton": "مفت تشخیص حاصل کریں",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "کمپلائنس پیکجز",
@@ -255,7 +261,8 @@
     "packages": "پیکجز",
     "faq": "عمومی سوالات",
     "about": "ہمارے بارے میں",
-    "rights": "© 2026 SinoTrade Compliance. جملہ حقوق محفوظ ہیں۔"
+    "rights": "© 2026 SinoTrade Compliance. جملہ حقوق محفوظ ہیں۔",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "شکریہ!",

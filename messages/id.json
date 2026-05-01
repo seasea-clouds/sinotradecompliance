@@ -45,7 +45,11 @@
     "processStep4Desc": "Produk Anda sepenuhnya patuh dan siap untuk pasar Tiongkok.",
     "ctaTitle": "Siap Memasuki Tiongkok?",
     "ctaSubtitle": "Dapatkan penilaian kepatuhan gratis untuk produk Anda hari ini.",
-    "ctaButton": "Dapatkan Penilaian Gratis"
+    "ctaButton": "Dapatkan Penilaian Gratis",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Layanan Kami",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Temukan jawaban untuk pertanyaan yang paling sering diajukan tentang layanan ini.",
     "ctaTitle": "Butuh Layanan Ini?",
     "ctaSubtitle": "Dapatkan penilaian kepatuhan gratis yang disesuaikan untuk produk Anda.",
-    "ctaButton": "Dapatkan Penilaian Gratis"
+    "ctaButton": "Dapatkan Penilaian Gratis",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Paket Kepatuhan",
@@ -255,7 +261,8 @@
     "packages": "Paket",
     "faq": "FAQ",
     "about": "Tentang Kami",
-    "rights": "© 2026 SinoTrade Compliance. Hak cipta dilindungi."
+    "rights": "© 2026 SinoTrade Compliance. Hak cipta dilindungi.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Terima Kasih!",

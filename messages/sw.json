@@ -45,7 +45,11 @@
     "processStep4Desc": "Bidhaa zako zina utiifu kamili na ziko tayari kwa soko la China.",
     "ctaTitle": "Tayari Kuingia China?",
     "ctaSubtitle": "Pata tathmini ya utiifu bure kwa bidhaa zako leo.",
-    "ctaButton": "Pata Tathmini Bure"
+    "ctaButton": "Pata Tathmini Bure",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Huduma Zetu",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Pata majibu kwa maswali yanayoulizwa mara kwa mara kuhusu huduma hii.",
     "ctaTitle": "Unahitaji Huduma Hii?",
     "ctaSubtitle": "Pata tathmini ya utiifu bure iliyobinafsishwa kwa bidhaa zako.",
-    "ctaButton": "Pata Tathmini Bure"
+    "ctaButton": "Pata Tathmini Bure",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Vifurushi vya Utiifu",
@@ -255,7 +261,8 @@
     "packages": "Vifurushi",
     "faq": "Maswali Yanayoulizwa Mara kwa Mara",
     "about": "Kuhusu Sisi",
-    "rights": "© 2026 SinoTrade Compliance. Haki zote zimehifadhiwa."
+    "rights": "© 2026 SinoTrade Compliance. Haki zote zimehifadhiwa.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Asante!",

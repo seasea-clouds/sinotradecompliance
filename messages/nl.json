@@ -45,7 +45,11 @@
     "processStep4Desc": "Uw producten zijn volledig conform en klaar voor de Chinese markt.",
     "ctaTitle": "Klaar om China te Betreden?",
     "ctaSubtitle": "Vraag vandaag nog een gratis conformiteitsbeoordeling aan voor uw producten.",
-    "ctaButton": "Gratis Beoordeling Aanvragen"
+    "ctaButton": "Gratis Beoordeling Aanvragen",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Onze Diensten",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Vind antwoorden op de meest gestelde vragen over deze dienst.",
     "ctaTitle": "Heeft U Deze Dienst Nodig?",
     "ctaSubtitle": "Vraag een gratis conformiteitsbeoordeling op maat voor uw producten aan.",
-    "ctaButton": "Gratis Beoordeling Aanvragen"
+    "ctaButton": "Gratis Beoordeling Aanvragen",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Conformiteitspakketten",
@@ -255,7 +261,8 @@
     "packages": "Pakketten",
     "faq": "FAQ",
     "about": "Over Ons",
-    "rights": "© 2026 SinoTrade Compliance. Alle rechten voorbehouden."
+    "rights": "© 2026 SinoTrade Compliance. Alle rechten voorbehouden.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Bedankt!",

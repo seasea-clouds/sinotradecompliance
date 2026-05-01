@@ -45,7 +45,11 @@
     "processStep4Desc": "आपके उत्पाद पूरी तरह से अनुपालन में हैं और चीनी बाजार के लिए तैयार हैं।",
     "ctaTitle": "चीन में प्रवेश के लिए तैयार हैं?",
     "ctaSubtitle": "अपने उत्पादों के लिए आज ही मुफ्त अनुपालन मूल्यांकन प्राप्त करें।",
-    "ctaButton": "मुफ्त मूल्यांकन प्राप्त करें"
+    "ctaButton": "मुफ्त मूल्यांकन प्राप्त करें",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "हमारी सेवाएं",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "इस सेवा के बारे में सबसे अधिक पूछे जाने वाले प्रश्नों के उत्तर खोजें।",
     "ctaTitle": "यह सेवा चाहिए?",
     "ctaSubtitle": "अपने उत्पादों के लिए अनुकूलित मुफ्त अनुपालन मूल्यांकन प्राप्त करें।",
-    "ctaButton": "मुफ्त मूल्यांकन प्राप्त करें"
+    "ctaButton": "मुफ्त मूल्यांकन प्राप्त करें",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "अनुपालन पैकेज",
@@ -255,7 +261,8 @@
     "packages": "पैकेज",
     "faq": "सामान्य प्रश्न",
     "about": "हमारे बारे में",
-    "rights": "© 2026 SinoTrade Compliance. सर्वाधिकार सुरक्षित।"
+    "rights": "© 2026 SinoTrade Compliance. सर्वाधिकार सुरक्षित।",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "धन्यवाद!",

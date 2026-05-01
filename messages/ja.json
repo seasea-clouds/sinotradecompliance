@@ -45,7 +45,11 @@
     "processStep4Desc": "製品は完全にコンプライアンスに準拠し、中国市場への準備が完了します。",
     "ctaTitle": "中国市場への参入準備はできましたか？",
     "ctaSubtitle": "今すぐ製品の無料コンプライアンス診断を受けましょう。",
-    "ctaButton": "無料診断を受ける"
+    "ctaButton": "無料診断を受ける",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "サービス一覧",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "このサービスに関する最もよくある質問の回答をご覧ください。",
     "ctaTitle": "このサービスが必要ですか？",
     "ctaSubtitle": "製品に合わせた無料コンプライアンス診断を受けましょう。",
-    "ctaButton": "無料診断を受ける"
+    "ctaButton": "無料診断を受ける",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "コンプライアンスパッケージ",
@@ -255,7 +261,8 @@
     "packages": "パッケージ",
     "faq": "よくある質問",
     "about": "会社概要",
-    "rights": "© 2026 SinoTrade Compliance. All rights reserved."
+    "rights": "© 2026 SinoTrade Compliance. All rights reserved.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "ありがとうございます！",

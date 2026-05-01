@@ -45,7 +45,11 @@
     "processStep4Desc": "Tuotteesi ovat täysin vaatimustenmukaisia ja valmiita Kiinan markkinoille.",
     "ctaTitle": "Valmis tulemaan Kiinaan?",
     "ctaSubtitle": "Pyydä ilmainen vaatimustenmukaisuusarvio tuotteillesi tänään.",
-    "ctaButton": "Pyydä ilmainen arvio"
+    "ctaButton": "Pyydä ilmainen arvio",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Palvelumme",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Löydä vastaukset yleisimpiin kysymyksiin tästä palvelusta.",
     "ctaTitle": "Tarvitsetko tämän palvelun?",
     "ctaSubtitle": "Pyydä ilmainen vaatimustenmukaisuusarvio tuotteillesi.",
-    "ctaButton": "Pyydä ilmainen arvio"
+    "ctaButton": "Pyydä ilmainen arvio",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Vaatimustenmukaisuuspaketit",
@@ -255,7 +261,8 @@
     "packages": "Paketit",
     "faq": "UKK",
     "about": "Tietoa meistä",
-    "rights": "© 2026 SinoTrade Compliance. Kaikki oikeudet pidätetään."
+    "rights": "© 2026 SinoTrade Compliance. Kaikki oikeudet pidätetään.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Kiitos!",

@@ -45,7 +45,11 @@
     "processStep4Desc": "Vaši proizvodi su potpuno usklađeni i spremni za kinesko tržište.",
     "ctaTitle": "Spremni za Ulazak u Kinu?",
     "ctaSubtitle": "Zatražite besplatnu procenu usklađenosti za vaše proizvode danas.",
-    "ctaButton": "Zatražite Besplatnu Procenu"
+    "ctaButton": "Zatražite Besplatnu Procenu",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Naše Usluge",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Pronađite odgovore na najčešće postavljana pitanja o ovoj usluzi.",
     "ctaTitle": "Treba Vam Ova Usluga?",
     "ctaSubtitle": "Zatražite besplatnu procenu usklađenosti prilagođenu vašim proizvodima.",
-    "ctaButton": "Zatražite Besplatnu Procenu"
+    "ctaButton": "Zatražite Besplatnu Procenu",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Paketi Usklađenosti",
@@ -255,7 +261,8 @@
     "packages": "Paketi",
     "faq": "FAQ",
     "about": "O nama",
-    "rights": "© 2026 SinoTrade Compliance. Sva prava zadržana."
+    "rights": "© 2026 SinoTrade Compliance. Sva prava zadržana.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Hvala Vam!",

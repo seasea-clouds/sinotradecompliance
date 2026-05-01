@@ -45,7 +45,11 @@
     "processStep4Desc": "منتجاتك متوافقة تمامًا وجاهزة للسوق الصينية.",
     "ctaTitle": "مستعد لدخول الصين؟",
     "ctaSubtitle": "احصل على تقييم امتثال مجاني لمنتجاتك اليوم.",
-    "ctaButton": "احصل على تقييم مجاني"
+    "ctaButton": "احصل على تقييم مجاني",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "خدماتنا",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "اعثر على إجابات للأسئلة الأكثر شيوعًا حول هذه الخدمة.",
     "ctaTitle": "تحتاج هذه الخدمة؟",
     "ctaSubtitle": "احصل على تقييم امتثال مجاني مصمم لمنتجاتك.",
-    "ctaButton": "احصل على تقييم مجاني"
+    "ctaButton": "احصل على تقييم مجاني",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "باقات الامتثال",
@@ -255,7 +261,8 @@
     "packages": "الباقات",
     "faq": "الأسئلة الشائعة",
     "about": "عن الشركة",
-    "rights": "© 2026 SinoTrade Compliance. جميع الحقوق محفوظة."
+    "rights": "© 2026 SinoTrade Compliance. جميع الحقوق محفوظة.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "شكرًا لك!",

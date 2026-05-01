@@ -45,7 +45,11 @@
     "processStep4Desc": "Jou produkte is ten volle nakomend en gereed vir die Chinese mark.",
     "ctaTitle": "Gereed om China Te Betree?",
     "ctaSubtitle": "Kry vandag 'n vrye nakomingsassessering vir jou produkte.",
-    "ctaButton": "Kry Vrye Assessering"
+    "ctaButton": "Kry Vrye Assessering",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Ons Dienste",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Vind antwoorde op die mees gereeld gevraagde vrae oor hierdie diens.",
     "ctaTitle": "Het Jy Hierdie Diens Nodig?",
     "ctaSubtitle": "Kry 'n vrye nakomingsassessering afgestem op jou produkte.",
-    "ctaButton": "Kry Vrye Assessering"
+    "ctaButton": "Kry Vrye Assessering",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Nakomingspakkette",
@@ -255,7 +261,8 @@
     "packages": "Pakkette",
     "faq": "V&A",
     "about": "Oor Ons",
-    "rights": "© 2026 SinoTrade Compliance. Alle regte voorbehou."
+    "rights": "© 2026 SinoTrade Compliance. Alle regte voorbehou.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Dankie!",

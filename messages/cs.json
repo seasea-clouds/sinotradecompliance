@@ -45,7 +45,11 @@
     "processStep4Desc": "Vaše produkty jsou plně v souladu s předpisy a připraveny pro čínský trh.",
     "ctaTitle": "Připraveni vstoupit do Číny?",
     "ctaSubtitle": "Získejte dnes zdarma posouzení compliance pro vaše produkty.",
-    "ctaButton": "Získat zdarma posouzení"
+    "ctaButton": "Získat zdarma posouzení",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Naše služby",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Najděte odpovědi na nejčastěji kladené otázky o této službě.",
     "ctaTitle": "Potřebujete tuto službu?",
     "ctaSubtitle": "Získejte zdarma posouzení compliance šité na míru vašim produktům.",
-    "ctaButton": "Získat zdarma posouzení"
+    "ctaButton": "Získat zdarma posouzení",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Compliance balíčky",
@@ -255,7 +261,8 @@
     "packages": "Balíčky",
     "faq": "FAQ",
     "about": "O nás",
-    "rights": "© 2026 SinoTrade Compliance. Všechna práva vyhrazena."
+    "rights": "© 2026 SinoTrade Compliance. Všechna práva vyhrazena.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Děkujeme!",

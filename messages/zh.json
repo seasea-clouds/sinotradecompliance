@@ -45,7 +45,11 @@
     "processStep4Desc": "您的产品完全合规，准备好进入中国市场。",
     "ctaTitle": "准备进入中国市场？",
     "ctaSubtitle": "立即为您的产品获取免费合规评估。",
-    "ctaButton": "获取免费评估"
+    "ctaButton": "获取免费评估",
+    "processStep5Title": "质量保证",
+    "processStep5Desc": "我们验证所有文件和认证符合中国监管标准。",
+    "processStep6Title": "市场准入支持",
+    "processStep6Desc": "持续合规监控和法规更新，确保您的业务顺利运营。"
   },
   "Services": {
     "heroTitle": "我们的服务",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "查找有关此服务最常见问题的答案。",
     "ctaTitle": "需要此服务？",
     "ctaSubtitle": "为您的产品获取免费的定制合规评估。",
-    "ctaButton": "获取免费评估"
+    "ctaButton": "获取免费评估",
+    "whyCard4Title": "专业团队",
+    "whyCard4Desc": "多年帮助国际品牌成功进入中国市场的实战经验。"
   },
   "Packages": {
     "heroTitle": "合规套餐",
@@ -255,7 +261,8 @@
     "packages": "套餐方案",
     "faq": "常见问题",
     "about": "关于我们",
-    "rights": "© 2026 SinoTrade Compliance. 保留所有权利。"
+    "rights": "© 2026 SinoTrade Compliance. 保留所有权利。",
+    "quickLinks": "快速链接"
   },
   "ThankYou": {
     "title": "感谢您的关注！",

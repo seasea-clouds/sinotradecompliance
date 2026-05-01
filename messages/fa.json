@@ -45,7 +45,11 @@
     "processStep4Desc": "محصولات شما کاملاً منطبق و آماده ورود به بازار چین هستند.",
     "ctaTitle": "آماده ورود به چین هستید؟",
     "ctaSubtitle": "امروز یک ارزیابی انطباق رایگان برای محصولات خود دریافت کنید.",
-    "ctaButton": "ارزیابی رایگان دریافت کنید"
+    "ctaButton": "ارزیابی رایگان دریافت کنید",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "خدمات ما",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "پاسخ سوالات متداول درباره این خدمات را بیابید.",
     "ctaTitle": "به این خدمات نیاز دارید؟",
     "ctaSubtitle": "یک ارزیابی انطباق رایگان متناسب با محصولات خود دریافت کنید.",
-    "ctaButton": "ارزیابی رایگان دریافت کنید"
+    "ctaButton": "ارزیابی رایگان دریافت کنید",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "بسته‌های انطباق",
@@ -255,7 +261,8 @@
     "packages": "بسته‌ها",
     "faq": "سوالات متداول",
     "about": "درباره ما",
-    "rights": "© 2026 SinoTrade Compliance. تمامی حقوق محفوظ است."
+    "rights": "© 2026 SinoTrade Compliance. تمامی حقوق محفوظ است.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "متشکریم!",

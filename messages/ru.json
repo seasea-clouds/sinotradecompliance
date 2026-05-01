@@ -45,7 +45,11 @@
     "processStep4Desc": "Ваши продукты полностью соответствуют требованиям и готовы к китайскому рынку.",
     "ctaTitle": "Готовы войти в Китай?",
     "ctaSubtitle": "Получите бесплатную оценку соответствия для ваших продуктов уже сегодня.",
-    "ctaButton": "Получить бесплатную оценку"
+    "ctaButton": "Получить бесплатную оценку",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Наши услуги",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Найдите ответы на самые часто задаваемые вопросы об этой услуге.",
     "ctaTitle": "Нужна эта услуга?",
     "ctaSubtitle": "Получите бесплатную оценку соответствия, адаптированную для ваших продуктов.",
-    "ctaButton": "Получить бесплатную оценку"
+    "ctaButton": "Получить бесплатную оценку",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Пакеты соответствия",
@@ -255,7 +261,8 @@
     "packages": "Пакеты услуг",
     "faq": "FAQ",
     "about": "О нас",
-    "rights": "© 2026 SinoTrade Compliance. Все права защищены."
+    "rights": "© 2026 SinoTrade Compliance. Все права защищены.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Спасибо!",

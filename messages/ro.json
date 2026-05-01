@@ -45,7 +45,11 @@
     "processStep4Desc": "Produsele tale sunt complet conforme și pregătite pentru piața chineză.",
     "ctaTitle": "Pregătit să intri în China?",
     "ctaSubtitle": "Obține o evaluare gratuită de conformitate pentru produsele tale astăzi.",
-    "ctaButton": "Obține evaluare gratuită"
+    "ctaButton": "Obține evaluare gratuită",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Serviciile noastre",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Găsește răspunsuri la cele mai frecvente întrebări despre acest serviciu.",
     "ctaTitle": "Ai nevoie de acest serviciu?",
     "ctaSubtitle": "Obține o evaluare gratuită de conformitate adaptată produselor tale.",
-    "ctaButton": "Obține evaluare gratuită"
+    "ctaButton": "Obține evaluare gratuită",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Pachete de conformitate",
@@ -255,7 +261,8 @@
     "packages": "Pachete",
     "faq": "FAQ",
     "about": "Despre noi",
-    "rights": "© 2026 SinoTrade Compliance. Toate drepturile rezervate."
+    "rights": "© 2026 SinoTrade Compliance. Toate drepturile rezervate.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Mulțumim!",

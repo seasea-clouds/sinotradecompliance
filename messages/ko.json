@@ -45,7 +45,11 @@
     "processStep4Desc": "제품이 완전히 규정을 준수하며 중국 시장 준비 완료.",
     "ctaTitle": "중국 진출 준비되셨나요?",
     "ctaSubtitle": "오늘 제품 무료 규정 준수 진단을 받으세요.",
-    "ctaButton": "무료 진단 받기"
+    "ctaButton": "무료 진단 받기",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "서비스 소개",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "이 서비스에 대한 가장 자주 묻는 질문에 대한 답변을 찾으세요.",
     "ctaTitle": "이 서비스가 필요하신가요?",
     "ctaSubtitle": "제품에 맞춘 무료 규정 준수 진단을 받으세요.",
-    "ctaButton": "무료 진단 받기"
+    "ctaButton": "무료 진단 받기",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "규정 준수 패키지",
@@ -255,7 +261,8 @@
     "packages": "패키지",
     "faq": "FAQ",
     "about": "회사 소개",
-    "rights": "© 2026 SinoTrade Compliance. All rights reserved."
+    "rights": "© 2026 SinoTrade Compliance. All rights reserved.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "감사합니다!",

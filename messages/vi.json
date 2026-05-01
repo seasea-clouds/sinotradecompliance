@@ -45,7 +45,11 @@
     "processStep4Desc": "Sản phẩm của bạn hoàn toàn tuân thủ và sẵn sàng cho thị trường Trung Quốc.",
     "ctaTitle": "Sẵn sàng gia nhập Trung Quốc?",
     "ctaSubtitle": "Đăng ký đánh giá tuân thủ miễn phí cho sản phẩm của bạn ngay hôm nay.",
-    "ctaButton": "Đăng ký đánh giá miễn phí"
+    "ctaButton": "Đăng ký đánh giá miễn phí",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Dịch vụ của chúng tôi",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Tìm câu trả lời cho các câu hỏi thường gặp nhất về dịch vụ này.",
     "ctaTitle": "Cần dịch vụ này?",
     "ctaSubtitle": "Đăng ký đánh giá tuân thủ miễn phí tùy chỉnh cho sản phẩm của bạn.",
-    "ctaButton": "Đăng ký đánh giá miễn phí"
+    "ctaButton": "Đăng ký đánh giá miễn phí",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Gói tuân thủ",
@@ -255,7 +261,8 @@
     "packages": "Gói dịch vụ",
     "faq": "FAQ",
     "about": "Về chúng tôi",
-    "rights": "© 2026 SinoTrade Compliance. Bảo lưu mọi quyền."
+    "rights": "© 2026 SinoTrade Compliance. Bảo lưu mọi quyền.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Cảm ơn bạn!",

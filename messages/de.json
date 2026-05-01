@@ -45,7 +45,11 @@
     "processStep4Desc": "Ihre Produkte sind vollständig konform und bereit für den chinesischen Markt.",
     "ctaTitle": "Bereit für den Eintritt nach China?",
     "ctaSubtitle": "Erhalten Sie noch heute eine kostenlose Konformitätsbewertung für Ihre Produkte.",
-    "ctaButton": "Kostenlose Bewertung anfordern"
+    "ctaButton": "Kostenlose Bewertung anfordern",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Unsere Dienstleistungen",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Finden Sie Antworten auf die am häufigsten gestellten Fragen zu diesem Service.",
     "ctaTitle": "Brauchen Sie diesen Service?",
     "ctaSubtitle": "Erhalten Sie eine kostenlose, auf Ihre Produkte zugeschnittene Konformitätsbewertung.",
-    "ctaButton": "Kostenlose Bewertung anfordern"
+    "ctaButton": "Kostenlose Bewertung anfordern",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Konformitätspakete",
@@ -255,7 +261,8 @@
     "packages": "Pakete",
     "faq": "FAQ",
     "about": "Über uns",
-    "rights": "© 2026 SinoTrade Compliance. Alle Rechte vorbehalten."
+    "rights": "© 2026 SinoTrade Compliance. Alle Rechte vorbehalten.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Vielen Dank!",

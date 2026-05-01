@@ -45,7 +45,11 @@
     "processStep4Desc": "আপনার পণ্য সম্পূর্ণ সম্মতিবদ্ধ এবং চীনা বাজারের জন্য প্রস্তুত।",
     "ctaTitle": "চীনে প্রবেশ করতে প্রস্তুত?",
     "ctaSubtitle": "আজই আপনার পণ্যের জন্য বিনামূল্যে সম্মতি মূল্যায়ন পান।",
-    "ctaButton": "বিনামূল্যে মূল্যায়ন পান"
+    "ctaButton": "বিনামূল্যে মূল্যায়ন পান",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "আমাদের সেবাসমূহ",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "এই সেবা সম্পর্কে সবচেয়ে বেশি জিজ্ঞাসিত প্রশ্নের উত্তর খুঁজুন।",
     "ctaTitle": "এই সেবা প্রয়োজন?",
     "ctaSubtitle": "আপনার পণ্যের জন্য কাস্টমাইজড বিনামূল্যে সম্মতি মূল্যায়ন পান।",
-    "ctaButton": "বিনামূল্যে মূল্যায়ন পান"
+    "ctaButton": "বিনামূল্যে মূল্যায়ন পান",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "সম্মতি প্যাকেজ",
@@ -255,7 +261,8 @@
     "packages": "প্যাকেজসমূহ",
     "faq": "প্রশ্নাবলী",
     "about": "আমাদের সম্পর্কে",
-    "rights": "© 2026 SinoTrade Compliance। সর্বস্বত্ব সংরক্ষিত।"
+    "rights": "© 2026 SinoTrade Compliance। সর্বস্বত্ব সংরক্ষিত।",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "ধন্যবাদ!",

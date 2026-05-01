@@ -45,7 +45,11 @@
     "processStep4Desc": "Produktet tuaja janë plotësisht të përputhshme dhe gati për tregun kinez.",
     "ctaTitle": "Gati për të Hyrë në Kinë?",
     "ctaSubtitle": "Merrni një vlerësim falas të përputhshmërisë për produktet tuaja sot.",
-    "ctaButton": "Merrni Vlerësim Falas"
+    "ctaButton": "Merrni Vlerësim Falas",
+    "processStep5Title": "Quality Assurance",
+    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
+    "processStep6Title": "Market Entry Support",
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
   },
   "Services": {
     "heroTitle": "Shërbimet Tona",
@@ -142,7 +146,9 @@
     "questionsSubtitle": "Gjeni përgjigje për pyetjet më të shpeshta rreth këtij shërbimi.",
     "ctaTitle": "Keni Nevojë për Këtë Shërbim?",
     "ctaSubtitle": "Merrni një vlerësim falas të përputhshmërisë të përshtatur për produktet tuaja.",
-    "ctaButton": "Merrni Vlerësim Falas"
+    "ctaButton": "Merrni Vlerësim Falas",
+    "whyCard4Title": "Expert Team",
+    "whyCard4Desc": "Years of hands-on experience helping international brands succeed in China."
   },
   "Packages": {
     "heroTitle": "Paketat e Përputhshmërisë",
@@ -255,7 +261,8 @@
     "packages": "Paketat",
     "faq": "FAQ",
     "about": "Rreth Nesh",
-    "rights": "© 2026 SinoTrade Compliance. Të gjitha të drejtat e rezervuara."
+    "rights": "© 2026 SinoTrade Compliance. Të gjitha të drejtat e rezervuara.",
+    "quickLinks": "Quick Links"
   },
   "ThankYou": {
     "title": "Faleminderit!",
