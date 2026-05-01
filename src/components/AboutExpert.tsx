@@ -13,8 +13,12 @@ export default function Expert() {
           {t('title')}
         </h2>
         <div className="flex flex-col sm:flex-row items-center gap-8">
-          <div className="w-32 h-32 rounded-full bg-[#F4F6F9] flex items-center justify-center text-4xl font-bold text-[#1B365D] flex-shrink-0">
-            DZ
+          <div className="w-32 h-32 rounded-full overflow-hidden bg-[#F4F6F9] flex-shrink-0">
+            <img
+              src="/images/david-zhang.jpg"
+              alt={t('name')}
+              className="w-full h-full object-cover"
+            />
           </div>
           <div className="text-center sm:text-left">
             <h3 className="text-xl font-bold text-[#333333]">{t('name')}</h3>
