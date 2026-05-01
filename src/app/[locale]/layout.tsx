@@ -1,9 +1,9 @@
 import { NextIntlClientProvider } from 'next-intl';
-import { getMessages, getTranslations } from 'next-intl/server';
+import { getTranslations } from 'next-intl/server';
 import { locales, defaultLocale } from '@/i18n/routing';
+import { messagesMap } from '@/i18n/messages';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
-import LanguageSwitcher from '@/components/LanguageSwitcher';
 import '../globals.css';
 
 export function generateStaticParams() {
@@ -11,9 +11,7 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
-  const { locale: rawLocale } = await params;
-  const locale = locales.includes(rawLocale as any) ? rawLocale : defaultLocale;
-
+  const locale = (await params).locale;
   const t = await getTranslations({ locale, namespace: 'Hero' });
 
   return {
@@ -43,10 +41,10 @@ export default async function LocaleLayout({
   children: React.ReactNode;
   params: Promise<{ locale: string }>;
 }) {
-  const { locale: rawLocale } = await params;
-  const locale = locales.includes(rawLocale as any) ? rawLocale : defaultLocale;
+  const locale = (await params).locale;
 
-  const messages = await getMessages();
+  // Use explicit messages map for static export compatibility
+  const messages = messagesMap[locale] ?? messagesMap[defaultLocale];
 
   return (
     <html lang={locale} className="scroll-smooth">
@@ -59,11 +57,7 @@ export default async function LocaleLayout({
             href={`https://sinotradecompliance.com/${l}/`}
           />
         ))}
-        <link
-          rel="alternate"
-          hrefLang="x-default"
-          href="https://sinotradecompliance.com/en/"
-        />
+        <link rel="alternate" hrefLang="x-default" href="https://sinotradecompliance.com/en/" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -71,8 +65,7 @@ export default async function LocaleLayout({
               '@context': 'https://schema.org',
               '@type': 'ProfessionalService',
               name: 'SinoTrade Compliance',
-              description:
-                'GACC Decree 248 registration experts for global Food & Beverage brands',
+              description: 'GACC Decree 248 registration experts for global Food & Beverage brands',
               url: `https://sinotradecompliance.com/${locale}/`,
               serviceType: 'Customs Compliance Consulting',
               areaServed: 'Worldwide',
@@ -82,7 +75,7 @@ export default async function LocaleLayout({
         />
       </head>
       <body className="min-h-full flex flex-col antialiased">
-        <NextIntlClientProvider messages={messages}>
+        <NextIntlClientProvider messages={messages} locale={locale}>
           <Navbar />
           {children}
           <Footer />
