@@ -26,8 +26,8 @@ export default function Navbar() {
             <a href="#process" className="text-white/80 hover:text-white transition-colors text-sm font-medium">
               {t('process')}
             </a>
-            <a href="#faq" className="text-white/80 hover:text-white transition-colors text-sm font-medium">
-              {t('faq')}
+            <a href="#contact" className="text-white/80 hover:text-white transition-colors text-sm font-medium">
+              {t('contact')}
             </a>
             <LanguageSwitcher />
           </div>
@@ -54,8 +54,8 @@ export default function Navbar() {
           <a href="#process" className="text-white/80 hover:text-white transition-colors">
             {t('process')}
           </a>
-          <a href="#faq" className="text-white/80 hover:text-white transition-colors">
-            {t('faq')}
+          <a href="#contact" className="text-white/80 hover:text-white transition-colors">
+            {t('contact')}
           </a>
           <LanguageSwitcher />
         </div>

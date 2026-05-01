@@ -9,7 +9,7 @@ export default function LeadMagnet() {
   const [email, setEmail] = useState('');
 
   return (
-    <section className="bg-[#F4F6F9] py-16 sm:py-20 px-4 sm:px-6 lg:px-8">
+    <section id="contact" className="bg-[#F4F6F9] py-16 sm:py-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-2xl mx-auto text-center">
         <Download className="w-12 h-12 text-[#1B365D] mx-auto mb-4" />
         <h2 className="text-2xl sm:text-3xl font-bold text-[#333333] mb-3">
