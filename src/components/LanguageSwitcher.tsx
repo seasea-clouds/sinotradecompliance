@@ -32,7 +32,7 @@ export default function LanguageSwitcher() {
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
         </svg>
       </button>
-      <div className="absolute right-0 top-full mt-1 bg-white rounded-md shadow-lg border border-gray-200 py-1 min-w-[140px] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-50">
+      <div className="absolute right-0 top-full mt-1 bg-white rounded-md shadow-lg border border-gray-200 py-1 min-w-[140px] max-h-[70vh] overflow-y-auto opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-50" style={{ scrollbarWidth: 'thin', scrollbarColor: '#D4AF37 #f1f1f1' }}>
         {locales.map((l) => (
           <button
             key={l}

@@ -3,6 +3,7 @@ import { getAllPostSlugs, getPostBySlug, locales } from '@/lib/blog';
 import { sharedOpenGraph, sharedTwitter } from '@/lib/metadata';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import { locales as allLocales } from '@/i18n/routing';
 
 export function generateStaticParams() {
   const params: { locale: string; slug: string }[] = [];
@@ -31,7 +32,10 @@ export async function generateMetadata({
     description: post.excerpt,
     openGraph: sharedOpenGraph({ title: post.title, description: post.excerpt, locale, url }),
     twitter: sharedTwitter({ title: post.title, description: post.excerpt }),
-    alternates: { canonical: url },
+    alternates: {
+      canonical: url,
+      languages: Object.fromEntries(allLocales.map((loc) => [loc, `https://sinotradecompliance.com/${loc}/blog/${slug}/`])),
+    },
   };
 }
 

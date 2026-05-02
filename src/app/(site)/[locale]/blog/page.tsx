@@ -4,6 +4,7 @@ import BlogPostCard from '@/components/BlogPostCard';
 import { sharedOpenGraph, sharedTwitter } from '@/lib/metadata';
 import Link from 'next/link';
 import BlogClient from './BlogClient';
+import { locales as allLocales } from '@/i18n/routing';
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
@@ -20,7 +21,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     description,
     openGraph: sharedOpenGraph({ title, description, locale, url }),
     twitter: sharedTwitter({ title, description }),
-    alternates: { canonical: url },
+    alternates: {
+      canonical: url,
+      languages: Object.fromEntries(allLocales.map((loc) => [loc, `https://sinotradecompliance.com/${loc}/blog/`])),
+    },
   };
 }
 

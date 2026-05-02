@@ -71,6 +71,9 @@ export default function Navbar() {
             <Link href={`/${locale}/faq`} className="text-white/80 hover:text-white transition-colors text-sm font-medium">
               {t('faq')}
             </Link>
+            <Link href={`/${locale}/blog`} className="text-white/80 hover:text-white transition-colors text-sm font-medium">
+              {t('blog')}
+            </Link>
             <LanguageSwitcher />
           </div>
 
@@ -101,6 +104,9 @@ export default function Navbar() {
           </Link>
           <Link href={`/${locale}/faq`} className="text-white/80 hover:text-white transition-colors">
             {t('faq')}
+          </Link>
+          <Link href={`/${locale}/blog`} className="text-white/80 hover:text-white transition-colors">
+            {t('blog')}
           </Link>
           <LanguageSwitcher />
         </div>
