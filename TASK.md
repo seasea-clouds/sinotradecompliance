@@ -156,6 +156,7 @@
 | 05-02 16:28 | 第十六次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD正确渲染为inline script标签，hreflang 48个alternate链接完整，sitemap 576 URL正确，robots.txt 200正常，canonical URL正确，翻译标题9语言正确，6服务页×3语言（en/zh/ja）全部200，联系信息一致，无__next_error__，Packages无价格数字，Git clean，全站运行稳定 ✅
 | 05-02 16:30 | T22+T23: 文案丰富化 — en.json 新增 101 keys（SocialProof、流程步骤修正、FAQ扩展、套餐详情等），构建通过，commit 7a5e19c 已推送 |
 | 05-02 17:23 | T24: 翻译新增 101 keys 到 47 种语言 — 4049 条翻译，8 个错误，构建 0 error，commit fa1cdda 已推送 |
+| 05-02 17:28 | T25: 组件适配新 key — FAQ 动态循环 + PackageCards useCase/includes，构建 0 error，commit 0fc3067 已推送 |
 
 ---
 
@@ -177,7 +178,10 @@
   - 全局：增加社交证明（客户来自 X 国家等）
 - [ ] T23. 撰写增强版英文文案（messages/en.json 新增 ~100 key）
 - [x] T24. 翻译新增 key 到 47 种语言（AI 翻译 + 批量写入）✅ 2026-05-02 17:23 UTC+8，4049 条翻译，8 个错误
-- [ ] T25. 组件适配新 key（FAQ 数量增多需调整循环渲染，新增区块组件等）
+- [x] T25. 组件适配新 key ✅ 2026-05-02 17:28 UTC+8
+  - FAQ 页面: 硬编码 → 动态循环 (Q1-Q20 + Q3a/Q4a 子问题)
+  - PackageCards: 新增 useCase + includes 展示
+  - 构建 0 error, commit 0fc3067
 - [ ] T26. 构建验证（next build 0 error）
 
 ### 阶段三：全站翻译审计（全部检查，不抽检）

@@ -29,14 +29,18 @@ export default async function FAQPage({ params }: { params: Promise<{ locale: st
     const title = t(`${prefix}Title`);
     const items: { question: string; answer: string }[] = [];
     for (let i = 1; i <= 20; i++) {
-      const q = t.raw(`${prefix}Q${i}`) as string | undefined;
-      const a = t.raw(`${prefix}A${i}`) as string | undefined;
-      if (q && a) items.push({ question: q, answer: a });
+      const qKey = `${prefix}Q${i}`;
+      const aKey = `${prefix}A${i}`;
+      if (t.has(qKey) && t.has(aKey)) {
+        items.push({ question: t(qKey), answer: t(aKey) });
+      }
       // Check for sub-answers (Q3a/A3a, Q4a/A4a)
-      const qa = t.raw(`${prefix}Q${i}a`) as string | undefined;
-      const aa = t.raw(`${prefix}A${i}a`) as string | undefined;
-      if (qa && aa) items.push({ question: qa, answer: aa });
-      if (!q && !a) break;
+      const qaKey = `${prefix}Q${i}a`;
+      const aaKey = `${prefix}A${i}a`;
+      if (t.has(qaKey) && t.has(aaKey)) {
+        items.push({ question: t(qaKey), answer: t(aaKey) });
+      }
+      if (!t.has(qKey) && !t.has(aKey)) break;
     }
     return { title, items };
   }
