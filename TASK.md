@@ -98,6 +98,12 @@
 
 ---
 
+### 阶段十五：第 19 轮深度巡检发现（2026-05-03 06:30 UTC+8）
+- [ ] T69. 修复线上中文版首页 Home namespace 翻译不渲染 — /zh/ 页面中 SocialProof（"Trusted by Global Brands"）、WhyUsCards（"Full Category Coverage"等）、ProcessSteps（"Free Consultation"等6步）、FAQPreview（FAQ问题英文）、CTASection（"Ready to Enter China?"）全部显示英文原文，但 zh.json 中这些 key 的中文翻译完全正确。根因待查：可能是 next-intl 在 `output: 'export'` 下对特定 namespace 的 SSG 渲染问题，或 Cloudflare Pages 部署未同步最新代码。优先级：P1。
+  - 影响范围：/zh/ 首页 + 所有语言首页的 Home namespace 组件
+  - 不受影响：ServicesGrid（Services namespace 正常翻译）、Navbar、Footer、LeadMagnet
+  - 服务页同样问题：/zh/services/gacc/ 的 "What We Cover"、"How It Works"、"Why Choose Us" 也为英文
+
 ## 执行记录
 
 | 时间 | 任务 | Commit |
