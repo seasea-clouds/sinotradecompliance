@@ -285,3 +285,17 @@
 - **价格检查**：Packages 页无实际价格数字 ✅
 - **Git 状态**：working tree clean，up to date with origin/main ✅
 - **结论**：官网改造全部任务保持完成状态，线上运行稳定，无新发现问题
+
+### 2026-05-02 18:30 UTC+8 第二十一次巡检（第 3 轮组件交互深度检查）— 修复 7 个翻译缺口 + 发现 3 个新翻译缺口
+- **执行任务**：T39-T45 全部完成 ✅
+- **组件交互深度检查**：
+  - ✅ ThankYou 页 — 组件已从硬编码英文改为 t() 翻译，Back 链接改为 locale-aware
+  - ✅ ServiceCommon CTA — ctaTitle/ctaSubtitle/ctaButton 已验证为中文 ✓
+  - ✅ 6 个服务页 FAQ — faq5q/5a/6q/6a 已全部翻译 ✓
+  - ✅ About 页 — teamTitle/teamSubtitle/teamMember*/partnersTitle/partnersSubtitle 已全部翻译 ✓
+  - ✅ Blog 页（zh）— 全部 14 keys 已翻译 ✓
+  - ❌ **新发现 — zh.json FAQ 页 44 keys 未翻译**（扩展 FAQ Q5/Q6/generalQ5-11 等仍为英文）
+  - ❌ **新发现 — 47 语言各 8 个 FAQ keys 未翻译**（generalQ11/labelQ5/ecommerceQ5/brandQ5 等）
+  - ❌ **新发现 — 46 语言 Blog namespace 全部未翻译**（非 en/zh 语言）
+- **构建**：632 pages, 0 error ✅
+- **Git**：2 commits 已推送（016fac9, ae04229），TASK.md 新增 T46-T48
