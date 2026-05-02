@@ -375,14 +375,14 @@
     "labelQ3a": "হ্যাঁ, হেলথ সাপ্লিমেন্টের (保健食品) স্বাস্থ্য ফাংশন দাবি, 适宜人群 (উপযুক্ত 人群), এবং ব্যবহারের নির্দেশাবলী সহ স্ট্যান্ডার্ড প্রিপ্যাকেজড খাবারের বাইরে অতিরিক্ত লেবেলিং প্রয়োজনীয়তা রয়েছে। আমরা বিভাগ-নির্দিষ্ট লেবেল প্রয়োজনীয়তা পরিচালনা করি।",
     "labelQ4": "কত দ্রুত লেবেল সম্পন্ন করা যাবে?",
     "labelQ4a": "স্ট্যান্ডার্ড লেবেল পর্যালোচনা এবং ডিজাইন প্রতি SKU প্রতি 1-2 সপ্তাহ সময় নেয়। জরুরী চালানের জন্য, আমরা দ্রুত পরিষেবা অফার করি। রাশ অর্ডারগুলি পণ্যের জটিলতা এবং বর্তমান কাজের চাপের উপর নির্ভর করে।",
-    "generalQ11": "What is the difference between GACC registration and NMPA filing?",
-    "generalA11": "GACC registration (General Administration of Customs) is required for food and beverage products entering China, while NMPA filing (National Medical Products Administration) applies to cosmetics and certain health products. They are separate regulatory pathways managed by different agencies. We can handle both simultaneously if your product portfolio spans multiple categories.",
-    "labelQ5": "Do cosmetics need Chinese labels too?",
-    "labelQ5a": "Yes, imported cosmetics sold through traditional retail channels must have Chinese labels compliant with NMPA requirements, including ingredient lists in INCI format with Chinese translations, net content, manufacturer info, and usage instructions. Cross-border e-commerce cosmetics are exempt from physical labeling but must display Chinese product information online.",
-    "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
-    "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
-    "brandQ5": "How do I choose a good Chinese brand name?",
-    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
+    "generalQ11": "GACC নিবন্ধন এবং NMPA ফাইলিংয়ের মধ্যে পার্থক্য কী?",
+    "generalA11": "চীনে প্রবেশকারী খাদ্য ও পানীয় পণ্যের জন্য GACC নিবন্ধন (কাস্টমসের সাধারণ প্রশাসন) প্রয়োজন, যখন NMPA ফাইলিং (ন্যাশনাল মেডিকেল প্রোডাক্টস অ্যাডমিনিস্ট্রেশন) প্রসাধনী এবং কিছু স্বাস্থ্য পণ্যের ক্ষেত্রে প্রযোজ্য। এগুলি বিভিন্ন সংস্থা দ্বারা পরিচালিত পৃথক নিয়ন্ত্রক পথ। আপনার পণ্যের পোর্টফোলিও একাধিক বিভাগে বিস্তৃত হলে আমরা উভয়ই একই সাথে পরিচালনা করতে পারি।",
+    "labelQ5": "কসমেটিক্সেরও কি চাইনিজ লেবেল লাগে?",
+    "labelQ5a": "হ্যাঁ, প্রথাগত খুচরা চ্যানেলগুলির মাধ্যমে বিক্রি হওয়া আমদানিকৃত প্রসাধনীগুলিতে অবশ্যই চাইনিজ লেবেলগুলি এনএমপিএ প্রয়োজনীয়তাগুলির সাথে সঙ্গতিপূর্ণ হতে হবে, যার মধ্যে চীনা অনুবাদ, নেট বিষয়বস্তু, প্রস্তুতকারকের তথ্য এবং ব্যবহারের নির্দেশাবলী সহ INCI ফর্ম্যাটে উপাদান তালিকা অন্তর্ভুক্ত রয়েছে৷ ক্রস-বর্ডার ই-কমার্স প্রসাধনী ফিজিক্যাল লেবেলিং থেকে রেহাই পায় কিন্তু চাইনিজ পণ্যের তথ্য অনলাইনে প্রদর্শন করতে হবে।",
+    "ecommerceQ5": "পিআইপিএল কী এবং এটি কীভাবে আমার ই-কমার্স স্টোরকে প্রভাবিত করে?",
+    "ecommerceA5": "পিআইপিএল (পার্সোনাল ইনফরমেশন প্রোটেকশন ল) হল চীনের ডেটা প্রাইভেসি রেগুলেশন যা চাইনিজ ভোক্তাদের ব্যক্তিগত ডেটা সংগ্রহকারী যেকোনো ব্যবসার ক্ষেত্রে প্রযোজ্য। ক্রস-বর্ডার ই-কমার্সের জন্য, এর মানে আপনার সঠিক সম্মতি প্রক্রিয়া, ডেটা স্থানীয়করণ বিবেচনা এবং স্পষ্ট গোপনীয়তা নীতি প্রয়োজন। আমরা আমাদের ই-কমার্স সেটআপ পরিষেবার অংশ হিসাবে PIPL সম্মতি মূল্যায়ন প্রদান করি।",
+    "brandQ5": "আমি কিভাবে একটি ভাল চীনা ব্র্যান্ড নাম নির্বাচন করব?",
+    "brandQ5a": "একটি শক্তিশালী চীনা ব্র্যান্ডের নাম উচ্চারণগতভাবে আপনার ইংরেজি নামের মতো হওয়া উচিত, সাংস্কৃতিকভাবে উপযুক্ত, মনে রাখা সহজ এবং ট্রেডমার্ক নিবন্ধনের জন্য আইনত উপলব্ধ। আমরা চাইনিজ নাম উন্নয়ন পরিষেবা প্রদান করি যার মধ্যে রয়েছে সাংস্কৃতিক পরামর্শ, ট্রেডমার্ক প্রাপ্যতা অনুসন্ধান, এবং নিবন্ধন নিশ্চিত করার জন্য আপনার চীনা ব্র্যান্ড পরিচয় প্রথম দিন থেকে সুরক্ষিত।"
   },
   "About": {
     "heroTitle": "SinoTrade Compliance সম্পর্কে",

@@ -375,14 +375,14 @@
     "cccQ3": "Kan ek CCC-sertifikate van 'n vorige vervaardiger gebruik?",
     "cccQ3a": "Nee, CCC-sertifikate is gekoppel aan die spesifieke vervaardigingsfasiliteit. As jy van vervaardiger verander, word 'n nuwe CCC-toepassing vereis. Ons kan help met die oordrag of heraansoek om sertifisering.",
     "cccQ4": "Wat is die koste van CCC-sertifisering?",
-    "generalQ11": "What is the difference between GACC registration and NMPA filing?",
-    "generalA11": "GACC registration (General Administration of Customs) is required for food and beverage products entering China, while NMPA filing (National Medical Products Administration) applies to cosmetics and certain health products. They are separate regulatory pathways managed by different agencies. We can handle both simultaneously if your product portfolio spans multiple categories.",
-    "labelQ5": "Do cosmetics need Chinese labels too?",
-    "labelQ5a": "Yes, imported cosmetics sold through traditional retail channels must have Chinese labels compliant with NMPA requirements, including ingredient lists in INCI format with Chinese translations, net content, manufacturer info, and usage instructions. Cross-border e-commerce cosmetics are exempt from physical labeling but must display Chinese product information online.",
-    "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
-    "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
-    "brandQ5": "How do I choose a good Chinese brand name?",
-    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
+    "generalQ11": "Wat is die verskil tussen GACC-registrasie en NMPA-liassering?",
+    "generalA11": "GACC-registrasie (Algemene Administrasie van Doeane) word vereis vir voedsel- en drankprodukte wat China binnekom, terwyl NMPA-liassering (Nasionale Mediese Produkte-administrasie) van toepassing is op skoonheidsmiddels en sekere gesondheidsprodukte. Dit is afsonderlike regulatoriese paaie wat deur verskillende agentskappe bestuur word. Ons kan albei gelyktydig hanteer as u produkportefeulje oor verskeie kategorieë strek.",
+    "labelQ5": "Het skoonheidsmiddels ook Chinese etikette nodig?",
+    "labelQ5a": "Ja, ingevoerde skoonheidsmiddels wat deur tradisionele kleinhandelkanale verkoop word, moet Chinese etikette hê wat aan NMPA-vereistes voldoen, insluitend bestanddeellyste in INCI-formaat met Chinese vertalings, netto inhoud, vervaardigerinligting en gebruiksinstruksies. Oorgrens-e-handelskoonheidsmiddels is vrygestel van fisiese etikettering, maar moet Chinese produkinligting aanlyn vertoon.",
+    "ecommerceQ5": "Wat is die PIPL en hoe raak dit my e-handelswinkel?",
+    "ecommerceA5": "PIPL (Personal Information Protection Law) is China se dataprivaatheidsregulasie wat van toepassing is op enige besigheid wat Chinese verbruikers se persoonlike data insamel. Vir oorgrens e-handel beteken dit dat u behoorlike toestemmingsmeganismes, datalokaliseringsoorwegings en duidelike privaatheidsbeleide benodig. Ons verskaf PIPL-voldoeningsbeoordelings as deel van ons e-handel-opstellingsdiens.",
+    "brandQ5": "Hoe kies ek 'n goeie Chinese handelsnaam?",
+    "brandQ5a": "'n Sterk Chinese handelsnaam moet foneties soortgelyk aan jou Engelse naam wees, kultureel toepaslik, maklik om te onthou en wettig beskikbaar vir handelsmerkregistrasie. Ons bied Chinese naamontwikkelingsdienste wat kulturele konsultasie, handelsmerkbeskikbaarheidsoektog en registrasie insluit om te verseker dat jou Chinese handelsmerk-identiteit van dag een af ​​beskerm word."
   },
   "About": {
     "heroTitle": "Oor SinoTrade Compliance",

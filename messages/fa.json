@@ -375,14 +375,14 @@
     "labelQ3a": "بله، مکمل‌های بهداشتی (保健食品) دارای الزامات برچسب‌زنی اضافی فراتر از مواد غذایی استاندارد از پیش بسته‌بندی شده هستند، از جمله ادعای عملکرد سلامت، 适宜人群 (مناسب人群) و دستورالعمل‌های استفاده. ما الزامات برچسب مخصوص دسته را انجام می دهیم.",
     "labelQ4": "برچسب ها چقدر سریع تکمیل می شوند؟",
     "labelQ4a": "بررسی و طراحی برچسب استاندارد برای هر SKU 1-2 هفته طول می کشد. برای حمل و نقل فوری، ما خدمات سریع ارائه می دهیم. سفارشات سریع به پیچیدگی محصول و حجم کاری فعلی بستگی دارد.",
-    "generalQ11": "What is the difference between GACC registration and NMPA filing?",
-    "generalA11": "GACC registration (General Administration of Customs) is required for food and beverage products entering China, while NMPA filing (National Medical Products Administration) applies to cosmetics and certain health products. They are separate regulatory pathways managed by different agencies. We can handle both simultaneously if your product portfolio spans multiple categories.",
-    "labelQ5": "Do cosmetics need Chinese labels too?",
-    "labelQ5a": "Yes, imported cosmetics sold through traditional retail channels must have Chinese labels compliant with NMPA requirements, including ingredient lists in INCI format with Chinese translations, net content, manufacturer info, and usage instructions. Cross-border e-commerce cosmetics are exempt from physical labeling but must display Chinese product information online.",
-    "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
-    "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
-    "brandQ5": "How do I choose a good Chinese brand name?",
-    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
+    "generalQ11": "تفاوت بین ثبت GACC و تشکیل پرونده NMPA چیست؟",
+    "generalA11": "ثبت GACC (اداره کل گمرک) برای محصولات غذایی و نوشیدنی که وارد چین می شوند لازم است، در حالی که پرونده NMPA (اداره ملی محصولات پزشکی) برای لوازم آرایشی و محصولات بهداشتی خاص اعمال می شود. آنها مسیرهای نظارتی جداگانه ای هستند که توسط آژانس های مختلف مدیریت می شوند. اگر سبد محصولات شما چندین دسته را در بر می گیرد، می توانیم هر دو را به طور همزمان مدیریت کنیم.",
+    "labelQ5": "آیا لوازم آرایشی به برچسب چینی هم نیاز دارند؟",
+    "labelQ5a": "بله، لوازم آرایشی وارداتی که از طریق کانال‌های خرده‌فروشی سنتی فروخته می‌شوند باید دارای برچسب‌های چینی مطابق با الزامات NMPA باشند، از جمله فهرست‌های مواد تشکیل دهنده در قالب INCI با ترجمه چینی، محتوای خالص، اطلاعات سازنده و دستورالعمل‌های استفاده. لوازم آرایشی تجارت الکترونیک فرامرزی از برچسب گذاری فیزیکی معاف هستند اما باید اطلاعات محصولات چینی را به صورت آنلاین نمایش دهند.",
+    "ecommerceQ5": "PIPL چیست و چگونه بر فروشگاه تجارت الکترونیک من تأثیر می گذارد؟",
+    "ecommerceA5": "PIPL (قانون حفاظت از اطلاعات شخصی) مقررات حریم خصوصی داده های چین است که برای هر کسب و کاری که داده های شخصی مصرف کنندگان چینی را جمع آوری می کند اعمال می شود. برای تجارت الکترونیک فرامرزی، این بدان معنی است که شما به مکانیسم‌های رضایت مناسب، ملاحظات محلی‌سازی داده‌ها و سیاست‌های حفظ حریم خصوصی واضح نیاز دارید. ما ارزیابی های انطباق با PIPL را به عنوان بخشی از خدمات راه اندازی تجارت الکترونیکی خود ارائه می دهیم.",
+    "brandQ5": "چگونه یک نام تجاری چینی خوب انتخاب کنم؟",
+    "brandQ5a": "یک نام تجاری قوی چینی باید از نظر آوایی شبیه به نام انگلیسی شما باشد، از نظر فرهنگی مناسب باشد، به راحتی قابل یادآوری باشد و از نظر قانونی برای ثبت علامت تجاری در دسترس باشد. ما خدمات توسعه نام چینی را ارائه می دهیم که شامل مشاوره فرهنگی، جستجوی در دسترس بودن علامت تجاری و ثبت نام می شود تا اطمینان حاصل شود که هویت برند چینی شما از روز اول محافظت می شود."
   },
   "About": {
     "heroTitle": "درباره SinoTrade Compliance",

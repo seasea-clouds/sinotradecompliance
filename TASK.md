@@ -174,9 +174,9 @@
 - [x] T45. 修复 zh.json Blog 页未翻译 — 全部 14 keys 已翻译 ✓ (构建 632 pages 0 error, commit 016fac9)
 
 ### 阶段六：第 3 轮深度巡检发现（2026-05-02 18:30 UTC+8）
-- [ ] T46. 修复 zh.json FAQ 页 44 个未翻译 keys — 服务页扩展 FAQ（Q5/Q6/gaccQ5-6/labelQ3-4/cccQ3-4/cosmeticsQ2-3/ecommerceQ3-4/brandQ3-4/generalQ5-11 等）仍为英文
-- [ ] T47. 修复 47 种语言各 8 个 FAQ 新增 keys 未翻译 — generalQ11/A11/labelQ5/Q5a/ecommerceQ5/A5/brandQ5/Q5a/cosmeticsA2/A3
-- [ ] T48. 修复 46 种语言（非 en/zh）Blog namespace 全部 14 keys 未翻译 — Blog title/subtitle/readMore 等仍为英文
+- [x] T46. 修复 zh.json FAQ 页 44 个未翻译 keys — 服务页扩展 FAQ（Q5/Q6/gaccQ5-6/labelQ3-4/cccQ3-4/cosmeticsQ2-3/ecommerceQ3-4/brandQ3-4/generalQ5-11 等）仍为英文
+- [x] T47. 修复 47 种语言各 8 个 FAQ 新增 keys 未翻译 — generalQ11/A11/labelQ5/Q5a/ecommerceQ5/A5/brandQ5/Q5a/cosmeticsA2/A3
+- [x] T48. 修复 46 种语言（非 en/zh）Blog namespace 全部 14 keys 未翻译 — Blog title/subtitle/readMore 等仍为英文
 
 ## 新需求任务（2026-05-02）
 

@@ -375,14 +375,14 @@
     "labelQ3a": "Ja, sundhedstilskud (保健食品) har yderligere mærkningskrav ud over standard færdigpakkede fødevarer, herunder sundhedsfunktionsanprisninger,适宜人群 (egnet人群) og brugsanvisninger. Vi håndterer kategorispecifikke etiketkrav.",
     "labelQ4": "Hvor hurtigt kan etiketter udfyldes?",
     "labelQ4a": "Standard etiketgennemgang og design tager 1-2 uger pr. SKU. Ved hasteforsendelser tilbyder vi hurtig service. Rush-ordrer afhænger af produktets kompleksitet og den aktuelle arbejdsbyrde.",
-    "generalQ11": "What is the difference between GACC registration and NMPA filing?",
-    "generalA11": "GACC registration (General Administration of Customs) is required for food and beverage products entering China, while NMPA filing (National Medical Products Administration) applies to cosmetics and certain health products. They are separate regulatory pathways managed by different agencies. We can handle both simultaneously if your product portfolio spans multiple categories.",
-    "labelQ5": "Do cosmetics need Chinese labels too?",
-    "labelQ5a": "Yes, imported cosmetics sold through traditional retail channels must have Chinese labels compliant with NMPA requirements, including ingredient lists in INCI format with Chinese translations, net content, manufacturer info, and usage instructions. Cross-border e-commerce cosmetics are exempt from physical labeling but must display Chinese product information online.",
-    "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
-    "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
-    "brandQ5": "How do I choose a good Chinese brand name?",
-    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
+    "generalQ11": "Hvad er forskellen mellem GACC-registrering og NMPA-arkivering?",
+    "generalA11": "GACC-registrering (General Administration of Customs) er påkrævet for fødevarer og drikkevarer, der kommer ind i Kina, mens NMPA-ansøgning (National Medical Products Administration) gælder for kosmetik og visse sundhedsprodukter. De er separate reguleringsveje, der administreres af forskellige agenturer. Vi kan håndtere begge dele samtidigt, hvis din produktportefølje spænder over flere kategorier.",
+    "labelQ5": "Har kosmetik også brug for kinesiske etiketter?",
+    "labelQ5a": "Ja, importeret kosmetik, der sælges gennem traditionelle detailkanaler, skal have kinesiske etiketter, der er i overensstemmelse med NMPA-kravene, herunder ingredienslister i INCI-format med kinesiske oversættelser, netindhold, producentoplysninger og brugsanvisninger. Grænseoverskridende e-handelskosmetik er undtaget fra fysisk mærkning, men skal vise kinesisk produktinformation online.",
+    "ecommerceQ5": "Hvad er PIPL, og hvordan påvirker det min e-handelsbutik?",
+    "ecommerceA5": "PIPL (Personal Information Protection Law) er Kinas databeskyttelsesforordning, der gælder for enhver virksomhed, der indsamler kinesiske forbrugeres personlige data. For grænseoverskridende e-handel betyder det, at du har brug for ordentlige samtykkemekanismer, overvejelser om datalokalisering og klare privatlivspolitikker. Vi leverer PIPL-overensstemmelsesvurderinger som en del af vores e-handelsopsætningsservice.",
+    "brandQ5": "Hvordan vælger jeg et godt kinesisk mærke?",
+    "brandQ5a": "Et stærkt kinesisk mærkenavn skal være fonetisk lig dit engelske navn, kulturelt passende, let at huske og lovligt tilgængeligt for varemærkeregistrering. Vi leverer tjenester til udvikling af kinesiske navne, der inkluderer kulturel rådgivning, søgning efter varemærker og registrering for at sikre, at din kinesiske varemærkeidentitet er beskyttet fra dag ét."
   },
   "About": {
     "heroTitle": "Om SinoTrade Compliance",
