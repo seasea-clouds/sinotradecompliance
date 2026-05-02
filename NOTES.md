@@ -482,3 +482,28 @@
 - **博客 hreflang 优化：** 删除冗余 `blog/head.tsx`，改用内联 `<link>` 标签（`output: 'export'` 兼容）
 - **构建：** 867 pages, 0 errors ✅
 - **Git**：2 commits 已推送（b3f12bc T65, cad8765 T66）
+
+### 2026-05-03 15:00 UTC+8 第 20 次巡检（第 20 轮组合深度检查）— 全站稳定，全部通过
+- **执行任务**：无待执行任务（T0-T69 全部完成）
+- **组合深度检查（第 20 轮）**：
+  - ✅ 构建：867 pages, 0 error
+  - ✅ 翻译完整性：48/48 语言 key 结构完全一致（444 keys），0 缺失 0 多余 0 空值
+  - ✅ 线上页面：18 页面（/,/en/,/zh/,/ja/,/ru/,/ar/ + 服务页×6 + FAQ + Packages + About + Blog + ThankYou）全部 HTTP 200
+  - ✅ 根路径 `/`：302 → `/en/` 正常
+  - ✅ JSON-LD：首页 1 个、FAQ 2 个（FAQPage + Page）、博客文章 2 个（BlogPosting + Page），全部 inline `<script>`
+  - ✅ hreflang：zh/ 48 个、en/ 48 个、en/about/ 48 个、en/faq/ 48 个、博客文章 96 个
+  - ✅ Sitemap：864 URL，41472 xhtml:link hreflang 条目
+  - ✅ canonical：en/faq/ → https://sinotradecompliance.com/en/faq/ 正确
+  - ✅ H1 唯一：6 页抽检均为 1
+  - ✅ FAQ 语义化：39 个 dt/dd 对
+  - ✅ __next_error__：18 页均为 0
+  - ✅ 品牌名：zh.json 含 5 处 "SinoTrade Compliance"
+  - ✅ 联系方式：email 8 处（en/ + zh/）、WhatsApp 6 处，全部一致
+  - ✅ 禁用内容：翻译文件无 #000000，packages 页无实际价格
+  - ✅ 时间说明：仅在法规流程上下文出现（NMPA 备案/注册周期/有效期），非交付承诺
+  - ✅ 博客：48 语言目录各 5 篇 MDX，zh/ blog 5 卡片正常渲染中文标题
+  - ✅ 可访问性：首页 51 aria 属性，FAQ 7 aria，Services 45 aria，img alt 完整
+  - ✅ 无孤儿文件：无 .bak/.tmp/.orig，content/blog/ 仅 48 个有效语言目录
+  - ✅ 非英语 SEO：zh/ja/ko/ru/ar/es/fr/de 各语言 title 本地化质量良好
+- **Git**：working tree clean
+- **结论**：全站运行稳定，无新发现问题 ✅
