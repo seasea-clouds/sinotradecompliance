@@ -34,7 +34,7 @@
 ### 🟢 P2：上线准备
 - [x] T11. 多语言页面抽样验证（48 locale key 一致，构建通过）
 - [x] T12. og:image 生成（1200x630 PNG）
-- [ ] T13. Cloudflare Pages 部署验证
+- [x] T13. Cloudflare Pages 部署验证（首页/zh/About/og-image 全部正常）
 
 ---
 
@@ -55,6 +55,7 @@
 | 05-02 15:30 | T9/T10: 48 语言翻译质量抽检（key 一致，zh/ja/ko/ar 抽检通过） | |
 | 05-02 15:30 | T11: 多语言页面验证（48 locale key 一致，构建通过） | |
 | 05-02 15:30 | T12: og-image.png 生成（1200x630 PNG，品牌色背景） | |
+| 05-02 16:00 | T13: Cloudflare Pages 部署验证（首页/zh/About/og-image 全部正常） | |
 
 ---
 
