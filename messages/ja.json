@@ -88,7 +88,17 @@
     "coverTitle": "対応範囲",
     "coverItems": "CIFERアカウントの作成と管理,18カテゴリーのリスク評価（高リスク vs. 低リスク）,製品のHS/CIQコードマッチング,完全な文書準備と翻訳,ラベルコンプライアンス審査（GB 7718 / GB 28050）,登録更新と5年有効期限の追跡",
     "howTitle": "進め方",
-    "howSteps": "製品評価——製品カテゴリを審査し、適用されるGACC要件を特定します。,CIFER登録——中国のCIFERシステムを通じて登録を作成・管理します。,ドキュメント——すべてのフォーム、翻訳、サポート文書を準備・提出します。,承認と追跡——承認プロセスを監視し、登録更新を管理します。"
+    "howSteps": "製品評価——製品カテゴリを審査し、適用されるGACC要件を特定します。,CIFER登録——中国のCIFERシステムを通じて登録を作成・管理します。,ドキュメント——すべてのフォーム、翻訳、サポート文書を準備・提出します。,承認と追跡——承認プロセスを監視し、登録更新を管理します。",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "What is GACC Decree 248?",
+    "faq1a": "GACC Decree 248 is a Chinese regulation requiring all overseas food manufacturers to register with the General Administration of Customs of China (GACC) before exporting food products to China. It applies to all 18 food categories and took effect January 1, 2022.",
+    "faq2q": "How long does GACC registration take?",
+    "faq2a": "Registration typically takes 2-4 weeks depending on the product category and completeness of documentation. We handle the entire process including document preparation, translation, and submission through the CIFER system.",
+    "faq3q": "What documents are needed for registration?",
+    "faq3a": "Key documents include: business license, production facility information, product list with HS codes, quality management certificates (ISO 22000/HACCP), and product labels. We provide a complete checklist and assist with document preparation.",
+    "faq4q": "Is the registration valid forever?",
+    "faq4a": "No, GACC registration is valid for 5 years. Renewal must be submitted 6 months before expiration. We provide renewal reminders and handle the entire renewal process on your behalf."
   },
   "ServiceLabel": {
     "heroTitle": "中国ラベルコンプライアンス",
@@ -97,7 +107,17 @@
     "coverTitle": "対応範囲",
     "coverItems": "GB 7718-2025预包装食品ラベルコンプライアンス,GB 28050-2025栄養ラベル要件,9つの必須要素の確認（名称、原材料、正味重量、日付、保管条件など）,カスタム中国語ラベルデザイン,生産用ラベルテンプレートの作成,通関ラベルサポート",
     "howTitle": "進め方",
-    "howSteps": "ラベル審査——現在のラベルを中国の規制要件に対して審査します。,ギャップ分析——不足しているまたは非準拠の要素を特定します。,デザインと修正——すべての必須要素を含む準拠した中国語ラベルを作成します。,生産対応ファイル——製造チーム向けに印刷対応のラベルファイルを納品します。"
+    "howSteps": "ラベル審査——現在のラベルを中国の規制要件に対して審査します。,ギャップ分析——不足しているまたは非準拠の要素を特定します。,デザインと修正——すべての必須要素を含む準拠した中国語ラベルを作成します。,生産対応ファイル——製造チーム向けに印刷対応のラベルファイルを納品します。",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "What is Chinese label compliance?",
+    "faq1a": "Chinese label compliance means your product labels must meet China's GB 7718 and GB 28050 standards. This includes mandatory elements like product name, ingredients, nutrition facts, manufacturer info, and Chinese translations.",
+    "faq2q": "Can I use my existing labels with a Chinese sticker?",
+    "faq2a": "In some cases, yes. Supplemental Chinese stickers can be applied at the port of entry for certain products. However, pre-printed Chinese labels are preferred and often required for retail sales. We assess your specific situation and recommend the best approach.",
+    "faq3q": "What happens if my labels are non-compliant?",
+    "faq3a": "Non-compliant labels can result in customs rejection, product seizure, fines, or forced product recalls. Ensuring label compliance before shipping prevents these costly issues.",
+    "faq4q": "Do you design the labels too?",
+    "faq4a": "Yes, we provide complete label services: compliance review against GB standards, custom label design in Chinese, and production-ready files for your printer. We also provide guidance on port-of-entry sticker applications."
   },
   "ServiceCcc": {
     "heroTitle": "CCC認証",
@@ -106,7 +126,17 @@
     "coverTitle": "対応範囲",
     "coverItems": "CCCディレクトリ評価——製品に認証が必要か確認,CNCA認定ラボとのテスト調整,申請準備と提出,工場検査準備,年次監視コンプライアンスサポート,2025年の新規カテゴリ（リチウムイオン電池を含む）",
     "howTitle": "進め方",
-    "howSteps": "適格性評価——製品がCCC強制カタログに含まれるか判断します。,テスト——認定された中国のラボで型式テストを調整します。,申請——必要なすべての文書と共に認証申請を準備・提出します。,認証——CCC証明書を受け取り、年次コンプライアンスを維持します。"
+    "howSteps": "適格性評価——製品がCCC強制カタログに含まれるか判断します。,テスト——認定された中国のラボで型式テストを調整します。,申請——必要なすべての文書と共に認証申請を準備・提出します。,認証——CCC証明書を受け取り、年次コンプライアンスを維持します。",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "What is CCC certification?",
+    "faq1a": "CCC (China Compulsory Certification) is a mandatory safety certification for products sold in China. It covers electronics, automotive parts, toys, safety glass, and other product categories listed in the CCC catalog.",
+    "faq2q": "Does my product need CCC certification?",
+    "faq2a": "Products listed in China's CCC catalog require certification before they can be imported, sold, or used commercially. We provide a free catalog assessment to determine if your products fall under CCC requirements.",
+    "faq3q": "How long does CCC certification take?",
+    "faq3a": "The CCC process typically takes 4-8 months including factory audit, product testing at CNAS-accredited labs, and certification review. Timeline varies by product category and complexity.",
+    "faq4q": "Can CCC certification be done from overseas?",
+    "faq4a": "Yes, but it requires coordination with Chinese testing labs and certification bodies. We act as your local representative, managing factory audits, sample testing, and all communications with certifying authorities."
   },
   "ServiceCosmetics": {
     "heroTitle": "化粧品登録（NMPA）",
@@ -115,7 +145,17 @@
     "coverTitle": "対応範囲",
     "coverItems": "一般化粧品の申請（スキンケア、メイクアップ、ヘアケア）,特殊化粧品の登録（日焼け止め、美白、染毛）,中国責任者の指定,安全性評価の調整,主張機能の有効性テストサポート,上市後コンプライアンス（有害事象モニタリング、年次報告）",
     "howTitle": "進め方",
-    "howSteps": "製品分類——製品が一般化粧品か特殊用途化粧品かを判断します。,責任者——中国国内の責任主体を指定します。,安全性と有効性テスト——認定ラボで必要なテストを調整します。,申請/登録——NMPAに申請を提出し、承認プロセスを管理します。"
+    "howSteps": "製品分類——製品が一般化粧品か特殊用途化粧品かを判断します。,責任者——中国国内の責任主体を指定します。,安全性と有効性テスト——認定ラボで必要なテストを調整します。,申請/登録——NMPAに申請を提出し、承認プロセスを管理します。",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "What is NMPA cosmetics filing?",
+    "faq1a": "NMPA (National Medical Products Administration) filing is required for all cosmetics imported into China. General cosmetics require notification filing, while special-use cosmetics (sunscreen, hair dye, whitening) require registration approval.",
+    "faq2q": "What's the difference between notification and registration?",
+    "faq2a": "Notification filing (for general cosmetics) takes approximately 4-6 months and involves product safety assessment and ingredient review. Registration (for special cosmetics) takes 12-18 months and requires efficacy testing and safety evaluation.",
+    "faq3q": "Do I need a Chinese responsible person?",
+    "faq3a": "Yes, all imported cosmetics must designate a Chinese境内责任人 (domestic responsible person) who assumes legal responsibility for product quality and safety. We can serve as your境内责任人.",
+    "faq4q": "Can I sell cosmetics through cross-border e-commerce without NMPA?",
+    "faq4a": "Yes, cross-border e-commerce (CBEC) channels allow cosmetics sales without NMPA filing under certain conditions. This is a faster market entry route while you prepare full NMPA compliance."
   },
   "ServiceEcommerce": {
     "heroTitle": "越境EC",
@@ -124,7 +164,17 @@
     "coverTitle": "対応範囲",
     "coverItems": "プラットフォーム導入（天猫国際、京東国際、抖音国際）,保税倉庫（1210）と直送（9610）の設置,三単照合（注文、決済、物流）,越境税務最適化（限度内0%関税）,越境販売向け中国語ラベル免除ガイド,越境運営のデータコンプライアンス（PIPL）",
     "howTitle": "進め方",
-    "howSteps": "プラットフォーム選択——ブランドと製品に最適なプラットフォームを選択します。,導入——プラットフォーム登録とコンプライアンス要件を完了します。,物流設定——保税倉庫または直送チャネルを確立します。,ローンチ——準拠した製品リストとマーケティングでライブ開始。"
+    "howSteps": "プラットフォーム選択——ブランドと製品に最適なプラットフォームを選択します。,導入——プラットフォーム登録とコンプライアンス要件を完了します。,物流設定——保税倉庫または直送チャネルを確立します。,ローンチ——準拠した製品リストとマーケティングでライブ開始。",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "Which platforms do you support?",
+    "faq1a": "We support all major Chinese e-commerce platforms: Tmall Global, JD Worldwide, Douyin (TikTok China), Xiaohongshu (Little Red Book), and Pinduoduo. We handle platform registration, store setup, and ongoing compliance.",
+    "faq2q": "What is the \"three-document matching\" requirement?",
+    "faq2a": "Cross-border e-commerce requires three documents to match for each order: the order document, payment document, and logistics document. This is a customs requirement for CBEC goods. We ensure your operations comply with this requirement.",
+    "faq3q": "How long to set up a cross-border store?",
+    "faq3a": "Platform registration typically takes 2-4 weeks. Store setup, product listing, and operational readiness usually takes an additional 2-4 weeks depending on product complexity and platform requirements.",
+    "faq4q": "Do cross-border products need Chinese labels?",
+    "faq4a": "CBEC products are generally exempt from Chinese label requirements since they are considered personal imports. However, product information must be provided in Chinese on the e-commerce platform. We guide you on platform-specific requirements."
   },
   "ServiceBrand": {
     "heroTitle": "ブランド保護",
@@ -133,7 +183,17 @@
     "coverTitle": "対応範囲",
     "coverItems": "商標検索と可利用性評価,商標登録（CNIPA直接申請）,中国向けマドリッドシステム指定,税関知的財産記録,広告コンプライアンス審査（中国広告法）,ブランド保護戦略と執行ガイダンス",
     "howTitle": "進め方",
-    "howSteps": "商標検索——可利用性を確認し、潜在的な衝突を特定します。,登録——CNIPAまたはマドリッドシステムを通じて商標出願を提出します。,税関記録——国境保護のために中国税関に商標を登録します。,継続的保護——侵害を監視し、広告コンプライアンスを維持します。"
+    "howSteps": "商標検索——可利用性を確認し、潜在的な衝突を特定します。,登録——CNIPAまたはマドリッドシステムを通じて商標出願を提出します。,税関記録——国境保護のために中国税関に商標を登録します。,継続的保護——侵害を監視し、広告コンプライアンスを維持します。",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "Why do I need trademark registration in China?",
+    "faq1a": "China follows a \"first-to-file\" trademark system. Without registration, someone else can register your trademark first and prevent you from using it. Early registration is essential for brand protection.",
+    "faq2q": "How long does trademark registration take?",
+    "faq2a": "The process typically takes 8-12 months from application to registration. This includes formal examination, publication period, and certificate issuance. We handle the entire process and monitor for oppositions.",
+    "faq3q": "What is the Madrid System?",
+    "faq3a": "The Madrid System allows you to extend an existing trademark registration to multiple countries, including China, through a single application. It can be faster and more cost-effective than direct filing in China.",
+    "faq4q": "How do I protect against counterfeit products?",
+    "faq4a": "We provide comprehensive brand protection: trademark registration, customs IP recordal (allowing customs to seize counterfeit goods), advertising compliance review, and ongoing monitoring. Early registration is the most important first step."
   },
   "ServiceCommon": {
     "whoTitle": "対象",

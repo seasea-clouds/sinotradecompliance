@@ -88,7 +88,17 @@
     "coverTitle": "Co obejmujemy",
     "coverItems": "Tworzenie i zarządzanie kontem CIFER,Ocena ryzyka w 18 kategoriach (wysokie vs. niskie ryzyko),Dopasowanie kodów HS/CIQ do Twoich produktów,Przygotowanie i tłumaczenie kompletnej dokumentacji,Przegląd zgodności etykiet (GB 7718 / GB 28050),Odnawianie rejestracji i śledzenie 5-letniej ważności",
     "howTitle": "Jak to działa",
-    "howSteps": "Ocena produktu — przeglądamy kategorię Twojego produktu i określamy mające zastosowanie wymogi GACC.,Rejestracja CIFER — tworzymy i zarządzamy Twoją rejestracją w chińskim systemie CIFER.,Dokumentacja — wszystkie formularze, tłumaczenia i dokumenty pomocnicze są przygotowywane i składane.,Zatwierdzenie i śledzenie — monitorujemy proces zatwierdzania i zarządzamy odnawianiem rejestracji."
+    "howSteps": "Ocena produktu — przeglądamy kategorię Twojego produktu i określamy mające zastosowanie wymogi GACC.,Rejestracja CIFER — tworzymy i zarządzamy Twoją rejestracją w chińskim systemie CIFER.,Dokumentacja — wszystkie formularze, tłumaczenia i dokumenty pomocnicze są przygotowywane i składane.,Zatwierdzenie i śledzenie — monitorujemy proces zatwierdzania i zarządzamy odnawianiem rejestracji.",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "What is GACC Decree 248?",
+    "faq1a": "GACC Decree 248 is a Chinese regulation requiring all overseas food manufacturers to register with the General Administration of Customs of China (GACC) before exporting food products to China. It applies to all 18 food categories and took effect January 1, 2022.",
+    "faq2q": "How long does GACC registration take?",
+    "faq2a": "Registration typically takes 2-4 weeks depending on the product category and completeness of documentation. We handle the entire process including document preparation, translation, and submission through the CIFER system.",
+    "faq3q": "What documents are needed for registration?",
+    "faq3a": "Key documents include: business license, production facility information, product list with HS codes, quality management certificates (ISO 22000/HACCP), and product labels. We provide a complete checklist and assist with document preparation.",
+    "faq4q": "Is the registration valid forever?",
+    "faq4a": "No, GACC registration is valid for 5 years. Renewal must be submitted 6 months before expiration. We provide renewal reminders and handle the entire renewal process on your behalf."
   },
   "ServiceLabel": {
     "heroTitle": "Zgodność etykiet chińskich",
@@ -97,7 +107,17 @@
     "coverTitle": "Co obejmujemy",
     "coverItems": "Zgodność etykiet żywności pakowanej z GB 7718-2025,Wymagania dotyczące etykiet żywieniowych GB 28050-2025,Weryfikacja 9 obowiązkowych elementów (nazwa, skład, waga netto, daty, przechowywanie itp.),Indywidualne projektowanie chińskich etykiet,Tworzenie wzorów etykiet do produkcji,Wsparcie etykiet przy odprawie celnej",
     "howTitle": "Jak to działa",
-    "howSteps": "Audyt etykiet — przeglądamy Twoje aktualne etykiety pod kątem chińskich wymogów regulacyjnych.,Analiza luk — identyfikujemy brakujące lub niezgodne elementy.,Projekt i poprawki — tworzymy zgodne chińskie etykiety ze wszystkimi elementami obowiązkowymi.,Gotowe do produkcji pliki — dostarczamy pliki etykiet gotowe do druku dla Twojego zespołu produkcyjnego."
+    "howSteps": "Audyt etykiet — przeglądamy Twoje aktualne etykiety pod kątem chińskich wymogów regulacyjnych.,Analiza luk — identyfikujemy brakujące lub niezgodne elementy.,Projekt i poprawki — tworzymy zgodne chińskie etykiety ze wszystkimi elementami obowiązkowymi.,Gotowe do produkcji pliki — dostarczamy pliki etykiet gotowe do druku dla Twojego zespołu produkcyjnego.",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "What is Chinese label compliance?",
+    "faq1a": "Chinese label compliance means your product labels must meet China's GB 7718 and GB 28050 standards. This includes mandatory elements like product name, ingredients, nutrition facts, manufacturer info, and Chinese translations.",
+    "faq2q": "Can I use my existing labels with a Chinese sticker?",
+    "faq2a": "In some cases, yes. Supplemental Chinese stickers can be applied at the port of entry for certain products. However, pre-printed Chinese labels are preferred and often required for retail sales. We assess your specific situation and recommend the best approach.",
+    "faq3q": "What happens if my labels are non-compliant?",
+    "faq3a": "Non-compliant labels can result in customs rejection, product seizure, fines, or forced product recalls. Ensuring label compliance before shipping prevents these costly issues.",
+    "faq4q": "Do you design the labels too?",
+    "faq4a": "Yes, we provide complete label services: compliance review against GB standards, custom label design in Chinese, and production-ready files for your printer. We also provide guidance on port-of-entry sticker applications."
   },
   "ServiceCcc": {
     "heroTitle": "Certyfikacja CCC",
@@ -106,7 +126,17 @@
     "coverTitle": "Co obejmujemy",
     "coverItems": "Ocena katalogu CCC — potwierdzenie, czy Twój produkt wymaga certyfikacji,Koordynacja testów z laboratoriami akredytowanymi przez CNCA,Przygotowanie i złożenie wniosku,Przygotowanie do inspekcji fabryki,Roczne wsparcie w zakresie zgodności nadzorowej,Nowe kategorie 2025 w tym baterie litowo-jonowe",
     "howTitle": "Jak to działa",
-    "howSteps": "Ocena kwalifikacji — określenie, czy Twój produkt znajduje się w obowiązkowym katalogu CCC.,Testowanie — koordynacja testów typu w akredytowanym chińskim laboratorium.,Wniosek — przygotowanie i złożenie wniosku certyfikacyjnego z całą wymaganą dokumentacją.,Certyfikacja — otrzymanie certyfikatu CCC i utrzymanie rocznej zgodności."
+    "howSteps": "Ocena kwalifikacji — określenie, czy Twój produkt znajduje się w obowiązkowym katalogu CCC.,Testowanie — koordynacja testów typu w akredytowanym chińskim laboratorium.,Wniosek — przygotowanie i złożenie wniosku certyfikacyjnego z całą wymaganą dokumentacją.,Certyfikacja — otrzymanie certyfikatu CCC i utrzymanie rocznej zgodności.",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "What is CCC certification?",
+    "faq1a": "CCC (China Compulsory Certification) is a mandatory safety certification for products sold in China. It covers electronics, automotive parts, toys, safety glass, and other product categories listed in the CCC catalog.",
+    "faq2q": "Does my product need CCC certification?",
+    "faq2a": "Products listed in China's CCC catalog require certification before they can be imported, sold, or used commercially. We provide a free catalog assessment to determine if your products fall under CCC requirements.",
+    "faq3q": "How long does CCC certification take?",
+    "faq3a": "The CCC process typically takes 4-8 months including factory audit, product testing at CNAS-accredited labs, and certification review. Timeline varies by product category and complexity.",
+    "faq4q": "Can CCC certification be done from overseas?",
+    "faq4a": "Yes, but it requires coordination with Chinese testing labs and certification bodies. We act as your local representative, managing factory audits, sample testing, and all communications with certifying authorities."
   },
   "ServiceCosmetics": {
     "heroTitle": "Zgłoszenie kosmetyków (NMPA)",
@@ -115,7 +145,17 @@
     "coverTitle": "Co obejmujemy",
     "coverItems": "Zgłoszenie kosmetyków zwykłych (pielęgnacja skóry, makijaż, pielęgnacja włosów),Rejestracja kosmetyków specjalnych (filtrowanie UV, rozjaśnianie, farbowanie włosów),Wyznaczenie chińskiego odpowiedzialnego przedstawiciela,Koordynacja oceny bezpieczeństwa,Wsparcie w testach skuteczności dla deklarowanych funkcji,Zgodność pou rynkowa (monitorowanie zdarzeń niepożądanych, raporty roczne)",
     "howTitle": "Jak to działa",
-    "howSteps": "Klasyfikacja produktu — określenie, czy Twój produkt to kosmetyki zwykłe czy specjalnego zastosowania.,Odpowiedzialny przedstawiciel — powołanie podmiotu odpowiedzialnego z siedzibą w Chinach.,Testy bezpieczeństwa i skuteczności — koordynacja wymaganych testów w akredytowanych laboratoriach.,Zgłoszenie/Rejestracja — złożenie wniosku do NMPA i zarządzanie procesem zatwierdzania."
+    "howSteps": "Klasyfikacja produktu — określenie, czy Twój produkt to kosmetyki zwykłe czy specjalnego zastosowania.,Odpowiedzialny przedstawiciel — powołanie podmiotu odpowiedzialnego z siedzibą w Chinach.,Testy bezpieczeństwa i skuteczności — koordynacja wymaganych testów w akredytowanych laboratoriach.,Zgłoszenie/Rejestracja — złożenie wniosku do NMPA i zarządzanie procesem zatwierdzania.",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "What is NMPA cosmetics filing?",
+    "faq1a": "NMPA (National Medical Products Administration) filing is required for all cosmetics imported into China. General cosmetics require notification filing, while special-use cosmetics (sunscreen, hair dye, whitening) require registration approval.",
+    "faq2q": "What's the difference between notification and registration?",
+    "faq2a": "Notification filing (for general cosmetics) takes approximately 4-6 months and involves product safety assessment and ingredient review. Registration (for special cosmetics) takes 12-18 months and requires efficacy testing and safety evaluation.",
+    "faq3q": "Do I need a Chinese responsible person?",
+    "faq3a": "Yes, all imported cosmetics must designate a Chinese境内责任人 (domestic responsible person) who assumes legal responsibility for product quality and safety. We can serve as your境内责任人.",
+    "faq4q": "Can I sell cosmetics through cross-border e-commerce without NMPA?",
+    "faq4a": "Yes, cross-border e-commerce (CBEC) channels allow cosmetics sales without NMPA filing under certain conditions. This is a faster market entry route while you prepare full NMPA compliance."
   },
   "ServiceEcommerce": {
     "heroTitle": "Handel elektroniczny transgraniczny",
@@ -124,7 +164,17 @@
     "coverTitle": "Co obejmujemy",
     "coverItems": "Rejestracja na platformach (Tmall Global, JD Worldwide, Douyin Global),Konfiguracja magazynu celnego (1210) i wysyłki bezpośredniej (9610),Uzgadnianie trzech dokumentów (zamówienie, płatność, logistyka),Optymalizacja podatków transgranicznych (0% cła w ramach limitów),Wskazówki dot. zwolnienia z chińskich etykiet dla sprzedaży transgranicznej,Zgodność danych (PIPL) dla operacji transgranicznych",
     "howTitle": "Jak to działa",
-    "howSteps": "Wybór platformy — wybór odpowiednich platform dla Twojej marki i produktów.,Rejestracja — ukończenie rejestracji platformowej i wymogów zgodności.,Konfiguracja logistyki — ustanowienie kanałów magazynu celnego lub wysyłki bezpośredniej.,Start — uruchomienie ze zgodnymi listami produktów i marketingiem."
+    "howSteps": "Wybór platformy — wybór odpowiednich platform dla Twojej marki i produktów.,Rejestracja — ukończenie rejestracji platformowej i wymogów zgodności.,Konfiguracja logistyki — ustanowienie kanałów magazynu celnego lub wysyłki bezpośredniej.,Start — uruchomienie ze zgodnymi listami produktów i marketingiem.",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "Which platforms do you support?",
+    "faq1a": "We support all major Chinese e-commerce platforms: Tmall Global, JD Worldwide, Douyin (TikTok China), Xiaohongshu (Little Red Book), and Pinduoduo. We handle platform registration, store setup, and ongoing compliance.",
+    "faq2q": "What is the \"three-document matching\" requirement?",
+    "faq2a": "Cross-border e-commerce requires three documents to match for each order: the order document, payment document, and logistics document. This is a customs requirement for CBEC goods. We ensure your operations comply with this requirement.",
+    "faq3q": "How long to set up a cross-border store?",
+    "faq3a": "Platform registration typically takes 2-4 weeks. Store setup, product listing, and operational readiness usually takes an additional 2-4 weeks depending on product complexity and platform requirements.",
+    "faq4q": "Do cross-border products need Chinese labels?",
+    "faq4a": "CBEC products are generally exempt from Chinese label requirements since they are considered personal imports. However, product information must be provided in Chinese on the e-commerce platform. We guide you on platform-specific requirements."
   },
   "ServiceBrand": {
     "heroTitle": "Ochrona marki",
@@ -133,7 +183,17 @@
     "coverTitle": "Co obejmujemy",
     "coverItems": "Wyszukiwanie znaków towarowych i ocena dostępności,Rejestracja znaku towarowego (bezpośrednie zgłoszenie CNIPA),Wyznaczenie systemu Madrytu dla Chin,Zgłoszenie własności intelektualnej do ceł,Przegląd zgodności reklamowej (chińska ustawa o reklamie),Strategia ochrony marki i wskazówki egzekucyjne",
     "howTitle": "Jak to działa",
-    "howSteps": "Wyszukiwanie znaków towarowych — weryfikacja dostępności i identyfikacja potencjalnych konfliktów.,Rejestracja — złożenie wniosku o znak towarowy w CNIPA lub przez system Madrytu.,Zgłoszenie celne — rejestracja znaku towarowego w chińskich celach w celu ochrony granicznej.,Ochrona ciągła — monitorowanie naruszeń i utrzymanie zgodności reklamowej."
+    "howSteps": "Wyszukiwanie znaków towarowych — weryfikacja dostępności i identyfikacja potencjalnych konfliktów.,Rejestracja — złożenie wniosku o znak towarowy w CNIPA lub przez system Madrytu.,Zgłoszenie celne — rejestracja znaku towarowego w chińskich celach w celu ochrony granicznej.,Ochrona ciągła — monitorowanie naruszeń i utrzymanie zgodności reklamowej.",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "Why do I need trademark registration in China?",
+    "faq1a": "China follows a \"first-to-file\" trademark system. Without registration, someone else can register your trademark first and prevent you from using it. Early registration is essential for brand protection.",
+    "faq2q": "How long does trademark registration take?",
+    "faq2a": "The process typically takes 8-12 months from application to registration. This includes formal examination, publication period, and certificate issuance. We handle the entire process and monitor for oppositions.",
+    "faq3q": "What is the Madrid System?",
+    "faq3a": "The Madrid System allows you to extend an existing trademark registration to multiple countries, including China, through a single application. It can be faster and more cost-effective than direct filing in China.",
+    "faq4q": "How do I protect against counterfeit products?",
+    "faq4a": "We provide comprehensive brand protection: trademark registration, customs IP recordal (allowing customs to seize counterfeit goods), advertising compliance review, and ongoing monitoring. Early registration is the most important first step."
   },
   "ServiceCommon": {
     "whoTitle": "Dla kogo jest ta usługa",

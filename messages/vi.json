@@ -88,7 +88,17 @@
     "coverTitle": "Chúng tôi bao gồm",
     "coverItems": "Tạo và quản lý tài khoản CIFER,Đánh giá rủi ro 18 danh mục (rủi ro cao so với thấp),Phù hợp mã HS/CIQ cho sản phẩm của bạn,Chuẩn bị và dịch thuật tài liệu hoàn chỉnh,Xem xét tuân thủ nhãn (GB 7718 / GB 28050),Gia hạn đăng ký và theo dõi hiệu lực 5 năm",
     "howTitle": "Cách thức hoạt động",
-    "howSteps": "Đánh giá sản phẩm — Chúng tôi xem xét danh mục sản phẩm và xác định yêu cầu GACC áp dụng.,Đăng ký CIFER — Chúng tôi tạo và quản lý đăng ký qua hệ thống CIFER của Trung Quốc.,Tài liệu — Tất cả biểu mẫu, bản dịch và tài liệu hỗ trợ được chuẩn bị và nộp.,Phê duyệt & Theo dõi — Chúng tôi giám sát quá trình phê duyệt và quản lý gia hạn đăng ký."
+    "howSteps": "Đánh giá sản phẩm — Chúng tôi xem xét danh mục sản phẩm và xác định yêu cầu GACC áp dụng.,Đăng ký CIFER — Chúng tôi tạo và quản lý đăng ký qua hệ thống CIFER của Trung Quốc.,Tài liệu — Tất cả biểu mẫu, bản dịch và tài liệu hỗ trợ được chuẩn bị và nộp.,Phê duyệt & Theo dõi — Chúng tôi giám sát quá trình phê duyệt và quản lý gia hạn đăng ký.",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "What is GACC Decree 248?",
+    "faq1a": "GACC Decree 248 is a Chinese regulation requiring all overseas food manufacturers to register with the General Administration of Customs of China (GACC) before exporting food products to China. It applies to all 18 food categories and took effect January 1, 2022.",
+    "faq2q": "How long does GACC registration take?",
+    "faq2a": "Registration typically takes 2-4 weeks depending on the product category and completeness of documentation. We handle the entire process including document preparation, translation, and submission through the CIFER system.",
+    "faq3q": "What documents are needed for registration?",
+    "faq3a": "Key documents include: business license, production facility information, product list with HS codes, quality management certificates (ISO 22000/HACCP), and product labels. We provide a complete checklist and assist with document preparation.",
+    "faq4q": "Is the registration valid forever?",
+    "faq4a": "No, GACC registration is valid for 5 years. Renewal must be submitted 6 months before expiration. We provide renewal reminders and handle the entire renewal process on your behalf."
   },
   "ServiceLabel": {
     "heroTitle": "Tuân thủ nhãn Trung Quốc",
@@ -97,7 +107,17 @@
     "coverTitle": "Chúng tôi bao gồm",
     "coverItems": "Tuân thủ nhãn thực phẩm đóng gói sẵn GB 7718-2025,Yêu cầu nhãn dinh dưỡng GB 28050-2025,Xác minh 9 yếu tố bắt buộc (tên, thành phần, khối lượng tịnh, ngày, bảo quản, v.v.),Thiết kế nhãn Trung Quốc tùy chỉnh,Tạo mẫu nhãn cho sản xuất,Hỗ trợ nhãn thông quan",
     "howTitle": "Cách thức hoạt động",
-    "howSteps": "Kiểm tra nhãn — Chúng tôi xem xét nhãn hiện tại so với yêu cầu quy định Trung Quốc.,Phân tích khoảng trống — Xác định các yếu tố thiếu hoặc không tuân thủ.,Thiết kế & Sửa đổi — Tạo nhãn Trung Quốc tuân thủ với tất cả yếu tố bắt buộc.,Tập tin sẵn sàng sản xuất — Giao tập tin nhãn sẵn sàng in cho đội sản xuất."
+    "howSteps": "Kiểm tra nhãn — Chúng tôi xem xét nhãn hiện tại so với yêu cầu quy định Trung Quốc.,Phân tích khoảng trống — Xác định các yếu tố thiếu hoặc không tuân thủ.,Thiết kế & Sửa đổi — Tạo nhãn Trung Quốc tuân thủ với tất cả yếu tố bắt buộc.,Tập tin sẵn sàng sản xuất — Giao tập tin nhãn sẵn sàng in cho đội sản xuất.",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "What is Chinese label compliance?",
+    "faq1a": "Chinese label compliance means your product labels must meet China's GB 7718 and GB 28050 standards. This includes mandatory elements like product name, ingredients, nutrition facts, manufacturer info, and Chinese translations.",
+    "faq2q": "Can I use my existing labels with a Chinese sticker?",
+    "faq2a": "In some cases, yes. Supplemental Chinese stickers can be applied at the port of entry for certain products. However, pre-printed Chinese labels are preferred and often required for retail sales. We assess your specific situation and recommend the best approach.",
+    "faq3q": "What happens if my labels are non-compliant?",
+    "faq3a": "Non-compliant labels can result in customs rejection, product seizure, fines, or forced product recalls. Ensuring label compliance before shipping prevents these costly issues.",
+    "faq4q": "Do you design the labels too?",
+    "faq4a": "Yes, we provide complete label services: compliance review against GB standards, custom label design in Chinese, and production-ready files for your printer. We also provide guidance on port-of-entry sticker applications."
   },
   "ServiceCcc": {
     "heroTitle": "Chứng nhận CCC",
@@ -106,7 +126,17 @@
     "coverTitle": "Chúng tôi bao gồm",
     "coverItems": "Đánh giá danh mục CCC — xác nhận sản phẩm có cần chứng nhận không,Phối hợp thử nghiệm với phòng thí nghiệm CNCA,Chuẩn bị và nộp đơn,Chuẩn bị kiểm tra nhà máy,Hỗ trợ tuân thủ giám sát hàng năm,Các danh mục mới 2025 bao gồm pin lithium-ion",
     "howTitle": "Cách thức hoạt động",
-    "howSteps": "Đánh giá đủ điều kiện — Xác định sản phẩm có thuộc danh mục CCC bắt buộc không.,Thử nghiệm — Phối hợp thử nghiệm loại tại phòng thí nghiệm Trung Quốc được công nhận.,Đơn — Chuẩn bị và nộp đơn chứng nhận với tất cả tài liệu cần thiết.,Chứng nhận — Nhận chứng chỉ CCC và duy trì tuân thủ hàng năm."
+    "howSteps": "Đánh giá đủ điều kiện — Xác định sản phẩm có thuộc danh mục CCC bắt buộc không.,Thử nghiệm — Phối hợp thử nghiệm loại tại phòng thí nghiệm Trung Quốc được công nhận.,Đơn — Chuẩn bị và nộp đơn chứng nhận với tất cả tài liệu cần thiết.,Chứng nhận — Nhận chứng chỉ CCC và duy trì tuân thủ hàng năm.",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "What is CCC certification?",
+    "faq1a": "CCC (China Compulsory Certification) is a mandatory safety certification for products sold in China. It covers electronics, automotive parts, toys, safety glass, and other product categories listed in the CCC catalog.",
+    "faq2q": "Does my product need CCC certification?",
+    "faq2a": "Products listed in China's CCC catalog require certification before they can be imported, sold, or used commercially. We provide a free catalog assessment to determine if your products fall under CCC requirements.",
+    "faq3q": "How long does CCC certification take?",
+    "faq3a": "The CCC process typically takes 4-8 months including factory audit, product testing at CNAS-accredited labs, and certification review. Timeline varies by product category and complexity.",
+    "faq4q": "Can CCC certification be done from overseas?",
+    "faq4a": "Yes, but it requires coordination with Chinese testing labs and certification bodies. We act as your local representative, managing factory audits, sample testing, and all communications with certifying authorities."
   },
   "ServiceCosmetics": {
     "heroTitle": "Đăng ký mỹ phẩm (NMPA)",
@@ -115,7 +145,17 @@
     "coverTitle": "Chúng tôi bao gồm",
     "coverItems": "Nộp hồ sơ mỹ phẩm thông thường (chăm sóc da, trang điểm, chăm sóc tóc),Đăng ký mỹ phẩm đặc biệt (chống nắng, làm trắng, nhuộm tóc),Chỉ định đại diện trách nhiệm tại Trung Quốc,Phối hợp đánh giá an toàn,Hỗ trợ thử nghiệm hiệu quả cho chức năng công bố,Tuân thủ hậu thị trường (giám sát sự cố bất lợi, báo cáo hàng năm)",
     "howTitle": "Cách thức hoạt động",
-    "howSteps": "Phân loại sản phẩm — Xác định sản phẩm là mỹ phẩm thông thường hay đặc biệt.,Đại diện trách nhiệm — Chỉ định tổ chức trách nhiệm tại Trung Quốc.,Thử nghiệm an toàn & hiệu quả — Phối hợp thử nghiệm cần thiết tại phòng thí nghiệm được công nhận.,Nộp hồ sơ/Đăng ký — Nộp đơn đến NMPA và quản lý quá trình phê duyệt."
+    "howSteps": "Phân loại sản phẩm — Xác định sản phẩm là mỹ phẩm thông thường hay đặc biệt.,Đại diện trách nhiệm — Chỉ định tổ chức trách nhiệm tại Trung Quốc.,Thử nghiệm an toàn & hiệu quả — Phối hợp thử nghiệm cần thiết tại phòng thí nghiệm được công nhận.,Nộp hồ sơ/Đăng ký — Nộp đơn đến NMPA và quản lý quá trình phê duyệt.",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "What is NMPA cosmetics filing?",
+    "faq1a": "NMPA (National Medical Products Administration) filing is required for all cosmetics imported into China. General cosmetics require notification filing, while special-use cosmetics (sunscreen, hair dye, whitening) require registration approval.",
+    "faq2q": "What's the difference between notification and registration?",
+    "faq2a": "Notification filing (for general cosmetics) takes approximately 4-6 months and involves product safety assessment and ingredient review. Registration (for special cosmetics) takes 12-18 months and requires efficacy testing and safety evaluation.",
+    "faq3q": "Do I need a Chinese responsible person?",
+    "faq3a": "Yes, all imported cosmetics must designate a Chinese境内责任人 (domestic responsible person) who assumes legal responsibility for product quality and safety. We can serve as your境内责任人.",
+    "faq4q": "Can I sell cosmetics through cross-border e-commerce without NMPA?",
+    "faq4a": "Yes, cross-border e-commerce (CBEC) channels allow cosmetics sales without NMPA filing under certain conditions. This is a faster market entry route while you prepare full NMPA compliance."
   },
   "ServiceEcommerce": {
     "heroTitle": "Thương mại điện tử xuyên biên giới",
@@ -124,7 +164,17 @@
     "coverTitle": "Chúng tôi bao gồm",
     "coverItems": "Tham gia nền tảng (Tmall Global, JD Worldwide, Douyin Global),Thiết lập kho ngoại quan (1210) và vận chuyển trực tiếp (9610),Đối chiếu ba chứng từ (đơn hàng, thanh toán, logistics),Tối ưu thuế xuyên biên giới (0% thuế quan trong hạn mức),Hướng dẫn miễn nhãn Trung Quốc cho bán hàng xuyên biên giới,Tuân thủ dữ liệu (PIPL) cho hoạt động xuyên biên giới",
     "howTitle": "Cách thức hoạt động",
-    "howSteps": "Chọn nền tảng — Chọn nền tảng phù hợp cho thương hiệu và sản phẩm của bạn.,Tham gia — Hoàn tất đăng ký nền tảng và yêu cầu tuân thủ.,Thiết lập logistics — Thiết lập kho ngoại quan hoặc kênh vận chuyển trực tiếp.,Ra mắt — Đi hoạt động với danh sách sản phẩm và marketing tuân thủ."
+    "howSteps": "Chọn nền tảng — Chọn nền tảng phù hợp cho thương hiệu và sản phẩm của bạn.,Tham gia — Hoàn tất đăng ký nền tảng và yêu cầu tuân thủ.,Thiết lập logistics — Thiết lập kho ngoại quan hoặc kênh vận chuyển trực tiếp.,Ra mắt — Đi hoạt động với danh sách sản phẩm và marketing tuân thủ.",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "Which platforms do you support?",
+    "faq1a": "We support all major Chinese e-commerce platforms: Tmall Global, JD Worldwide, Douyin (TikTok China), Xiaohongshu (Little Red Book), and Pinduoduo. We handle platform registration, store setup, and ongoing compliance.",
+    "faq2q": "What is the \"three-document matching\" requirement?",
+    "faq2a": "Cross-border e-commerce requires three documents to match for each order: the order document, payment document, and logistics document. This is a customs requirement for CBEC goods. We ensure your operations comply with this requirement.",
+    "faq3q": "How long to set up a cross-border store?",
+    "faq3a": "Platform registration typically takes 2-4 weeks. Store setup, product listing, and operational readiness usually takes an additional 2-4 weeks depending on product complexity and platform requirements.",
+    "faq4q": "Do cross-border products need Chinese labels?",
+    "faq4a": "CBEC products are generally exempt from Chinese label requirements since they are considered personal imports. However, product information must be provided in Chinese on the e-commerce platform. We guide you on platform-specific requirements."
   },
   "ServiceBrand": {
     "heroTitle": "Bảo vệ thương hiệu",
@@ -133,7 +183,17 @@
     "coverTitle": "Chúng tôi bao gồm",
     "coverItems": "Tìm kiếm và đánh giá khả dụng nhãn hiệu,Đăng ký nhãn hiệu (nộp trực tiếp CNIPA),Chỉ định hệ thống Madrid cho Trung Quốc,Ghi nhận sở hữu trí tuệ hải quan,Xem xét tuân thủ quảng cáo (Luật Quảng cáo Trung Quốc),Chiến lược bảo vệ thương hiệu và hướng dẫn thực thi",
     "howTitle": "Cách thức hoạt động",
-    "howSteps": "Tìm kiếm nhãn hiệu — Xác minh khả dụng và xác định xung đột tiềm ẩn.,Đăng ký — Nộp đơn nhãn hiệu đến CNIPA hoặc qua hệ thống Madrid.,Ghi nhận Hải quan — Đăng ký nhãn hiệu với Hải quan Trung Quốc để bảo vệ biên giới.,Bảo vệ liên tục — Giám sát vi phạm và duy trì tuân thủ quảng cáo."
+    "howSteps": "Tìm kiếm nhãn hiệu — Xác minh khả dụng và xác định xung đột tiềm ẩn.,Đăng ký — Nộp đơn nhãn hiệu đến CNIPA hoặc qua hệ thống Madrid.,Ghi nhận Hải quan — Đăng ký nhãn hiệu với Hải quan Trung Quốc để bảo vệ biên giới.,Bảo vệ liên tục — Giám sát vi phạm và duy trì tuân thủ quảng cáo.",
+    "questionsTitle": "Common Questions",
+    "questionsSubtitle": "Find answers to the most frequently asked questions about this service.",
+    "faq1q": "Why do I need trademark registration in China?",
+    "faq1a": "China follows a \"first-to-file\" trademark system. Without registration, someone else can register your trademark first and prevent you from using it. Early registration is essential for brand protection.",
+    "faq2q": "How long does trademark registration take?",
+    "faq2a": "The process typically takes 8-12 months from application to registration. This includes formal examination, publication period, and certificate issuance. We handle the entire process and monitor for oppositions.",
+    "faq3q": "What is the Madrid System?",
+    "faq3a": "The Madrid System allows you to extend an existing trademark registration to multiple countries, including China, through a single application. It can be faster and more cost-effective than direct filing in China.",
+    "faq4q": "How do I protect against counterfeit products?",
+    "faq4a": "We provide comprehensive brand protection: trademark registration, customs IP recordal (allowing customs to seize counterfeit goods), advertising compliance review, and ongoing monitoring. Early registration is the most important first step."
   },
   "ServiceCommon": {
     "whoTitle": "Dành cho ai",
