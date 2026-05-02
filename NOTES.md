@@ -507,3 +507,29 @@
   - ✅ 非英语 SEO：zh/ja/ko/ru/ar/es/fr/de 各语言 title 本地化质量良好
 - **Git**：working tree clean
 - **结论**：全站运行稳定，无新发现问题 ✅
+
+### 2026-05-03 15:10 UTC+8 第 21 次巡检（第 20 轮组合深度检查）— 全站稳定，全部通过
+- **执行任务**：无待执行任务（T0-T69 全部完成）
+- **组合深度检查（第 20 轮）**：
+  - ✅ 构建：867 pages, 0 error
+  - ✅ 翻译完整性：47+1=48 语言 key 结构完全一致（444 keys），0 缺失 0 多余 0 空值
+  - ✅ 线上页面：21 页面（/,/en/,/zh/,/ja/, + 服务页×6×en/zh + FAQ×en/zh + Packages + About + Blog×en/zh + Blog文章×en/zh + ThankYou）全部 HTTP 200
+  - ✅ 根路径 `/`：302 → `/en/` 正常
+  - ✅ JSON-LD：首页 1 个（Organization 含 contactPoint/logo/description），FAQ 1 个（FAQPage），博客文章 2 个（BlogPosting + Page），全部 inline `<script>` 正确渲染
+  - ✅ hreflang：常规页 48 个，博客文章页 96 个，博客列表页 96 个
+  - ✅ Sitemap：864 URL，41472 xhtml:link hreflang 条目
+  - ✅ canonical：en/faq/ → https://sinotradecompliance.com/en/faq/ 正确
+  - ✅ H1 唯一：/en/ 1 个，/zh/ 1 个
+  - ✅ 语义化 HTML：FAQ 39 个 dt/dd 对，nav/main/footer/aria 完整
+  - ✅ __next_error__：8 页（/,/en/,/zh/,/en/faq/,/en/about/,/en/packages/,/en/blog/, + 2 博客文章页）均为 0
+  - ✅ 多语言 SEO：zh/ja/ar/ru/ko 首页 title 本地化质量良好，各语言独立
+  - ✅ 品牌名：zh.json 含 5 处 "SinoTrade Compliance"
+  - ✅ 联系方式：WhatsApp 链接全局一致（HPPZ5X6XZSMLM1），email 全局一致
+  - ✅ 禁用内容：翻译文件无 #000000，packages 页无实际价格（$0/$1/$5/$7 均为 RSC 内部 ID）
+  - ✅ 可访问性：/en/ 51 aria 属性，/zh/ 49 aria 属性，alt 文本完整
+  - ✅ 构建大小：JS 756KB（最大单块 223KB），CSS 30KB，og-image 8.8KB
+  - ✅ 无孤儿文件：无 .bak/.tmp/.orig，content/blog/ 48 种语言目录完整
+  - ✅ Robots.txt：User-agent: * / Allow: / / Sitemap 正确
+  - ✅ 博客封面：外部 Unsplash URL，无本地图片缺失问题
+- **Git**：working tree clean
+- **结论**：全站运行稳定，无新发现问题 ✅
