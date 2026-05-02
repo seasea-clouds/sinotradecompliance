@@ -2,6 +2,30 @@
 
 ## 巡检记录
 
+### 2026-05-02 15:39 UTC+8 第十一次巡检
+- **线上全量验证**：12 页面 × 9 种语言（en/zh/ja/ko/ar/ru/es/fr/de）全部 HTTP 200 ✅
+- **根路径 `/`**：HTTP 302 → `/en/`（Cloudflare Pages `_redirects` 生效）✅
+- **翻译标题验证**：9 种语言首页 title 翻译正确 ✅
+  - zh: 您品牌进入中国的通行证——从合规到商业 ✅
+  - ja: あなたのブランドを中国へ——コンプライアンスからビジネスへ ✅
+  - ko: 중국으로 향하는 브랜드 여권 — 규정 준수에서 상업까지 ✅
+  - ar: جواز علامتك التجارية إلى الصين — من الامتثال إلى التجارة ✅
+  - ru: Паспорт вашего бренда в Китай — от соответствия к коммерции ✅
+  - es: El Pasaporte de su Marca a China — Del Cumplimiento al Comercio ✅
+  - fr: Le Passeport de Votre Marque pour la Chine — De la Conformité au Commerce ✅
+  - de: Ihr Markenpass nach China — Von der Konformität zum Handel ✅
+- **服务页**：6 个服务页 × 3 种语言抽检（en/zh/ja）全部 200 ✅
+- **About/Packages/FAQ/Thank-you**：全部 200 ✅
+- **JSON-LD**：/en/ /en/about/ /en/services/ /en/services/gacc/ /en/packages/ /en/faq/ /en/thank-you/ 各 1 个 ld+json 标签 ✅
+- **SEO 元数据**：title/description/canonical 正确 ✅
+- **Sitemap**：576 URL（48×12），hreflang 完整 ✅
+- **Robots.txt**：200 正常 ✅
+- **`__next_error__` 检查**：7 个页面均无 `__next_error__` ✅
+- **价格检查**：Packages 页无具体价格数字（$1/$0 为 Next.js RSC 内部 ID）✅
+- **联系信息**：email (david@sinotradecompliance.com)、WhatsApp、地址中英文一致 ✅
+- **Git 状态**：working tree clean，up to date with origin/main ✅
+- **结论**：官网改造全部任务保持完成状态，线上运行稳定，无新发现问题
+
 ### 2026-05-02 15:27 UTC+8 第十次巡检
 - **线上全量验证**：12 页面 × 9 种语言（en/zh/ja/ko/ar/ru/es/fr/de）全部 HTTP 200 ✅
 - **根路径 `/`**：HTTP 302 → `/en/`（Cloudflare Pages `_redirects` 生效）✅
