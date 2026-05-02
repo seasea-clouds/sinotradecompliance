@@ -1,4 +1,5 @@
 import { getTranslations } from 'next-intl/server';
+import Script from 'next/script';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const locale = (await params).locale;
@@ -58,6 +59,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
           </a>
         </div>
       </section>
+          <Script id="jsonld-about" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context": "https://schema.org", "@type": "AboutPage", "name": "About SinoTrade Compliance", "description": "Learn about David Zhang and the SinoTrade Compliance team \u2014 your trusted partner for China import regulatory compliance.", "url": "https://sinotradecompliance.com/about/", "publisher": {"@type": "Organization", "name": "SinoTrade Compliance"}, "mainEntity": {"@type": "Person", "name": "David Zhang", "jobTitle": "GACC Registration Expert", "knowsAbout": ["GACC Registration", "Import Compliance", "Food Safety", "Chinese Market Entry"]}}) }} />
     </main>
   );
 }

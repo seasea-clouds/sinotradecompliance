@@ -1,6 +1,7 @@
 import { getTranslations } from 'next-intl/server';
 import PackageCards from '@/components/PackageCards';
 import CTASection from '@/components/CTASection';
+import Script from 'next/script';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const locale = (await params).locale;
@@ -44,6 +45,7 @@ export default async function PackagesPage({ params }: { params: Promise<{ local
       </section>
 
       <CTASection />
+          <Script id="jsonld-packages" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context": "https://schema.org", "@type": "WebPage", "name": "Compliance Packages", "description": "Bundled compliance packages for China market entry \u2014 Market Entry, Go-to-Market, and Brand Launch tiers.", "url": "https://sinotradecompliance.com/packages/", "publisher": {"@type": "Organization", "name": "SinoTrade Compliance"}}) }} />
     </main>
   );
 }
