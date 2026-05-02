@@ -455,5 +455,21 @@
     "oneStop": "שירות מקיף",
     "allCategories": "כיסוי קטגוריות מלא",
     "expertTeam": "צוות מומחים"
+  },
+  "Blog": {
+    "title": "Insights & Compliance Guides",
+    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
+    "readMore": "Read More",
+    "categories": "Categories",
+    "all": "All",
+    "backToBlog": "Back to Blog",
+    "backToHome": "Back to Home",
+    "pagination": "Page",
+    "noPosts": "No posts found.",
+    "publishedOn": "Published on",
+    "author": "David Zhang",
+    "ctaTitle": "Need Help with China Compliance?",
+    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
+    "ctaButton": "Get Free Assessment"
   }
 }

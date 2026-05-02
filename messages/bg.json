@@ -455,5 +455,21 @@
     "title": "Благодарим Ви!",
     "subtitle": "Получихме Вашата заявка. Нашият екип ще се свърже с Вас в рамките на 24 часа. Обратно към началната страницаБлагодарим Ви! Получихме Вашата заявка. Нашият екип ще се свърже с Вас в рамките на 24 часа. Обратно към началната страницаCan't load alternativesTry againБлагодарим Ви! Получихме Вашата заявка. Нашият екип ще се свърже с Вас в рамките на 24 часа. Обратно към началната страница",
     "back": "Обратно към началната страница"
+  },
+  "Blog": {
+    "title": "Insights & Compliance Guides",
+    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
+    "readMore": "Read More",
+    "categories": "Categories",
+    "all": "All",
+    "backToBlog": "Back to Blog",
+    "backToHome": "Back to Home",
+    "pagination": "Page",
+    "noPosts": "No posts found.",
+    "publishedOn": "Published on",
+    "author": "David Zhang",
+    "ctaTitle": "Need Help with China Compliance?",
+    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
+    "ctaButton": "Get Free Assessment"
   }
 }
