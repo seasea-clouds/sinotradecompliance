@@ -1,7 +1,7 @@
 'use client';
 
 import { useTranslations, useLocale } from 'next-intl';
-import { Download, Mail, User } from 'lucide-react';
+import { Download, Mail } from 'lucide-react';
 
 export default function LeadMagnet() {
   const t = useTranslations('LeadMagnet');
@@ -48,27 +48,6 @@ export default function LeadMagnet() {
             name="redirect"
             value={`https://sinotradecompliance.com/${locale}/thank-you`}
           />
-
-          {/* Name Input */}
-          <div className="mb-4 relative">
-            <label
-              htmlFor="name"
-              className="block text-sm font-semibold text-[#333333] mb-1 text-left"
-            >
-              {t('nameLabel')}
-            </label>
-            <div className="relative">
-              <User className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-[#7F8C8D]" />
-              <input
-                type="text"
-                name="name"
-                id="name"
-                placeholder={t('namePlaceholder')}
-                required
-                className="w-full pl-10 pr-4 py-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#1B365D] focus:border-transparent transition-all shadow-sm text-[#333333]"
-              />
-            </div>
-          </div>
 
           {/* Email Input */}
           <div className="mb-4 relative">

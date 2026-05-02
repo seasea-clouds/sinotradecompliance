@@ -153,4 +153,62 @@
 见 `REDESIGN-PLAN.md`
 | 05-02  | 第十七次全语言审计：发现 41/48 语言未完全翻译，11 个严重（210 keys），28 个中等（60-74 keys），1 个轻微（3 keys），已写入 TASK.md 待修复 |
 | 05-02 05-02 08:55 | 第十八次全语言修复：40 个语言 3941 条翻译批量修复（Google Translate API），构建 0 error，commit 007436d，已推送部署 |
-| 05-02 16:28 | 第十六次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD正确渲染为inline script标签，hreflang 48个alternate链接完整，sitemap 576 URL正确，robots.txt 200正常，canonical URL正确，翻译标题9语言正确，6服务页×3语言（en/zh/ja）全部200，联系信息一致，无__next_error__，Packages无价格数字，Git clean，全站运行稳定 ✅ |
+| 05-02 16:28 | 第十六次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD正确渲染为inline script标签，hreflang 48个alternate链接完整，sitemap 576 URL正确，robots.txt 200正常，canonical URL正确，翻译标题9语言正确，6服务页×3语言（en/zh/ja）全部200，联系信息一致，无__next_error__，Packages无价格数字，Git clean，全站运行稳定 ✅
+
+---
+
+## 新需求任务（2026-05-02）
+
+### 阶段一：表单简化（只留邮箱）
+- [x] T20. LeadMagnet 组件删除 Name 输入框（含图标、label、placeholder）✅ 2026-05-02 16:10 UTC+8
+- [x] T21. 48 语言文件删除 `nameLabel` + `namePlaceholder` key ✅ 2026-05-02 16:10 UTC+8，48文件×2keys=96条删除
+
+### 阶段二：文案丰富化
+- [ ] T22. 分析各页面文案不足，列出新增 key 清单
+  - 首页 Hero：subtitle 增加信任背书
+  - 首页流程：修正 "Four simple steps" → "Six steps"
+  - 服务总览：每个服务增加行业覆盖、客户痛点描述
+  - 服务详情页：每个服务 FAQ 从 4 个增到 6-8 个
+  - 套餐页：每个套餐增加适用场景、包含项详细说明
+  - FAQ 页：扩充到 40+ 总问题，覆盖长尾关键词
+  - About：增加团队/合作伙伴信息
+  - 全局：增加社交证明（客户来自 X 国家等）
+- [ ] T23. 撰写增强版英文文案（messages/en.json 新增 ~100 key）
+- [ ] T24. 翻译新增 key 到 47 种语言（AI 翻译 + 批量写入）
+- [ ] T25. 组件适配新 key（FAQ 数量增多需调整循环渲染，新增区块组件等）
+- [ ] T26. 构建验证（next build 0 error）
+
+### 阶段三：全站翻译审计（全部检查，不抽检）
+- [ ] T27. Key 完整性对比：脚本逐文件对比 48 语言 vs en.json，输出缺失/多余 key
+- [ ] T28. 懒翻译检测：识别 value 与英文完全相同的 key，按语言逐行输出
+- [ ] T29. 品牌名检查：验证所有 48 语言中 "SinoTrade Compliance" 未被翻译
+- [ ] T30. 联系信息一致性：验证 email / WhatsApp 链接 / 地址在所有 48 语言中完全一致
+- [ ] T31. 修复 T27-T30 发现的所有问题，逐语言逐 key 修复
+
+### 阶段四：博客系统
+- [ ] T32. 博客组件开发
+  - BlogPostCard.tsx — 文章卡片（封面图 + 标题 + 摘要 + 日期 + 分类标签）
+  - BlogList.tsx — 列表页布局
+  - BlogPost.tsx — 详情页渲染
+  - BlogLayout.tsx — 博客导航 + 侧边栏
+- [ ] T33. 博客页面路由
+  - src/app/(site)/[locale]/blog/page.tsx — 列表页
+  - src/app/(site)/[locale]/blog/[slug]/page.tsx — 详情页
+- [ ] T34. MDX 内容解析（src/lib/blog.ts）
+  - 读取 content/blog/{locale}/ 目录
+  - 解析 frontmatter（title/slug/date/category/excerpt/coverImage）
+  - 静态生成页面
+- [ ] T35. 博客翻译 key
+  - messages/en.json 新增 Blog namespace（导航、分类名等 UI 文案）
+  - 翻译到 48 语言
+  - 博客正文不翻译，仅 UI 组件文案翻译
+- [ ] T36. SEO 集成
+  - 博客列表页 + 详情页加入 sitemap
+  - 每篇文章独立 metadata + JSON-LD Article schema
+- [ ] T37. 撰写 5 篇初始文章（content/blog/en/*.mdx）
+  1. GACC Decree 248 Complete Guide
+  2. Chinese Label Requirements for Imported Food
+  3. CCC Certification for Foreign Manufacturers
+  4. NMPA Cosmetics Filing Process Explained
+  5. Cross-border E-commerce vs Traditional Import
+- [ ] T38. 构建验证 + 部署 |

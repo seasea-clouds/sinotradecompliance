@@ -322,8 +322,6 @@
   "LeadMagnet": {
     "title": "Free Compliance Assessment",
     "subtitle": "Tell us about your products and we'll provide a personalized compliance roadmap.",
-    "nameLabel": "Full Name",
-    "namePlaceholder": "e.g. Michael Scott",
     "emailLabel": "Business Email",
     "emailPlaceholder": "david@sinotradecompliance.com",
     "button": "Download Free Checklist",
