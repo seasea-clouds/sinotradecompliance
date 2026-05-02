@@ -232,3 +232,29 @@
 - 零纯黑 (#000000)
 - 品牌名 "SinoTrade Compliance" 在所有语言中保持英文
 - 联系方式（email、WhatsApp、地址）所有语言完全一致，不得翻译
+
+### 2026-05-02 16:28 UTC+8 第十六次巡检 — 全站运行稳定，无新发现问题
+- **线上全量验证**：12 页面 × 9 种语言（en/zh/ja/ko/ar/ru/es/fr/de）全部 HTTP 200 ✅
+- **根路径 `/`**：HTTP 302 → `/en/`（Cloudflare Pages `_redirects` 生效）✅
+- **翻译标题验证**：9 种语言首页 title 翻译正确，各语言独立 ✅
+  - en: Your Brand's Passport to China — From Compliance to Commerce
+  - zh: 您品牌进入中国的通行证——从合规到商业
+  - ja: あなたのブランドを中国へ——コンプライアンスからビジネスへ
+  - ko: 중국으로 향하는 브랜드 여권 — 규정 준수에서 상업까지
+  - ar: جواز علامتك التجارية إلى الصين — من الامتثال إلى التجارة
+  - ru: Паспорт вашего бренда в Китай — от соответствия к коммерции
+  - es: El Pasaporte de su Marca a China — Del Cumplimiento al Comercio
+  - fr: Le Passeport de Votre Marque pour la Chine — De la Conformité au Commerce
+  - de: Ihr Markenpass nach China — Von der Konformität zum Handel
+- **服务页**：6 个服务页 × 3 种语言抽检（en/zh/ja）全部 200 ✅
+- **About/Packages/FAQ/Thank-you**：全部 200 ✅
+- **JSON-LD**：/en/ /en/about/ /en/services/gacc/ 各 1 个 inline `<script type="application/ld+json">` 正确渲染 ✅
+- **hreflang**：每页 48 个 `<link rel="alternate" hrefLang="xx">` 完整 ✅
+- **canonical URL**：/en/faq/ → https://sinotradecompliance.com/en/faq/ ✅
+- **og:image**：https://sinotradecompliance.com/og-image.png 正确注入，1200x630 ✅
+- **Sitemap**：576 URL（48×12），200 正常 ✅
+- **Robots.txt**：200 正常 ✅
+- **`__next_error__` 检查**：5 个语言首页（en/zh/ja/ko/ar）均无 `__next_error__` ✅
+- **价格检查**：Packages 页无实际价格数字 ✅
+- **Git 状态**：working tree clean，up to date with origin/main ✅
+- **结论**：官网改造全部任务保持完成状态，线上运行稳定，无新发现问题
