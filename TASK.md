@@ -253,9 +253,17 @@
 - [x] T63. 深度巡检 cron 增强 — 巡检协议已要求每次必须执行多维度检查（翻译/SEO/构建/一致性/可访问性），轮次轮换更深维度 ✅ 已确认
 - [x] T64. 套餐页桌面空白区域修复 — 经检查，PackageCards 使用 max-w-6xl mx-auto 居中网格，"空白"为宽屏正常留白，非布局 bug ✅ 已确认
 
-## 执行日志
+## T65+T66 — hreflang 全链路修复 (2026-05-03)
+- **T65:** 博客页 hreflang — 删除冗余 `blog/head.tsx`，改用内联 `<link>` 标签（`output: 'export'` 兼容）
+  - 构建验证：867 pages, 0 errors ✅
+  - Commit: b3f12bc
+- **T66:** 11 个非博客页面 `alternates: { canonical }` 覆盖 layout 的 `alternates.languages`，导致 hreflang 全丢失
+  - 修复：为 about/packages/faq/thank-you/services + 6 服务子页补全 `languages`
+  - 构建验证：FAQ 页静态输出 0→48 个 hreflang ✅
+  - Commit: cad8765
+- **部署状态：** 已推送到 main，等待 Cloudflare Pages 部署后在线验证
 
-### T54+T55 修复 (2026-05-03)
+## T54+T55 修复 (2026-05-03)
 - T54: 博客页 hreflang — 根因 `output: 'export'` 不渲染 `alternates.languages` → 方案：`scripts/inject-hreflang.py` post-build 注入 234 HTML 文件，每页 48 个 `<link rel="alternate">`
 - T55: sitemap.xml 已含 864 URL (576 基础 + 48 博客列表 + 240 博客文章)
 - 套餐回滚: 恢复 3 固定套餐卡片 (Market Entry / Go-to-Market / Brand Launch)

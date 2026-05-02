@@ -401,3 +401,13 @@
   - ❌ **新发现 — 46 语言 Blog namespace 全部未翻译**（非 en/zh 语言）
 - **构建**：632 pages, 0 error ✅
 - **Git**：2 commits 已推送（016fac9, ae04229），TASK.md 新增 T46-T48
+
+## 第 17 轮巡检 — hreflang 全链路修复 (2026-05-03)
+- **发现：** 11 个非博客页面缺失全部 hreflang 链接
+  - **根因：** `generateMetadata` 中 `alternates: { canonical: url }` 在 Next.js App Router 中会**完全覆盖** layout 级 `alternates.languages`，而非合并
+  - **受影响：** about, packages, faq, thank-you, services + gacc/label/ccc/cosmetics/ecommerce/brand
+  - **修复：** 为每个页面补全 `alternates.languages`（48 语言 × 11 页面 = 528 个 hreflang 链接）
+  - **验证：** 构建输出 FAQ 页从 0→48 个 hreflang ✅
+- **博客 hreflang 优化：** 删除冗余 `blog/head.tsx`，改用内联 `<link>` 标签（`output: 'export'` 兼容）
+- **构建：** 867 pages, 0 errors ✅
+- **Git**：2 commits 已推送（b3f12bc T65, cad8765 T66）
