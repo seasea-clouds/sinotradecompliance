@@ -233,7 +233,11 @@
     "missionDesc": "让中国进口法规对各种规模的国际企业都可及、可导航。我们相信合规不应成为进入市场的障碍——而应是一座桥梁。",
     "ctaTitle": "让我们聊聊您的产品",
     "ctaSubtitle": "从我们的专家团队获取免费合规评估。",
-    "ctaButton": "获取免费评估"
+    "ctaButton": "获取免费评估",
+    "title": "About SinoTrade Compliance",
+    "subtitle": "Your trusted partner for navigating China's import regulations.",
+    "missionText": "To make China's import regulations accessible and navigable for international businesses of all sizes. We believe that compliance shouldn't be a barrier to market entry — it should be a bridge.",
+    "values": "Expertise — Deep knowledge of China's regulatory landscape across multiple industries.,Transparency — Fixed-fee pricing with clear deliverables — no hidden costs or surprises.,Commitment — We stay with you from initial consultation to final compliant market entry."
   },
   "Expert": {
     "title": "认识您的中国专家",

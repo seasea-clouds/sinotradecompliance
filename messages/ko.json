@@ -233,7 +233,11 @@
     "missionDesc": "모든 규모의 국제 기업이 중국의 수입 규정에 쉽게 접근하고 탐색할 수 있도록 합니다. 규정이 시장 진입의 장벽이 아니라 다리가 되어야 한다고 믿습니다.",
     "ctaTitle": "제품에 대해 이야기해 봅시다",
     "ctaSubtitle": "전문가 팀으로부터 무료 규정 준수 진단을 받으세요.",
-    "ctaButton": "무료 진단 받기"
+    "ctaButton": "무료 진단 받기",
+    "title": "About SinoTrade Compliance",
+    "subtitle": "Your trusted partner for navigating China's import regulations.",
+    "missionText": "To make China's import regulations accessible and navigable for international businesses of all sizes. We believe that compliance shouldn't be a barrier to market entry — it should be a bridge.",
+    "values": "Expertise — Deep knowledge of China's regulatory landscape across multiple industries.,Transparency — Fixed-fee pricing with clear deliverables — no hidden costs or surprises.,Commitment — We stay with you from initial consultation to final compliant market entry."
   },
   "Expert": {
     "title": "중국 전문가를 만나보세요",

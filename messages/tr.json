@@ -233,7 +233,11 @@
     "missionDesc": "Çin'in ithalat düzenlemelerini her ölçekteki uluslararası işletme için erişilebilir ve yönetilebilir kılmak. Uyumluluğun pazar girişine engel değil, bir köprü olması gerektiğine inanıyoruz.",
     "ctaTitle": "Ürünleriniz Hakkında Konuşalım",
     "ctaSubtitle": "Uzman ekibimizden ücretsiz uyumluluk değerlendirmesi alın.",
-    "ctaButton": "Ücretsiz Değerlendirme Alın"
+    "ctaButton": "Ücretsiz Değerlendirme Alın",
+    "title": "About SinoTrade Compliance",
+    "subtitle": "Your trusted partner for navigating China's import regulations.",
+    "missionText": "To make China's import regulations accessible and navigable for international businesses of all sizes. We believe that compliance shouldn't be a barrier to market entry — it should be a bridge.",
+    "values": "Expertise — Deep knowledge of China's regulatory landscape across multiple industries.,Transparency — Fixed-fee pricing with clear deliverables — no hidden costs or surprises.,Commitment — We stay with you from initial consultation to final compliant market entry."
   },
   "Expert": {
     "title": "Çin Uzmanınızla Tanışın",

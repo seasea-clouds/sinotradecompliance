@@ -233,7 +233,11 @@
     "missionDesc": "Tehdä Kiinan maahantuontisääntelystä helposti lähestyttävä kaikenkokoisille kansainvälisille yrityksille. Uskomme, että vaatimustenmukaisuuden ei pitäisi olla este markkinoilletulolle — sen pitäisi olla silta.",
     "ctaTitle": "Puhutaan tuotteistasi",
     "ctaSubtitle": "Pyydä ilmainen vaatimustenmukaisuusarvio asiantuntijatiimiltämme.",
-    "ctaButton": "Pyydä ilmainen arvio"
+    "ctaButton": "Pyydä ilmainen arvio",
+    "title": "About SinoTrade Compliance",
+    "subtitle": "Your trusted partner for navigating China's import regulations.",
+    "missionText": "To make China's import regulations accessible and navigable for international businesses of all sizes. We believe that compliance shouldn't be a barrier to market entry — it should be a bridge.",
+    "values": "Expertise — Deep knowledge of China's regulatory landscape across multiple industries.,Transparency — Fixed-fee pricing with clear deliverables — no hidden costs or surprises.,Commitment — We stay with you from initial consultation to final compliant market entry."
   },
   "Expert": {
     "title": "Tapaa Kiina-asiantuntijasi",
