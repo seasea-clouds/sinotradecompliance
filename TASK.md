@@ -1,6 +1,6 @@
 # 官网改版 — 任务清单
 
-## 当前状态 (2026-05-02 16:07 UTC+8 第十四次巡检 — 全站运行稳定)
+## 当前状态 (2026-05-02 16:17 UTC+8 第十五次巡检 — 全站运行稳定)
 - ✅ 12 页面全部完成并线上验证
 - ✅ 48 语言翻译，key 完全一致
 - ✅ 构建 0 error
@@ -103,6 +103,7 @@
 | 05-02 15:47 | 第十二次巡检：发现 JSON-LD 渲染 bug — 所有页面使用 `next/script` 导致 JSON-LD 不输出为 HTML `<script>` 标签，搜索引擎无法读取。已修复全部 14 个文件（12 个页面 + 2 个组件），改用 plain `<script>`，构建 0 error，已推送（5ec7247），等待部署后验证。 |
 | 05-02 23:57 | 第十三次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD完整且正确渲染为inline script标签，hreflang 48 alternate链接完整，sitemap 576 URL正确，canonical正确，翻译标题9语言正确，6服务页×2语言（zh/ja）全部200，联系信息一致，无__next_error__，Packages无价格数字，全站运行稳定 ✅ |
 | 05-02 16:07 | 第十四次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD 6个关键页面各1个ld+json正确渲染，hreflang 48个alternate链接完整，sitemap/robots.txt 200正常，canonical URL正确，翻译标题9语言正确，服务页brand/label实际slug正确（非旧版brand-compliance/label-review），联系信息一致，无__next_error__，Packages无价格数字，Git clean，全站运行稳定 ✅ |
+| 05-02 16:17 | 第十五次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD正确渲染为inline script标签，hreflang 48个alternate链接完整，sitemap 576 URL正确，robots.txt 200正常，canonical URL正确，翻译标题9语言正确且各语言独立，6服务页×3语言（en/zh/ja）全部200且翻译标题正确，联系信息一致，无__next_error__，Packages无实际价格数字（$10为RSC内部ID），Git clean，全站运行稳定 ✅ |
 
 ---
 
