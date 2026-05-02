@@ -2,9 +2,19 @@
   "Navbar": {
     "logo": "SinoTrade Compliance",
     "services": "Tjenester",
-    "process": "Prosess",
     "faq": "FAQ",
-    "contact": "Kontakt oss"
+    "contact": "Kontakt oss",
+    "about": "About",
+    "servicesDropdown": {
+      "gacc": "GACC Food Registration",
+      "label": "Chinese Label Compliance",
+      "ccc": "CCC Certification",
+      "cosmetics": "Cosmetics Filing (NMPA)",
+      "ecommerce": "Cross-border E-commerce",
+      "brand": "Brand Protection"
+    },
+    "packages": "Packages",
+    "home": "Home"
   },
   "LeadMagnet": {
     "title": "Gratis GACC-samsjekkliste",
@@ -24,14 +34,24 @@
     "contact": "Kontakt",
     "services": "Tjenester",
     "gaccRegistration": "GACC-registrering",
-    "ciferCompliance": "CIFER-samsvar",
-    "hsCodeClassification": "HS/CIQ-klassifisering",
-    "labelReview": "Etikettgjennomgang",
     "rights": "© 2026 SinoTrade Compliance. Alle rettigheter forbeholdt.",
-    "quickLinks": "Quick Links"
+    "quickLinks": "Quick Links",
+    "faq": "FAQ",
+    "cosmeticsFiling": "Cosmetics Filing (NMPA)",
+    "packages": "Packages",
+    "labelCompliance": "Chinese Label Compliance",
+    "crossBorderEcommerce": "Cross-border E-commerce",
+    "about": "About Us",
+    "cccCertification": "CCC Certification",
+    "brandProtection": "Brand Protection"
   },
   "Common": {
-    "whatsapp": "Kontakt oss på WhatsApp"
+    "whatsapp": "Kontakt oss på WhatsApp",
+    "expertTeam": "Expert Team",
+    "oneStop": "One-Stop Service",
+    "learnMore": "Learn More",
+    "allCategories": "Full Category Coverage",
+    "fixedFee": "Fixed Fee Pricing"
   },
   "About": {
     "heroTitle": "Om SinoTrade Compliance Din pålitelige partner for å navigere Kinas importregler. Møt din Kina-spesialist David Zhang Senior regulatorisk konsulent Med over 10 års erfaring med å hjelpe internasjonale produsenter med å navigere Kinas komplekse importregler, har David veiledet hundrevis av merker gjennom GACC-registrering, samsvar med merking, sertifisering og markedsadgang. Basert i Kina, jobber globalt. Våre verdier Ekspertise Dyp kunnskap om Kinas regulatoriske landskap på tvers av flere bransjer. Åpenhet Fastprising med klare leveranser – ingen skjulte kostnader eller overraskelser. Forpliktelse Vi blir med deg fra første konsultasjon til endelig kompatibel markedsadgang. Vårt oppdrag Å gjøre Kinas importregler tilgjengelige og navigerbare for internasjonale bedrifter i alle størrelser. Vi mener at samsvar ikke bør være en hindring for markedsadgang – det bør være en bro. La oss snakke om produktene dine Få en gratis samsvarsvurdering fra vårt ekspertteam. Få en gratis vurderingOm SinoTrade Compliance Din pålitelige partner for å navigere Kinas importregler. Møt din Kina-spesialist David Zhang Senior regulatorisk konsulent Med over 10 års erfaring med å hjelpe internasjonale produsenter med å navigere Kinas komplekse importregler, har David veiledet hundrevis av merker gjennom GACC-registrering, samsvar med merking, sertifisering og markedsadgang. Basert i Kina, jobber globalt. Våre verdier Ekspertise Dyp kunnskap om Kinas regulatoriske landskap på tvers av flere bransjer. Åpenhet Fastprising med klare leveranser – ingen skjulte kostnader eller overraskelser. Forpliktelse Vi blir med deg fra første konsultasjon til endelig kompatibel markedsadgang. Vårt oppdrag Å gjøre Kinas importregler tilgjengelige og navigerbare for internasjonale bedrifter i alle størrelser. Vi mener at samsvar ikke bør være en hindring for markedsadgang – det bør være en bro. La oss snakke om produktene dine Få en gratis samsvarsvurdering fra vårt ekspertteam. Få en gratis vurderingCan't load alternativesTry againOm SinoTrade Compliance Din pålitelige partner for å navigere Kinas importregler. Møt din Kina-spesialist David Zhang Senior regulatorisk konsulent Med over 10 års erfaring med å hjelpe internasjonale produsenter med å navigere Kinas komplekse importregler, har David veiledet hundrevis av merker gjennom GACC-registrering, samsvar med merking, sertifisering og markedsadgang. Basert i Kina, jobber globalt. Våre verdier Ekspertise Dyp kunnskap om Kinas regulatoriske landskap på tvers av flere bransjer. Åpenhet Fastprising med klare leveranser – ingen skjulte kostnader eller overraskelser. Forpliktelse Vi blir med deg fra første konsultasjon til endelig kompatibel markedsadgang. Vårt oppdrag Å gjøre Kinas importregler tilgjengelige og navigerbare for internasjonale bedrifter i alle størrelser. Vi mener at samsvar ikke bør være en hindring for markedsadgang – det bør være en bro. La oss snakke om produktene dine Få en gratis samsvarsvurdering fra vårt ekspertteam. Få en gratis vurdering",

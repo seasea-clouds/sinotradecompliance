@@ -2,9 +2,19 @@
   "Navbar": {
     "logo": "SinoTrade Compliance",
     "services": "Perkhidmatan",
-    "process": "Proses",
     "faq": "Soalan Lazim",
-    "contact": "Hubungi Kami"
+    "contact": "Hubungi Kami",
+    "about": "About",
+    "servicesDropdown": {
+      "gacc": "GACC Food Registration",
+      "label": "Chinese Label Compliance",
+      "ccc": "CCC Certification",
+      "cosmetics": "Cosmetics Filing (NMPA)",
+      "ecommerce": "Cross-border E-commerce",
+      "brand": "Brand Protection"
+    },
+    "packages": "Packages",
+    "home": "Home"
   },
   "LeadMagnet": {
     "title": "Senarai Semak Pematuhan GACC Percuma",
@@ -24,14 +34,24 @@
     "contact": "Hubungi",
     "services": "Perkhidmatan",
     "gaccRegistration": "Pendaftaran GACC",
-    "ciferCompliance": "Pematuhan CIFER",
-    "hsCodeClassification": "Pengelasan HS/CIQ",
-    "labelReview": "Semakan Label",
     "rights": "© 2026 SinoTrade Compliance. Hak cipta terpelihara.",
-    "quickLinks": "Quick Links"
+    "quickLinks": "Quick Links",
+    "faq": "FAQ",
+    "cosmeticsFiling": "Cosmetics Filing (NMPA)",
+    "packages": "Packages",
+    "labelCompliance": "Chinese Label Compliance",
+    "crossBorderEcommerce": "Cross-border E-commerce",
+    "about": "About Us",
+    "cccCertification": "CCC Certification",
+    "brandProtection": "Brand Protection"
   },
   "Common": {
-    "whatsapp": "Hubungi melalui WhatsApp"
+    "whatsapp": "Hubungi melalui WhatsApp",
+    "expertTeam": "Expert Team",
+    "oneStop": "One-Stop Service",
+    "learnMore": "Learn More",
+    "allCategories": "Full Category Coverage",
+    "fixedFee": "Fixed Fee Pricing"
   },
   "About": {
     "heroTitle": "Mengenai SinoTrade Compliance Rakan kongsi anda yang dipercayai untuk menavigasi peraturan import China. Temui Pakar China Anda David Zhang Perunding Kawal Selia Kanan Dengan lebih 10 tahun pengalaman membantu pengeluar antarabangsa menavigasi peraturan import China yang kompleks, David telah berjaya membimbing beratus-ratus jenama melalui pendaftaran GACC, pematuhan pelabelan, pensijilan dan kemasukan pasaran. Berpangkalan di China, bekerja di seluruh dunia. Nilai Kami Kepakaran Pengetahuan mendalam tentang landskap kawal selia China merentasi pelbagai industri. Ketelusan Penentuan harga yuran tetap dengan hasil yang jelas — tiada kos atau kejutan tersembunyi. Komitmen Kami sentiasa bersama anda dari perundingan awal hingga kemasukan pasaran pematuhan akhir. Misi Kami Untuk menjadikan peraturan import China mudah diakses dan dinavigasi untuk perniagaan antarabangsa dari semua saiz. Kami percaya bahawa pematuhan tidak seharusnya menjadi penghalang kepada kemasukan pasaran — ia harus menjadi jambatan. Mari Bercakap Tentang Produk Anda Dapatkan penilaian pematuhan percuma daripada pasukan pakar kami. Dapatkan Penilaian PercumaMengenai SinoTrade Compliance Rakan kongsi anda yang dipercayai untuk menavigasi peraturan import China. Temui Pakar China Anda David Zhang Perunding Kawal Selia Kanan Dengan lebih 10 tahun pengalaman membantu pengeluar antarabangsa menavigasi peraturan import China yang kompleks, David telah berjaya membimbing beratus-ratus jenama melalui pendaftaran GACC, pematuhan pelabelan, pensijilan dan kemasukan pasaran. Berpangkalan di China, bekerja di seluruh dunia. Nilai Kami Kepakaran Pengetahuan mendalam tentang landskap kawal selia China merentasi pelbagai industri. Ketelusan Penentuan harga yuran tetap dengan hasil yang jelas — tiada kos atau kejutan tersembunyi. Komitmen Kami sentiasa bersama anda dari perundingan awal hingga kemasukan pasaran pematuhan akhir. Misi Kami Untuk menjadikan peraturan import China mudah diakses dan dinavigasi untuk perniagaan antarabangsa dari semua saiz. Kami percaya bahawa pematuhan tidak seharusnya menjadi penghalang kepada kemasukan pasaran — ia harus menjadi jambatan. Mari Bercakap Tentang Produk Anda Dapatkan penilaian pematuhan percuma daripada pasukan pakar kami. Dapatkan Penilaian PercumaCan't load alternativesTry againMengenai SinoTrade Compliance Rakan kongsi anda yang dipercayai untuk menavigasi peraturan import China. Temui Pakar China Anda David Zhang Perunding Kawal Selia Kanan Dengan lebih 10 tahun pengalaman membantu pengeluar antarabangsa menavigasi peraturan import China yang kompleks, David telah berjaya membimbing beratus-ratus jenama melalui pendaftaran GACC, pematuhan pelabelan, pensijilan dan kemasukan pasaran. Berpangkalan di China, bekerja di seluruh dunia. Nilai Kami Kepakaran Pengetahuan mendalam tentang landskap kawal selia China merentasi pelbagai industri. Ketelusan Penentuan harga yuran tetap dengan hasil yang jelas — tiada kos atau kejutan tersembunyi. Komitmen Kami sentiasa bersama anda dari perundingan awal hingga kemasukan pasaran pematuhan akhir. Misi Kami Untuk menjadikan peraturan import China mudah diakses dan dinavigasi untuk perniagaan antarabangsa dari semua saiz. Kami percaya bahawa pematuhan tidak seharusnya menjadi penghalang kepada kemasukan pasaran — ia harus menjadi jambatan. Mari Bercakap Tentang Produk Anda Dapatkan penilaian pematuhan percuma daripada pasukan pakar kami. Dapatkan Penilaian Percuma",

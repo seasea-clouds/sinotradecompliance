@@ -2,9 +2,19 @@
   "Navbar": {
     "logo": "SinoTrade Compliance",
     "services": "Služby",
-    "process": "Proces",
     "faq": "FAQ",
-    "contact": "Kontaktujte nás"
+    "contact": "Kontaktujte nás",
+    "about": "About",
+    "servicesDropdown": {
+      "gacc": "GACC Food Registration",
+      "label": "Chinese Label Compliance",
+      "ccc": "CCC Certification",
+      "cosmetics": "Cosmetics Filing (NMPA)",
+      "ecommerce": "Cross-border E-commerce",
+      "brand": "Brand Protection"
+    },
+    "packages": "Packages",
+    "home": "Home"
   },
   "LeadMagnet": {
     "title": "Bezplatný Kontrolný Zoznam Zhody GACC",
@@ -24,14 +34,24 @@
     "contact": "Kontakt",
     "services": "Služby",
     "gaccRegistration": "Registrácia GACC",
-    "ciferCompliance": "Zhoda CIFER",
-    "hsCodeClassification": "Klasifikácia HS/CIQ",
-    "labelReview": "Kontrola etikiet",
     "rights": "© 2026 SinoTrade Compliance. Všetky práva vyhradené.",
-    "quickLinks": "Quick Links"
+    "quickLinks": "Quick Links",
+    "faq": "FAQ",
+    "cosmeticsFiling": "Cosmetics Filing (NMPA)",
+    "packages": "Packages",
+    "labelCompliance": "Chinese Label Compliance",
+    "crossBorderEcommerce": "Cross-border E-commerce",
+    "about": "About Us",
+    "cccCertification": "CCC Certification",
+    "brandProtection": "Brand Protection"
   },
   "Common": {
-    "whatsapp": "Napíšte na WhatsApp"
+    "whatsapp": "Napíšte na WhatsApp",
+    "expertTeam": "Expert Team",
+    "oneStop": "One-Stop Service",
+    "learnMore": "Learn More",
+    "allCategories": "Full Category Coverage",
+    "fixedFee": "Fixed Fee Pricing"
   },
   "About": {
     "heroTitle": "O spoločnosti SinoTrade Compliance Váš dôveryhodný partner pre orientáciu v čínskych dovozných predpisoch. Zoznámte sa so svojím špecialistom na Čínu David Zhang Senior Regulation Consultant S viac ako 10-ročnými skúsenosťami s pomocou medzinárodným výrobcom pri orientácii v zložitých čínskych dovozných predpisoch David úspešne sprevádzal stovky značiek registráciou v GACC, označovaním, certifikáciou a vstupom na trh. Pôsobí v Číne, pôsobí globálne. Naše hodnoty Odbornosť Hlboká znalosť čínskej regulačnej krajiny vo viacerých odvetviach. Transparentnosť Fixné ceny s jasnými výstupmi – žiadne skryté náklady ani prekvapenia. Záväzok Sme s vami od počiatočnej konzultácie až po konečný vstup na trh, ktorý je v súlade s predpismi. Naše poslanie Sprístupniť a zvládnuť čínske dovozné predpisy pre medzinárodné podniky všetkých veľkostí. Veríme, že dodržiavanie predpisov by nemalo byť prekážkou vstupu na trh – malo by byť mostom. Poďme sa porozprávať o vašich produktoch Získajte bezplatné posúdenie súladu od nášho tímu odborníkov. Získajte bezplatné posúdenieO spoločnosti SinoTrade Compliance Váš dôveryhodný partner pre orientáciu v čínskych dovozných predpisoch. Zoznámte sa so svojím špecialistom na Čínu David Zhang Senior Regulation Consultant S viac ako 10-ročnými skúsenosťami s pomocou medzinárodným výrobcom pri orientácii v zložitých čínskych dovozných predpisoch David úspešne sprevádzal stovky značiek registráciou v GACC, označovaním, certifikáciou a vstupom na trh. Pôsobí v Číne, pôsobí globálne. Naše hodnoty Odbornosť Hlboká znalosť čínskej regulačnej krajiny vo viacerých odvetviach. Transparentnosť Fixné ceny s jasnými výstupmi – žiadne skryté náklady ani prekvapenia. Záväzok Sme s vami od počiatočnej konzultácie až po konečný vstup na trh, ktorý je v súlade s predpismi. Naše poslanie Sprístupniť a zvládnuť čínske dovozné predpisy pre medzinárodné podniky všetkých veľkostí. Veríme, že dodržiavanie predpisov by nemalo byť prekážkou vstupu na trh – malo by byť mostom. Poďme sa porozprávať o vašich produktoch Získajte bezplatné posúdenie súladu od nášho tímu odborníkov. Získajte bezplatné posúdenieCan't load alternativesTry againO spoločnosti SinoTrade Compliance Váš dôveryhodný partner pre orientáciu v čínskych dovozných predpisoch. Zoznámte sa so svojím špecialistom na Čínu David Zhang Senior Regulation Consultant S viac ako 10-ročnými skúsenosťami s pomocou medzinárodným výrobcom pri orientácii v zložitých čínskych dovozných predpisoch David úspešne sprevádzal stovky značiek registráciou v GACC, označovaním, certifikáciou a vstupom na trh. Pôsobí v Číne, pôsobí globálne. Naše hodnoty Odbornosť Hlboká znalosť čínskej regulačnej krajiny vo viacerých odvetviach. Transparentnosť Fixné ceny s jasnými výstupmi – žiadne skryté náklady ani prekvapenia. Záväzok Sme s vami od počiatočnej konzultácie až po konečný vstup na trh, ktorý je v súlade s predpismi. Naše poslanie Sprístupniť a zvládnuť čínske dovozné predpisy pre medzinárodné podniky všetkých veľkostí. Veríme, že dodržiavanie predpisov by nemalo byť prekážkou vstupu na trh – malo by byť mostom. Poďme sa porozprávať o vašich produktoch Získajte bezplatné posúdenie súladu od nášho tímu odborníkov. Získajte bezplatné posúdenie",
