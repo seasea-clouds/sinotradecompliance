@@ -1,6 +1,6 @@
 # 官网改版 — 任务清单
 
-## 当前状态 (2026-05-02 14:03 UTC+8)
+## 当前状态 (2026-05-02 14:06 UTC+8)
 - ✅ 12 页面全部完成
 - ✅ 48 语言翻译，key 完全一致
 - ✅ 构建 0 error
@@ -9,21 +9,22 @@
 - ✅ sitemap.xml + robots.txt
 - ✅ 所有页面独立 metadata + og:image + twitter card
 - ✅ canonical URL 修复（之前所有页面都指向首页，现已修复）
-- ⚠️ JSON-LD 仅 FAQ 页有，其余 11 页缺失
-- ⚠️ og:image 在 Cloudflare CDN 缓存中可能需刷新后才生效
+- ✅ JSON-LD 已部署到所有 12 个页面（首页/About/Services/6 服务页/Packages/ThankYou）
+- ✅ og:image 已在 Cloudflare CDN 生效
+- ⚠️ 根路径 `/` 使用客户端 JS 跳转，搜索引擎爬虫看不到内容
 
 ---
 
 ## 待执行任务（按优先级）
 
-### 🔴 P0：SEO 结构化数据（部分完成）
+### 🔴 P0：SEO 结构化数据（✅ 全部完成）
 - [x] T0. 所有页面添加独立 metadata + og:image + twitter card + 正确 canonical URL（2026-05-02 14:00）
-- [ ] T1. 首页添加 JSON-LD (WebSite schema)
-- [ ] T2. About 页添加 JSON-LD (AboutPage)
-- [ ] T3. Services 页添加 JSON-LD (CollectionPage)
-- [ ] T4. 6 个服务页添加 JSON-LD (Service schema)
-- [ ] T5. Packages 页添加 JSON-LD
-- [ ] T6. ThankYou 页添加 JSON-LD
+- [x] T1. 首页添加 JSON-LD (ProfessionalService schema) — 已部署
+- [x] T2. About 页添加 JSON-LD (AboutPage) — 已部署
+- [x] T3. Services 页添加 JSON-LD (CollectionPage) — 已部署
+- [x] T4. 6 个服务页添加 JSON-LD (Service schema) — 已部署
+- [x] T5. Packages 页添加 JSON-LD — 已部署
+- [x] T6. ThankYou 页添加 JSON-LD — 已部署
 
 ### 🟡 P1：翻译质量
 - [x] T9. zh.json 翻译质量抽检（2026-05-02 15:30 key 一致，抽检通过）
@@ -35,6 +36,9 @@
 - [x] T11. 多语言页面抽样验证（48 locale key 一致，构建通过）
 - [x] T12. og:image 生成（1200x630 PNG，品牌色背景）
 - [x] T13. Cloudflare Pages 部署验证（首页/zh/About/og-image 全部正常）
+
+### 🟡 P1：根路径 SEO 修复（新发现）
+- [ ] T14. 根路径 `/` 改为服务端重定向到 `/en/`（当前为客户端 JS 跳转，搜索引擎爬虫只看到 loading spinner）
 
 ---
 
@@ -57,6 +61,8 @@
 | 05-02 15:30 | T12: og-image.png 生成（1200x630 PNG，品牌色背景） | |
 | 05-02 16:00 | T13: Cloudflare Pages 部署验证（首页/zh/About/og-image 全部正常） | |
 | 05-02 14:03 | T0: 修复 canonical URL 全局错误 + 统一 og-image/twitter card 到所有页面 | 1a9fa58 |
+| 05-02 14:06 | 巡检发现：TASK.md 中 T1-T6 已实际完成但未标记，更新状态 |
+| 05-02 14:06 | 新发现 T14：根路径 `/` 客户端 JS 跳转对 SEO 不友好
 
 ---
 
