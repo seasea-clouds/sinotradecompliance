@@ -3,7 +3,7 @@
     "logo": "SinoTrade Compliance",
     "home": "Accueil",
     "about": "À propos",
-    "services": "Services",
+    "services": "Prestations",
     "servicesDropdown": {
       "gacc": "Registre GACC Alimentaire",
       "label": "Conformité des Étiquettes Chinoises",
@@ -330,8 +330,8 @@
     "emailPlaceholder": "jean@entreprise.com"
   },
   "Footer": {
-    "contact": "Contact",
-    "services": "Services",
+    "contact": "Contacter",
+    "services": "Prestations",
     "gaccRegistration": "Registre GACC",
     "labelCompliance": "Conformité des Étiquettes Chinoises",
     "cccCertification": "Certification CCC",
