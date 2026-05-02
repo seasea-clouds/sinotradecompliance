@@ -1,6 +1,21 @@
 # 官网改版 — 任务清单
 
-## 当前状态 (2026-05-02 14:27 UTC+8 第四次巡检)
+## 当前状态 (2026-05-02 22:37 UTC+8 第五次巡检 — 全部完成)
+- ✅ 12 页面全部完成并线上验证
+- ✅ 48 语言翻译，key 完全一致
+- ✅ 构建 0 error
+- ✅ 6 个服务页均有 ServiceFAQ + LeadMagnet + CTASection
+- ✅ FAQ 页语义化 dl/dt/dd + JSON-LD FAQPage schema
+- ✅ sitemap.xml + robots.txt（576 URL，48×12）
+- ✅ 所有页面独立 metadata + og:image + twitter card
+- ✅ canonical URL 正确
+- ✅ JSON-LD 已部署到所有页面（Organization/Service/FAQPage/WebPage）
+- ✅ og:image 已在 Cloudflare CDN 生效
+- ✅ 根路径 `/` 通过 Cloudflare `_redirects` 302 → `/en/`，SEO 友好
+- ✅ 9 种语言（en/zh/ja/ko/ar/ru/es/fr/de）全部翻译正确
+- ✅ Packages 页无具体价格数字，符合规范
+- ✅ 联系信息所有语言一致
+- ✅ 无遗留问题，官网改造任务全部完成 ✅
 - ✅ 12 页面全部完成
 - ✅ 48 语言翻译，key 完全一致
 - ✅ 构建 0 error
@@ -70,7 +85,8 @@
 | 05-02 22:16 | 第三次巡检：线上全量验证，6 服务页 × 48 语言全部 200 ✅ |
 | 05-02 22:16 | T15: 修复 sitemap.xml 无效 locale bug + 清理 temp 文件 |
 | 05-02 22:20 | T14: 根路径 `/` 客户端 JS 跳转 → 服务端 Accept-Language 重定向（middleware.ts），代码已提交
-| 05-02 14:27 | 第四次巡检：发现 T14 根因 — next.config.ts 中 output: 'export' 导致 middleware 完全不生效，改用 _redirects 方案修复并推送（78a9ad0）
+| 05-02 14:27 | 第四次巡检：发现 T14 根因 — next.config.ts 中 output: 'export' 导致 middleware 完全不生效，改用 _redirects 方案修复并推送（78a9ad0） |
+| 05-02 22:37 | 第五次巡检：全量验证通过，12页面×48语言全部正常，官网改造全部完成 ✅ |
 
 ---
 
