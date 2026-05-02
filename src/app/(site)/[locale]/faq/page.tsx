@@ -24,61 +24,32 @@ export default async function FAQPage({ params }: { params: Promise<{ locale: st
   const locale = (await params).locale;
   const t = await getTranslations({ locale, namespace: 'Faq' });
 
-  // Build FAQ items from the translation structure (Q/A key pairs)
+  // Build FAQ items dynamically from translation keys (supports Q1-Q20 + Q3a/Q4a variants)
+  function buildCategory(prefix: string) {
+    const title = t(`${prefix}Title`);
+    const items: { question: string; answer: string }[] = [];
+    for (let i = 1; i <= 20; i++) {
+      const q = t.raw(`${prefix}Q${i}`) as string | undefined;
+      const a = t.raw(`${prefix}A${i}`) as string | undefined;
+      if (q && a) items.push({ question: q, answer: a });
+      // Check for sub-answers (Q3a/A3a, Q4a/A4a)
+      const qa = t.raw(`${prefix}Q${i}a`) as string | undefined;
+      const aa = t.raw(`${prefix}A${i}a`) as string | undefined;
+      if (qa && aa) items.push({ question: qa, answer: aa });
+      if (!q && !a) break;
+    }
+    return { title, items };
+  }
+
   const categories = [
-    {
-      title: t('generalTitle'),
-      items: [
-        { question: t('generalQ1'), answer: t('generalA1') },
-        { question: t('generalQ2'), answer: t('generalA2') },
-        { question: t('generalQ3'), answer: t('generalA3') },
-        { question: t('generalQ4'), answer: t('generalA4') },
-      ],
-    },
-    {
-      title: t('gaccTitle'),
-      items: [
-        { question: t('gaccQ1'), answer: t('gaccA1') },
-        { question: t('gaccQ2'), answer: t('gaccA2') },
-        { question: t('gaccQ3'), answer: t('gaccA3') },
-        { question: t('gaccQ4'), answer: t('gaccA4') },
-      ],
-    },
-    {
-      title: t('labelTitle'),
-      items: [
-        { question: t('labelQ1'), answer: t('labelA1') },
-        { question: t('labelQ2'), answer: t('labelA2') },
-      ],
-    },
-    {
-      title: t('cccTitle'),
-      items: [
-        { question: t('cccQ1'), answer: t('cccA1') },
-        { question: t('cccQ2'), answer: t('cccA2') },
-      ],
-    },
-    {
-      title: t('cosmeticsTitle'),
-      items: [
-        { question: t('cosmeticsQ1'), answer: t('cosmeticsA1') },
-      ],
-    },
-    {
-      title: t('ecommerceTitle'),
-      items: [
-        { question: t('ecommerceQ1'), answer: t('ecommerceA1') },
-        { question: t('ecommerceQ2'), answer: t('ecommerceA2') },
-      ],
-    },
-    {
-      title: t('brandTitle'),
-      items: [
-        { question: t('brandQ1'), answer: t('brandA1') },
-        { question: t('brandQ2'), answer: t('brandA2') },
-      ],
-    },
-  ];
+    buildCategory('general'),
+    buildCategory('gacc'),
+    buildCategory('label'),
+    buildCategory('ccc'),
+    buildCategory('cosmetics'),
+    buildCategory('ecommerce'),
+    buildCategory('brand'),
+  ].filter((cat) => cat.items.length > 0);
 
   // Build JSON-LD FAQPage structured data
   const faqJsonLd = {

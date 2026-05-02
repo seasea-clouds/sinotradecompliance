@@ -8,6 +8,8 @@ export default function PackageCards() {
     {
       name: t('basicName'),
       desc: t('basicDesc'),
+      useCase: t('basicUseCase'),
+      includes: t('basicIncludes'),
       items: t('basicItems').split(','),
       cta: t('basicCta'),
       popular: false,
@@ -15,6 +17,8 @@ export default function PackageCards() {
     {
       name: t('advancedName'),
       desc: t('advancedDesc'),
+      useCase: t('advancedUseCase'),
+      includes: t('advancedIncludes'),
       items: t('advancedItems').split(','),
       cta: t('advancedCta'),
       popular: true,
@@ -22,6 +26,8 @@ export default function PackageCards() {
     {
       name: t('premiumName'),
       desc: t('premiumDesc'),
+      useCase: t('premiumUseCase'),
+      includes: t('premiumIncludes'),
       items: t('premiumItems').split(','),
       cta: t('premiumCta'),
       popular: false,
@@ -44,7 +50,9 @@ export default function PackageCards() {
             </div>
           )}
           <h3 className="text-xl font-bold text-primary-navy mb-2">{pkg.name}</h3>
-          <p className="text-text-muted text-sm mb-6">{pkg.desc}</p>
+          <p className="text-text-muted text-sm mb-3">{pkg.desc}</p>
+          <p className="text-xs text-accent-gold mb-4 italic">{pkg.useCase}</p>
+          <div className="text-xs text-text-muted mb-2 font-medium">{pkg.includes}</div>
           <ul className="space-y-3 mb-8 flex-grow">
             {pkg.items.map((item, j) => (
               <li key={j} className="flex items-start gap-2 text-sm text-text-charcoal">
