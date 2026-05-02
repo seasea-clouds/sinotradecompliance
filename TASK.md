@@ -16,14 +16,14 @@
 - [x] T3. 校验 48 个 locale 文件 key 与 en.json 完全一致
 
 ### 🔴 P0：样式统一
-- [ ] T4. 统一所有页面顶部间距为 pt-28（当前首页 Hero pt-32，服务页 ServiceHero pt-28，About/Packages/FAQ pt-28，ServicesGrid pt-32 — 不统一）
-- [ ] T5. 统一 section 间距规范（各组件 py-16/20 不统一）
-- [ ] T6. 验证各页面在移动端响应式正常
+- [x] T4. 统一所有页面顶部间距为 pt-28 — Hero pt-28, ServicesGrid pt-28, ServiceHero pt-28
+- [x] T5. 统一 section 间距规范 — Hero pt-28 pb-16, content py-16
+- [ ] T6. 验证各页面在移动端响应式正常（部署后手动检查）
 
 ### 🟡 P1：内容完善
-- [ ] T7. 各服务页添加 Common Questions（FAQ 区，3-4 个 Q&A）— REDESIGN-PLAN 要求
-- [ ] T8. FAQ 页改为语义化结构（dl/dt/dd）— REDESIGN-PLAN §5.2 GEO 要求
-- [ ] T9. LeadMagnet 第三方表单功能验证（Web3Forms 已恢复代码，需测试提交+跳转）
+- [x] T7. 各服务页添加 Common Questions（ServiceFAQ 组件，4 Q&A × 6 服务）
+- [x] T8. FAQ 页改为语义化结构（dl/dt/dd + details/summary）— GEO 优化
+- [ ] T9. LeadMagnet 第三方表单功能验证（Web3Forms 已恢复代码，需部署后测试）
 - [ ] T10. 各服务页 CTA 锚点或跳转到表单
 
 ### 🟡 P1：翻译质量
@@ -50,6 +50,7 @@
 | 05-02 12:30 | 修复 Home/Packages title/subtitle 构建报错 | ✅ d63b764 |
 | 05-02 12:45 | 统一所有页面顶部间距 pt-28 | ✅ 0d282c5 |
 | 05-02 13:00 | 服务页添加 Common Questions (FAQ) + 间距规范 | ✅ 153baab |
+| 05-02 13:30 | FAQ 页语义化 dl/dt/dd + details/summary | ✅ e1befa0 |
 | | | |
 
 ---
