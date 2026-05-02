@@ -1,6 +1,6 @@
 # 官网改版 — 任务清单
 
-## 当前状态 (2026-05-03 14:00 UTC+8 第十八次更新 — 套餐页改版 + 博客集成完成)
+## 当前状态 (2026-05-03 15:20 UTC+8 第二十二次更新 — 第21轮组合深度巡检通过)
 - ✅ 14 页面全部完成并线上验证（含博客系统）
 - ✅ 48 语言翻译全部完整
 - ✅ 构建 0 error, 867 pages
@@ -141,6 +141,7 @@
 | 05-02 23:57 | 第十三次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD完整且正确渲染为inline script标签，hreflang 48 alternate链接完整，sitemap 576 URL正确，canonical正确，翻译标题9语言正确，6服务页×2语言（zh/ja）全部200，联系信息一致，无__next_error__，Packages无价格数字，全站运行稳定 ✅ |
 | 05-02 16:07 | 第十四次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD 6个关键页面各1个ld+json正确渲染，hreflang 48个alternate链接完整，sitemap/robots.txt 200正常，canonical URL正确，翻译标题9语言正确，服务页brand/label实际slug正确（非旧版brand-compliance/label-review），联系信息一致，无__next_error__，Packages无价格数字，Git clean，全站运行稳定 ✅ |
 | 05-02 16:17 | 第十五次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD正确渲染为inline script标签，hreflang 48个alternate链接完整，sitemap 576 URL正确，robots.txt 200正常，canonical URL正确，翻译标题9语言正确且各语言独立，6服务页×3语言（en/zh/ja）全部200且翻译标题正确，联系信息一致，无__next_error__，Packages无实际价格数字（$10为RSC内部ID），Git clean，全站运行稳定 ✅ |
+| 05-03 15:20 | 第二十二次巡检（第21轮组合深度检查）：构建 867 pages 0 error，翻译 48/48 key 一致（444 keys），线上页面全部 200+404 正常，根路径 302→/en/，JSON-LD 完整（首页 Organization+ProfessionalService，FAQ 页 FAQPage，博客 BlogPosting），hreflang 常规页48/博客96，sitemap 864 URL，12种语言 title 本地化正确，博客 zh 文章内容充实（注册202/中国134/食品100/GACC95次），无禁用内容，无孤儿文件，全站稳定 ✅ |
 
 ---
 

@@ -1,6 +1,33 @@
 # 官网 - 注意事项
 
 ## 巡检记录
+### 2026-05-03 15:20 UTC+8 第 22 次巡检（第 21 轮组合深度检查）— 全站稳定，全部通过
+- **执行任务**：无待执行任务（T0-T69 全部完成）
+- **组合深度检查（第 21 轮）**：
+  - ✅ 构建：867 pages, 0 error
+  - ✅ 翻译完整性：48/48 语言 key 结构完全一致（444 keys），0 缺失 0 多余 0 空值
+  - ✅ 线上页面：/,/en/,/zh/,/ja/,/ru/,/ar/,/es/,/fr/,/de/,/pt/,/it/,/nl/,/tr/,/vi/ 全部 HTTP 200；404 页面正常返回 404
+  - ✅ 根路径 `/`：302 → `/en/` 正常
+  - ✅ JSON-LD：首页 4 个 script（Organization + ProfessionalService），FAQ 页（Organization + FAQPage），博客文章（Organization + BlogPosting + WebPage），全部 inline `<script>` 正确渲染
+  - ✅ hreflang：常规页 48 个，博客文章页 96 个，博客列表页 96 个
+  - ✅ Sitemap：864 URL，hreflang 完整
+  - ✅ canonical：zh/ → https://sinotradecompliance.com/zh/ 正确
+  - ✅ OG/Twitter：完整 8+ 项，og-image 1200×630
+  - ✅ H1 唯一：zh/ = 1
+  - ✅ FAQ 语义化：39 个 dt/dd 对
+  - ✅ 语义化 HTML：nav 1, footer 1, section 9, aria 49, img alt 完整
+  - ⚠️ `<main>` 元素：全站 0 个页面使用 `<main>` 语义标签（轻微可访问性缺口，自建站以来一直如此）
+  - ✅ 多语言 SEO：12 种语言首页 title 全部正确本地化（es/fr/de/ja/ko/ar/ru/pt/it/nl/tr/vi），博客 zh 文章含大量中文内容（注册 202次, 中国 134次, 食品 100次, GACC 95次）
+  - ✅ 品牌名：所有语言 title 含 "SinoTrade Compliance"
+  - ✅ 联系方式：email 6-8 处/页，WhatsApp 6 处/页，全部一致
+  - ✅ 禁用内容：无 #000000，packages 页无实际价格（$0/$1 为 RSC 内部 ID）
+  - ✅ robots.txt：User-agent: * / Allow: / / Sitemap 正确
+  - ✅ 构建大小：JS 756KB（最大单块 110KB），CSS 30KB，og-image 8.8KB
+  - ✅ 无孤儿文件：无 .bak/.tmp/.orig/.swp，content/blog/ 48 种语言目录完整
+  - ✅ 清理：删除 temp/blog-translate.log 残留日志
+- **Git**：working tree clean（更新 NOTES.md + TASK.md）
+- **结论**：全站运行稳定，无新发现问题 ✅
+
 ### 2026-05-03 06:30 UTC+8 第 19 次巡检（第 19 轮组合深度检查）— 发现中文页 Home namespace 翻译渲染 bug
 - **执行任务**：无待执行任务（T0-T68 全部完成）
 - **组合深度检查（第 19 轮）**：
