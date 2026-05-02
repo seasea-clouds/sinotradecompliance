@@ -1,6 +1,6 @@
 # 官网改版 — 任务清单
 
-## 当前状态 (2026-05-02 15:39 UTC+8 第十一次巡检 — 全部完成，线上稳定)
+## 当前状态 (2026-05-02 15:47 UTC+8 第十二次巡检 — JSON-LD 渲染 bug 修复完成)
 - ✅ 12 页面全部完成并线上验证
 - ✅ 48 语言翻译，key 完全一致
 - ✅ 构建 0 error
@@ -9,13 +9,13 @@
 - ✅ sitemap.xml + robots.txt（576 URL，48×12）
 - ✅ 所有页面独立 metadata + og:image + twitter card
 - ✅ canonical URL 正确
-- ✅ JSON-LD 已部署到所有页面（Organization/Service/FAQPage/WebPage）
+- ✅ JSON-LD 已修复：所有 12 页面改用 plain `<script>` 标签（`next/script` 在 App Router 中不渲染 inline，搜索引擎无法读取结构化数据）— commit 5ec7247
 - ✅ og:image 已在 Cloudflare CDN 生效
 - ✅ 根路径 `/` 通过 Cloudflare `_redirects` 302 → `/en/`，SEO 友好
 - ✅ 9 种语言（en/zh/ja/ko/ar/ru/es/fr/de）全部翻译正确
 - ✅ Packages 页无具体价格数字，符合规范
 - ✅ 联系信息所有语言一致
-- ✅ 无遗留问题，官网改造任务全部完成 ✅
+- 🔄 等待 Cloudflare Pages 重新部署后线上验证 JSON-LD 是否正确渲染
 
 ---
 
@@ -46,6 +46,9 @@
 
 ### 🟡 P2：数据质量
 - [x] T15. 修复 sitemap.xml 包含 5 个无效 locale（et/lt/lv/my/tl）导致 404（2026-05-02 22:16 已修复并推送）
+
+### 🔴 P0：JSON-LD 渲染修复
+- [x] T16. 修复 JSON-LD 不渲染问题：所有 12 个页面（OrganizationJsonLd、PageJsonLd、FAQ 页内联 + 11 个页面文件）全部从 `next/script` 改为 plain `<script>` 标签。根因：`next/script` 在 App Router 中将 JSON-LD 序列化到 RSC payload 而非输出为 HTML `<script>` 标签，导致搜索引擎爬虫无法读取结构化数据。commit 5ec7247，构建 0 error，已推送，等待 Cloudflare Pages 部署后验证。
 
 ---
 
@@ -81,6 +84,7 @@
 | 05-02 15:17 | 第九次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD完整，sitemap 576 URL正确，翻译标题9语言正确，6服务页×3语言全部200，线上运行稳定 ✅ |
 | 05-02 15:27 | 第十次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD完整，sitemap 576 URL正确，翻译标题9语言正确（含zh/ja/ko/ru完整验证），canonical正确，6服务页×3语言全部200，线上运行稳定 ✅ |
 | 05-02 15:39 | 第十一次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD完整（7个关键页面各1个ld+json），sitemap 576 URL正确，翻译标题9语言全部正确，canonical URL正确，6服务页×3语言全部200，联系信息一致，无__next_error__，Packages无价格数字，线上运行稳定 ✅ |
+| 05-02 15:47 | 第十二次巡检：发现 JSON-LD 渲染 bug — 所有页面使用 `next/script` 导致 JSON-LD 不输出为 HTML `<script>` 标签，搜索引擎无法读取。已修复全部 14 个文件（12 个页面 + 2 个组件），改用 plain `<script>`，构建 0 error，已推送（5ec7247），等待部署后验证。 |
 
 ---
 

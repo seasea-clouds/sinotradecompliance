@@ -2,6 +2,19 @@
 
 ## 巡检记录
 
+### 2026-05-02 15:47 UTC+8 第十二次巡检 — JSON-LD 渲染 bug 发现并修复
+- **线上全量验证**：12 页面 × 9 种语言（en/zh/ja/ko/ar/ru/es/fr/de）全部 HTTP 200 ✅
+- **根路径 `/`**：HTTP 302 → `/en/`（Cloudflare Pages `_redirects` 生效）✅
+- **翻译标题验证**：9 种语言首页 title 翻译正确 ✅
+- **服务页**：12 页面（5 个核心页 + 6 个服务页 + thank-you）全部 200 ✅
+- **Sitemap**：576 URL（48×12），hreflang 完整 ✅
+- **Robots.txt**：200 正常 ✅
+- **`__next_error__` 检查**：无 ✅
+- **Git 状态**：working tree clean，up to date with origin/main ✅
+- **🔴 新发现 — JSON-LD 渲染 bug**：所有 12 个页面的 JSON-LD 结构化数据虽然代码中存在（OrganizationJsonLd.tsx、PageJsonLd.tsx、FAQ 页内联），但线上 HTML 中完全看不到 `<script type="application/ld+json">` 标签。根因：`next/script` 在 Next.js App Router 中将 JSON-LD 序列化到 RSC payload 而非渲染为 inline HTML `<script>` 标签。这意味着搜索引擎爬虫无法读取任何结构化数据，所有 JSON-LD SEO 优化实际上从未生效。
+- **修复**：全部 14 个文件改用 plain `<script>` 标签（OrganizationJsonLd.tsx、PageJsonLd.tsx、FAQ page + 11 个页面文件），移除 `import Script from 'next/script'`。构建 0 error，已提交并推送（5ec7247）。
+- **结论**：基础功能全部正常，新发现 JSON-LD 渲染 bug 并已修复，等待 Cloudflare Pages 重新部署后线上验证 JSON-LD 是否正确输出。
+
 ### 2026-05-02 15:39 UTC+8 第十一次巡检
 - **线上全量验证**：12 页面 × 9 种语言（en/zh/ja/ko/ar/ru/es/fr/de）全部 HTTP 200 ✅
 - **根路径 `/`**：HTTP 302 → `/en/`（Cloudflare Pages `_redirects` 生效）✅
