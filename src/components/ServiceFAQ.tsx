@@ -14,10 +14,10 @@ export default function ServiceFAQ({ namespace }: ServiceFAQProps) {
   // Dynamically collect all FAQ entries (faq1q/faq1a ... faqNq/faqNa)
   const questions: { q: string; a: string }[] = [];
   for (let i = 1; i <= 10; i++) {
-    const q = t.raw(`faq${i}q`);
-    const a = t.raw(`faq${i}a`);
-    if (q && a && typeof q === 'string' && typeof a === 'string') {
-      questions.push({ q, a });
+    const qKey = `faq${i}q`;
+    const aKey = `faq${i}a`;
+    if (t.has(qKey) && t.has(aKey)) {
+      questions.push({ q: t(qKey), a: t(aKey) });
     } else {
       break; // stop at first missing pair
     }
