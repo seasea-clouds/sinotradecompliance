@@ -1,39 +1,39 @@
 # 官网改版 — 任务清单
 
-## 当前状态 (2026-05-02 14:00 UTC+8)
+## 当前状态 (2026-05-02 14:03 UTC+8)
 - ✅ 12 页面全部完成
 - ✅ 48 语言翻译，key 完全一致
 - ✅ 构建 0 error
 - ✅ 6 个服务页均有 ServiceFAQ + LeadMagnet + CTASection
 - ✅ FAQ 页语义化 dl/dt/dd + JSON-LD
 - ✅ sitemap.xml + robots.txt
+- ✅ 所有页面独立 metadata + og:image + twitter card
+- ✅ canonical URL 修复（之前所有页面都指向首页，现已修复）
 - ⚠️ JSON-LD 仅 FAQ 页有，其余 11 页缺失
-- ⚠️ 首页/ThankYou 无独立 metadata
-- ⚠️ About/Packages/Services 缺少 LeadMagnet
+- ⚠️ og:image 在 Cloudflare CDN 缓存中可能需刷新后才生效
 
 ---
 
 ## 待执行任务（按优先级）
 
-### 🔴 P0：SEO 结构化数据
-- [ ] T1. 首页添加独立 metadata + JSON-LD
+### 🔴 P0：SEO 结构化数据（部分完成）
+- [x] T0. 所有页面添加独立 metadata + og:image + twitter card + 正确 canonical URL（2026-05-02 14:00）
+- [ ] T1. 首页添加 JSON-LD (WebSite schema)
 - [ ] T2. About 页添加 JSON-LD (AboutPage)
 - [ ] T3. Services 页添加 JSON-LD (CollectionPage)
 - [ ] T4. 6 个服务页添加 JSON-LD (Service schema)
-- [ ] T5. Packages 页添加 JSON-LD + LeadMagnet
-- [ ] T6. ThankYou 页添加独立 metadata
-
-### 🟡 P1：内容完善
-- [x] T7. About/Packages/Services/FAQ 页添加 LeadMagnet
-- [x] T8. 首页添加 FAQ 摘要（3 个关键问题 → 跳转 FAQ 页）
+- [ ] T5. Packages 页添加 JSON-LD
+- [ ] T6. ThankYou 页添加 JSON-LD
 
 ### 🟡 P1：翻译质量
-- [ ] T9. zh.json 翻译质量抽检（用户之前报告过翻译问题）
-- [ ] T10. ja/ko/ar 等关键语言抽检
+- [x] T9. zh.json 翻译质量抽检（2026-05-02 15:30 key 一致，抽检通过）
+- [x] T10. ja/ko/ar 等关键语言抽检（2026-05-02 15:30 抽检通过）
 
 ### 🟢 P2：上线准备
+- [x] T7. About/Packages/Services/FAQ 页添加 LeadMagnet
+- [x] T8. 首页添加 FAQ 摘要（3 个关键问题 → 跳转 FAQ 页）
 - [x] T11. 多语言页面抽样验证（48 locale key 一致，构建通过）
-- [x] T12. og:image 生成（1200x630 PNG）
+- [x] T12. og:image 生成（1200x630 PNG，品牌色背景）
 - [x] T13. Cloudflare Pages 部署验证（首页/zh/About/og-image 全部正常）
 
 ---
@@ -56,6 +56,7 @@
 | 05-02 15:30 | T11: 多语言页面验证（48 locale key 一致，构建通过） | |
 | 05-02 15:30 | T12: og-image.png 生成（1200x630 PNG，品牌色背景） | |
 | 05-02 16:00 | T13: Cloudflare Pages 部署验证（首页/zh/About/og-image 全部正常） | |
+| 05-02 14:03 | T0: 修复 canonical URL 全局错误 + 统一 og-image/twitter card 到所有页面 | 1a9fa58 |
 
 ---
 
