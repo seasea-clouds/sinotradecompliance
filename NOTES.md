@@ -2,6 +2,29 @@
 
 ## 巡检记录
 
+### 2026-05-03 06:20 UTC+8 第 18 次巡检（第 18 轮组合深度检查）— 全站稳定，全部通过
+- **执行任务**：无待执行任务（T0-T68 全部完成）
+- **组合深度检查（第 18 轮）**：
+  - ✅ 构建：867 pages, 0 error
+  - ✅ 翻译完整性：48/48 语言 key 结构完全一致（444 keys），0 缺失 0 多余 0 空值
+  - ✅ 线上页面：/, /en/, /zh/, /en/services/gacc/, /en/blog/, /en/blog/gacc-registration-guide/, /en/faq/, /en/packages/, /en/about/ 全部 HTTP 200
+  - ✅ 根路径 `/`：302 → `/en/` 正常
+  - ✅ JSON-LD：首页 Organization+ProfessionalService，FAQ 页 FAQPage，博客文章 BlogPosting，全部正确渲染为 inline `<script>`
+  - ✅ hreflang：常规页 48 个 `<link rel="alternate">`，博客文章页 96 个（含 blog 列表 + 文章本身），`hrefLang` camelCase 格式
+  - ✅ Sitemap：864 URL（576 基础 + 48 博客列表 + 240 博客文章）
+  - ✅ H1 唯一：6 页抽检均 = 1
+  - ✅ og-image：https://sinotradecompliance.com/og-image.png 正确注入
+  - ✅ canonical：/en/faq/ → https://sinotradecompliance.com/en/faq/ 正确
+  - ✅ __next_error__：6 页抽检均 0 个
+  - ✅ 品牌名：48 语言 Navbar.logo 均为 "SinoTrade Compliance"
+  - ✅ 联系方式：email 4 处、WhatsApp 13 处，全部一致
+  - ✅ 禁用内容：无纯黑 (#000000)，翻译文件无价格数字
+  - ✅ 博客内容：无违规定价/交付承诺，仅法规流程说明
+  - ✅ 无 orphaned 文件：content/blog/ 48 种语言目录均为有效配置语言
+  - ✅ .inspection.lock 已加入 .gitignore，避免后续误提交
+- **Git**：1 commit 已推送 (318a2ec)
+- **结论**：全站运行稳定，无新发现问题 ✅
+
 ### 2026-05-03 06:00 UTC+8 第 17 次巡检（第 17 轮组合深度检查）— 发现 6 种语言翻译残留
 - **执行任务**：无待执行任务（T0-T67 全部完成）
 - **组合深度检查（第 17 轮）— 竞品对比 + 回归测试 + 翻译深度审计**：
