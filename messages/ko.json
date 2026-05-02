@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "중국으로 향하는 브랜드 여권 — 규정 준수에서 상업까지",
+    "subtitle": "식품, 화장품, 전자제품 등 원스톱 수입 규제 서비스."
   },
   "Services": {
     "heroTitle": "서비스 소개",
@@ -168,7 +170,9 @@
     "customTitle": "전면 위탁",
     "customDesc": "맞춤형 솔루션이 필요하신가요? 제품, 일정 및 비즈니스 목표에 맞춘 규정 준수 계획을 설계해 드립니다.",
     "customCta": "맞춤 견적 문의",
-    "popular": "인기 패키지"
+    "popular": "인기 패키지",
+    "title": "규정 준수 패키지",
+    "subtitle": "브랜드의 중국 진출 전략에 맞는 패키지를 선택하세요."
   },
   "Faq": {
     "heroTitle": "자주 묻는 질문",

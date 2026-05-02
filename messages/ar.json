@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "جواز علامتك التجارية إلى الصين — من الامتثال إلى التجارة",
+    "subtitle": "خدمات تنظيمية شاملة للاستيراد للأغذية ومستحضرات التجميل والإلكترونيات والمزيد."
   },
   "Services": {
     "heroTitle": "خدماتنا",
@@ -168,7 +170,9 @@
     "customTitle": "التفويض الكامل",
     "customDesc": "تحتاج حلاً مخصصًا؟ سنصمم خطة امتثال مصممة خصيصًا لمنتجاتك وجدولك الزمني وأهداف عملك.",
     "customCta": "اتصل بنا للحصول على عرض سعر مخصص",
-    "popular": "الأكثر شعبية"
+    "popular": "الأكثر شعبية",
+    "title": "باقات الامتثال",
+    "subtitle": "اختر الباقة التي تناسب استراتيجية دخول علامتك التجارية إلى الصين."
   },
   "Faq": {
     "heroTitle": "الأسئلة الشائعة",

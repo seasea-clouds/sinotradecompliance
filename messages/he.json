@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "הדרכון של המותג שלכם לסין — מתאימות למסחר",
+    "subtitle": "שירותי ייבוא רגולטוריים מקיפים למזון, קוסמטיקה, אלקטרוניקה ועוד."
   },
   "Services": {
     "heroTitle": "השירותים שלנו",
@@ -168,7 +170,9 @@
     "customTitle": "העסקה מלאה",
     "customDesc": "צריכים פתרון מותאם אישית? אנחנו נעצב תוכנית תאימות מותאמת למוצרים, ללוח הזמנים וליעדים העסקיים שלכם.",
     "customCta": "צרו קשר להצעת מחיר מותאמת",
-    "popular": "הפופולרי ביותר"
+    "popular": "הפופולרי ביותר",
+    "title": "חבילות תאימות",
+    "subtitle": "בחרו את החבילה שמתאימה לאסטרטגיית הכניסה של המותג שלכם לסין."
   },
   "Faq": {
     "heroTitle": "שאלות נפוצות",

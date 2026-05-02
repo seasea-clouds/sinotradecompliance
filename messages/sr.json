@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "Pasoš Vašeg Brenda za Kinu — Od Usklađenosti do Komercijalizacije",
+    "subtitle": "Usvajanje regulatornih usluga za hranu, kozmetiku, elektroniku i više."
   },
   "Services": {
     "heroTitle": "Naše Usluge",
@@ -168,7 +170,9 @@
     "customTitle": "Potpuno Poverenje",
     "customDesc": "Treba vam prilagođeno rešenje? Dizajniraćemo plan usklađenosti prilagođen vašim specifičnim proizvodima, vremenskom okviru i poslovnim ciljevima.",
     "customCta": "Kontaktirajte Nas za Prilagođenu Ponudu",
-    "popular": "Najpopularnije"
+    "popular": "Najpopularnije",
+    "title": "Paketi Usklađenosti",
+    "subtitle": "Izaberite paket koji odgovara strategiji ulaska vašeg brenda u Kinu."
   },
   "Faq": {
     "heroTitle": "Često Postavljana Pitanja",

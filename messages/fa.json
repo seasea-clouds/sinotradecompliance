@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "پاسپورت برند شما برای چین — از انطباق تا تجارت",
+    "subtitle": "خدمات نظارتی واردات یک‌جا برای مواد غذایی، لوازم آرایشی، الکترونیک و موارد دیگر."
   },
   "Services": {
     "heroTitle": "خدمات ما",
@@ -168,7 +170,9 @@
     "customTitle": "واگذاری کامل",
     "customDesc": "به یک راهکار سفارشی نیاز دارید؟ ما یک برنامه انطباق متناسب با محصولات خاص، زمان‌بندی و اهداف تجاری شما طراحی خواهیم کرد.",
     "customCta": "تماس با ما برای استعلام سفارشی",
-    "popular": "محبوب‌ترین"
+    "popular": "محبوب‌ترین",
+    "title": "بسته‌های انطباق",
+    "subtitle": "بسته‌ای را انتخاب کنید که با استراتژی ورود برند شما به چین متناسب باشد."
   },
   "Faq": {
     "heroTitle": "سوالات متداول",

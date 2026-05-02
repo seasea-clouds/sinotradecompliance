@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "Your Brand's Passport to China — From Compliance to Commerce",
+    "subtitle": "One-stop import regulatory services for food, cosmetics, electronics, and more."
   },
   "Services": {
     "heroTitle": "Our Services",
@@ -168,7 +170,9 @@
     "customTitle": "Full Entrustment",
     "customDesc": "Need a custom solution? We'll design a compliance plan tailored to your specific products, timeline, and business goals.",
     "customCta": "Contact Us for Custom Quote",
-    "popular": "Most Popular"
+    "popular": "Most Popular",
+    "title": "Compliance Packages",
+    "subtitle": "Choose the package that fits your brand's China entry strategy."
   },
   "Faq": {
     "heroTitle": "Frequently Asked Questions",

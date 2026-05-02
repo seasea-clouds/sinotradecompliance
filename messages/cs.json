@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "Pasport vaší značky do Číny — Od compliance po obchod",
+    "subtitle": "Komplexní dovozní regulatorní služby pro potraviny, kosmetiku, elektroniku a další."
   },
   "Services": {
     "heroTitle": "Naše služby",
@@ -168,7 +170,9 @@
     "customTitle": "Plné pověření",
     "customDesc": "Potřebujete custom řešení? Navrhneme compliance plán šitý na míru vašim konkrétním produktům, časovému harmonogramu a obchodním cílům.",
     "customCta": "Kontaktujte nás pro custom nabídku",
-    "popular": "Nejoblíbenější"
+    "popular": "Nejoblíbenější",
+    "title": "Compliance balíčky",
+    "subtitle": "Vyberte balíček, který odpovídá strategii vstupu vaší značky do Číny."
   },
   "Faq": {
     "heroTitle": "Často kladené otázky",

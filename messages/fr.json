@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "Le Passeport de Votre Marque pour la Chine — De la Conformité au Commerce",
+    "subtitle": "Services réglementaires d'importation complets pour l'alimentation, les cosmétiques, l'électronique et plus encore."
   },
   "Services": {
     "heroTitle": "Nos Services",
@@ -168,7 +170,9 @@
     "customTitle": "Confiance Totale",
     "customDesc": "Besoin d'une solution sur mesure ? Nous concevrons un plan de conformité adapté à vos produits spécifiques, délais et objectifs commerciaux.",
     "customCta": "Contactez-nous pour un Devis Personnalisé",
-    "popular": "Le Plus Populaire"
+    "popular": "Le Plus Populaire",
+    "title": "Forfaits de Conformité",
+    "subtitle": "Choisissez le forfait adapté à la stratégie d'entrée de votre marque en Chine."
   },
   "Faq": {
     "heroTitle": "Questions Fréquemment Posées",

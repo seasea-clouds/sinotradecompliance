@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "Паспорт вашего бренда в Китай — от соответствия к коммерции",
+    "subtitle": "Комплексные регуляторные услуги по импорту продуктов питания, косметики, электроники и многого другого."
   },
   "Services": {
     "heroTitle": "Наши услуги",
@@ -168,7 +170,9 @@
     "customTitle": "Полное сопровождение",
     "customDesc": "Нужно индивидуальное решение? Мы разработаем план соответствия, адаптированный под ваши продукты, сроки и бизнес-цели.",
     "customCta": "Свяжитесь с нами для индивидуального расчёта",
-    "popular": "Самый популярный"
+    "popular": "Самый популярный",
+    "title": "Пакеты соответствия",
+    "subtitle": "Выберите пакет, подходящий для стратегии выхода вашего бренда в Китай."
   },
   "Faq": {
     "heroTitle": "Часто задаваемые вопросы",

@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "Ditt varumärkes pass till Kina — från regelefterlevnad till kommers",
+    "subtitle": "Samlade importregleringstjänster för mat, kosmetika, elektronik och mer."
   },
   "Services": {
     "heroTitle": "Våra tjänster",
@@ -168,7 +170,9 @@
     "customTitle": "Full uppdrag",
     "customDesc": "Behöver du en skräddarsydd lösning? Vi designar en regelefterlevnadsplan anpassad för dina specifika produkter, tidslinje och affärsmål.",
     "customCta": "Kontakta oss för skräddarsydd offert",
-    "popular": "Mest populär"
+    "popular": "Mest populär",
+    "title": "Regelefterlevnadspaket",
+    "subtitle": "Välj det paket som passar ditt varumärkes Kina-inträdesstrategi."
   },
   "Faq": {
     "heroTitle": "Vanliga frågor",

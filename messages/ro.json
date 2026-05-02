@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "Pașaportul brandului tău către China — De la conformitate la comerț",
+    "subtitle": "Servicii regulatorii de import complete pentru alimente, cosmetice, electronice și altele."
   },
   "Services": {
     "heroTitle": "Serviciile noastre",
@@ -168,7 +170,9 @@
     "customTitle": "Împuternicire completă",
     "customDesc": "Ai nevoie de o soluție personalizată? Vom proiecta un plan de conformitate adaptat produselor, calendarului și obiectivelor tale de afaceri specifice.",
     "customCta": "Contactează-ne pentru ofertă personalizată",
-    "popular": "Cel mai popular"
+    "popular": "Cel mai popular",
+    "title": "Pachete de conformitate",
+    "subtitle": "Alege pachetul care se potrivește strategiei de intrare a brandului tău în China."
   },
   "Faq": {
     "heroTitle": "Întrebări frecvente",

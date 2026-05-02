@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "चीन के लिए आपके ब्रांड का पासपोर्ट — अनुपालन से लेकर वाणिज्य तक",
+    "subtitle": "खाद्य, कॉस्मेटिक्स, इलेक्ट्रॉनिक्स और अधिक के लिए वन-स्टॉप आयात नियामक सेवाएं।"
   },
   "Services": {
     "heroTitle": "हमारी सेवाएं",
@@ -168,7 +170,9 @@
     "customTitle": "पूर्ण विश्वास",
     "customDesc": "कस्टम समाधान चाहिए? हम आपके विशिष्ट उत्पादों, समयरेखा और व्यावसायिक लक्ष्यों के अनुसार एक अनुपालन योजना तैयार करेंगे।",
     "customCta": "कस्टम कोटेशन के लिए संपर्क करें",
-    "popular": "सबसे लोकप्रिय"
+    "popular": "सबसे लोकप्रिय",
+    "title": "अनुपालन पैकेज",
+    "subtitle": "वह पैकेज चुनें जो आपके ब्रांड की चीन प्रवेश रणनीति के अनुकूल हो।"
   },
   "Faq": {
     "heroTitle": "अक्सर पूछे जाने वाले प्रश्न",

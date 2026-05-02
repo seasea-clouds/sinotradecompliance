@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "Vaš potni list na Kitajsko — Od skladnosti do trgovine",
+    "subtitle": "Celovite storitve uvoznih predpisov za živila, kozmetiko, elektroniko in več."
   },
   "Services": {
     "heroTitle": "Naše storitve",
@@ -168,7 +170,9 @@
     "customTitle": "Popolno pooblastilo",
     "customDesc": "Potrebujete rešitev po meri? Oblikovali bomo načrt skladnosti, prilagojen vašim specifičnim izdelkom, časovnemu razporedu in poslovnim ciljem.",
     "customCta": "Kontaktirajte nas za ponudbo po meri",
-    "popular": "Najbolj priljubljeno"
+    "popular": "Najbolj priljubljeno",
+    "title": "Paketi skladnosti",
+    "subtitle": "Izberite paket, ki ustreza strategiji vstopa vaše blagovne znamke na Kitajsko."
   },
   "Faq": {
     "heroTitle": "Pogosta vprašanja",

@@ -49,7 +49,9 @@
     "processStep5Title": "质量保证",
     "processStep5Desc": "我们验证所有文件和认证符合中国监管标准。",
     "processStep6Title": "市场准入支持",
-    "processStep6Desc": "持续合规监控和法规更新，确保您的业务顺利运营。"
+    "processStep6Desc": "持续合规监控和法规更新，确保您的业务顺利运营。",
+    "title": "您品牌进入中国的通行证——从合规到商业",
+    "subtitle": "为食品、化妆品、电子产品等提供一站式进口法规服务。"
   },
   "Services": {
     "heroTitle": "我们的服务",
@@ -168,7 +170,9 @@
     "customTitle": "全权委托",
     "customDesc": "需要定制方案？我们将根据您的具体产品、时间表和业务目标设计合规计划。",
     "customCta": "联系我们获取定制报价",
-    "popular": "最受欢迎"
+    "popular": "最受欢迎",
+    "title": "合规套餐",
+    "subtitle": "选择适合您品牌进入中国战略的套餐。"
   },
   "Faq": {
     "heroTitle": "常见问题",

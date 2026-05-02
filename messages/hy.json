@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "Ձեր ապրանքանիշի անձնագիրը Չինաստան — համապատասխանությունից մինչև առևտուր",
+    "subtitle": "Մեկ կետից ներմուծման կարգավորող ծառայություններ սննդի, կոսմետիկայի, էլեկտրոնիկայի և այլնի համար։"
   },
   "Services": {
     "heroTitle": "Մեր ծառայությունները",
@@ -168,7 +170,9 @@
     "customTitle": "Լիակատար հանձնարարություն",
     "customDesc": "Պե՞տք է անհատական լուծում։ Մենք կմշակենք համապատասխանության պլան՝ հարմարեցված ձեր կոնկրետ ապրանքներին, ժամկետներին և բիզնես նպատակներին։",
     "customCta": "Կապ մեզ հետ անհատական գնի համար",
-    "popular": "Ամենահայտնի"
+    "popular": "Ամենահայտնի",
+    "title": "Համապատասխանության փաթեթներ",
+    "subtitle": "Ընտրեք փաթեթը, որը համապատասխանում է ձեր բրենդի Չինաստան մուտքի ռազմավարությանը։"
   },
   "Faq": {
     "heroTitle": "Հաճախ տրվող հարցեր",

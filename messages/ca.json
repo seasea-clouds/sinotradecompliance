@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "El passaport de la vostra marca cap a la Xina — De la Conformitat al Comerç",
+    "subtitle": "Serveis reguladors d'importació integrals per a aliments, cosmètics, electrònica i més."
   },
   "Services": {
     "heroTitle": "Els Nostres Serveis",
@@ -168,7 +170,9 @@
     "customTitle": "Confiança Total",
     "customDesc": "Necessiteu una solució personalitzada? Dissenyarem un pla de conformitat adaptat als vostres productes, terminis i objectius de negoci específics.",
     "customCta": "Contacteu-nos per a un Pressupost Personalitzat",
-    "popular": "El Més Popular"
+    "popular": "El Més Popular",
+    "title": "Paquets de Conformitat",
+    "subtitle": "Trieu el paquet que s'adapta a l'estratègia d'entrada a la Xina de la vostra marca."
   },
   "Faq": {
     "heroTitle": "Preguntes Freqüents",

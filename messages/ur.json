@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "چین کے لیے آپ کے برانڈ کا پاسپورٹ — کمپلائنس سے کامرس تک",
+    "subtitle": "فوڈ، کاسمیٹکس، الیکٹرانکس اور مزید کے لیے ون اسٹاپ امپورٹ ریگولیٹری سروسز۔"
   },
   "Services": {
     "heroTitle": "ہماری خدمات",
@@ -168,7 +170,9 @@
     "customTitle": "مکمل انٹرسٹمنٹ",
     "customDesc": "حسب ضرورت حل چاہیے؟ ہم آپ کی مخصوص مصنوعات، ٹائم لائن اور بزنس اہداف کے مطابق ایک کمپلائنس پلان تیار کریں گے۔",
     "customCta": "حسب ضرورت کوٹ کے لیے ہم سے رابطہ کریں",
-    "popular": "سب سے مقبول"
+    "popular": "سب سے مقبول",
+    "title": "کمپلائنس پیکجز",
+    "subtitle": "وہ پیکج منتخب کریں جو آپ کے برانڈ کی چین انٹری حکمت عملی کے مطابق ہو۔"
   },
   "Faq": {
     "heroTitle": "عمومی سوالات",

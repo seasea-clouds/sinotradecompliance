@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "Το διαβατήριο της μάρκας σας για την Κίνα — Από τη συμμόρφωση στο εμπόριο",
+    "subtitle": "Ολοκληρωμένες ρυθμιστικές υπηρεσίες εισαγωγής για τρόφιμα, καλλυντικά, ηλεκτρονικά και άλλα."
   },
   "Services": {
     "heroTitle": "Οι υπηρεσίες μας",
@@ -168,7 +170,9 @@
     "customTitle": "Πλήρης ανάθεση",
     "customDesc": "Χρειάζεστε προσαρμοσμένη λύση; Θα σχεδιάσουμε ένα σχέδιο συμμόρφωσης προσαρμοσμένο στα συγκεκριμένα προϊόντα, το χρονοδιάγραμμα και τους επιχειρηματικούς σας στόχους.",
     "customCta": "Επικοινωνήστε μαζί μας για προσαρμοσμένη προσφορά",
-    "popular": "Δημοφιλέστερο"
+    "popular": "Δημοφιλέστερο",
+    "title": "Πακέτα συμμόρφωσης",
+    "subtitle": "Επιλέξτε το πακέτο που ταιριάζει στη στρατηγική εισόδου της μάρκας σας στην Κίνα."
   },
   "Faq": {
     "heroTitle": "Συχνές ερωτήσεις",

@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "Márkája útlevelét Kínába — A megfeleléstől a kereskedelemig",
+    "subtitle": "Átfogó import szabályozási szolgáltatások élelmiszerekhez, kozmetikumokhoz, elektronikához és egyebekhez."
   },
   "Services": {
     "heroTitle": "Szolgáltatásaink",
@@ -168,7 +170,9 @@
     "customTitle": "Teljes megbízás",
     "customDesc": "Egyedi megoldásra van szüksége? Készítünk egy Ön konkrét termékeire, határidejére és üzleti céljaira szabott megfelelőségi tervet.",
     "customCta": "Lépjen velünk kapcsolatba egyedi árajánlatért",
-    "popular": "Legnépszerűbb"
+    "popular": "Legnépszerűbb",
+    "title": "Megfelelőségi csomagok",
+    "subtitle": "Válassza ki a márkája kínai belépési stratégiájához illő csomagot."
   },
   "Faq": {
     "heroTitle": "Gyakran Ismételt Kérdések",

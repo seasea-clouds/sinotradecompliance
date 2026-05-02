@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "あなたのブランドを中国へ——コンプライアンスからビジネスへ",
+    "subtitle": "食品、化粧品、エレクトロニクスなどのためのワンストップ輸入規制サービス。"
   },
   "Services": {
     "heroTitle": "サービス一覧",
@@ -168,7 +170,9 @@
     "customTitle": "包括委託",
     "customDesc": "カスタムソリューションが必要ですか？特定の製品、タイムライン、ビジネス目標に合わせたコンプライアンスプランを設計します。",
     "customCta": "カスタム見積もりのお問い合わせ",
-    "popular": "最も人気"
+    "popular": "最も人気",
+    "title": "コンプライアンスパッケージ",
+    "subtitle": "ブランドの中国参入戦略に合ったパッケージを選択。"
   },
   "Faq": {
     "heroTitle": "よくある質問",

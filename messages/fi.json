@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "Brändisi passi Kiinaan — vaatimustenmukaisuudesta kaupankäyntiin",
+    "subtitle": "Kaiken kattavat maahantuonnin sääntelypalvelut elintarvikkeille, kosmetiikalle, elektroniikalle ja muille aloille."
   },
   "Services": {
     "heroTitle": "Palvelumme",
@@ -168,7 +170,9 @@
     "customTitle": "Räätälöity ratkaisu",
     "customDesc": "Tarvitsetko räätälöidyn ratkaisun? Suunnittelemme vaatimustenmukaisuussuunnitelman, joka on räätälöity tuotteillesi, aikataulullesi ja liiketavoitteillesi.",
     "customCta": "Ota yhteyttä räätälöityyn tarjoukseen",
-    "popular": "Suosituin"
+    "popular": "Suosituin",
+    "title": "Vaatimustenmukaisuuspaketit",
+    "subtitle": "Valitse paketti, joka sopii brändisi Kiinan-entry-strategiaan."
   },
   "Faq": {
     "heroTitle": "Usein kysytyt kysymykset",

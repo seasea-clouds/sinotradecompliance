@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "Brendinizin Çinə Pasportu — Uyğunluqdan Ticarətə",
+    "subtitle": "Qida, kosmetika, elektronika və digərləri üçün vahid idxal tənzimləmə xidmətləri."
   },
   "Services": {
     "heroTitle": "Xidmətlərimiz",
@@ -168,7 +170,9 @@
     "customTitle": "Tam Həvalə",
     "customDesc": "Xüsusi həllə ehtiyacınız var? Xüsusi məhsullarınıza, vaxt cədvəlinizə və biznes hədəflərinizə uyğun uyğunluq planı hazırlayacağıq.",
     "customCta": "Xüsusi Təklif üçün Əlaqə",
-    "popular": "Ən Populyar"
+    "popular": "Ən Populyar",
+    "title": "Uyğunluq Paketləri",
+    "subtitle": "Brendinizin Çin giriş strategiyasına uyğun paketi seçin."
   },
   "Faq": {
     "heroTitle": "Tez-tez Verilən Suallar",

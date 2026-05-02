@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "Pasipoti ya Chapa Yako Kwenda China — Kutoka Utiifu hadi Biashara",
+    "subtitle": "Huduma za udhibiti wa uagizaji kwa njia moja kwa vyakula, vipodozi, elektroniki, na zaidi."
   },
   "Services": {
     "heroTitle": "Huduma Zetu",
@@ -168,7 +170,9 @@
     "customTitle": "Udhamini Kamili",
     "customDesc": "Unahitaji suluhisho maalum? Tutabuni mpango wa utiifu uliobinafsishwa kwa bidhaa zako mahususi, ratiba, na malengo ya biashara.",
     "customCta": "Wasiliana Nasi kwa Bei Maalum",
-    "popular": " maarufu Zaidi"
+    "popular": " maarufu Zaidi",
+    "title": "Vifurushi vya Utiifu",
+    "subtitle": "Chagua kifurushi kinachofaa mkakati wa kuingia kwa chapa yako China."
   },
   "Faq": {
     "heroTitle": "Maswali Yanayoulizwa Mara kwa Mara",

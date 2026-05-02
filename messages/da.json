@@ -49,7 +49,9 @@
     "processStep5Title": "Quality Assurance",
     "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
     "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly."
+    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "title": "Dit brands pas til Kina — Fra overholdelse til kommerciel succes",
+    "subtitle": "One-stop importreguleringstjenester for fødevarer, kosmetik, elektronik og mere."
   },
   "Services": {
     "heroTitle": "Vores tjenester",
@@ -168,7 +170,9 @@
     "customTitle": "Fuld overdragelse",
     "customDesc": "Har du brug for en skræddersyet løsning? Vi designer en overholdelsesplan tilpasset dine specifikke produkter, tidslinje og forretningsmål.",
     "customCta": "Kontakt os for skræddersyet tilbud",
-    "popular": "Mest populær"
+    "popular": "Mest populær",
+    "title": "Overholdelsespakker",
+    "subtitle": "Vælg den pakke, der passer til dit brands Kina-adgangsstrategi."
   },
   "Faq": {
     "heroTitle": "Ofte stillede spørgsmål",
