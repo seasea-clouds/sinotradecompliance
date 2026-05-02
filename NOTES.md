@@ -2,6 +2,28 @@
 
 ## 巡检记录
 
+### 2026-05-03 06:00 UTC+8 第 17 次巡检（第 17 轮组合深度检查）— 发现 6 种语言翻译残留
+- **执行任务**：无待执行任务（T0-T67 全部完成）
+- **组合深度检查（第 17 轮）— 竞品对比 + 回归测试 + 翻译深度审计**：
+  - ✅ 构建：867 pages, 0 error
+  - ✅ 线上页面：/, /en/, /zh/, /en/services/gacc/, /zh/services/gacc/, /en/packages/, /en/about/, /zh/faq/, /zh/blog/, /en/blog/gacc-registration-guide/ 全部 HTTP 200
+  - ✅ 根路径 `/`：302 → `/en/` 正常
+  - ✅ JSON-LD：FAQ 页 4 个 script 标签含 FAQPage schema ✅，首页 Organization schema ✅
+  - ✅ hreflang：zh/ 页面 48 个 hrefLang 链接完整（camelCase 格式）
+  - ✅ Sitemap：864 URL，41472 xhtml:link hreflang 条目
+  - ✅ __next_error__：0 个页面出现
+  - ✅ FAQ 页：39 个 dt/dd 语义化对，数量正确
+  - ✅ Blog 列表：5 篇文章卡片全部渲染，21 article 元素
+  - ❌ **T68：6 种语言首页英文翻译残留** —
+    - `*Industries`（6 keys）：zh/sv/sw/ur/vi/sr 为英文原文（如 "Dairy, meat, seafood..."）
+    - `*PainPoint`（6 keys）：zh/sv/sw/ur/vi/sr/ro 为英文原文（如 "Confused by Decree 248/249?..."）
+    - `socialProofTitle` + `socialProofSubtitle`：zh/sv/sw/ur/vi 为英文（"Trusted by Global Brands"）
+    - `stat*Label`（4 keys）：zh/sv/sw/ur/vi 为英文（"Brands Served"/"Countries" 等）
+    - 根因：T23 文案丰富化时新增的 Industries/PainPoint/SocialProof/statLabel keys 在批量翻译中遗漏了这些语言
+    - 影响：中文用户访问首页时，服务卡片提示语、社交证明区、统计数据标签全部为英文
+- **Git**：1 commit 已推送 (bfe9a2a T67 清理死 keys)
+- **结论**：发现 6 种语言翻译残留问题，已创建 T68
+
 ### 2026-05-03 05:30 UTC+8 第 16 次巡检（第 16 轮组合深度检查）— 全站稳定，全部任务完成
 - **执行任务**：T58 ✅（et/ 目录已清理）, T62 ✅（PROJECT.md 已包含博客描述）, T63 ✅（巡检协议已完善）, T64 ✅（packages 空白为正常留白）
 - **组合深度检查（第 16 轮）**：
