@@ -325,9 +325,9 @@
     "button": "Obtener Evaluación Gratuita",
     "privacy": "Sin spam. Cancele la suscripción en cualquier momento.",
     "nameLabel": "Full Name",
-    "namePlaceholder": "e.g. Michael Scott",
+    "namePlaceholder": "ej: Juan García",
     "emailLabel": "Business Email",
-    "emailPlaceholder": "michael@company.com"
+    "emailPlaceholder": "juan@empresa.com"
   },
   "Footer": {
     "contact": "Contacto",

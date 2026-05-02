@@ -325,9 +325,9 @@
     "button": "Obtenir une Évaluation Gratuite",
     "privacy": "Pas de spam. Désabonnement à tout moment.",
     "nameLabel": "Full Name",
-    "namePlaceholder": "e.g. Michael Scott",
+    "namePlaceholder": "ex: Jean Dupont",
     "emailLabel": "Business Email",
-    "emailPlaceholder": "michael@company.com"
+    "emailPlaceholder": "jean@entreprise.com"
   },
   "Footer": {
     "contact": "Contact",

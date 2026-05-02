@@ -325,9 +325,9 @@
     "button": "احصل على تقييم مجاني",
     "privacy": "بدون بريد مزعج. إلغاء الاشتراك في أي وقت.",
     "nameLabel": "Full Name",
-    "namePlaceholder": "e.g. Michael Scott",
+    "namePlaceholder": "مثال: أحمد محمد",
     "emailLabel": "Business Email",
-    "emailPlaceholder": "michael@company.com"
+    "emailPlaceholder": "ahmed@company.com"
   },
   "Footer": {
     "contact": "اتصل بنا",

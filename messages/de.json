@@ -325,9 +325,9 @@
     "button": "Kostenlose Bewertung anfordern",
     "privacy": "Kein Spam. Jederzeit abbestellbar.",
     "nameLabel": "Full Name",
-    "namePlaceholder": "e.g. Michael Scott",
+    "namePlaceholder": "z.B. Max Mustermann",
     "emailLabel": "Business Email",
-    "emailPlaceholder": "michael@company.com"
+    "emailPlaceholder": "max@firma.de"
   },
   "Footer": {
     "contact": "Kontakt",

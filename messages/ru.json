@@ -325,9 +325,9 @@
     "button": "Получить бесплатную оценку",
     "privacy": "Без спама. Отписаться можно в любое время.",
     "nameLabel": "Full Name",
-    "namePlaceholder": "e.g. Michael Scott",
+    "namePlaceholder": "например: Иван Иванов",
     "emailLabel": "Business Email",
-    "emailPlaceholder": "michael@company.com"
+    "emailPlaceholder": "ivanov@company.com"
   },
   "Footer": {
     "contact": "Контакты",

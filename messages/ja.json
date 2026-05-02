@@ -325,9 +325,9 @@
     "button": "無料診断を受ける",
     "privacy": "スパムなし。いつでも解約可能。",
     "nameLabel": "Full Name",
-    "namePlaceholder": "e.g. Michael Scott",
+    "namePlaceholder": "例：田中太郎",
     "emailLabel": "Business Email",
-    "emailPlaceholder": "michael@company.com"
+    "emailPlaceholder": "tanaka@company.com"
   },
   "Footer": {
     "contact": "お問い合わせ",

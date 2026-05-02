@@ -325,9 +325,9 @@
     "button": "获取免费评估",
     "privacy": "无垃圾邮件。随时可取消订阅。",
     "nameLabel": "Full Name",
-    "namePlaceholder": "e.g. Michael Scott",
+    "namePlaceholder": "例如：张伟",
     "emailLabel": "Business Email",
-    "emailPlaceholder": "michael@company.com"
+    "emailPlaceholder": "zhangwei@company.com"
   },
   "Footer": {
     "contact": "联系方式",

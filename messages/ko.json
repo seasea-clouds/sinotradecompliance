@@ -325,9 +325,9 @@
     "button": "무료 진단 받기",
     "privacy": "스팸 없음. 언제든지 구독 해제 가능.",
     "nameLabel": "Full Name",
-    "namePlaceholder": "e.g. Michael Scott",
+    "namePlaceholder": "예: 김철수",
     "emailLabel": "Business Email",
-    "emailPlaceholder": "michael@company.com"
+    "emailPlaceholder": "kim@company.com"
   },
   "Footer": {
     "contact": "연락처",
