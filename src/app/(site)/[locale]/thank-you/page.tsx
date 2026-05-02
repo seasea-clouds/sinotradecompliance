@@ -1,4 +1,5 @@
 import { getTranslations } from 'next-intl/server';
+import { locales } from '@/i18n/routing';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { MessageCircle, CheckCircle } from 'lucide-react';
@@ -25,6 +26,9 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     },
     alternates: {
       canonical: `https://sinotradecompliance.com/${locale}/thank-you/`,
+      languages: Object.fromEntries(
+        locales.map((l) => [l, `https://sinotradecompliance.com/${l}/thank-you/`])
+      ),
     },
   };
 }

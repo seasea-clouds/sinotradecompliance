@@ -1,4 +1,5 @@
 import { getTranslations } from 'next-intl/server';
+import { locales } from '@/i18n/routing';
 import { sharedOpenGraph, sharedTwitter } from '@/lib/metadata';
 import ServiceHero from '@/components/ServiceHero';
 import CoverSection from '@/components/CoverSection';
@@ -19,7 +20,12 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     description,
     openGraph: sharedOpenGraph({ title, description, locale, url }),
     twitter: sharedTwitter({ title, description }),
-    alternates: { canonical: url },
+    alternates: {
+      canonical: url,
+      languages: Object.fromEntries(
+        locales.map((l) => [l, `https://sinotradecompliance.com/${l}/services/gacc/`])
+      ),
+    },
   };
 }
 
