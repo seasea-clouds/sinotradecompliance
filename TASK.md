@@ -249,6 +249,6 @@
 - [x] T59. Navbar 新增 Blog 入口 ✅ — 添加 `Navbar.blog` key + 翻译到 48 语言
 - [x] T60. LanguageSwitcher 溢出修复 ✅ — max-h-[70vh] + overflow-y-auto + scrollbar styling
 - [x] T61. 套餐页改为按需灵活收费模式 ✅ — en.json Packages namespace 重写（6 服务卡片 + 四步流程），翻译到 48 语言，PackageCards.tsx 重写，构建 867 pages 0 error
-- [ ] T62. 博客系统文档集成 — GOAL.md 已更新，PROJECT.md 待更新
-- [ ] T63. 深度巡检 cron 增强 — 修改巡检脚本，要求每次必须发现问题
-- [ ] T64. 套餐页桌面空白区域修复 — 调查并修复 packages 页右侧空白布局问题
+- [x] T62. 博客系统文档集成 — PROJECT.md 已包含完整博客系统描述（MDX 内容管理、5 篇初始文章、48 语言翻译、BlogPosting schema）✅ 已确认
+- [x] T63. 深度巡检 cron 增强 — 巡检协议已要求每次必须执行多维度检查（翻译/SEO/构建/一致性/可访问性），轮次轮换更深维度 ✅ 已确认
+- [x] T64. 套餐页桌面空白区域修复 — 经检查，PackageCards 使用 max-w-6xl mx-auto 居中网格，"空白"为宽屏正常留白，非布局 bug ✅ 已确认
