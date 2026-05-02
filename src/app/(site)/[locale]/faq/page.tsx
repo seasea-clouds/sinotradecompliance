@@ -3,7 +3,7 @@ import { sharedOpenGraph, sharedTwitter } from '@/lib/metadata';
 import FAQSection from '@/components/FAQSection';
 import CTASection from '@/components/CTASection';
 import LeadMagnet from '@/components/LeadMagnet';
-import Script from 'next/script';
+// JSON-LD uses plain <script> tag — next/script does NOT render inline in App Router
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const locale = (await params).locale;
@@ -99,8 +99,7 @@ export default async function FAQPage({ params }: { params: Promise<{ locale: st
   return (
     <main>
       {/* JSON-LD */}
-      <Script
-        id="jsonld-faq"
+      <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />

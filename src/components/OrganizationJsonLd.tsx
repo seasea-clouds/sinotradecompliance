@@ -1,8 +1,8 @@
-import Script from 'next/script';
-
 /**
  * JSON-LD structured data for Organization.
  * Added to every page for SEO.
+ * Uses plain <script> tag — next/script does NOT render JSON-LD
+ * inline in App Router (serializes to RSC payload instead).
  */
 export default function OrganizationJsonLd() {
   const data = {
@@ -28,8 +28,7 @@ export default function OrganizationJsonLd() {
   };
 
   return (
-    <Script
-      id="jsonld-organization"
+    <script
       type="application/ld+json"
       dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
     />

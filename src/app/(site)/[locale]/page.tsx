@@ -1,5 +1,4 @@
 import { getTranslations } from 'next-intl/server';
-import Script from 'next/script';
 import { sharedOpenGraph, sharedTwitter } from '@/lib/metadata';
 import { locales } from '@/i18n/routing';
 import Hero from '@/components/Hero';
@@ -48,7 +47,7 @@ export default function HomePage() {
       <CTASection namespace="Home" />
       <FAQPreview />
       <LeadMagnet />
-      <Script id="jsonld-homepage" type="application/ld+json">
+      <script id="jsonld-homepage" type="application/ld+json">
         {JSON.stringify({
           '@context': 'https://schema.org',
           '@type': 'ProfessionalService',
@@ -72,7 +71,7 @@ export default function HomePage() {
           areaServed: 'Worldwide',
           serviceType: ['Import Compliance', 'GACC Registration', 'Label Compliance', 'CCC Certification', 'Cosmetics Filing', 'Cross-border E-commerce', 'Brand Protection'],
         })}
-      </Script>
+      </script>
     </main>
   );
 }

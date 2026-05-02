@@ -7,7 +7,6 @@ import WhyUsCards from '@/components/WhyUsCards';
 import CTASection from '@/components/CTASection';
 import LeadMagnet from '@/components/LeadMagnet';
 import ServiceFAQ from '@/components/ServiceFAQ';
-import Script from 'next/script';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const locale = (await params).locale;
@@ -37,7 +36,7 @@ export default async function EcommercePage({ params }: { params: Promise<{ loca
       <ServiceFAQ namespace="ServiceEcommerce" />
       <LeadMagnet />
       <CTASection />
-          <Script id="jsonld-ecommerce" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context": "https://schema.org", "@type": "Service", "name": "Cross-border E-commerce", "description": "Cross-border E-commerce service for China market entry by SinoTrade Compliance.", "url": "https://sinotradecompliance.com/services/ecommerce/", "provider": {"@type": "Organization", "name": "SinoTrade Compliance"}, "serviceType": "Cross-border E-commerce", "areaServed": "Worldwide"}) }} />
+          <script id="jsonld-ecommerce" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context": "https://schema.org", "@type": "Service", "name": "Cross-border E-commerce", "description": "Cross-border E-commerce service for China market entry by SinoTrade Compliance.", "url": "https://sinotradecompliance.com/services/ecommerce/", "provider": {"@type": "Organization", "name": "SinoTrade Compliance"}, "serviceType": "Cross-border E-commerce", "areaServed": "Worldwide"}) }} />
     </main>
   );
 }

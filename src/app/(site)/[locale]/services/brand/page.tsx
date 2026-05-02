@@ -7,7 +7,6 @@ import WhyUsCards from '@/components/WhyUsCards';
 import CTASection from '@/components/CTASection';
 import LeadMagnet from '@/components/LeadMagnet';
 import ServiceFAQ from '@/components/ServiceFAQ';
-import Script from 'next/script';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const locale = (await params).locale;
@@ -37,7 +36,7 @@ export default async function BrandPage({ params }: { params: Promise<{ locale: 
       <ServiceFAQ namespace="ServiceBrand" />
       <LeadMagnet />
       <CTASection />
-          <Script id="jsonld-brand" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context": "https://schema.org", "@type": "Service", "name": "Brand Protection", "description": "Brand Protection service for China market entry by SinoTrade Compliance.", "url": "https://sinotradecompliance.com/services/brand/", "provider": {"@type": "Organization", "name": "SinoTrade Compliance"}, "serviceType": "Brand Protection", "areaServed": "Worldwide"}) }} />
+          <script id="jsonld-brand" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context": "https://schema.org", "@type": "Service", "name": "Brand Protection", "description": "Brand Protection service for China market entry by SinoTrade Compliance.", "url": "https://sinotradecompliance.com/services/brand/", "provider": {"@type": "Organization", "name": "SinoTrade Compliance"}, "serviceType": "Brand Protection", "areaServed": "Worldwide"}) }} />
     </main>
   );
 }

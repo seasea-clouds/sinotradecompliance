@@ -1,5 +1,3 @@
-import Script from 'next/script';
-
 interface PageJsonLdProps {
   type: string;
   name: string;
@@ -11,6 +9,8 @@ interface PageJsonLdProps {
 
 /**
  * Generic JSON-LD for any page.
+ * Uses plain <script> tag — next/script does NOT render JSON-LD
+ * inline in App Router (serializes to RSC payload instead).
  * Usage: <PageJsonLd type="AboutPage" name="About Us" description="..." url="..." />
  */
 export default function PageJsonLd({ type, name, description, url, image, additional }: PageJsonLdProps) {
@@ -30,8 +30,7 @@ export default function PageJsonLd({ type, name, description, url, image, additi
   };
 
   return (
-    <Script
-      id={`jsonld-${type.toLowerCase().replace(/\s+/g, '-')}`}
+    <script
       type="application/ld+json"
       dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
     />

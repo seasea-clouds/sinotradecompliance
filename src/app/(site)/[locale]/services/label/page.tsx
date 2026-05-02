@@ -7,7 +7,6 @@ import WhyUsCards from '@/components/WhyUsCards';
 import CTASection from '@/components/CTASection';
 import LeadMagnet from '@/components/LeadMagnet';
 import ServiceFAQ from '@/components/ServiceFAQ';
-import Script from 'next/script';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const locale = (await params).locale;
@@ -37,7 +36,7 @@ export default async function LabelPage({ params }: { params: Promise<{ locale: 
       <ServiceFAQ namespace="ServiceLabel" />
       <LeadMagnet />
       <CTASection />
-          <Script id="jsonld-label" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context": "https://schema.org", "@type": "Service", "name": "Chinese Label Compliance", "description": "Chinese Label Compliance service for China market entry by SinoTrade Compliance.", "url": "https://sinotradecompliance.com/services/label/", "provider": {"@type": "Organization", "name": "SinoTrade Compliance"}, "serviceType": "Chinese Label Compliance", "areaServed": "Worldwide"}) }} />
+          <script id="jsonld-label" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context": "https://schema.org", "@type": "Service", "name": "Chinese Label Compliance", "description": "Chinese Label Compliance service for China market entry by SinoTrade Compliance.", "url": "https://sinotradecompliance.com/services/label/", "provider": {"@type": "Organization", "name": "SinoTrade Compliance"}, "serviceType": "Chinese Label Compliance", "areaServed": "Worldwide"}) }} />
     </main>
   );
 }

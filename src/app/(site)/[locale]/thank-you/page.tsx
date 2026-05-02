@@ -1,4 +1,3 @@
-import Script from 'next/script';
 import { getTranslations } from 'next-intl/server';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -84,7 +83,7 @@ export default function ThankYou() {
 
       <Footer />
     
-      <Script id="jsonld-thankyou" type="application/ld+json" dangerouslySetInnerHTML={{
+      <script id="jsonld-thankyou" type="application/ld+json" dangerouslySetInnerHTML={{
         __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "WebPage",
