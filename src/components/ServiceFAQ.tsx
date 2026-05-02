@@ -11,12 +11,17 @@ export default function ServiceFAQ({ namespace }: ServiceFAQProps) {
   const questionsTitle = t('questionsTitle');
   const questionsSubtitle = t('questionsSubtitle');
 
-  const questions = [
-    { q: t('faq1q'), a: t('faq1a') },
-    { q: t('faq2q'), a: t('faq2a') },
-    { q: t('faq3q'), a: t('faq3a') },
-    { q: t('faq4q'), a: t('faq4a') },
-  ];
+  // Dynamically collect all FAQ entries (faq1q/faq1a ... faqNq/faqNa)
+  const questions: { q: string; a: string }[] = [];
+  for (let i = 1; i <= 10; i++) {
+    const q = t.raw(`faq${i}q`);
+    const a = t.raw(`faq${i}a`);
+    if (q && a && typeof q === 'string' && typeof a === 'string') {
+      questions.push({ q, a });
+    } else {
+      break; // stop at first missing pair
+    }
+  }
 
   return (
     <section className="py-16 bg-bg-ice">

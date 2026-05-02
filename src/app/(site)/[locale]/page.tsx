@@ -5,6 +5,7 @@ import Hero from '@/components/Hero';
 import ServicesGrid from '@/components/ServicesGrid';
 import WhyUsCards from '@/components/WhyUsCards';
 import ProcessSteps from '@/components/ProcessSteps';
+import SocialProof from '@/components/SocialProof';
 import AboutExpert from '@/components/AboutExpert';
 import CTASection from '@/components/CTASection';
 import FAQPreview from '@/components/FAQPreview';
@@ -42,6 +43,7 @@ export default function HomePage() {
       <Hero />
       <ServicesGrid />
       <WhyUsCards namespace="Home" count={4} />
+      <SocialProof />
       <ProcessSteps namespace="Home" />
       <AboutExpert />
       <CTASection namespace="Home" />

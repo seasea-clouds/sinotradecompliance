@@ -46,7 +46,7 @@ export default function ServicesGrid() {
               <div className="text-4xl mb-4">{serviceIcons[s.key]}</div>
               <h3 className="text-xl font-bold text-primary-navy mb-2">{s.title}</h3>
               <p className="text-text-muted mb-4 text-sm">{s.subtitle}</p>
-              <ul className="space-y-2 mb-6 flex-grow">
+              <ul className="space-y-2 mb-4 flex-grow">
                 {s.points.map((p, i) => (
                   <li key={i} className="flex items-start gap-2 text-sm text-text-charcoal">
                     <ChevronRight className="w-4 h-4 text-accent-gold flex-shrink-0 mt-0.5" />
@@ -54,6 +54,11 @@ export default function ServicesGrid() {
                   </li>
                 ))}
               </ul>
+              {/* Industry coverage & pain point */}
+              <div className="border-t border-gray-100 pt-3 mb-4">
+                <p className="text-xs text-accent-gold font-semibold mb-1">💡 {t(`${s.key}PainPoint`)}</p>
+                <p className="text-xs text-text-muted">{t(`${s.key}Industries`)}</p>
+              </div>
               <Link
                 href={`/${locale}/services/${s.key}`}
                 className="inline-flex items-center gap-1 text-accent-blue font-semibold hover:text-primary-navy transition-colors"
