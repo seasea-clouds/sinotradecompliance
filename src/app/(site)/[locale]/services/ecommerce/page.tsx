@@ -32,16 +32,18 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function EcommercePage({ params }: { params: Promise<{ locale: string }> }) {
   const locale = (await params).locale;
   const t = await getTranslations({ locale, namespace: 'ServiceEcommerce' });
+  const commonT = await getTranslations({ locale, namespace: 'ServiceCommon' });
+  const homeT = await getTranslations({ locale, namespace: 'Home' });
 
   return (
     <main>
       <ServiceHero title={t('heroTitle')} subtitle={t('heroSubtitle')} ctaText={t('cta')} />
-      <CoverSection namespace="ServiceEcommerce" />
-      <ProcessSteps namespace="Home" />
-      <WhyUsCards />
+      <CoverSection t={t} />
+      <ProcessSteps t={homeT} />
+      <WhyUsCards t={commonT} />
       <ServiceFAQ namespace="ServiceEcommerce" />
       <LeadMagnet />
-      <CTASection />
+      <CTASection t={commonT} />
           <script id="jsonld-ecommerce" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context": "https://schema.org", "@type": "Service", "name": "Cross-border E-commerce", "description": "Cross-border E-commerce service for China market entry by SinoTrade Compliance.", "url": "https://sinotradecompliance.com/services/ecommerce/", "provider": {"@type": "Organization", "name": "SinoTrade Compliance"}, "serviceType": "Cross-border E-commerce", "areaServed": "Worldwide"}) }} />
     </main>
   );

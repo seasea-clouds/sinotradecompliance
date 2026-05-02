@@ -1,11 +1,12 @@
 import Link from 'next/link';
-import { useTranslations, useLocale } from 'next-intl';
 import { ChevronRight } from 'lucide-react';
 
-export default function FAQPreview() {
-  const t = useTranslations('Home');
-  const locale = useLocale();
+interface FAQPreviewProps {
+  locale: string;
+  t: (key: string) => string;
+}
 
+export default function FAQPreview({ locale, t }: FAQPreviewProps) {
   const items = [
     { q: t('faqPreviewQ1'), a: t('faqPreviewA1') },
     { q: t('faqPreviewQ2'), a: t('faqPreviewA2') },

@@ -1,12 +1,8 @@
-import { useTranslations } from 'next-intl';
-
 interface CTASectionProps {
-  namespace?: string;
+  t: (key: string) => string;
 }
 
-export default function CTASection({ namespace }: CTASectionProps) {
-  const t = useTranslations(namespace ?? 'ServiceCommon');
-
+export default function CTASection({ t }: CTASectionProps) {
   return (
     <section className="py-16 bg-primary-navy">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

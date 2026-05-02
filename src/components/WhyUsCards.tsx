@@ -1,15 +1,13 @@
-import { useTranslations } from 'next-intl';
 import { Shield, ArrowRight, DollarSign, Users } from 'lucide-react';
 
 const icons = [Shield, ArrowRight, DollarSign, Users];
 
 interface WhyUsCardsProps {
-  namespace?: string;
   count?: number;
+  t: (key: string) => string;
 }
 
-export default function WhyUsCards({ namespace, count = 3 }: WhyUsCardsProps) {
-  const t = useTranslations(namespace ?? 'ServiceCommon');
+export default function WhyUsCards({ count = 3, t }: WhyUsCardsProps) {
   const title = t('whyTitle');
 
   const cards = [];

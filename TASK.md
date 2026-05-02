@@ -99,10 +99,11 @@
 ---
 
 ### 阶段十五：第 19 轮深度巡检发现（2026-05-03 06:30 UTC+8）
-- [ ] T69. 修复线上中文版首页 Home namespace 翻译不渲染 — /zh/ 页面中 SocialProof（"Trusted by Global Brands"）、WhyUsCards（"Full Category Coverage"等）、ProcessSteps（"Free Consultation"等6步）、FAQPreview（FAQ问题英文）、CTASection（"Ready to Enter China?"）全部显示英文原文，但 zh.json 中这些 key 的中文翻译完全正确。根因待查：可能是 next-intl 在 `output: 'export'` 下对特定 namespace 的 SSG 渲染问题，或 Cloudflare Pages 部署未同步最新代码。优先级：P1。
-  - 影响范围：/zh/ 首页 + 所有语言首页的 Home namespace 组件
-  - 不受影响：ServicesGrid（Services namespace 正常翻译）、Navbar、Footer、LeadMagnet
-  - 服务页同样问题：/zh/services/gacc/ 的 "What We Cover"、"How It Works"、"Why Choose Us" 也为英文
+- [x] T69. 修复线上中文版首页 Home namespace 翻译不渲染 ✅ 2026-05-03 15:00 UTC+8
+  - **根因**：`useTranslations()` 在 Server Components + `output: 'export'` SSG 模式下无法正确获取 locale-specific messages，渲染时使用默认语言（英文）。Client Components（通过 NextIntlClientProvider）不受影响。
+  - **修复方案**：将 6 个受影响的 Server Components（WhyUsCards、ProcessSteps、CTASection、FAQPreview、CoverSection、PackageCards）从 `useTranslations()` 改为接收 `t` prop，由父页面使用 `getTranslations()` 获取正确翻译后传入。
+  - **修改文件**：6 components + 10 pages
+  - **验证**：构建 867 pages 0 error，zh 首页可见 HTML 包含全部中文文本（全品类覆盖、一站式服务、固定费用定价、专家团队、合作流程、免费咨询、准备进入中国），en 首页同样正确，服务页 zh GACC 中文渲染正确。
 
 ## 执行记录
 

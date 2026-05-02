@@ -1,9 +1,10 @@
-import { useTranslations } from 'next-intl';
 import { Check, Star } from 'lucide-react';
 
-export default function PackageCards() {
-  const t = useTranslations('Packages');
+interface PackageCardsProps {
+  t: (key: string) => string;
+}
 
+export default function PackageCards({ t }: PackageCardsProps) {
   const packages = [
     {
       name: t('basicName'),

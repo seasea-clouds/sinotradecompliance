@@ -28,6 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function PackagesPage({ params }: { params: Promise<{ locale: string }> }) {
   const locale = (await params).locale;
   const t = await getTranslations({ locale, namespace: 'Packages' });
+  const ctaT = await getTranslations({ locale, namespace: 'ServiceCommon' });
 
   return (
     <main>
@@ -41,7 +42,7 @@ export default async function PackagesPage({ params }: { params: Promise<{ local
 
       {/* Package Cards */}
       <section className="py-16 bg-bg-ice">
-        <PackageCards />
+        <PackageCards t={t} />
       </section>
 
       {/* Custom CTA */}
@@ -60,7 +61,7 @@ export default async function PackagesPage({ params }: { params: Promise<{ local
         </div>
       </section>
 
-      <CTASection />
+      <CTASection t={ctaT} />
           <script id="jsonld-packages" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context": "https://schema.org", "@type": "WebPage", "name": "Compliance Packages", "description": "Bundled compliance packages for China market entry \u2014 Market Entry, Go-to-Market, and Brand Launch tiers.", "url": "https://sinotradecompliance.com/packages/", "publisher": {"@type": "Organization", "name": "SinoTrade Compliance"}}) }} />
     <LeadMagnet />
     </main>

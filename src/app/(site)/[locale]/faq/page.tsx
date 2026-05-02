@@ -29,6 +29,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function FAQPage({ params }: { params: Promise<{ locale: string }> }) {
   const locale = (await params).locale;
   const t = await getTranslations({ locale, namespace: 'Faq' });
+  const ctaT = await getTranslations({ locale, namespace: 'ServiceCommon' });
 
   // Build FAQ items dynamically from translation keys (supports Q1-Q20 + Q3a/Q4a variants)
   function buildCategory(prefix: string) {
@@ -96,7 +97,7 @@ export default async function FAQPage({ params }: { params: Promise<{ locale: st
       {/* FAQ Sections — semantic dl/dt/dd */}
       <FAQSection categories={categories} />
 
-      <CTASection />
+      <CTASection t={ctaT} />
 
       <LeadMagnet />
     </main>

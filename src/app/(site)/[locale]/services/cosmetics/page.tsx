@@ -32,16 +32,18 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function CosmeticsPage({ params }: { params: Promise<{ locale: string }> }) {
   const locale = (await params).locale;
   const t = await getTranslations({ locale, namespace: 'ServiceCosmetics' });
+  const commonT = await getTranslations({ locale, namespace: 'ServiceCommon' });
+  const homeT = await getTranslations({ locale, namespace: 'Home' });
 
   return (
     <main>
       <ServiceHero title={t('heroTitle')} subtitle={t('heroSubtitle')} ctaText={t('cta')} />
-      <CoverSection namespace="ServiceCosmetics" />
-      <ProcessSteps namespace="Home" />
-      <WhyUsCards />
+      <CoverSection t={t} />
+      <ProcessSteps t={homeT} />
+      <WhyUsCards t={commonT} />
       <ServiceFAQ namespace="ServiceCosmetics" />
       <LeadMagnet />
-      <CTASection />
+      <CTASection t={commonT} />
           <script id="jsonld-cosmetics" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context": "https://schema.org", "@type": "Service", "name": "NMPA Cosmetics Filing", "description": "NMPA Cosmetics Filing service for China market entry by SinoTrade Compliance.", "url": "https://sinotradecompliance.com/services/cosmetics/", "provider": {"@type": "Organization", "name": "SinoTrade Compliance"}, "serviceType": "NMPA Cosmetics Filing", "areaServed": "Worldwide"}) }} />
     </main>
   );

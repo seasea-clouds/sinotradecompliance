@@ -1,20 +1,18 @@
-import { useTranslations } from 'next-intl';
-
 interface ProcessStepsProps {
-  namespace?: string;
+  t: (key: string) => string;
 }
 
-export default function ProcessSteps({ namespace }: ProcessStepsProps) {
-  const t = useTranslations(namespace ?? 'ServiceCommon');
-
+export default function ProcessSteps({ t }: ProcessStepsProps) {
   // Support two formats:
-  // 1. ServiceCommon: howTitle + howSteps (comma-separated, "title — desc" format)
-  // 2. Home: processTitle + processStep{N}Title + processStep{N}Desc
+  // 1. Home: processTitle + processStep{N}Title + processStep{N}Desc
+  // 2. ServiceCommon: howTitle + howSteps (comma-separated, "title — desc" format)
   let title: string;
   const stepList: Array<{ title: string; desc: string }> = [];
 
   // Try Home-style format first
-  try {
+  const step1Title = t('processStep1Title');
+  if (step1Title) {
+    // Home-style
     title = t('processTitle');
     for (let i = 1; i <= 6; i++) {
       const stepTitle = t(`processStep${i}Title`);
@@ -23,7 +21,8 @@ export default function ProcessSteps({ namespace }: ProcessStepsProps) {
         stepList.push({ title: stepTitle, desc: stepDesc });
       }
     }
-  } catch {
+  } else {
+    // ServiceCommon-style
     title = t('howTitle');
     const stepsText = t('howSteps');
     const steps = stepsText.split(',').map((s: string) => s.trim());

@@ -1,12 +1,10 @@
-import { useTranslations } from 'next-intl';
 import { CheckCircle } from 'lucide-react';
 
 interface CoverSectionProps {
-  namespace: string;
+  t: (key: string) => string;
 }
 
-export default function CoverSection({ namespace }: CoverSectionProps) {
-  const t = useTranslations(namespace);
+export default function CoverSection({ t }: CoverSectionProps) {
   const title = t('coverTitle');
   const items = t('coverItems').split(',');
 

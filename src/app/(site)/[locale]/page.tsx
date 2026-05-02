@@ -37,17 +37,20 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   };
 }
 
-export default function HomePage() {
+export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
+  const locale = (await params).locale;
+  const homeT = await getTranslations({ locale, namespace: 'Home' });
+
   return (
     <main>
       <Hero />
       <ServicesGrid />
-      <WhyUsCards namespace="Home" count={4} />
+      <WhyUsCards count={4} t={homeT} />
       <SocialProof />
-      <ProcessSteps namespace="Home" />
+      <ProcessSteps t={homeT} />
       <AboutExpert />
-      <CTASection namespace="Home" />
-      <FAQPreview />
+      <CTASection t={homeT} />
+      <FAQPreview locale={locale} t={homeT} />
       <LeadMagnet />
       <script id="jsonld-homepage" type="application/ld+json">
         {JSON.stringify({
