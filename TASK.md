@@ -1,6 +1,6 @@
 # 官网改版 — 任务清单
 
-## 当前状态 (2026-05-03 13:00 UTC+8 第十三次巡检 — T54/T55 完成，867 pages 构建 0 error，发现 2 个翻译 key 缺失)
+## 当前状态 (2026-05-03 05:20 UTC+8 第十五次巡检 — 全站运行稳定，发现 1 个残留文件问题)
 - ✅ 12 页面全部完成并线上验证
 - ✅ 9 种核心语言 + 39 种扩展语言全部翻译完整
 - ✅ 48 语言翻译全部完成（3941 条翻译修复，commit 007436d）
@@ -200,6 +200,9 @@
 ### 阶段十一：第 13 轮深度巡检发现（2026-05-03 13:00 UTC+8）
 - [x] T56. 修复 Navbar.blog key 缺失 ✅ — en.json 添加 `"blog": "Blog"`，翻译到 47 种语言，构建 867 pages 0 error
 - [x] T57. 修复 Packages.step* key 部分语言缺失 ✅ — 补充所有缺失的 Packages keys 到 48 语言，同时清理 47 语言中 16 个死 key（advancedCta/advancedDesc/advancedIncludes/advancedItems/advancedName/advancedUseCase/basicCta/basicDesc 等），确保 48 语言 key 结构完全一致。构建 867 pages 0 error
+
+### 阶段十二：第 15 轮深度巡检发现（2026-05-03 05:20 UTC+8）
+- [ ] T58. 清理 orphaned blog 目录 — content/blog/et/ 包含 5 篇 MDX 文章，但 `et`（爱沙尼亚语）不是已配置的 48 种语言之一（T15 中已修复 sitemap 包含此无效 locale），该目录为残留文件，应删除以保持项目整洁。优先级：P3。
 
 ### 阶段一：表单简化（只留邮箱）
 - [x] T20. LeadMagnet 组件删除 Name 输入框（含图标、label、placeholder）✅ 2026-05-02 16:10 UTC+8

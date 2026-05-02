@@ -2,6 +2,36 @@
 
 ## 巡检记录
 
+### 2026-05-03 05:20 UTC+8 第 15 次巡检（第 15 轮回归测试 + 文件一致性）— 全站稳定，发现 1 个残留文件
+- **执行任务**：无待执行任务（T0-T57 全部完成）
+- **回归测试（第 15 轮）**：
+  - ✅ 翻译完整性：48/48 语言 key 结构完全一致（460 keys），0 缺失 0 多余
+  - ✅ 空翻译值：0 个
+  - ✅ 构建：867 pages, 0 error, 0 MISSING_MESSAGE
+  - ✅ 线上页面：/,/en/,/zh/,/en/about/,/en/services/gacc/,/en/faq/,/en/blog/,/en/blog/gacc-registration-guide/ 全部 200
+  - ✅ 根路径 `/`：302 → `/en/` 正常
+  - ✅ JSON-LD：首页 Organization + Blog 页 BlogPosting schema 正确渲染
+  - ✅ hreflang：博客文章页 48 alternate 链接完整
+  - ✅ Sitemap：864 URL（576 基础 + 48 博客列表 + 240 博客文章），hreflang 完整
+  - ✅ SEO 结构：H1=1, nav/main/section 语义化，51 aria 属性
+  - ✅ 博客翻译：48 语言 × 5 篇文章 = 240 MDX 文件齐全
+  - ❌ **T58：orphaned blog 目录** — content/blog/et/ 包含 5 篇 MDX 文章，但 `et`（爱沙尼亚语）不在 48 种已配置语言中（T15 已修复 sitemap 包含此无效 locale），该目录为残留文件
+- **Git**：working tree clean（巡检更新 TASK.md + NOTES.md）
+- **结论**：全站运行稳定，发现 1 个残留文件问题（T58）
+
+### 2026-05-03 13:10 UTC+8 第 14 次巡检（第 14 轮组合深度检查）— T56/T57 完成，全站无新问题
+- **执行任务**：T56 ✅（Navbar.blog key 添加到 48 语言）, T57 ✅（Packages.keys 补齐 48 语言 + 清理 47 语言 16 个死 keys）
+- **组合深度检查（第 14 轮）**：
+  - ✅ Key 结构一致性：48/48 语言完全一致
+  - ✅ 空翻译值：0 个
+  - ✅ 品牌名一致性：48 语言 Navbar.logo 均为 "SinoTrade Compliance"
+  - ✅ 联系信息：email 3 文件、WhatsApp 13 文件，全部一致
+  - ✅ 禁用内容：¥5000/¥26000 为跨境电商监管限额说明（非定价），2-4 weeks 为 FAQ 注册流程时间说明（非交付承诺），均为合规内容
+  - ✅ 博客 MDX：245 文件（49 locale × 5 篇）
+- **构建**：867 pages, 0 error, 0 MISSING_MESSAGE ✅
+- **Git**：1 commit 已推送 (0f59394)
+- **结论**：全站运行稳定，无新发现问题 ✅
+
 ### 2026-05-02 19:15 UTC+8 第 23 次巡检（第 4 轮内容一致性审计）— T46-T48 全部完成，全站一致性通过
 - **执行任务**：T46 ✅（zh FAQ 已翻译）, T47 ✅（sv/sw/ur/vi cosmeticsA2/A3 翻译）, T48 ✅（he 14 Blog keys + 19 语言 Blog author + 4 语言 Blog title/categories/pagination 翻译）
 - **内容一致性（第 4 轮）**：
