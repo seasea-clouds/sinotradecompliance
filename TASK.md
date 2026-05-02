@@ -198,8 +198,8 @@
 - [x] T55. sitemap.xml 缺少博客 URL ✅ 2026-05-03 13:00 UTC+8 — 静态 sitemap 更新为 864 URL（576 基础 + 48 博客列表 + 240 博客文章），构建 867 pages 0 error
 
 ### 阶段十一：第 13 轮深度巡检发现（2026-05-03 13:00 UTC+8）
-- [ ] T56. 修复 Navbar.blog key 缺失 — en.json 中 Navbar namespace 缺少 `blog` key，但代码/导航栏中引用了该 key，导致所有 48 语言构建时 MISSING_MESSAGE 警告。需在 en.json 中添加 `"blog": "Blog"`，然后同步到 47 种语言。优先级：P2。
-- [ ] T57. 修复 Packages.step* key 部分语言缺失 — en.json 中 Packages.step1Title-4Title/step1Desc-4Desc 存在，但 pt.json 等语言文件中缺失，导致构建时 MISSING_MESSAGE 警告。需补充到所有 48 语言。优先级：P2。
+- [x] T56. 修复 Navbar.blog key 缺失 ✅ — en.json 添加 `"blog": "Blog"`，翻译到 47 种语言，构建 867 pages 0 error
+- [x] T57. 修复 Packages.step* key 部分语言缺失 ✅ — 补充所有缺失的 Packages keys 到 48 语言，同时清理 47 语言中 16 个死 key（advancedCta/advancedDesc/advancedIncludes/advancedItems/advancedName/advancedUseCase/basicCta/basicDesc 等），确保 48 语言 key 结构完全一致。构建 867 pages 0 error
 
 ### 阶段一：表单简化（只留邮箱）
 - [x] T20. LeadMagnet 组件删除 Name 输入框（含图标、label、placeholder）✅ 2026-05-02 16:10 UTC+8

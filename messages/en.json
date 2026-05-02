@@ -14,6 +14,7 @@
     },
     "packages": "Packages",
     "faq": "FAQ",
+    "blog": "Blog",
     "contact": "Contact Us"
   },
   "Home": {
@@ -302,7 +303,8 @@
     "allCardsCta": "Get Free Assessment",
     "ctaTitle": "Ready to Build Your Compliance Plan?",
     "ctaDesc": "Contact us for a free assessment. We'll recommend exactly what you need — nothing more, nothing less.",
-    "ctaButton": "Start Free Assessment"
+    "ctaButton": "Start Free Assessment",
+    "cccDesc": "China Compulsory Certification for applicable products"
   },
   "Faq": {
     "heroTitle": "Frequently Asked Questions",
