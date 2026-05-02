@@ -19,7 +19,7 @@ export default async function BrandPage({ params }: { params: Promise<{ locale: 
     <main>
       <ServiceHero title={t('heroTitle')} subtitle={t('heroSubtitle')} ctaText={t('cta')} />
       <CoverSection namespace="ServiceBrand" />
-      <ProcessSteps namespace="ServiceBrand" />
+      <ProcessSteps namespace="Home" />
       <WhyUsCards />
       <CTASection />
     </main>

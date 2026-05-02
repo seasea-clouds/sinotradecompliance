@@ -19,7 +19,7 @@ export default async function LabelPage({ params }: { params: Promise<{ locale: 
     <main>
       <ServiceHero title={t('heroTitle')} subtitle={t('heroSubtitle')} ctaText={t('cta')} />
       <CoverSection namespace="ServiceLabel" />
-      <ProcessSteps namespace="ServiceLabel" />
+      <ProcessSteps namespace="Home" />
       <WhyUsCards />
       <CTASection />
     </main>

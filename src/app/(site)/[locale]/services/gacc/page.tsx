@@ -19,7 +19,7 @@ export default async function GaccPage({ params }: { params: Promise<{ locale: s
     <main>
       <ServiceHero title={t('heroTitle')} subtitle={t('heroSubtitle')} ctaText={t('cta')} />
       <CoverSection namespace="ServiceGacc" />
-      <ProcessSteps namespace="ServiceGacc" />
+      <ProcessSteps namespace="Home" />
       <WhyUsCards />
       <CTASection />
     </main>

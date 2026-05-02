@@ -19,7 +19,7 @@ export default async function CCCPage({ params }: { params: Promise<{ locale: st
     <main>
       <ServiceHero title={t('heroTitle')} subtitle={t('heroSubtitle')} ctaText={t('cta')} />
       <CoverSection namespace="ServiceCcc" />
-      <ProcessSteps namespace="ServiceCcc" />
+      <ProcessSteps namespace="Home" />
       <WhyUsCards />
       <CTASection />
     </main>

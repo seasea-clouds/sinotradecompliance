@@ -19,7 +19,7 @@ export default async function EcommercePage({ params }: { params: Promise<{ loca
     <main>
       <ServiceHero title={t('heroTitle')} subtitle={t('heroSubtitle')} ctaText={t('cta')} />
       <CoverSection namespace="ServiceEcommerce" />
-      <ProcessSteps namespace="ServiceEcommerce" />
+      <ProcessSteps namespace="Home" />
       <WhyUsCards />
       <CTASection />
     </main>

@@ -19,7 +19,7 @@ export default async function CosmeticsPage({ params }: { params: Promise<{ loca
     <main>
       <ServiceHero title={t('heroTitle')} subtitle={t('heroSubtitle')} ctaText={t('cta')} />
       <CoverSection namespace="ServiceCosmetics" />
-      <ProcessSteps namespace="ServiceCosmetics" />
+      <ProcessSteps namespace="Home" />
       <WhyUsCards />
       <CTASection />
     </main>
