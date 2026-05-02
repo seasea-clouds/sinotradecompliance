@@ -1,6 +1,6 @@
 # 官网改版 — 任务清单
 
-## 当前状态 (2026-05-02 10:01 UTC+8 第十八次全语言审计 — 博客系统上线，48 语言翻译完整，632 pages 构建 0 error)
+## 当前状态 (2026-05-03 04:50 UTC+8 第十二次巡检 — 博客翻译完成，867 pages 构建 0 error，发现 2 个 SEO 问题)
 - ✅ 12 页面全部完成并线上验证
 - ✅ 9 种核心语言 + 39 种扩展语言全部翻译完整
 - ✅ 48 语言翻译全部完成（3941 条翻译修复，commit 007436d）
@@ -161,7 +161,8 @@
 | 05-02 17:52 | T27-T31: 翻译审计 ✅ 48 语言 key 结构一致，~752 英文占位符待人工审核，品牌名一致 |
 | 05-02 20:16 | T32: 博客系统 ✅ 5 articles × 48 locales = 240 translations, 867 pages build, commit pending |
 | 05-02 18:01 | T32-T38: 博客系统 ✅ MDX 配置 + 5 篇文章 + BlogPostCard/BlogCategoryFilter 组件 + blog 路由(48×6 routes) + JSON-LD BlogPosting + 48 语言 UI keys，构建 632 pages 0 error, commit 336d87f 已推送 |
-| 05-02 18:01 | 第十八次巡检：博客系统上线，48 语言翻译完整，构建 632 pages 0 error，全站运行稳定 ✅
+| 05-02 18:01 | 第十八次巡检：博客系统上线，48 语言翻译完整，构建 632 pages 0 error，全站运行稳定 ✅ |
+| 05-03 04:50 | 第十二次巡检（组合深度检查）：博客翻译完成 47×5=235 文件，构建 867 pages 0 error，Date 解析 bug 已修复，发现 2 个 SEO 问题：博客页面缺 hreflang、sitemap 缺博客 URL，已创建 T54/T55 |
 
 ---
 
@@ -191,6 +192,10 @@
 
 ### 阶段九：博客正文翻译到 48 种语言（新需求）
 - [x] T53. 5 篇博客 MDX 文章翻译到 47 种语言（英文已有）— 235 个翻译文件，保持 MDX frontmatter 和格式不变，只翻译正文内容 ✅ 2026-05-03 — 47×5=235 文件，构建 867 pages 0 error，修复 gray-matter Date 解析 bug（blog.ts）
+
+### 阶段十：第 12 轮深度巡检发现（2026-05-03 04:50 UTC+8）
+- [ ] T54. 博客页面缺少 hreflang 链接 — 博客列表页和博客文章页的 `generateMetadata` 中只有 `canonical`，缺少 `alternates.languages`（每页应有 48 个 alternate 链接）。涉及文件：`src/app/(site)/[locale]/blog/page.tsx` 和 `src/app/(site)/[locale]/blog/[slug]/page.tsx`。优先级：P1（SEO 影响：Google 无法发现博客的翻译版本）
+- [ ] T55. sitemap.xml 是静态文件，缺少博客 URL — `public/sitemap.xml` 是手动创建的静态文件，只包含 576 个 URL（48×12 基础页面），缺少 288 个博客 URL（48 博客列表页 + 240 博客文章页）。需改为动态生成脚本或更新静态文件。优先级：P1（SEO 影响：Google 无法通过 sitemap 发现博客页面）
 
 ### 阶段一：表单简化（只留邮箱）
 - [x] T20. LeadMagnet 组件删除 Name 输入框（含图标、label、placeholder）✅ 2026-05-02 16:10 UTC+8
