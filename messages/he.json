@@ -382,7 +382,13 @@
     "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
     "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
     "brandQ5": "How do I choose a good Chinese brand name?",
-    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
+    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one.",
+    "labelA3a": "כן, לתוספי בריאות יש דרישות תיוג נוספות מעבר למזון ארוז מראש, כולל טענות לתפקוד בריאותי, קבוצות אוכלוסייה מתאימות והוראות שימוש. אנו מטפלים בעמידה בתווית ספציפית לקטגוריות.",
+    "labelA4a": "סקירה ועיצוב תווית סטנדרטיים נמשכים 1-2 שבועות לכל מק\"ט. למשלוחים דחופים אנו מציעים שירות מהיר. הזמנות מהירות תלויות במורכבות המוצר ובעומס העבודה הנוכחי.",
+    "labelA5a": "כן, מוצרי קוסמטיקה מיובאים הנמכרים בערוצים קמעונאיים מסורתיים חייבים להיות בעלי תוויות סיניות תואמות לדרישות ה-NMPA, כולל רשימות מרכיבים עם תרגומים לסינית, תוכן רשת, פרטי יצרן והוראות שימוש. מוצרי קוסמטיקה למסחר אלקטרוני חוצה גבולות פטורים מתיוג פיזי אך חייבים להציג מידע על המוצר הסיני באינטרנט.",
+    "cccA3a": "לא, תעודות CCC קשורות למתקן הייצור הספציפי. אם אתה מחליף יצרן, יש צורך ביישום CCC חדש. אנו יכולים לסייע בהעברה או הגשת בקשה מחדש לקבלת הסמכה.",
+    "cccA4a": "עלויות CCC משתנות לפי קטגוריית המוצר, דרישות הבדיקה והיקף הביקורת במפעל. אנו מספקים הערכת עלות מפורטת לאחר הערכת המוצר הספציפי שלך. מבנה התשלום הקבוע שלנו אומר שאין הפתעות.",
+    "brandA5a": "שם מותג סיני חזק צריך להיות דומה מבחינה פונטית לשם האנגלי שלך, מתאים מבחינה תרבותית, קל לזכור וזמין מבחינה חוקית לרישום סימן מסחרי. אנו מספקים שירותי פיתוח שמות סיניים הכוללים ייעוץ תרבותי, חיפוש זמינות סימנים מסחריים ורישום."
   },
   "About": {
     "heroTitle": "אודות SinoTrade Compliance",

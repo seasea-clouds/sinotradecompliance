@@ -186,7 +186,10 @@
 ## 新需求任务（2026-05-02）
 
 ### 阶段八：第 8 轮深度巡检发现（2026-05-03 03:40 UTC+8）
-- [ ] T52. 修复 FAQ 页 6 个缺失的 sub-question A keys — labelA3a/A4a/A5a、cccA3a/A4a、brandA5a 在 en.json 中存在 Q keys 但 A keys 全部缺失，导致 6 个 FAQ 子问题在页面上不渲染（当前 33 个，应为 39 个）。需补充 6 个 A keys 到 en.json，然后翻译到其余 47 种语言。优先级：P2。
+- [x] T52. 修复 FAQ 页 6 个缺失的 sub-question A keys — labelA3a/A4a/A5a、cccA3a/A4a、brandA5a 在 en.json 中存在 Q keys 但 A keys 全部缺失，导致 6 个 FAQ 子问题在页面上不渲染（当前 33 个，应为 39 个）。需补充 6 个 A keys 到 en.json，然后翻译到其余 47 种语言。优先级：P2。✅ 2026-05-03 11:50 UTC+8 — 6 个 A keys 已添加到 en.json 并翻译到 47 种语言，构建 640 pages 0 error
+
+### 阶段九：博客正文翻译到 48 种语言（新需求）
+- [ ] T53. 5 篇博客 MDX 文章翻译到 47 种语言（英文已有）— 235 个翻译文件，保持 MDX frontmatter 和格式不变，只翻译正文内容
 
 ### 阶段一：表单简化（只留邮箱）
 - [x] T20. LeadMagnet 组件删除 Name 输入框（含图标、label、placeholder）✅ 2026-05-02 16:10 UTC+8
