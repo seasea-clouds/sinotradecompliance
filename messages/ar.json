@@ -247,7 +247,11 @@
     "subtitle": "أخبرنا عن منتجاتك وسنقدم لك خارطة طريق امتثال شخصية.",
     "placeholder": "أدخل بريدك الإلكتروني",
     "button": "احصل على تقييم مجاني",
-    "privacy": "بدون بريد مزعج. إلغاء الاشتراك في أي وقت."
+    "privacy": "بدون بريد مزعج. إلغاء الاشتراك في أي وقت.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "اتصل بنا",

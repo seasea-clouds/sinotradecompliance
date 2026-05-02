@@ -247,7 +247,11 @@
     "subtitle": "ספרו לנו על המוצרים שלכם ואנחנו נספק מפת דרכים תאימות מותאמת אישית.",
     "placeholder": "הכניסו את הדוא״ל שלכם",
     "button": "קבלו הערכה חינם",
-    "privacy": "ללא ספאם. ניתן לבטל מנוי בכל עת."
+    "privacy": "ללא ספאם. ניתן לבטל מנוי בכל עת.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "צור קשר",

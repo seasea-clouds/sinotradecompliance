@@ -21,7 +21,11 @@
     "subtitle": "ඔබේ ආහාර සහ බීම වෙළඳ නාමය චීනය සඳහා ලියාපදිංචි කිරීමේ පියවරෙන් පියවර මාර්ගෝපදේශය බාගන්න.",
     "placeholder": "ඔබේ විද්‍යුත් තැපෑල ඇතුළත් කරන්න",
     "button": "නොමිලේ PDF බාගන්න",
-    "privacy": "ස්පෑම් නැහැ. ඕනෑම වේලාවක අවලංගු කරන්න."
+    "privacy": "ස්පෑම් නැහැ. ඕනෑම වේලාවක අවලංගු කරන්න.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Expert": {
     "title": "ඔබේ චීන විශේෂඥවරයා හමුවන්න",

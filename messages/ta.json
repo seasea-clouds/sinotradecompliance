@@ -21,7 +21,11 @@
     "subtitle": "சீனாவிற்கு உங்கள் உணவு & பான பிராண்டைப் பதிவு செய்வதற்கான படிப்படியான வழிகாட்டி.",
     "placeholder": "உங்கள் மின்னஞ்சலை உள்ளிடவும்",
     "button": "இலவச PDF பதிவிறக்கம்",
-    "privacy": "ஸ்பேம் இல்லை. எப்போது வேண்டுமானாலும் ரத்து செய்யலாம்."
+    "privacy": "ஸ்பேம் இல்லை. எப்போது வேண்டுமானாலும் ரத்து செய்யலாம்.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Expert": {
     "title": "உங்கள் சீன நிபுணரை சந்தியுங்கள்",

@@ -247,7 +247,11 @@
     "subtitle": "Պատմեք մեզ ձեր ապրանքների մասին, և մենք կտրամադրենք անհատական համապատասխանության ճանապարհային քարտեզ։",
     "placeholder": "Մուտքագրեք ձեր էլ. հասցեն",
     "button": "Ստացեք Անվճար Գնահատական",
-    "privacy": "Ոչ մի սպամ։ Չեղարկեք ցանկացած պահի։"
+    "privacy": "Ոչ մի սպամ։ Չեղարկեք ցանկացած պահի։",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Կապ",

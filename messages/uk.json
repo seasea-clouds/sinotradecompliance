@@ -21,7 +21,11 @@
     "subtitle": "Завантажте наш покроковий посібник для реєстрації вашого бренду харчових продуктів та напоїв у Китаї.",
     "placeholder": "Введіть вашу електронну пошту",
     "button": "Завантажити безкоштовний PDF",
-    "privacy": "Без спаму. Відписка в будь-який час."
+    "privacy": "Без спаму. Відписка в будь-який час.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Expert": {
     "title": "Познайомтеся з вашим спеціалістом з Китаю",

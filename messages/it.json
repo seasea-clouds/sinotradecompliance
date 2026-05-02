@@ -247,7 +247,11 @@
     "subtitle": "Raccontaci dei tuoi prodotti e ti forniremo una roadmap di conformità personalizzata.",
     "placeholder": "Inserisci la tua email",
     "button": "Richiedi una Valutazione Gratuita",
-    "privacy": "Niente spam. Disiscriviti quando vuoi."
+    "privacy": "Niente spam. Disiscriviti quando vuoi.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Contatti",

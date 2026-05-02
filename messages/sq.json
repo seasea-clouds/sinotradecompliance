@@ -247,7 +247,11 @@
     "subtitle": "Na tregoni për produktet tuaja dhe ne do të sigurojmë një rrugë përputhshmërie të personalizuar.",
     "placeholder": "Shkruani emailin tuaj",
     "button": "Merrni Vlerësim Falas",
-    "privacy": "Pa spam. Çregjistrohuni në çdo kohë."
+    "privacy": "Pa spam. Çregjistrohuni në çdo kohë.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Kontakti",

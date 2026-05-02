@@ -247,7 +247,11 @@
     "subtitle": "製品について教えてください。パーソナライズされたコンプライアンスロードマップを提供します。",
     "placeholder": "メールアドレスを入力",
     "button": "無料診断を受ける",
-    "privacy": "スパムなし。いつでも解約可能。"
+    "privacy": "スパムなし。いつでも解約可能。",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "お問い合わせ",

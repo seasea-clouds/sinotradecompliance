@@ -21,7 +21,11 @@
     "subtitle": "Изтеглете нашето ръководство стъпка по стъпка за регистрация на вашата марка храни и напитки в Китай.",
     "placeholder": "Въведете имейла си",
     "button": "Изтеглете безплатен PDF",
-    "privacy": "Без спам. Отписване по всяко време."
+    "privacy": "Без спам. Отписване по всяко време.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Expert": {
     "title": "Запознайте се с вашия специалист по Китай",

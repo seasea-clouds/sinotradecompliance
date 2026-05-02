@@ -247,7 +247,11 @@
     "subtitle": "درباره محصولات خود به ما بگویید و ما یک نقشه راه انطباق شخصی‌سازی‌شده ارائه خواهیم داد.",
     "placeholder": "ایمیل خود را وارد کنید",
     "button": "ارزیابی رایگان دریافت کنید",
-    "privacy": "بدون اسپم. هر زمان لغو اشتراک کنید."
+    "privacy": "بدون اسپم. هر زمان لغو اشتراک کنید.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "تماس",

@@ -247,7 +247,11 @@
     "subtitle": "Recite nam o vašim proizvodima i obezbedićemo personalizovani plan usklađenosti.",
     "placeholder": "Unesite vaš email",
     "button": "Zatražite Besplatnu Procenu",
-    "privacy": "Bez spama. Otkažite bilo kada."
+    "privacy": "Bez spama. Otkažite bilo kada.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Kontakt",

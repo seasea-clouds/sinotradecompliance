@@ -247,7 +247,11 @@
     "subtitle": "Ceritakan tentang produk Anda dan kami akan memberikan peta jalan kepatuhan yang dipersonalisasi.",
     "placeholder": "Masukkan email Anda",
     "button": "Dapatkan Penilaian Gratis",
-    "privacy": "Tanpa spam. Berhenti berlangganan kapan saja."
+    "privacy": "Tanpa spam. Berhenti berlangganan kapan saja.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Kontak",

@@ -247,7 +247,11 @@
     "subtitle": "Məhsullarınız haqqında danışın, fərdi uyğunluq yolu təqdim edək.",
     "placeholder": "E-poçt ünvanınızı daxil edin",
     "button": "Pulsuz Qiymətləndirmə Alın",
-    "privacy": "Spam yoxdur. İstənilən vaxt ləğv edin."
+    "privacy": "Spam yoxdur. İstənilən vaxt ləğv edin.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Əlaqə",

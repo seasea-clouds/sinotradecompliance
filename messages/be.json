@@ -21,7 +21,11 @@
     "subtitle": "Спампуйце пакрокавы даведнік па рэгістрацыі вашага брэнда ежы і напояў для Кітая.",
     "placeholder": "Увядзіце вашу электронную пошту",
     "button": "Спампаваць бясплатны PDF",
-    "privacy": "Без спаму. Адпішыцеся ў любы час."
+    "privacy": "Без спаму. Адпішыцеся ў любы час.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Expert": {
     "title": "Пазнаёмцеся з вашым кітайскім спецыялістам",

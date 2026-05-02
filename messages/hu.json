@@ -247,7 +247,11 @@
     "subtitle": "Meséljen termékeiről és személyre szabott megfelelőségi ütemtervet készítünk.",
     "placeholder": "Adja meg email címét",
     "button": "Ingyenes felmérés",
-    "privacy": "Nem küldünk spamet. Bármikor leiratkozhat."
+    "privacy": "Nem küldünk spamet. Bármikor leiratkozhat.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Kapcsolat",

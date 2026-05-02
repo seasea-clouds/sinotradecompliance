@@ -247,7 +247,11 @@
     "subtitle": "Ürünleriniz hakkında bilgi verin, kişiselleştirilmiş uyumluluk yol haritası sunalım.",
     "placeholder": "E-posta adresinizi girin",
     "button": "Ücretsiz Değerlendirme Alın",
-    "privacy": "Spam yok. İstediğiniz zaman abonelikten çıkabilirsiniz."
+    "privacy": "Spam yok. İstediğiniz zaman abonelikten çıkabilirsiniz.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "İletişim",

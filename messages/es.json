@@ -247,7 +247,11 @@
     "subtitle": "Cuéntenos sobre sus productos y le proporcionaremos una hoja de ruta de cumplimiento personalizada.",
     "placeholder": "Ingrese su correo electrónico",
     "button": "Obtener Evaluación Gratuita",
-    "privacy": "Sin spam. Cancele la suscripción en cualquier momento."
+    "privacy": "Sin spam. Cancele la suscripción en cualquier momento.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Contacto",

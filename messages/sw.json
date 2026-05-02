@@ -247,7 +247,11 @@
     "subtitle": "Tuambie kuhusu bidhaa zako na tutatoa ramani ya utiifu iliyobinafsishwa.",
     "placeholder": "Weka barua pepe yako",
     "button": "Pata Tathmini Bure",
-    "privacy": "Hakuna barua taka. Ondoa wakati wowote."
+    "privacy": "Hakuna barua taka. Ondoa wakati wowote.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Mawasiliano",

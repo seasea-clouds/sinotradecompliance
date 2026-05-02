@@ -247,7 +247,11 @@
     "subtitle": "제품에 대해 알려주시면 맞춤형 규정 준수 로드맵을 제공합니다.",
     "placeholder": "이메일을 입력하세요",
     "button": "무료 진단 받기",
-    "privacy": "스팸 없음. 언제든지 구독 해제 가능."
+    "privacy": "스팸 없음. 언제든지 구독 해제 가능.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "연락처",

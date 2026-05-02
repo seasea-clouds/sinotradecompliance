@@ -247,7 +247,11 @@
     "subtitle": "Conte-nos sobre seus produtos e forneceremos um roteiro de conformidade personalizado.",
     "placeholder": "Digite seu e-mail",
     "button": "Obter Avaliação Gratuita",
-    "privacy": "Sem spam. Cancele a qualquer momento."
+    "privacy": "Sem spam. Cancele a qualquer momento.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Contato",

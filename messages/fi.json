@@ -247,7 +247,11 @@
     "subtitle": "Kerro tuotteistasi ja annamme henkilökohtaisen vaatimustenmukaisuuskartan.",
     "placeholder": "Syötä sähköpostiosoitteesi",
     "button": "Pyydä ilmainen arvio",
-    "privacy": "Ei roskapostia. Peru tilaus milloin tahansa."
+    "privacy": "Ei roskapostia. Peru tilaus milloin tahansa.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Yhteystiedot",

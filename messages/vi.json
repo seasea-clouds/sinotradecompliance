@@ -247,7 +247,11 @@
     "subtitle": "Chia sẻ về sản phẩm của bạn, chúng tôi sẽ cung cấp lộ trình tuân thủ cá nhân hóa.",
     "placeholder": "Nhập email của bạn",
     "button": "Đăng ký đánh giá miễn phí",
-    "privacy": "Không spam. Hủy đăng ký bất cứ lúc nào."
+    "privacy": "Không spam. Hủy đăng ký bất cứ lúc nào.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Liên hệ",

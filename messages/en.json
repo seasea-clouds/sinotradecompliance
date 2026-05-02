@@ -245,9 +245,12 @@
   "LeadMagnet": {
     "title": "Free Compliance Assessment",
     "subtitle": "Tell us about your products and we'll provide a personalized compliance roadmap.",
-    "placeholder": "Enter your email",
-    "button": "Get Free Assessment",
-    "privacy": "No spam. Unsubscribe anytime."
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com",
+    "button": "Download Free Checklist",
+    "privacy": "We respect your privacy. No spam, ever."
   },
   "Footer": {
     "contact": "Contact",

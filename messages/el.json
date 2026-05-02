@@ -247,7 +247,11 @@
     "subtitle": "Πείτε μας για τα προϊόντα σας και θα παρέχουμε έναν εξατομικευμένο οδικό χάρτη συμμόρφωσης.",
     "placeholder": "Εισάγετε το email σας",
     "button": "Δωρεάν αξιολόγηση",
-    "privacy": "Όχι spam. Απεγγραφή οποιαδήποτε στιγμή."
+    "privacy": "Όχι spam. Απεγγραφή οποιαδήποτε στιγμή.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Επικοινωνία",

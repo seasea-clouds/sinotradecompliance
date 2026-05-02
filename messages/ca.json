@@ -247,7 +247,11 @@
     "subtitle": "Expliqueu-nos els vostres productes i us proporcionarem un pla de conformitat personalitzat.",
     "placeholder": "Introduïu el vostre correu electrònic",
     "button": "Obteniu una Avaluació Gratuïta",
-    "privacy": "Sense spam. Cancel·leu la subscripció en qualsevol moment."
+    "privacy": "Sense spam. Cancel·leu la subscripció en qualsevol moment.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Contacte",

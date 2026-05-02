@@ -21,7 +21,11 @@
     "subtitle": "तपाईंको खाद्य र पेय ब्रान्डलाई चीनको लागि दर्ता गर्ने चरणबद्ध मार्गदर्शिका डाउनलोड गर्नुहोस्।",
     "placeholder": "आफ्नो इमेल प्रविष्ट गर्नुहोस्",
     "button": "निःशुल्क PDF डाउनलोड",
-    "privacy": "कोही स्पाम छैन। जुनसुकै बेला सदस्यता रद्द गर्नुहोस्।"
+    "privacy": "कोही स्पाम छैन। जुनसुकै बेला सदस्यता रद्द गर्नुहोस्।",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Expert": {
     "title": "आफ्नो चीन विशेषज्ञलाई भेट्नुहोस्",

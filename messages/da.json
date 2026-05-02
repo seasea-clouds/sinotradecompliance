@@ -247,7 +247,11 @@
     "subtitle": "Fortæl os om dine produkter, og vi vil levere en personlig overholdelsesvejledning.",
     "placeholder": "Indtast din e-mail",
     "button": "Få gratis vurdering",
-    "privacy": "Ingen spam. Afmeld når som helst."
+    "privacy": "Ingen spam. Afmeld når som helst.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Kontakt",

@@ -247,7 +247,11 @@
     "subtitle": "Расскажите нам о ваших продуктах, и мы подготовим индивидуальный маршрут соответствия.",
     "placeholder": "Введите ваш e-mail",
     "button": "Получить бесплатную оценку",
-    "privacy": "Без спама. Отписаться можно в любое время."
+    "privacy": "Без спама. Отписаться можно в любое время.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Контакты",

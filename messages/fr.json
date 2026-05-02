@@ -247,7 +247,11 @@
     "subtitle": "Parlez-nous de vos produits et nous vous fournirons une feuille de route de conformité personnalisée.",
     "placeholder": "Entrez votre email",
     "button": "Obtenir une Évaluation Gratuite",
-    "privacy": "Pas de spam. Désabonnement à tout moment."
+    "privacy": "Pas de spam. Désabonnement à tout moment.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Contact",

@@ -247,7 +247,11 @@
     "subtitle": "Erzählen Sie uns von Ihren Produkten und wir erstellen eine personalisierte Konformitäts-Roadmap.",
     "placeholder": "Geben Sie Ihre E-Mail-Adresse ein",
     "button": "Kostenlose Bewertung anfordern",
-    "privacy": "Kein Spam. Jederzeit abbestellbar."
+    "privacy": "Kein Spam. Jederzeit abbestellbar.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "Kontakt",

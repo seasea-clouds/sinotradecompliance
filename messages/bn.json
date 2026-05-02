@@ -247,7 +247,11 @@
     "subtitle": "আপনার পণ্য সম্পর্কে আমাদের জানান এবং আমরা একটি ব্যক্তিগতকৃত সম্মতি রোডম্যাপ প্রদান করব।",
     "placeholder": "আপনার ইমেইল লিখুন",
     "button": "বিনামূল্যে মূল্যায়ন পান",
-    "privacy": "কোনো স্প্যাম নেই। যেকোনো সময় সদস্যতা বাতিল করুন।"
+    "privacy": "কোনো স্প্যাম নেই। যেকোনো সময় সদস্যতা বাতিল করুন।",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "যোগাযোগ",

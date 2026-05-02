@@ -21,7 +21,11 @@
     "subtitle": "ดาวน์โหลดคู่มือขั้นตอนการจดทะเบียนแบรนด์อาหารและเครื่องดื่มของคุณสำหรับจีน",
     "placeholder": "กรอกอีเมลของคุณ",
     "button": "ดาวน์โหลด PDF ฟรี",
-    "privacy": "ไม่ส่งสแปม ยกเลิกได้ทุกเมื่อ"
+    "privacy": "ไม่ส่งสแปม ยกเลิกได้ทุกเมื่อ",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Expert": {
     "title": "พบกับผู้เชี่ยวชาญด้านจีนของคุณ",

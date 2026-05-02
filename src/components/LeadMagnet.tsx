@@ -1,12 +1,11 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
-import { Download, Mail } from 'lucide-react';
-import { useState } from 'react';
+import { useTranslations, useLocale } from 'next-intl';
+import { Download, Mail, User } from 'lucide-react';
 
 export default function LeadMagnet() {
   const t = useTranslations('LeadMagnet');
-  const [email, setEmail] = useState('');
+  const locale = useLocale();
 
   return (
     <section id="contact" className="bg-[#F4F6F9] py-16 sm:py-20 px-4 sm:px-6 lg:px-8">
@@ -18,22 +17,91 @@ export default function LeadMagnet() {
         <p className="text-[#7F8C8D] mb-8 leading-relaxed">
           {t('subtitle')}
         </p>
-        <div className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
-          <div className="flex-1 relative">
-            <Mail className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-[#7F8C8D]" />
-            <input
-              type="email"
-              placeholder={t('placeholder')}
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-              className="w-full pl-10 pr-4 py-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#1B365D] focus:border-transparent text-[#333333]"
-            />
+        <form
+          action="https://api.web3forms.com/submit"
+          method="POST"
+          className="w-full max-w-md mx-auto bg-white rounded-lg p-6 sm:p-8 shadow-lg"
+        >
+          <input
+            type="hidden"
+            name="access_key"
+            value="b1e6d34d-9fdc-4dc1-9bb2-6fc9090b361c"
+          />
+          <input
+            type="hidden"
+            name="subject"
+            value="🔥 New Lead: GACC Checklist Download!"
+          />
+          <input
+            type="hidden"
+            name="from_name"
+            value="SinoTrade Website"
+          />
+          <input
+            type="checkbox"
+            name="botcheck"
+            className="hidden"
+            style={{ display: 'none' }}
+          />
+          <input
+            type="hidden"
+            name="redirect"
+            value={`https://sinotradecompliance.com/${locale}/thank-you`}
+          />
+
+          {/* Name Input */}
+          <div className="mb-4 relative">
+            <label
+              htmlFor="name"
+              className="block text-sm font-semibold text-[#333333] mb-1 text-left"
+            >
+              {t('nameLabel')}
+            </label>
+            <div className="relative">
+              <User className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-[#7F8C8D]" />
+              <input
+                type="text"
+                name="name"
+                id="name"
+                placeholder={t('namePlaceholder')}
+                required
+                className="w-full pl-10 pr-4 py-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#1B365D] focus:border-transparent transition-all shadow-sm text-[#333333]"
+              />
+            </div>
           </div>
-          <button className="bg-[#1B365D] hover:bg-[#1B365D]/90 text-white font-semibold px-6 py-3 rounded-md transition-all hover:shadow-md whitespace-nowrap">
-            {t('button')}
+
+          {/* Email Input */}
+          <div className="mb-4 relative">
+            <label
+              htmlFor="email"
+              className="block text-sm font-semibold text-[#333333] mb-1 text-left"
+            >
+              {t('emailLabel')}
+            </label>
+            <div className="relative">
+              <Mail className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-[#7F8C8D]" />
+              <input
+                type="email"
+                name="email"
+                id="email"
+                placeholder={t('emailPlaceholder')}
+                required
+                className="w-full pl-10 pr-4 py-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#1B365D] focus:border-transparent transition-all shadow-sm text-[#333333]"
+              />
+            </div>
+          </div>
+
+          {/* Submit Button */}
+          <button
+            type="submit"
+            className="w-full mt-2 bg-[#1B365D] hover:bg-[#1B365D]/90 text-white font-bold py-3.5 px-4 rounded-md transition-colors duration-300 shadow-md flex justify-center items-center gap-2"
+          >
+            {t('button')} →
           </button>
-        </div>
-        <p className="text-xs text-[#7F8C8D] mt-3">{t('privacy')}</p>
+
+          {/* Privacy Notice */}
+          <p className="text-xs text-[#7F8C8D] text-center mt-3">{t('privacy')}</p>
+        </form>
       </div>
     </section>
   );

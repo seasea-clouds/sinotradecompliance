@@ -247,7 +247,11 @@
     "subtitle": "हमें अपने उत्पादों के बारे में बताएं और हम एक व्यक्तिगत अनुपालन रोडमैप प्रदान करेंगे।",
     "placeholder": "अपना ईमेल दर्ज करें",
     "button": "मुफ्त मूल्यांकन प्राप्त करें",
-    "privacy": "कोई स्पैम नहीं। कभी भी अनसब्सक्राइब करें।"
+    "privacy": "कोई स्पैम नहीं। कभी भी अनसब्सक्राइब करें।",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. Michael Scott",
+    "emailLabel": "Business Email",
+    "emailPlaceholder": "michael@company.com"
   },
   "Footer": {
     "contact": "संपर्क",
