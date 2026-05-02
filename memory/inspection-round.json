@@ -1,1 +1,100 @@
-{"round": 12, "lastInspection": "2026-05-03T04:50:00Z", "issuesFound": 2, "issuesFixed": 0, "details": "Round 12: 组合深度检查。博客翻译 T53 完成（47×5=235文件，867 pages 0 error）。发现 2 个 SEO 问题：T54 博客页面缺少 hreflang 链接，T55 sitemap.xml 缺少 288 个博客 URL。另外修复了 gray-matter Date 解析 bug（blog.ts）。", "history": [{"round": 1, "date": "2026-05-02", "focus": "Translation completeness", "issues": 102, "fixed": 102}, {"round": 2, "date": "2026-05-02", "focus": "SEO structure", "issues": 14, "fixed": 14}, {"round": 3, "date": "2026-05-02", "focus": "Component interaction", "issues": 7, "fixed": 7}, {"round": 4, "date": "2026-05-02", "focus": "Content consistency", "issues": 5, "fixed": 5}, {"round": 5, "date": "2026-05-02", "focus": "Build analysis", "issues": 3, "fixed": 3}, {"round": 6, "date": "2026-05-02", "focus": "Accessibility", "issues": 0, "fixed": 0}, {"round": 7, "date": "2026-05-02", "focus": "Multilingual SEO", "issues": 0, "fixed": 0}, {"round": 8, "date": "2026-05-02", "focus": "组合深度检查", "issues": 6, "fixed": 6}, {"round": 9, "date": "2026-05-02", "focus": "组合深度检查", "issues": 1, "fixed": 1}, {"round": 10, "date": "2026-05-02", "focus": "组合深度检查", "issues": 0, "fixed": 0}, {"round": 11, "date": "2026-05-02", "focus": "组合深度检查", "issues": 0, "fixed": 0}, {"round": 12, "date": "2026-05-03", "focus": "组合深度检查-博客验证", "issues": 2, "fixed": 0}]}
+{
+  "round": 20,
+  "lastInspection": "2026-05-03T15:00:00+08:00",
+  "issuesFound": 0,
+  "issuesFixed": 1,
+  "details": "Round 20: T69 \u4fee\u590d\u5b8c\u6210\u3002\u6839\u56e0: useTranslations() \u5728 Server Components + output:export SSG \u4e0b\u65e0\u6cd5\u6b63\u786e\u83b7\u53d6 locale-specific messages\uff0c\u6e32\u67d3\u4e3a\u82f1\u6587\u3002\u4fee\u590d: 6 \u4e2a Server Components \u6539\u4e3a\u63a5\u6536 t prop\uff0c\u7531\u9875\u9762\u4f7f\u7528 getTranslations() \u4f20\u5165\u3002\u6784\u5efa 867 pages 0 error\uff0czh \u9996\u9875/\u670d\u52a1\u9875\u4e2d\u6587\u6e32\u67d3\u9a8c\u8bc1\u901a\u8fc7\u3002",
+  "history": [
+    {
+      "round": 1,
+      "date": "2026-05-02",
+      "focus": "Translation completeness",
+      "issues": 102,
+      "fixed": 102
+    },
+    {
+      "round": 2,
+      "date": "2026-05-02",
+      "focus": "SEO structure",
+      "issues": 14,
+      "fixed": 14
+    },
+    {
+      "round": 3,
+      "date": "2026-05-02",
+      "focus": "Component interaction",
+      "issues": 7,
+      "fixed": 7
+    },
+    {
+      "round": 4,
+      "date": "2026-05-02",
+      "focus": "Content consistency",
+      "issues": 5,
+      "fixed": 5
+    },
+    {
+      "round": 5,
+      "date": "2026-05-02",
+      "focus": "Build analysis",
+      "issues": 3,
+      "fixed": 3
+    },
+    {
+      "round": 6,
+      "date": "2026-05-02",
+      "focus": "Accessibility",
+      "issues": 0,
+      "fixed": 0
+    },
+    {
+      "round": 7,
+      "date": "2026-05-02",
+      "focus": "Multilingual SEO",
+      "issues": 0,
+      "fixed": 0
+    },
+    {
+      "round": 8,
+      "date": "2026-05-02",
+      "focus": "\u7ec4\u5408\u6df1\u5ea6\u68c0\u67e5",
+      "issues": 6,
+      "fixed": 6
+    },
+    {
+      "round": 9,
+      "date": "2026-05-02",
+      "focus": "\u7ec4\u5408\u6df1\u5ea6\u68c0\u67e5",
+      "issues": 1,
+      "fixed": 1
+    },
+    {
+      "round": 10,
+      "date": "2026-05-02",
+      "focus": "\u7ec4\u5408\u6df1\u5ea6\u68c0\u67e5",
+      "issues": 0,
+      "fixed": 0
+    },
+    {
+      "round": 11,
+      "date": "2026-05-02",
+      "focus": "\u7ec4\u5408\u6df1\u5ea6\u68c0\u67e5",
+      "issues": 0,
+      "fixed": 0
+    },
+    {
+      "round": 12,
+      "date": "2026-05-03",
+      "focus": "\u7ec4\u5408\u6df1\u5ea6\u68c0\u67e5-\u535a\u5ba2\u9a8c\u8bc1",
+      "issues": 2,
+      "fixed": 0
+    },
+    {
+      "round": 20,
+      "date": "2026-05-03",
+      "focus": "T69 Home namespace SSG fix",
+      "issues": 0,
+      "fixed": 1
+    }
+  ]
+}
