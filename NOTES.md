@@ -318,7 +318,29 @@
 - **Git 状态**：working tree clean，up to date with origin/main ✅
 - **结论**：官网改造全部任务保持完成状态，线上运行稳定，无新发现问题
 
-### 2026-05-02 18:30 UTC+8 第二十一次巡检（第 3 轮组件交互深度检查）— 修复 7 个翻译缺口 + 发现 3 个新翻译缺口
+### 2026-05-03 03:40 UTC+8 第 26 次巡检（第 8 轮组合深度检查）— 发现 FAQ 6 个缺失 A keys
+- **执行任务**：无待执行任务（T0-T51 全部完成）
+- **组合深度检查（第 8 轮）**：
+  - ✅ 构建：632 pages, 0 error, 无任何 warning/INVALID_MESSAGE
+  - ✅ 线上页面：/,/en/,/zh/,/en/about/,/en/services/,/en/faq/,/en/blog/ 全部 200
+  - ✅ 根路径 `/`：302 → `/en/` 正常
+  - ✅ 服务页：6×6 语言（en/zh/ja/ko/ar/ru）全部 200
+  - ✅ 博客页：8 语言 + 5 篇文章全部 200
+  - ✅ 翻译完整性：48 语言 × 443 keys 全部一致，0 缺失 0 多余
+  - ✅ 空翻译：0 个空值
+  - ✅ 品牌名：48 语言一致
+  - ✅ 联系方式：48 语言 email 一致
+  - ✅ __next_error__：0 个页面出现
+  - ✅ JSON-LD：7 个关键页面各 1 个 ld+json 标签
+  - ✅ Sitemap：576 URL，hreflang 完整
+  - ✅ Robots.txt：正确
+  - ✅ SEO 结构：H1=1, nav/main/dl/dt/dd 语义化完整
+  - ✅ 价格检查：无实际价格数字（$10/$15 为 RSC 内部 ID）
+  - ✅ 交付周期：FAQ 中的时间为法规流程说明，非服务承诺
+  - ✅ og-image：8.9KB PNG 已优化
+  - ❌ **BUG：FAQ 页 6 个 sub-question A keys 缺失** — labelA3a/A4a/A5a、cccA3a/A4a、brandA5a 在 en.json 中有 Q keys 但 A keys 全部不存在，导致 6 个 FAQ 子问题不渲染。FAQ 页当前 33 个问题，应为 39 个。所有 48 语言均受影响。（详见 TASK.md T52）
+- **构建**：632 pages, 0 error ✅
+- **Git**：TASK.md 新增 T52
 - **执行任务**：T39-T45 全部完成 ✅
 - **组件交互深度检查**：
   - ✅ ThankYou 页 — 组件已从硬编码英文改为 t() 翻译，Back 链接改为 locale-aware

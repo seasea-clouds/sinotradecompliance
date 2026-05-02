@@ -185,6 +185,9 @@
 
 ## 新需求任务（2026-05-02）
 
+### 阶段八：第 8 轮深度巡检发现（2026-05-03 03:40 UTC+8）
+- [ ] T52. 修复 FAQ 页 6 个缺失的 sub-question A keys — labelA3a/A4a/A5a、cccA3a/A4a、brandA5a 在 en.json 中存在 Q keys 但 A keys 全部缺失，导致 6 个 FAQ 子问题在页面上不渲染（当前 33 个，应为 39 个）。需补充 6 个 A keys 到 en.json，然后翻译到其余 47 种语言。优先级：P2。
+
 ### 阶段一：表单简化（只留邮箱）
 - [x] T20. LeadMagnet 组件删除 Name 输入框（含图标、label、placeholder）✅ 2026-05-02 16:10 UTC+8
 - [x] T21. 48 语言文件删除 `nameLabel` + `namePlaceholder` key ✅ 2026-05-02 16:10 UTC+8，48文件×2keys=96条删除
