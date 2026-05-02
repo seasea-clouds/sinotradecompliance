@@ -1,5 +1,6 @@
 import { getTranslations } from 'next-intl/server';
 import Script from 'next/script';
+import { sharedOpenGraph, sharedTwitter } from '@/lib/metadata';
 import Hero from '@/components/Hero';
 import ServicesGrid from '@/components/ServicesGrid';
 import WhyUsCards from '@/components/WhyUsCards';
@@ -16,19 +17,16 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   return {
     title: `${t('heroTitle')} — SinoTrade Compliance`,
     description: t('heroSubtitle'),
-    openGraph: {
+    openGraph: sharedOpenGraph({
       title: `${t('heroTitle')} — SinoTrade Compliance`,
       description: t('heroSubtitle'),
       locale,
-      type: 'website',
       url: `https://sinotradecompliance.com/${locale}/`,
-      siteName: 'SinoTrade Compliance',
-    },
-    twitter: {
-      card: 'summary_large_image',
+    }),
+    twitter: sharedTwitter({
       title: `${t('heroTitle')} — SinoTrade Compliance`,
       description: t('heroSubtitle'),
-    },
+    }),
     alternates: {
       canonical: `https://sinotradecompliance.com/${locale}/`,
       languages: Object.fromEntries(

@@ -1,4 +1,5 @@
 import { getTranslations } from 'next-intl/server';
+import { sharedOpenGraph, sharedTwitter } from '@/lib/metadata';
 import FAQSection from '@/components/FAQSection';
 import CTASection from '@/components/CTASection';
 import LeadMagnet from '@/components/LeadMagnet';
@@ -7,7 +8,16 @@ import Script from 'next/script';
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const locale = (await params).locale;
   const t = await getTranslations({ locale, namespace: 'Faq' });
-  return { title: t('heroTitle'), description: t('heroSubtitle') };
+  const title = t('heroTitle');
+  const description = t('heroSubtitle');
+  const url = `https://sinotradecompliance.com/${locale}/faq/`;
+  return {
+    title,
+    description,
+    openGraph: sharedOpenGraph({ title, description, locale, url }),
+    twitter: sharedTwitter({ title, description }),
+    alternates: { canonical: url },
+  };
 }
 
 export default async function FAQPage({ params }: { params: Promise<{ locale: string }> }) {

@@ -1,11 +1,21 @@
 import { getTranslations } from 'next-intl/server';
 import Script from 'next/script';
+import { sharedOpenGraph, sharedTwitter } from '@/lib/metadata';
 import LeadMagnet from '@/components/LeadMagnet';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const locale = (await params).locale;
   const t = await getTranslations({ locale, namespace: 'About' });
-  return { title: t('title'), description: t('subtitle') };
+  const title = t('title');
+  const description = t('subtitle');
+  const url = `https://sinotradecompliance.com/${locale}/about/`;
+  return {
+    title,
+    description,
+    openGraph: sharedOpenGraph({ title, description, locale, url }),
+    twitter: sharedTwitter({ title, description }),
+    alternates: { canonical: url },
+  };
 }
 
 export default async function AboutPage({ params }: { params: Promise<{ locale: string }> }) {
