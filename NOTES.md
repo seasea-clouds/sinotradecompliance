@@ -2,6 +2,24 @@
 
 ## 巡检记录
 
+### 2026-05-03 05:30 UTC+8 第 16 次巡检（第 16 轮组合深度检查）— 全站稳定，全部任务完成
+- **执行任务**：T58 ✅（et/ 目录已清理）, T62 ✅（PROJECT.md 已包含博客描述）, T63 ✅（巡检协议已完善）, T64 ✅（packages 空白为正常留白）
+- **组合深度检查（第 16 轮）**：
+  - ✅ 构建：867 pages, 0 error
+  - ✅ 翻译完整性：48/48 语言 key 结构完全一致（460 deep keys），0 缺失 0 多余 0 空值
+  - ✅ 线上页面：/, /en/, /zh/, /en/services/gacc/, /en/blog/, /en/blog/gacc-registration-guide/, /en/faq/, /en/packages/, /en/about/ 全部 HTTP 200
+  - ✅ 根路径 `/`：302 → `/en/` 正常
+  - ✅ JSON-LD：inline `<script>` 正确渲染，首页 Organization + 博客 BlogPosting schema
+  - ✅ hreflang：48 alternate 链接（含博客文章页），`hrefLang` 属性完整
+  - ✅ Sitemap：864 URL，41472 xhtml:link hreflang 条目
+  - ✅ H1 唯一：6 页抽检均 = 1
+  - ✅ 语义化 HTML：nav/main/footer/dl/dt/dd/aria 完整
+  - ✅ og-image/canonical：博客文章页正确
+  - ✅ __next_error__：0 个页面出现
+  - ✅ 无 orphaned 文件：content/blog/ 目录仅 48 种有效语言
+- **Git**：1 commit 已推送 (ad86b2e)
+- **结论**：全站运行稳定，无新发现问题 ✅
+
 ### 2026-05-03 05:20 UTC+8 第 15 次巡检（第 15 轮回归测试 + 文件一致性）— 全站稳定，发现 1 个残留文件
 - **执行任务**：无待执行任务（T0-T57 全部完成）
 - **回归测试（第 15 轮）**：

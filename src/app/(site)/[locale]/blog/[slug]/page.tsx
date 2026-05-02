@@ -85,8 +85,21 @@ export default async function BlogPostPage({
       : {}),
   };
 
+  // Hreflang links for static export (Next.js doesn't render alternates.languages in export mode)
+  const hreflangLinks = allLocales.map((loc) => (
+    <link
+      key={loc}
+      rel="alternate"
+      hrefLang={loc}
+      href={`https://sinotradecompliance.com/${loc}/blog/${slug}/`}
+    />
+  ));
+
   return (
     <main>
+      {/* Hreflang */}
+      {hreflangLinks}
+
       {/* JSON-LD */}
       <script
         type="application/ld+json"
