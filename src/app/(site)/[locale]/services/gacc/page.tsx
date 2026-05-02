@@ -4,6 +4,7 @@ import CoverSection from '@/components/CoverSection';
 import ProcessSteps from '@/components/ProcessSteps';
 import WhyUsCards from '@/components/WhyUsCards';
 import CTASection from '@/components/CTASection';
+import LeadMagnet from '@/components/LeadMagnet';
 import ServiceFAQ from '@/components/ServiceFAQ';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
@@ -23,6 +24,7 @@ export default async function GaccPage({ params }: { params: Promise<{ locale: s
       <ProcessSteps namespace="Home" />
       <WhyUsCards />
       <ServiceFAQ namespace="ServiceGacc" />
+      <LeadMagnet />
       <CTASection />
     </main>
   );

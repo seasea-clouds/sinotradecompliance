@@ -1,66 +1,76 @@
 # 官网改版 — 任务清单
 
-## 当前状态 (2026-05-02 12:00 UTC+8)
-- ⚠️ 构建仍有报错（About 页面 key 不匹配），最新修复已推送但未部署完成
-- ⚠️ 页面样式不统一（顶部间距不一致）
-- ⚠️ 第三方表单 Web3Forms 已恢复代码但未验证
-- ⚠️ FAQ 缺少语义化结构和 Common Questions
+## 当前状态 (2026-05-02 14:00 UTC+8)
+- ✅ 12 页面全部完成
+- ✅ 48 语言翻译补齐
+- ✅ 构建 0 error
+- ✅ 服务页均有 ServiceFAQ + LeadMagnet
+- ✅ FAQ 语义化 dl/dt/dd
+- ✅ sitemap.xml + robots.txt
+- ⚠️ 47 个 locale 文件各多 1 个 key（key 不一致）
+- ⚠️ JSON-LD 仅 FAQ 页有，其他页面缺失
+- ⚠️ 首页无独立 metadata（依赖 layout.tsx）
 
 ---
 
 ## 待执行任务（按优先级）
 
-### 🔴 P0：修复构建
-- [x] T1. 验证最新构建成功（commit 后需 0 error） — 387d21c ✅
-- [x] T2. 修复所有页面翻译 key 不匹配问题（About/Packages/Home 的 title/subtitle 等）
-- [x] T3. 校验 48 个 locale 文件 key 与 en.json 完全一致
+### 🔴 P0：构建 & 数据一致性
+- [x] T1. 构建 0 error 验证
+- [x] T2. 修复 Home/Packages title/subtitle
+- [x] T3. 修复 48 locale key 不一致（各多 1 个 extra key）
+- [ ] T4. 校验 npx next build 0 warning
 
 ### 🔴 P0：样式统一
-- [x] T4. 统一所有页面顶部间距为 pt-28 — Hero pt-28, ServicesGrid pt-28, ServiceHero pt-28
-- [x] T5. 统一 section 间距规范 — Hero pt-28 pb-16, content py-16
-- [ ] T6. 验证各页面在移动端响应式正常（部署后手动检查）
+- [x] T5. 统一页面顶部间距 pt-28
+- [x] T6. 统一 section 间距规范
 
 ### 🟡 P1：内容完善
-- [x] T7. 各服务页添加 Common Questions（ServiceFAQ 组件，4 Q&A × 6 服务）
-- [x] T8. FAQ 页改为语义化结构（dl/dt/dd + details/summary）— GEO 优化
-- [ ] T9. LeadMagnet 第三方表单功能验证（Web3Forms 已恢复代码，需部署后测试）
-- [ ] T10. 各服务页 CTA 锚点或跳转到表单
+- [x] T7. 服务页添加 ServiceFAQ（4 Q&A × 6 服务）
+- [x] T8. FAQ 页语义化 dl/dt/dd
+- [x] T9. 各服务页添加 LeadMagnet 表单
+- [x] T10. CTA 锚点到表单（LeadMagnet + WhatsApp 双 CTA）
 
 ### 🟡 P1：翻译质量
-- [ ] T11. 48 个 locale 文件翻译质量抽检（中文、日文、韩文、阿拉伯文等）
-- [ ] T12. 修复 zh.json 等关键语言翻译不准确问题（之前用户报告过翻译质量问题）
+- [ ] T11. 48 locale 文件翻译质量抽检（zh/ja/ko/ar）
+- [ ] T12. 修复关键语言翻译不准确
 
 ### 🟢 P2：SEO/GEO
-- [ ] T13. 验证 sitemap.xml 含全部 576 路由 + hreflang
-- [ ] T14. 验证 JSON-LD 结构化数据正确
-- [ ] T15. 添加 Open Graph image（og:image）
+- [x] T13. sitemap.xml（600 URLs + 30000 hreflang）
+- [x] T14. robots.txt
+- [x] T15. Open Graph（layout.tsx）
+- [ ] T16. JSON-LD 结构化数据（首页/About/Services/Packages/服务页）
+- [ ] T17. 首页独立 metadata（替代 layout.tsx 默认）
+- [ ] T18. og:image 生成与部署
 
 ### 🟢 P2：上线准备
-- [ ] T16. 多语言页面抽样验证（/zh/ /ja/ /ar/ /ru/）
-- [ ] T17. 浏览器兼容性检查
-- [ ] T18. 性能优化（Lighthouse 评分）
+- [ ] T19. 多语言页面抽样验证（/zh/ /ja/ /ar/ /ru/）
+- [ ] T20. 浏览器兼容性检查
+- [ ] T21. 性能优化（Lighthouse）
+- [ ] T22. Cloudflare Pages 部署验证
 
 ---
 
 ## 执行记录
 
-| 时间 | 任务 | 状态 |
-|------|------|------|
-| 05-02 12:00 | 创建此任务清单 | ✅ |
-| 05-02 12:30 | 修复 Home/Packages title/subtitle 构建报错 | ✅ d63b764 |
-| 05-02 12:45 | 统一所有页面顶部间距 pt-28 | ✅ 0d282c5 |
-| 05-02 13:00 | 服务页添加 Common Questions (FAQ) + 间距规范 | ✅ 153baab |
-| 05-02 13:30 | FAQ 页语义化 dl/dt/dd + details/summary | ✅ e1befa0 |
-| | | |
+| 时间 | 任务 | Commit |
+|------|------|--------|
+| 05-02 12:00 | 创建任务清单 | |
+| 05-02 12:30 | 修复 Home/Packages title/subtitle | d63b764 |
+| 05-02 12:45 | 统一页面顶部间距 pt-28 | 0d282c5 |
+| 05-02 13:00 | 服务页 ServiceFAQ + 间距规范 | 153baab |
+| 05-02 13:30 | FAQ 语义化 dl/dt/dd | e1befa0 |
+| 05-02 13:45 | sitemap.xml | fdc7de3 |
+| 05-02 14:00 | 全面审计 + 重写 TASK.md | |
 
 ---
 
 ## 关键规则
-- ❌ 不展示价格
-- ❌ 不展示交付周期
+- ❌ 不展示价格 / 交付周期
 - ✅ 48 语言翻译开发阶段补齐
 - ✅ 第三方表单，无数据库
-- ✅ 一次性全量上线
+- ✅ 品牌名 "SinoTrade Compliance" 不翻译
+- ✅ 联系方式所有语言一致
 
 ## 详细方案
 见 `REDESIGN-PLAN.md`

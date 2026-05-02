@@ -313,7 +313,6 @@
   "LeadMagnet": {
     "title": "Ilmainen vaatimustenmukaisuusarvio",
     "subtitle": "Kerro tuotteistasi ja annamme henkilökohtaisen vaatimustenmukaisuuskartan.",
-    "placeholder": "Syötä sähköpostiosoitteesi",
     "button": "Pyydä ilmainen arvio",
     "privacy": "Ei roskapostia. Peru tilaus milloin tahansa.",
     "nameLabel": "Full Name",
