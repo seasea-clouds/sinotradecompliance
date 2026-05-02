@@ -24,8 +24,8 @@
 - [ ] T6. ThankYou 页添加独立 metadata
 
 ### 🟡 P1：内容完善
-- [ ] T7. About/Packages/Services/FAQ 页添加 LeadMagnet（非服务页也需表单入口）
-- [ ] T8. 首页添加 FAQ 摘要（3 个关键问题 → 跳转 FAQ 页）
+- [x] T7. About/Packages/Services/FAQ 页添加 LeadMagnet
+- [x] T8. 首页添加 FAQ 摘要（3 个关键问题 → 跳转 FAQ 页）
 
 ### 🟡 P1：翻译质量
 - [ ] T9. zh.json 翻译质量抽检（用户之前报告过翻译问题）
@@ -50,6 +50,8 @@
 | 05-02 13:45 | sitemap.xml | fdc7de3 |
 | 05-02 14:00 | 修复 48 locale key 不一致 | 4844ae6 |
 | 05-02 14:00 | 全面审计 + 重写 TASK.md | |
+| 05-02 15:00 | T7: 4 页面添加 LeadMagnet (About/Packages/Services/FAQ) | |
+| 05-02 15:00 | T8: 首页添加 FAQPreview（3 个关键问题 + FAQ 跳转链接） | |
 
 ---
 

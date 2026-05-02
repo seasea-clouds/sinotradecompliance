@@ -1,6 +1,36 @@
+import Script from 'next/script';
+import { getTranslations } from 'next-intl/server';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { MessageCircle, CheckCircle } from 'lucide-react';
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
+  const locale = (await params).locale;
+  const t = await getTranslations({ locale, namespace: 'ThankYou' });
+
+  return {
+    title: `${t('title')} — SinoTrade Compliance`,
+    description: t('subtitle'),
+    openGraph: {
+      title: `${t('title')} — SinoTrade Compliance`,
+      description: t('subtitle'),
+      locale,
+      type: 'website',
+      url: `https://sinotradecompliance.com/${locale}/thank-you/`,
+      siteName: 'SinoTrade Compliance',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${t('title')} — SinoTrade Compliance`,
+      description: t('subtitle'),
+    },
+    alternates: {
+      canonical: `https://sinotradecompliance.com/${locale}/thank-you/`,
+    },
+  };
+}
+
+
 
 export default function ThankYou() {
   return (
@@ -53,6 +83,17 @@ export default function ThankYou() {
       </section>
 
       <Footer />
+    
+      <Script id="jsonld-thankyou" type="application/ld+json" dangerouslySetInnerHTML={{
+        __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "name": "ThankYou — SinoTrade Compliance",
+          "description": "WebPage page for SinoTrade Compliance",
+          "url": "https://sinotradecompliance.com/thank-you/",
+          "publisher": {"@type": "Organization", "name": "SinoTrade Compliance"},
+        })
+      }} />
     </main>
   );
 }

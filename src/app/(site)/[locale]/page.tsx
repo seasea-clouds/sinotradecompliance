@@ -6,6 +6,7 @@ import WhyUsCards from '@/components/WhyUsCards';
 import ProcessSteps from '@/components/ProcessSteps';
 import AboutExpert from '@/components/AboutExpert';
 import CTASection from '@/components/CTASection';
+import FAQPreview from '@/components/FAQPreview';
 import LeadMagnet from '@/components/LeadMagnet';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
@@ -48,6 +49,7 @@ export default function HomePage() {
       <ProcessSteps namespace="Home" />
       <AboutExpert />
       <CTASection namespace="Home" />
+      <FAQPreview />
       <LeadMagnet />
       <Script id="jsonld-homepage" type="application/ld+json">
         {JSON.stringify({

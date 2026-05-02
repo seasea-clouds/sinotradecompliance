@@ -51,7 +51,16 @@
     "processStep6Title": "Market Entry Support",
     "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
     "title": "중국으로 향하는 브랜드 여권 — 규정 준수에서 상업까지",
-    "subtitle": "식품, 화장품, 전자제품 등 원스톱 수입 규제 서비스."
+    "subtitle": "식품, 화장품, 전자제품 등 원스톱 수입 규제 서비스.",
+    "faqPreviewTitle": "Frequently Asked Questions",
+    "faqPreviewSubtitle": "Quick answers to common questions about entering the Chinese market.",
+    "faqPreviewQ1": "What is GACC Decree 248?",
+    "faqPreviewA1": "GACC Decree 248 requires all overseas food manufacturers to register with China's General Administration of Customs before exporting food products to China.",
+    "faqPreviewQ2": "How long does registration take?",
+    "faqPreviewA2": "Registration typically takes 2-4 weeks depending on the product category and completeness of documentation.",
+    "faqPreviewQ3": "Is the registration valid forever?",
+    "faqPreviewA3": "No, GACC registration is valid for 5 years. Renewal must be submitted 6 months before expiration.",
+    "faqPreviewLink": "View all questions →"
   },
   "Services": {
     "heroTitle": "서비스 소개",

@@ -1,6 +1,7 @@
 import { getTranslations } from 'next-intl/server';
 import FAQSection from '@/components/FAQSection';
 import CTASection from '@/components/CTASection';
+import LeadMagnet from '@/components/LeadMagnet';
 import Script from 'next/script';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
@@ -106,6 +107,8 @@ export default async function FAQPage({ params }: { params: Promise<{ locale: st
       <FAQSection categories={categories} />
 
       <CTASection />
+
+      <LeadMagnet />
     </main>
   );
 }
