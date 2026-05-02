@@ -40,7 +40,7 @@ function parsePost(filePath: string, locale: string): BlogPost | null {
     return {
       slug,
       title: data.title || '',
-      date: data.date || '',
+      date: data.date instanceof Date ? data.date.toISOString().slice(0, 10) : String(data.date || ''),
       category: data.category || '',
       excerpt: data.excerpt || '',
       coverImage: data.coverImage || '',

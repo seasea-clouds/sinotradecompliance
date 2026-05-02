@@ -16,14 +16,14 @@ from deep_translator import GoogleTranslator
 BLOG_DIR = Path("content/blog/en")
 OUTPUT_BASE = Path("content/blog")
 
-# All non-English locale codes
+# All non-English locale codes (47 total, matching messages/*.json)
 LOCALES = [
     "zh", "ja", "ko", "ru", "es", "fr", "de", "ar",
     "af", "az", "be", "bg", "bn", "ca", "cs", "da", "el",
     "et", "fa", "fi", "he", "hi", "hr", "hu", "hy", "id",
-    "it", "ka", "lo", "lt", "lv", "ms", "my", "ne", "nl",
-    "no", "pl", "pt", "ro", "si", "sk", "sl", "sq", "sr",
-    "sv", "sw", "ta", "th", "tr", "uk", "ur", "vi"
+    "it", "ka", "ms", "ne", "nl", "no", "pl", "pt", "ro",
+    "si", "sk", "sl", "sq", "sr", "sv", "sw", "ta", "th",
+    "tr", "uk", "ur", "vi"
 ]
 
 # Google Translate code mapping (some differ from our locale codes)
