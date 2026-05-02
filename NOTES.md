@@ -1,6 +1,28 @@
 # 官网 - 注意事项
 
 ## 巡检记录
+### 2026-05-03 06:30 UTC+8 第 19 次巡检（第 19 轮组合深度检查）— 发现中文页 Home namespace 翻译渲染 bug
+- **执行任务**：无待执行任务（T0-T68 全部完成）
+- **组合深度检查（第 19 轮）**：
+  - ✅ 构建：867 pages, 0 error
+  - ✅ 翻译完整性：48/48 语言 key 结构完全一致（444 keys），0 缺失 0 多余 0 空值
+  - ✅ 线上页面：/, /en/, /zh/ 全部 HTTP 200
+  - ✅ 根路径 `/`：302 → `/en/` 正常
+  - ✅ en 首页：全部正常，内容正确
+  - ✅ zh 服务页 GACC：Hero/FAQ/Footer 翻译正确
+  - ❌ **T69：中文首页 Home namespace 翻译不渲染** —
+    - /zh/ 页面中以下组件显示英文原文（zh.json 翻译完全正确）：
+    - SocialProof: "Trusted by Global Brands" 等
+    - WhyUsCards: "Full Category Coverage", "One-Stop Service", "Fixed Fee Pricing", "Expert Team"
+    - ProcessSteps: "Free Consultation" 等全部 6 步
+    - FAQPreview: FAQ 问题为英文
+    - CTASection: "Ready to Enter China?"
+    - /zh/services/gacc/ 同样：What We Cover / How It Works / Why Choose Us 均为英文
+    - 不受影响组件：ServicesGrid（Services namespace 正常）、Navbar、Footer、LeadMagnet
+    - 根因待查：可能是 next-intl 在 `output: 'export'` 下对特定 namespace 的 SSG 渲染问题
+- **Git**：1 commit 已推送 (7a6ab50)
+- **结论**：发现 1 个 P1 翻译渲染 bug（T69），其余正常 ⚠️
+
 
 ### 2026-05-03 06:20 UTC+8 第 18 次巡检（第 18 轮组合深度检查）— 全站稳定，全部通过
 - **执行任务**：无待执行任务（T0-T68 全部完成）
