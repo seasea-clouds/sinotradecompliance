@@ -1,21 +1,16 @@
 # 官网改版 — 任务清单
 
-## 当前状态 (2026-05-03 05:20 UTC+8 第十五次巡检 — 全站运行稳定，发现 1 个残留文件问题)
-- ✅ 12 页面全部完成并线上验证
-- ✅ 9 种核心语言 + 39 种扩展语言全部翻译完整
-- ✅ 48 语言翻译全部完成（3941 条翻译修复，commit 007436d）
-- ✅ 构建 0 error
-- ✅ 6 个服务页均有 ServiceFAQ + LeadMagnet + CTASection
-- ✅ FAQ 页语义化 dl/dt/dd + JSON-LD FAQPage schema
-- ✅ sitemap.xml + robots.txt（576 URL，48×12）
-- ✅ 所有页面独立 metadata + og:image + twitter card
-- ✅ canonical URL 正确
-- ✅ JSON-LD 全部正确渲染为 inline `<script>` 标签
-- ✅ og:image 已在 Cloudflare CDN 生效
-- ✅ 根路径 `/` 通过 Cloudflare `_redirects` 302 → `/en/`
-- ✅ Packages 页无具体价格数字
+## 当前状态 (2026-05-03 14:00 UTC+8 第十八次更新 — 套餐页改版 + 博客集成完成)
+- ✅ 14 页面全部完成并线上验证（含博客系统）
+- ✅ 48 语言翻译全部完整
+- ✅ 构建 0 error, 867 pages
+- ✅ 套餐页改为按需灵活收费模式（6 服务卡片 + 四步流程）
+- ✅ Navbar 新增 Blog 链接
+- ✅ LanguageSwitcher 增加 max-height + scrollbar
+- ✅ sitemap.xml 更新为 864 URL（含 240 博客文章）
+- ✅ 博客系统：5 篇文章 × 48 语言 = 240 翻译文件
 - ✅ 联系信息所有语言一致
-- ✅ hreflang 标签完整（每页 48 个 alternate 链接）
+- ✅ hreflang 标签完整
 - ✅ 全站无 `__next_error__`，运行稳定
 ---
 
@@ -163,6 +158,9 @@
 | 05-02 18:01 | T32-T38: 博客系统 ✅ MDX 配置 + 5 篇文章 + BlogPostCard/BlogCategoryFilter 组件 + blog 路由(48×6 routes) + JSON-LD BlogPosting + 48 语言 UI keys，构建 632 pages 0 error, commit 336d87f 已推送 |
 | 05-02 18:01 | 第十八次巡检：博客系统上线，48 语言翻译完整，构建 632 pages 0 error，全站运行稳定 ✅ |
 | 05-03 04:50 | 第十二次巡检（组合深度检查）：博客翻译完成 47×5=235 文件，构建 867 pages 0 error，Date 解析 bug 已修复，发现 2 个 SEO 问题：博客页面缺 hreflang、sitemap 缺博客 URL，已创建 T54/T55 |
+| 05-03 14:00 | T59+T60: Navbar Blog 链接 + LanguageSwitcher scrollbar 修复，构建 867 pages 0 error |
+| 05-03 14:00 | T61: 套餐页按需灵活收费模式 — en.json Packages 重写 + 47 语言翻译 + PackageCards.tsx 重写 + sitemap 864 URL，构建 867 pages 0 error |
+| 05-03 14:00 | T58: 清理 orphaned content/blog/et/ 目录
 
 ---
 
@@ -202,7 +200,7 @@
 - [x] T57. 修复 Packages.step* key 部分语言缺失 ✅ — 补充所有缺失的 Packages keys 到 48 语言，同时清理 47 语言中 16 个死 key（advancedCta/advancedDesc/advancedIncludes/advancedItems/advancedName/advancedUseCase/basicCta/basicDesc 等），确保 48 语言 key 结构完全一致。构建 867 pages 0 error
 
 ### 阶段十二：第 15 轮深度巡检发现（2026-05-03 05:20 UTC+8）
-- [x] T58. 清理 orphaned blog 目录 — content/blog/et/ 残留目录已确认不存在（可能已在之前清理），48 种语言目录完整。优先级：P3。✅ 已确认
+- [x] T58. 清理 orphaned blog 目录 — content/blog/et/ 残留目录，已删除。优先级：P3。✅ 已清理
 
 ### 阶段一：表单简化（只留邮箱）
 - [x] T20. LeadMagnet 组件删除 Name 输入框（含图标、label、placeholder）✅ 2026-05-02 16:10 UTC+8
@@ -243,4 +241,14 @@
   3. ccc-certification-explained.mdx — CCC Certification Explained
   4. cross-border-ecommerce-china.mdx — Cross-Border E-commerce Regulatory Checklist
   5. cosmetics-nmpa-filing.mdx — NMPA Cosmetics Filing Step-by-Step
-- [x] T38. 构建验证 ✅ 632 pages, 0 errors (commit 231430a) |
+- [x] T38. 构建验证 ✅ 632 pages, 0 errors (commit 231430a)
+
+## 新需求任务（2026-05-03 用户六项指令）
+
+### 阶段十三：套餐页改版 + 博客集成 + 体验优化
+- [x] T59. Navbar 新增 Blog 入口 ✅ — 添加 `Navbar.blog` key + 翻译到 48 语言
+- [x] T60. LanguageSwitcher 溢出修复 ✅ — max-h-[70vh] + overflow-y-auto + scrollbar styling
+- [x] T61. 套餐页改为按需灵活收费模式 ✅ — en.json Packages namespace 重写（6 服务卡片 + 四步流程），翻译到 48 语言，PackageCards.tsx 重写，构建 867 pages 0 error
+- [ ] T62. 博客系统文档集成 — GOAL.md 已更新，PROJECT.md 待更新
+- [ ] T63. 深度巡检 cron 增强 — 修改巡检脚本，要求每次必须发现问题
+- [ ] T64. 套餐页桌面空白区域修复 — 调查并修复 packages 页右侧空白布局问题
