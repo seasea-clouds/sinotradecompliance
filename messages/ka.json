@@ -171,14 +171,14 @@
     "labelQ3a": "დიახ, ჯანმრთელობის დანამატებს (保健食品) აქვს დამატებითი ეტიკეტირების მოთხოვნები სტანდარტული წინასწარ შეფუთული საკვების მიღმა, მათ შორის ჯანმრთელობის ფუნქციის პრეტენზიები, 适宜人群 (შესაფერისი 人群) და გამოყენების ინსტრუქცია. ჩვენ ვასრულებთ კატეგორიის ეტიკეტების მოთხოვნებს.",
     "labelQ4": "რამდენად სწრაფად შეიძლება ეტიკეტების შევსება?",
     "labelQ4a": "სტანდარტული ეტიკეტის განხილვასა და დიზაინს სჭირდება 1-2 კვირა თითო SKU-ზე. სასწრაფო გადაზიდვისთვის, ჩვენ გთავაზობთ დაჩქარებულ მომსახურებას. Rush შეკვეთები დამოკიდებულია პროდუქტის სირთულეზე და მიმდინარე დატვირთვაზე.",
-    "generalQ11": "What is the difference between GACC registration and NMPA filing?",
-    "generalA11": "GACC registration (General Administration of Customs) is required for food and beverage products entering China, while NMPA filing (National Medical Products Administration) applies to cosmetics and certain health products. They are separate regulatory pathways managed by different agencies. We can handle both simultaneously if your product portfolio spans multiple categories.",
-    "labelQ5": "Do cosmetics need Chinese labels too?",
-    "labelQ5a": "Yes, imported cosmetics sold through traditional retail channels must have Chinese labels compliant with NMPA requirements, including ingredient lists in INCI format with Chinese translations, net content, manufacturer info, and usage instructions. Cross-border e-commerce cosmetics are exempt from physical labeling but must display Chinese product information online.",
-    "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
-    "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
-    "brandQ5": "How do I choose a good Chinese brand name?",
-    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
+    "generalQ11": "რა განსხვავებაა GACC რეგისტრაციასა და NMPA შეტანას შორის?",
+    "generalA11": "GACC რეგისტრაცია (საბაჟო გენერალური ადმინისტრაცია) საჭიროა ჩინეთში შემოსული საკვებისა და სასმელის პროდუქტებისთვის, ხოლო NMPA (სამედიცინო პროდუქტების ეროვნული ადმინისტრაცია) ვრცელდება კოსმეტიკასა და ჯანმრთელობის გარკვეულ პროდუქტებზე. ისინი ცალკეული მარეგულირებელი გზებია, რომელსაც მართავს სხვადასხვა სააგენტო. ჩვენ შეგვიძლია გავუმკლავდეთ ორივეს ერთდროულად, თუ თქვენი პროდუქტის პორტფელი რამდენიმე კატეგორიას მოიცავს.",
+    "labelQ5": "კოსმეტიკასაც ჩინური ეტიკეტები სჭირდება?",
+    "labelQ5a": "დიახ, იმპორტირებულ კოსმეტიკას, რომელიც იყიდება ტრადიციული საცალო არხებით, უნდა ჰქონდეს ჩინური ეტიკეტები, რომლებიც შეესაბამება NMPA მოთხოვნებს, მათ შორის ინგრედიენტების სიებს INCI ფორმატში ჩინური თარგმანებით, წმინდა შინაარსით, მწარმოებლის ინფორმაციისა და გამოყენების ინსტრუქციებით. ტრანსსასაზღვრო ელექტრონული კომერციის კოსმეტიკა თავისუფლდება ფიზიკური ეტიკეტირებისგან, მაგრამ უნდა აჩვენოს ჩინური პროდუქტის ინფორმაცია ონლაინ რეჟიმში.",
+    "ecommerceQ5": "რა არის PIPL და როგორ მოქმედებს ის ჩემს ელექტრონულ მაღაზიაზე?",
+    "ecommerceA5": "PIPL (პერსონალური ინფორმაციის დაცვის კანონი) არის ჩინეთის მონაცემთა კონფიდენციალურობის რეგულაცია, რომელიც ვრცელდება ნებისმიერ ბიზნესზე, რომელიც აგროვებს ჩინელი მომხმარებლების პერსონალურ მონაცემებს. ტრანსსასაზღვრო ელექტრონული კომერციისთვის, ეს ნიშნავს, რომ გჭირდებათ თანხმობის შესაბამისი მექანიზმები, მონაცემთა ლოკალიზაციის მოსაზრებები და კონფიდენციალურობის მკაფიო პოლიტიკა. ჩვენ გთავაზობთ PIPL შესაბამისობის შეფასებებს, როგორც ჩვენი ელექტრონული კომერციის დაყენების სერვისის ნაწილი.",
+    "brandQ5": "როგორ ავირჩიო კარგი ჩინური ბრენდის სახელი?",
+    "brandQ5a": "ძლიერი ჩინური ბრენდის სახელი ფონეტიკურად უნდა იყოს თქვენი ინგლისური სახელის მსგავსი, კულტურულად შესაბამისი, ადვილად დასამახსოვრებელი და იურიდიულად ხელმისაწვდომი სასაქონლო ნიშნის რეგისტრაციისთვის. ჩვენ გთავაზობთ ჩინური სახელების განვითარების სერვისებს, რომლებიც მოიცავს კულტურულ კონსულტაციას, სავაჭრო ნიშნის ხელმისაწვდომობის ძიებას და რეგისტრაციას, რათა თქვენი ჩინური ბრენდის იდენტურობა დაცული იყოს პირველივე დღიდან."
   },
   "Home": {
     "heroTitle": "თქვენი ბრენდის პასპორტი ჩინეთში - შესაბამისობიდან კომერციამდე",
@@ -467,19 +467,19 @@
     "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
-    "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "title": "Insights და შესაბამისობის სახელმძღვანელო",
+    "subtitle": "საექსპერტო სტატიები ჩინეთის იმპორტის რეგულაციების, ბაზარზე შესვლისა და შესაბამისობის საუკეთესო პრაქტიკის შესახებ.",
+    "readMore": "დაწვრილებით",
+    "categories": "კატეგორიები",
+    "all": "ყველა",
+    "backToBlog": "დაბრუნება ბლოგზე",
+    "backToHome": "სახლში დაბრუნება",
+    "pagination": "გვერდი",
+    "noPosts": "პოსტები ვერ მოიძებნა.",
+    "publishedOn": "გამოქვეყნდა",
+    "author": "დევიდ ჟანგი",
+    "ctaTitle": "გჭირდებათ დახმარება ჩინეთის შესაბამისობასთან დაკავშირებით?",
+    "ctaSubtitle": "მიიღეთ უფასო შესაბამისობის შეფასება ჩვენი ექსპერტების გუნდისგან.",
+    "ctaButton": "მიიღეთ უფასო შეფასება"
   }
 }

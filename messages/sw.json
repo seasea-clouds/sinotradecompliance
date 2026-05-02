@@ -375,14 +375,14 @@
     "labelQ3a": "Yes, health supplements (保健食品) have additional labeling requirements beyond standard prepackaged food, including health function claims,适宜人群 (suitable人群), and usage instructions. We handle category-specific label requirements.",
     "labelQ4": "How quickly can labels be completed?",
     "labelQ4a": "Standard label review and design takes 1-2 weeks per SKU. For urgent shipments, we offer expedited service. Rush orders depend on product complexity and current workload.",
-    "generalQ11": "What is the difference between GACC registration and NMPA filing?",
-    "generalA11": "GACC registration (General Administration of Customs) is required for food and beverage products entering China, while NMPA filing (National Medical Products Administration) applies to cosmetics and certain health products. They are separate regulatory pathways managed by different agencies. We can handle both simultaneously if your product portfolio spans multiple categories.",
-    "labelQ5": "Do cosmetics need Chinese labels too?",
-    "labelQ5a": "Yes, imported cosmetics sold through traditional retail channels must have Chinese labels compliant with NMPA requirements, including ingredient lists in INCI format with Chinese translations, net content, manufacturer info, and usage instructions. Cross-border e-commerce cosmetics are exempt from physical labeling but must display Chinese product information online.",
-    "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
-    "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
-    "brandQ5": "How do I choose a good Chinese brand name?",
-    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
+    "generalQ11": "Kuna tofauti gani kati ya usajili wa GACC na uwekaji faili wa NMPA?",
+    "generalA11": "Usajili wa GACC (Utawala Mkuu wa Forodha) unahitajika kwa bidhaa za chakula na vinywaji zinazoingia Uchina, huku uwasilishaji wa NMPA (Usimamizi wa Kitaifa wa Bidhaa za Matibabu) hutumika kwa vipodozi na bidhaa fulani za afya. Ni njia tofauti za udhibiti zinazosimamiwa na mashirika tofauti. Tunaweza kushughulikia zote mbili kwa wakati mmoja ikiwa jalada la bidhaa yako linajumuisha kategoria nyingi.",
+    "labelQ5": "Je, vipodozi vinahitaji lebo za Kichina pia?",
+    "labelQ5a": "Ndiyo, vipodozi vilivyoagizwa kutoka nje vinavyouzwa kupitia chaneli za kawaida za rejareja lazima viwe na lebo za Kichina zinazotii mahitaji ya NMPA, ikijumuisha orodha za viambato katika umbizo la INCI zenye tafsiri za Kichina, maudhui halisi, maelezo ya mtengenezaji na maagizo ya matumizi. Vipodozi vya biashara ya mtandaoni vya mipakani haviruhusiwi kuweka lebo halisi lakini lazima vionyeshe maelezo ya bidhaa za Kichina mtandaoni.",
+    "ecommerceQ5": "PIPL ni nini na inaathirije duka langu la e-commerce?",
+    "ecommerceA5": "PIPL (Sheria ya Ulinzi wa Taarifa za Kibinafsi) ni kanuni ya faragha ya data ya Uchina ambayo inatumika kwa biashara yoyote inayokusanya data ya kibinafsi ya watumiaji wa China. Kwa biashara ya mtandaoni ya kuvuka mipaka, hii inamaanisha unahitaji mbinu sahihi za idhini, mambo ya kuzingatia ujanibishaji wa data na sera wazi za faragha. Tunatoa tathmini za kufuata PIPL kama sehemu ya huduma yetu ya kuanzisha biashara ya mtandaoni.",
+    "brandQ5": "Je, ninachaguaje jina zuri la chapa ya Kichina?",
+    "brandQ5a": "Jina dhabiti la chapa ya Kichina linapaswa kufanana kifonetiki na jina lako la Kiingereza, linafaa kitamaduni, rahisi kukumbuka na lipatikane kisheria kwa usajili wa chapa ya biashara. Tunatoa huduma za ukuzaji wa majina ya Kichina zinazojumuisha mashauriano ya kitamaduni, utafutaji wa upatikanaji wa chapa ya biashara na usajili ili kuhakikisha utambulisho wa chapa yako ya Kichina unalindwa kuanzia siku ya kwanza."
   },
   "About": {
     "heroTitle": "Kuhusu SinoTrade Compliance",

@@ -375,14 +375,14 @@
     "labelQ3a": "Evet, sağlık takviyelerinin (保健食品), standart hazır ambalajlı gıdaların ötesinde, sağlık işlevi iddiaları, gıda ürünleri (uygun ürünler) ve kullanım talimatları dahil olmak üzere ek etiketleme gereksinimleri vardır. Kategoriye özel etiket gereksinimlerini karşılıyoruz.",
     "labelQ4": "Etiketler ne kadar hızlı tamamlanabilir?",
     "labelQ4a": "Standart etiket incelemesi ve tasarımı SKU başına 1-2 hafta sürer. Acil gönderiler için hızlandırılmış hizmet sunuyoruz. Acil siparişler ürünün karmaşıklığına ve mevcut iş yüküne bağlıdır.",
-    "generalQ11": "What is the difference between GACC registration and NMPA filing?",
-    "generalA11": "GACC registration (General Administration of Customs) is required for food and beverage products entering China, while NMPA filing (National Medical Products Administration) applies to cosmetics and certain health products. They are separate regulatory pathways managed by different agencies. We can handle both simultaneously if your product portfolio spans multiple categories.",
-    "labelQ5": "Do cosmetics need Chinese labels too?",
-    "labelQ5a": "Yes, imported cosmetics sold through traditional retail channels must have Chinese labels compliant with NMPA requirements, including ingredient lists in INCI format with Chinese translations, net content, manufacturer info, and usage instructions. Cross-border e-commerce cosmetics are exempt from physical labeling but must display Chinese product information online.",
-    "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
-    "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
-    "brandQ5": "How do I choose a good Chinese brand name?",
-    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
+    "generalQ11": "GACC kaydı ile NMPA dosyalaması arasındaki fark nedir?",
+    "generalA11": "Çin'e giren yiyecek ve içecek ürünleri için GACC kaydı (Genel Gümrük İdaresi) gerekliyken, NMPA (Ulusal Tıbbi Ürünler İdaresi) başvurusu kozmetikler ve belirli sağlık ürünleri için geçerlidir. Bunlar farklı kurumlar tarafından yönetilen ayrı düzenleyici yollardır. Ürün portföyünüz birden fazla kategoriyi kapsıyorsa her ikisini de aynı anda ele alabiliriz.",
+    "labelQ5": "Kozmetiklerin de Çin etiketlerine ihtiyacı var mı?",
+    "labelQ5a": "Evet, geleneksel perakende kanalları aracılığıyla satılan ithal kozmetiklerin, Çince çevirileri, net içeriği, üretici bilgilerini ve kullanım talimatlarını içeren INCI formatındaki içerik listeleri de dahil olmak üzere, NMPA gereklilikleriyle uyumlu Çince etiketleri olması gerekir. Sınır ötesi e-ticaret kozmetikleri fiziksel etiketlemeden muaftır ancak Çin ürün bilgilerinin çevrimiçi olarak görüntülenmesi gerekir.",
+    "ecommerceQ5": "PIPL nedir ve e-ticaret mağazamı nasıl etkiler?",
+    "ecommerceA5": "PIPL (Kişisel Bilgilerin Korunması Yasası), Çinli tüketicilerin kişisel verilerini toplayan tüm işletmeler için geçerli olan Çin'in veri gizliliği düzenlemesidir. Sınır ötesi e-ticaret için bu, uygun onay mekanizmalarına, veri yerelleştirme hususlarına ve açık gizlilik politikalarına ihtiyacınız olduğu anlamına gelir. E-ticaret kurulum hizmetimizin bir parçası olarak PIPL uyumluluk değerlendirmeleri sağlıyoruz.",
+    "brandQ5": "İyi bir Çin markası adını nasıl seçerim?",
+    "brandQ5a": "Güçlü bir Çin markası adı, fonetik olarak İngilizce adınıza benzer, kültürel açıdan uygun, hatırlanması kolay ve yasal olarak ticari marka tescili için uygun olmalıdır. Çince marka kimliğinizin ilk günden itibaren korunmasını sağlamak için kültürel danışmanlık, ticari marka kullanılabilirliği araştırması ve tescili içeren Çince isim geliştirme hizmetleri sağlıyoruz."
   },
   "About": {
     "heroTitle": "SinoTrade Compliance Hakkında",

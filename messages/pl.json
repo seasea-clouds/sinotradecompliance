@@ -375,14 +375,14 @@
     "labelQ3a": "Tak, suplementy zdrowotne (保健食品) mają dodatkowe wymagania dotyczące etykietowania wykraczające poza standardową żywność opakowaną, w tym oświadczenia dotyczące funkcji zdrowotnych,适宜人群 (odpowiednie人群) i instrukcje użytkowania. Zajmujemy się wymaganiami dotyczącymi etykiet specyficznych dla kategorii.",
     "labelQ4": "Jak szybko można wykonać etykiety?",
     "labelQ4a": "Standardowa weryfikacja i projektowanie etykiet zajmuje 1–2 tygodnie dla każdego SKU. W przypadku przesyłek pilnych oferujemy usługę przyspieszoną. Zamówienia pilne zależą od złożoności produktu i aktualnego obciążenia pracą.",
-    "generalQ11": "What is the difference between GACC registration and NMPA filing?",
-    "generalA11": "GACC registration (General Administration of Customs) is required for food and beverage products entering China, while NMPA filing (National Medical Products Administration) applies to cosmetics and certain health products. They are separate regulatory pathways managed by different agencies. We can handle both simultaneously if your product portfolio spans multiple categories.",
-    "labelQ5": "Do cosmetics need Chinese labels too?",
-    "labelQ5a": "Yes, imported cosmetics sold through traditional retail channels must have Chinese labels compliant with NMPA requirements, including ingredient lists in INCI format with Chinese translations, net content, manufacturer info, and usage instructions. Cross-border e-commerce cosmetics are exempt from physical labeling but must display Chinese product information online.",
-    "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
-    "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
-    "brandQ5": "How do I choose a good Chinese brand name?",
-    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
+    "generalQ11": "Jaka jest różnica między rejestracją GACC a zgłoszeniem do NMPA?",
+    "generalA11": "W przypadku produktów spożywczych i napojów wprowadzanych do Chin wymagana jest rejestracja GACC (Generalna Administracja Celna), natomiast zgłoszenie NMPA (Krajowa Administracja Produktów Medycznych) dotyczy kosmetyków i niektórych produktów zdrowotnych. Są to odrębne ścieżki regulacyjne zarządzane przez różne agencje. Jeśli Twoje portfolio produktów obejmuje wiele kategorii, jesteśmy w stanie obsłużyć obie te kwestie jednocześnie.",
+    "labelQ5": "Czy kosmetyki też potrzebują chińskich etykiet?",
+    "labelQ5a": "Tak, importowane kosmetyki sprzedawane tradycyjnymi kanałami detalicznymi muszą mieć chińskie etykiety zgodne z wymogami NMPA, w tym listy składników w formacie INCI z chińskimi tłumaczeniami, zawartość netto, informacje o producencie i instrukcje użytkowania. Kosmetyki w transgranicznym handlu elektronicznym są zwolnione z fizycznego oznakowania, ale muszą zawierać chińskie informacje o produkcie w Internecie.",
+    "ecommerceQ5": "Czym jest PIPL i jaki ma wpływ na mój sklep internetowy?",
+    "ecommerceA5": "PIPL (ustawa o ochronie danych osobowych) to chińska regulacja dotycząca prywatności danych, która ma zastosowanie do każdej firmy gromadzącej dane osobowe chińskich konsumentów. W przypadku transgranicznego handlu elektronicznego oznacza to, że potrzebne są odpowiednie mechanizmy uzyskiwania zgody, względy dotyczące lokalizacji danych i jasna polityka prywatności. W ramach naszej usługi konfiguracji handlu elektronicznego zapewniamy oceny zgodności z PIPL.",
+    "brandQ5": "Jak wybrać dobrą chińską markę?",
+    "brandQ5a": "Silna chińska marka powinna być fonetycznie podobna do Twojej angielskiej nazwy, odpowiednia kulturowo, łatwa do zapamiętania i legalnie dostępna do rejestracji znaku towarowego. Świadczymy usługi opracowywania chińskich nazw, które obejmują konsultacje kulturowe, wyszukiwanie dostępności znaków towarowych i rejestrację, aby zapewnić ochronę chińskiej tożsamości marki od pierwszego dnia."
   },
   "About": {
     "heroTitle": "O SinoTrade Compliance",
@@ -467,19 +467,19 @@
     "expertTeam": "Zespół ekspertów"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
-    "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "title": "Informacje i przewodniki dotyczące zgodności",
+    "subtitle": "Artykuły eksperckie na temat przepisów importowych z Chin, wejścia na rynek i najlepszych praktyk w zakresie zgodności.",
+    "readMore": "Przeczytaj więcej",
+    "categories": "Kategorie",
+    "all": "Wszystko",
+    "backToBlog": "Powrót do bloga",
+    "backToHome": "Powrót do domu",
+    "pagination": "Strona",
+    "noPosts": "Nie znaleziono żadnych postów.",
+    "publishedOn": "Opublikowano dnia",
+    "author": "Davida Zhanga",
+    "ctaTitle": "Potrzebujesz pomocy w zakresie zgodności z przepisami w Chinach?",
+    "ctaSubtitle": "Uzyskaj bezpłatną ocenę zgodności od naszego zespołu ekspertów.",
+    "ctaButton": "Uzyskaj bezpłatną ocenę"
   }
 }

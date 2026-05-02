@@ -467,19 +467,19 @@
     "expertTeam": "Equip d'Experts"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
+    "title": "Coneixements i guies de compliment",
+    "subtitle": "Articles d'experts sobre les regulacions d'importació de la Xina, l'entrada al mercat i les millors pràctiques de compliment.",
+    "readMore": "Llegeix més",
     "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
+    "all": "Tots",
+    "backToBlog": "Tornar al Blog",
+    "backToHome": "Torna a casa",
+    "pagination": "Pàgina",
+    "noPosts": "No s'han trobat publicacions.",
+    "publishedOn": "Publicat el",
     "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "ctaTitle": "Necessites ajuda amb el compliment de la Xina?",
+    "ctaSubtitle": "Obteniu una avaluació de compliment gratuïta del nostre equip d'experts.",
+    "ctaButton": "Obteniu una avaluació gratuïta"
   }
 }

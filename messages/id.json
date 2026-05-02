@@ -375,14 +375,14 @@
     "labelQ3a": "Ya, suplemen kesehatan (保健食品) memiliki persyaratan pelabelan tambahan di luar makanan kemasan standar, termasuk klaim fungsi kesehatan,适宜人群 (sesuai), dan petunjuk penggunaan. Kami menangani persyaratan label khusus kategori.",
     "labelQ4": "Seberapa cepat label dapat diselesaikan?",
     "labelQ4a": "Peninjauan dan desain label standar memerlukan waktu 1-2 minggu per SKU. Untuk pengiriman mendesak, kami menawarkan layanan yang dipercepat. Pesanan terburu-buru bergantung pada kompleksitas produk dan beban kerja saat ini.",
-    "generalQ11": "What is the difference between GACC registration and NMPA filing?",
-    "generalA11": "GACC registration (General Administration of Customs) is required for food and beverage products entering China, while NMPA filing (National Medical Products Administration) applies to cosmetics and certain health products. They are separate regulatory pathways managed by different agencies. We can handle both simultaneously if your product portfolio spans multiple categories.",
-    "labelQ5": "Do cosmetics need Chinese labels too?",
-    "labelQ5a": "Yes, imported cosmetics sold through traditional retail channels must have Chinese labels compliant with NMPA requirements, including ingredient lists in INCI format with Chinese translations, net content, manufacturer info, and usage instructions. Cross-border e-commerce cosmetics are exempt from physical labeling but must display Chinese product information online.",
-    "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
-    "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
-    "brandQ5": "How do I choose a good Chinese brand name?",
-    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
+    "generalQ11": "Apa perbedaan antara registrasi GACC dan pengajuan NMPA?",
+    "generalA11": "Pendaftaran GACC (Administrasi Umum Kepabeanan) diperlukan untuk produk makanan dan minuman yang masuk ke Tiongkok, sedangkan pengajuan NMPA (Administrasi Produk Medis Nasional) berlaku untuk kosmetik dan produk kesehatan tertentu. Ini adalah jalur peraturan terpisah yang dikelola oleh lembaga berbeda. Kami dapat menangani keduanya secara bersamaan jika portofolio produk Anda mencakup beberapa kategori.",
+    "labelQ5": "Apakah kosmetik juga memerlukan label China?",
+    "labelQ5a": "Ya, kosmetik impor yang dijual melalui saluran ritel tradisional harus memiliki label berbahasa Mandarin yang sesuai dengan persyaratan NMPA, termasuk daftar bahan dalam format INCI dengan terjemahan bahasa Mandarin, konten bersih, informasi produsen, dan petunjuk penggunaan. Kosmetik e-niaga lintas batas negara dikecualikan dari pelabelan fisik tetapi harus menampilkan informasi produk Tiongkok secara online.",
+    "ecommerceQ5": "Apa itu PIPL dan apa pengaruhnya terhadap toko e-commerce saya?",
+    "ecommerceA5": "PIPL (Undang-undang Perlindungan Informasi Pribadi) adalah peraturan privasi data Tiongkok yang berlaku untuk bisnis apa pun yang mengumpulkan data pribadi konsumen Tiongkok. Untuk e-commerce lintas batas, ini berarti Anda memerlukan mekanisme persetujuan yang tepat, pertimbangan lokalisasi data, dan kebijakan privasi yang jelas. Kami memberikan penilaian kepatuhan PIPL sebagai bagian dari layanan penyiapan e-niaga kami.",
+    "brandQ5": "Bagaimana cara memilih nama merek Cina yang bagus?",
+    "brandQ5a": "Nama merek Tiongkok yang kuat harus mirip secara fonetis dengan nama Inggris Anda, sesuai dengan budaya, mudah diingat, dan tersedia secara hukum untuk pendaftaran merek dagang. Kami menyediakan layanan pengembangan nama Tiongkok yang mencakup konsultasi budaya, pencarian ketersediaan merek dagang, dan pendaftaran untuk memastikan identitas merek Tiongkok Anda terlindungi sejak hari pertama."
   },
   "About": {
     "heroTitle": "Tentang SinoTrade Compliance",
@@ -467,19 +467,19 @@
     "expertTeam": "Tim Ahli"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
+    "title": "Panduan Wawasan & Kepatuhan",
+    "subtitle": "Artikel pakar tentang peraturan impor Tiongkok, masuknya pasar, dan praktik terbaik kepatuhan.",
+    "readMore": "Baca selengkapnya",
+    "categories": "Kategori",
+    "all": "Semua",
+    "backToBlog": "Kembali ke Blog",
+    "backToHome": "Kembali ke Rumah",
+    "pagination": "Halaman",
+    "noPosts": "Tidak ada postingan yang ditemukan.",
+    "publishedOn": "Diterbitkan pada",
     "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "ctaTitle": "Butuh Bantuan terkait Kepatuhan Tiongkok?",
+    "ctaSubtitle": "Dapatkan penilaian kepatuhan gratis dari tim ahli kami.",
+    "ctaButton": "Dapatkan Penilaian Gratis"
   }
 }

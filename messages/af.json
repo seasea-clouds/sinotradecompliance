@@ -467,19 +467,19 @@
     "expertTeam": "Spandeskundiges"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
+    "title": "Insigte en nakomingsgidse",
+    "subtitle": "Kundige artikels oor China-invoerregulasies, marktoetrede en beste praktyke vir nakoming.",
+    "readMore": "Lees meer",
+    "categories": "Kategorieë",
+    "all": "Almal",
+    "backToBlog": "Terug na Blog",
+    "backToHome": "Terug na die huis",
+    "pagination": "Bladsy",
+    "noPosts": "Geen plasings gevind nie.",
+    "publishedOn": "Gepubliseer op",
     "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "ctaTitle": "Het u hulp nodig met China-nakoming?",
+    "ctaSubtitle": "Kry 'n gratis voldoeningsbeoordeling van ons kundige span.",
+    "ctaButton": "Kry gratis assessering"
   }
 }

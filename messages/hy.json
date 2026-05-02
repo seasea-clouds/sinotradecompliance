@@ -375,14 +375,14 @@
     "labelQ3a": "Այո, առողջապահական հավելումները (保健食品) ունեն պիտակավորման լրացուցիչ պահանջներ, բացի ստանդարտ նախափաթեթավորված սննդամթերքից, ներառյալ առողջական գործառույթի մասին պնդումները, 适宜人群 (հարմար 人群) և օգտագործման հրահանգները: Մենք լուծում ենք կատեգորիայի հատուկ պիտակի պահանջները:",
     "labelQ4": "Որքա՞ն արագ կարող են լրացվել պիտակները:",
     "labelQ4a": "Ստանդարտ պիտակի վերանայումը և դիզայնը տևում է 1-2 շաբաթ յուրաքանչյուր SKU-ի համար: Շտապ առաքումների դեպքում մենք առաջարկում ենք արագացված սպասարկում։ Շտապ պատվերները կախված են արտադրանքի բարդությունից և ընթացիկ ծանրաբեռնվածությունից:",
-    "generalQ11": "What is the difference between GACC registration and NMPA filing?",
-    "generalA11": "GACC registration (General Administration of Customs) is required for food and beverage products entering China, while NMPA filing (National Medical Products Administration) applies to cosmetics and certain health products. They are separate regulatory pathways managed by different agencies. We can handle both simultaneously if your product portfolio spans multiple categories.",
-    "labelQ5": "Do cosmetics need Chinese labels too?",
-    "labelQ5a": "Yes, imported cosmetics sold through traditional retail channels must have Chinese labels compliant with NMPA requirements, including ingredient lists in INCI format with Chinese translations, net content, manufacturer info, and usage instructions. Cross-border e-commerce cosmetics are exempt from physical labeling but must display Chinese product information online.",
-    "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
-    "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
-    "brandQ5": "How do I choose a good Chinese brand name?",
-    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
+    "generalQ11": "Ո՞րն է տարբերությունը GACC գրանցման և NMPA ներկայացման միջև:",
+    "generalA11": "GACC-ի գրանցումը (Մաքսայինի գլխավոր վարչություն) պահանջվում է Չինաստան մուտք գործող սննդամթերքի և խմիչքների համար, մինչդեռ NMPA (National Medical Products Administration) ներկայացումը վերաբերում է կոսմետիկայի և առողջապահական որոշ ապրանքների: Դրանք առանձին կարգավորող ուղիներ են, որոնք կառավարվում են տարբեր գերատեսչությունների կողմից: Մենք կարող ենք միաժամանակ կարգավորել երկուսն էլ, եթե ձեր արտադրանքի պորտֆելը ընդգրկում է մի քանի կատեգորիաներ:",
+    "labelQ5": "Արդյո՞ք կոսմետիկան նույնպես չինական պիտակների կարիք ունի:",
+    "labelQ5a": "Այո, ավանդական մանրածախ ալիքներով վաճառվող ներմուծվող կոսմետիկան պետք է ունենա չինական պիտակներ, որոնք համապատասխանում են NMPA-ի պահանջներին, ներառյալ բաղադրիչների ցանկը INCI ձևաչափով՝ չինարեն թարգմանություններով, զուտ բովանդակությամբ, արտադրողի տեղեկություններով և օգտագործման հրահանգներով: Անդրսահմանային էլեկտրոնային առևտրի կոսմետիկան ազատված է ֆիզիկական պիտակավորումից, սակայն պետք է առցանց ցուցադրի չինական արտադրանքի մասին տեղեկատվությունը:",
+    "ecommerceQ5": "Ի՞նչ է PIPL-ը և ինչպե՞ս է այն ազդում իմ էլեկտրոնային առևտրի խանութի վրա:",
+    "ecommerceA5": "PIPL-ը (Անձնական տեղեկատվության պաշտպանության մասին օրենքը) Չինաստանի տվյալների գաղտնիության կանոնակարգն է, որը վերաբերում է չինացի սպառողների անձնական տվյալները հավաքող ցանկացած բիզնեսին: Անդրսահմանային էլեկտրոնային առևտրի համար սա նշանակում է, որ ձեզ անհրաժեշտ են համապատասխան համաձայնության մեխանիզմներ, տվյալների տեղայնացման նկատառումներ և գաղտնիության հստակ քաղաքականություն: Մենք տրամադրում ենք PIPL-ի համապատասխանության գնահատումներ՝ որպես մեր էլեկտրոնային առևտրի տեղադրման ծառայության մաս:",
+    "brandQ5": "Ինչպե՞ս ընտրել լավ չինական ապրանքանիշ:",
+    "brandQ5a": "Հզոր չինական ապրանքանիշի անունը պետք է հնչյունապես նման լինի ձեր անգլերեն անվանմանը, մշակութային առումով համապատասխան, հեշտ հիշվող և օրինականորեն հասանելի ապրանքանիշի գրանցման համար: Մենք տրամադրում ենք չինական անունների մշակման ծառայություններ, որոնք ներառում են մշակութային խորհրդատվություն, ապրանքանիշի առկայության որոնում և գրանցում, որպեսզի ձեր չինական ապրանքանիշի ինքնությունը պաշտպանված լինի առաջին իսկ օրվանից:"
   },
   "About": {
     "heroTitle": "SinoTrade Compliance-ի մասին",
@@ -467,19 +467,19 @@
     "expertTeam": "Փորձառու թիմ"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
-    "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "title": "Խորաթափանցություն և համապատասխանության ուղեցույցներ",
+    "subtitle": "Փորձագիտական ​​հոդվածներ Չինաստանի ներմուծման կանոնակարգերի, շուկա մուտք գործելու և համապատասխանության լավագույն փորձի վերաբերյալ:",
+    "readMore": "Կարդալ ավելին",
+    "categories": "Կատեգորիաներ",
+    "all": "Բոլորը",
+    "backToBlog": "Վերադարձ դեպի Բլոգ",
+    "backToHome": "Վերադարձ դեպի տուն",
+    "pagination": "Էջ",
+    "noPosts": "Գրառումներ չեն գտնվել:",
+    "publishedOn": "Հրապարակվել է",
+    "author": "Դեյվիդ Ժանգ",
+    "ctaTitle": "Օգնությո՞ւն է պետք Չինաստանի համապատասխանության հարցում:",
+    "ctaSubtitle": "Ստացեք համապատասխանության անվճար գնահատում մեր փորձագիտական ​​թիմից:",
+    "ctaButton": "Ստացեք անվճար գնահատում"
   }
 }

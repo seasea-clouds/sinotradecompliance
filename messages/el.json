@@ -467,19 +467,19 @@
     "expertTeam": "Ομάδα εμπειρογνωμόνων"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
-    "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "title": "Insights & Οδηγοί συμμόρφωσης",
+    "subtitle": "Άρθρα εμπειρογνωμόνων σχετικά με τους κανονισμούς εισαγωγής της Κίνας, την είσοδο στην αγορά και τις βέλτιστες πρακτικές συμμόρφωσης.",
+    "readMore": "Διαβάστε περισσότερα",
+    "categories": "Κατηγορίες",
+    "all": "Ολοι",
+    "backToBlog": "Επιστροφή στο Blog",
+    "backToHome": "Επιστροφή στο σπίτι",
+    "pagination": "Σελίδα",
+    "noPosts": "Δεν βρέθηκαν αναρτήσεις.",
+    "publishedOn": "Δημοσιεύθηκε στις",
+    "author": "Ντέιβιντ Ζανγκ",
+    "ctaTitle": "Χρειάζεστε βοήθεια σχετικά με τη συμμόρφωση με την Κίνα;",
+    "ctaSubtitle": "Λάβετε δωρεάν αξιολόγηση συμμόρφωσης από την ομάδα ειδικών μας.",
+    "ctaButton": "Λάβετε δωρεάν αξιολόγηση"
   }
 }

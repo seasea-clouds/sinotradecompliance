@@ -375,14 +375,14 @@
     "labelQ3a": "はい、健康補助食品 (保健食品) には、健康機能表示、適人群 (適人群)、使用説明書など、標準的な包装食品以外に追加の表示要件があります。カテゴリ固有のラベル要件に対応します。",
     "labelQ4": "ラベルはどれくらい早く完成しますか?",
     "labelQ4a": "標準的なラベルのレビューとデザインには、SKU ごとに 1 ～ 2 週間かかります。お急ぎの場合は、速達サービスをご利用いただけます。お急ぎの注文は、製品の複雑さと現在のワークロードによって異なります。",
-    "generalQ11": "What is the difference between GACC registration and NMPA filing?",
-    "generalA11": "GACC registration (General Administration of Customs) is required for food and beverage products entering China, while NMPA filing (National Medical Products Administration) applies to cosmetics and certain health products. They are separate regulatory pathways managed by different agencies. We can handle both simultaneously if your product portfolio spans multiple categories.",
-    "labelQ5": "Do cosmetics need Chinese labels too?",
-    "labelQ5a": "Yes, imported cosmetics sold through traditional retail channels must have Chinese labels compliant with NMPA requirements, including ingredient lists in INCI format with Chinese translations, net content, manufacturer info, and usage instructions. Cross-border e-commerce cosmetics are exempt from physical labeling but must display Chinese product information online.",
-    "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
-    "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
-    "brandQ5": "How do I choose a good Chinese brand name?",
-    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
+    "generalQ11": "GACC 登録と NMPA 申請の違いは何ですか?",
+    "generalA11": "中国に輸入される食品および飲料製品には GACC (税関総署) の登録が必要ですが、化粧品および特定の健康製品には NMPA (国家医薬品監督局) の申請が適用されます。これらは、異なる機関によって管理される個別の規制経路です。製品ポートフォリオが複数のカテゴリにまたがる場合、両方を同時に処理できます。",
+    "labelQ5": "化粧品にも中国語のラベルが必要ですか?",
+    "labelQ5a": "はい、従来の小売チャネルを通じて販売される輸入化粧品には、中国語訳付きの INCI 形式の成分リスト、正味内容、メーカー情報、使用説明書など、NMPA 要件に準拠した中国語ラベルが付いている必要があります。国境を越えた電子商取引の化粧品は物理的な表示は免除されますが、中国の製品情報をオンラインで表示する必要があります。",
+    "ecommerceQ5": "PIPL とは何ですか? それは私の e コマース ストアにどのような影響を与えますか?",
+    "ecommerceA5": "PIPL (個人情報保護法) は、中国の消費者の個人データを収集するあらゆる企業に適用される中国のデータ プライバシー規制です。国境を越えた電子商取引の場合、これは、適切な同意メカニズム、データのローカリゼーションに関する考慮事項、および明確なプライバシー ポリシーが必要であることを意味します。当社では、電子商取引セットアップ サービスの一環として PIPL コンプライアンス評価を提供しています。",
+    "brandQ5": "良い中国のブランド名を選択するにはどうすればよいですか?",
+    "brandQ5a": "強力な中国語のブランド名は、音声的に英語の名前と似ており、文化的に適切で、覚えやすく、法的に商標登録が可能である必要があります。当社は、文化に関するコンサルティング、商標の入手可能性の検索、および登録を含む中国語の名前開発サービスを提供し、お客様の中国のブランド アイデンティティが初日から確実に保護されるようにします。"
   },
   "About": {
     "heroTitle": "SinoTrade Complianceについて",
@@ -467,19 +467,19 @@
     "expertTeam": "専門チーム"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
-    "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "title": "洞察とコンプライアンス ガイド",
+    "subtitle": "中国の輸入規制、市場参入、コンプライアンスのベストプラクティスに関する専門記事。",
+    "readMore": "続きを読む",
+    "categories": "カテゴリー",
+    "all": "全て",
+    "backToBlog": "ブログに戻る",
+    "backToHome": "ホームに戻る",
+    "pagination": "ページ",
+    "noPosts": "投稿が見つかりませんでした。",
+    "publishedOn": "公開日",
+    "author": "デビッド・チャン",
+    "ctaTitle": "中国のコンプライアンスに関してサポートが必要ですか?",
+    "ctaSubtitle": "当社の専門家チームによる無料のコンプライアンス評価を受けてください。",
+    "ctaButton": "無料の評価を受ける"
   }
 }

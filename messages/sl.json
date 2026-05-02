@@ -375,14 +375,14 @@
     "labelQ3a": "Da, za zdravstvena dopolnila (保健食品) veljajo dodatne zahteve glede označevanja poleg standardne predpakirane hrane, vključno s trditvami o zdravstveni učinku,适宜人群 (primerno人群) in navodili za uporabo. Ukvarjamo se z zahtevami nalepk za posamezne kategorije.",
     "labelQ4": "Kako hitro je mogoče nalepke dokončati?",
     "labelQ4a": "Standardni pregled in oblikovanje etikete trajata 1-2 tedna na SKU. Za nujne pošiljke nudimo hiter servis. Hitra naročila so odvisna od zahtevnosti izdelka in trenutne obremenitve.",
-    "generalQ11": "What is the difference between GACC registration and NMPA filing?",
-    "generalA11": "GACC registration (General Administration of Customs) is required for food and beverage products entering China, while NMPA filing (National Medical Products Administration) applies to cosmetics and certain health products. They are separate regulatory pathways managed by different agencies. We can handle both simultaneously if your product portfolio spans multiple categories.",
-    "labelQ5": "Do cosmetics need Chinese labels too?",
-    "labelQ5a": "Yes, imported cosmetics sold through traditional retail channels must have Chinese labels compliant with NMPA requirements, including ingredient lists in INCI format with Chinese translations, net content, manufacturer info, and usage instructions. Cross-border e-commerce cosmetics are exempt from physical labeling but must display Chinese product information online.",
-    "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
-    "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
-    "brandQ5": "How do I choose a good Chinese brand name?",
-    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
+    "generalQ11": "Kakšna je razlika med registracijo GACC in prijavo NMPA?",
+    "generalA11": "Registracija GACC (generalna carinska uprava) je potrebna za hrano in pijačo, ki vstopajo na Kitajsko, medtem ko prijava NMPA (nacionalna uprava za medicinske izdelke) velja za kozmetiko in nekatere zdravstvene izdelke. Gre za ločene regulativne poti, ki jih upravljajo različne agencije. Obravnavamo lahko oboje hkrati, če vaš portfelj izdelkov obsega več kategorij.",
+    "labelQ5": "Ali tudi kozmetika potrebuje kitajske oznake?",
+    "labelQ5a": "Da, uvožena kozmetika, ki se prodaja prek tradicionalnih maloprodajnih kanalov, mora imeti kitajske oznake, skladne z zahtevami NMPA, vključno s seznami sestavin v formatu INCI s kitajskimi prevodi, neto vsebino, podatki o proizvajalcu in navodili za uporabo. Kozmetika za čezmejno e-trgovino je izvzeta iz fizičnega označevanja, vendar mora na spletu prikazati kitajske informacije o izdelku.",
+    "ecommerceQ5": "Kaj je PIPL in kako vpliva na mojo e-trgovino?",
+    "ecommerceA5": "PIPL (Zakon o varstvu osebnih podatkov) je kitajska uredba o zasebnosti podatkov, ki velja za vsa podjetja, ki zbirajo osebne podatke kitajskih potrošnikov. Za čezmejno e-trgovino to pomeni, da potrebujete ustrezne mehanizme za soglasje, upoštevanje lokalizacije podatkov in jasne politike zasebnosti. Ocene skladnosti s PIPL zagotavljamo kot del naše storitve nastavitve e-trgovine.",
+    "brandQ5": "Kako naj izberem dobro kitajsko blagovno znamko?",
+    "brandQ5a": "Močna kitajska blagovna znamka mora biti fonetično podobna vašemu angleškemu imenu, kulturno primerna, lahko zapomniti si jo in zakonito dostopna za registracijo blagovne znamke. Nudimo storitve razvoja kitajskih imen, ki vključujejo kulturno posvetovanje, iskanje razpoložljivosti blagovnih znamk in registracijo, da zagotovimo, da je identiteta vaše kitajske blagovne znamke zaščitena od prvega dne."
   },
   "About": {
     "heroTitle": "O SinoTrade Compliance",

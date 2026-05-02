@@ -467,19 +467,19 @@
     "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
-    "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "title": "Прозрения и ръководства за съответствие",
+    "subtitle": "Експертни статии относно регулациите за внос в Китай, навлизането на пазара и най-добрите практики за съответствие.",
+    "readMore": "Прочетете повече",
+    "categories": "Категории",
+    "all": "Всички",
+    "backToBlog": "Назад към блога",
+    "backToHome": "Обратно към дома",
+    "pagination": "Страница",
+    "noPosts": "Няма намерени публикации.",
+    "publishedOn": "Публикувана на",
+    "author": "Дейвид Джан",
+    "ctaTitle": "Нуждаете се от помощ за съответствие в Китай?",
+    "ctaSubtitle": "Получете безплатна оценка за съответствие от нашия експертен екип.",
+    "ctaButton": "Получете безплатна оценка"
   }
 }

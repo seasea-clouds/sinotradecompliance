@@ -467,19 +467,19 @@
     "expertTeam": "Equipo Experto"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
+    "title": "Guías de conocimientos y cumplimiento",
+    "subtitle": "Artículos de expertos sobre las regulaciones de importación de China, el ingreso al mercado y las mejores prácticas de cumplimiento.",
+    "readMore": "Leer más",
+    "categories": "Categorías",
+    "all": "Todo",
+    "backToBlog": "Volver al blog",
+    "backToHome": "Volver a Inicio",
+    "pagination": "Página",
+    "noPosts": "No se encontraron publicaciones.",
+    "publishedOn": "Publicado el",
     "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "ctaTitle": "¿Necesita ayuda con el cumplimiento de China?",
+    "ctaSubtitle": "Obtenga una evaluación de cumplimiento gratuita por parte de nuestro equipo de expertos.",
+    "ctaButton": "Obtenga una evaluación gratuita"
   }
 }

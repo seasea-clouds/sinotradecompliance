@@ -467,19 +467,19 @@
     "expertTeam": "فريق خبراء"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
-    "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "title": "الرؤى وأدلة الامتثال",
+    "subtitle": "مقالات الخبراء حول لوائح الاستيراد الصينية، ودخول السوق، وأفضل ممارسات الامتثال.",
+    "readMore": "اقرأ المزيد",
+    "categories": "فئات",
+    "all": "الجميع",
+    "backToBlog": "العودة إلى المدونة",
+    "backToHome": "العودة إلى المنزل",
+    "pagination": "صفحة",
+    "noPosts": "لم يتم العثور على أي مشاركات.",
+    "publishedOn": "تم النشر بتاريخ",
+    "author": "ديفيد تشانغ",
+    "ctaTitle": "هل تحتاج إلى مساعدة فيما يتعلق بالامتثال للصين؟",
+    "ctaSubtitle": "احصل على تقييم مجاني للامتثال من فريق الخبراء لدينا.",
+    "ctaButton": "احصل على تقييم مجاني"
   }
 }

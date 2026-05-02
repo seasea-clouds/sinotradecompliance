@@ -375,14 +375,14 @@
     "labelQ3a": "हां, स्वास्थ्य अनुपूरकों (保健食品) में मानक पूर्व-पैकेजित भोजन से परे अतिरिक्त लेबलिंग आवश्यकताएं हैं, जिनमें स्वास्थ्य कार्य दावे, उपयुक्त लेबल, और उपयोग निर्देश शामिल हैं। हम श्रेणी-विशिष्ट लेबल आवश्यकताओं को संभालते हैं।",
     "labelQ4": "लेबल कितनी जल्दी पूरा किया जा सकता है?",
     "labelQ4a": "मानक लेबल समीक्षा और डिज़ाइन में प्रति SKU 1-2 सप्ताह लगते हैं। अत्यावश्यक शिपमेंट के लिए, हम त्वरित सेवा प्रदान करते हैं। त्वरित ऑर्डर उत्पाद की जटिलता और वर्तमान कार्यभार पर निर्भर करते हैं।",
-    "generalQ11": "What is the difference between GACC registration and NMPA filing?",
-    "generalA11": "GACC registration (General Administration of Customs) is required for food and beverage products entering China, while NMPA filing (National Medical Products Administration) applies to cosmetics and certain health products. They are separate regulatory pathways managed by different agencies. We can handle both simultaneously if your product portfolio spans multiple categories.",
-    "labelQ5": "Do cosmetics need Chinese labels too?",
-    "labelQ5a": "Yes, imported cosmetics sold through traditional retail channels must have Chinese labels compliant with NMPA requirements, including ingredient lists in INCI format with Chinese translations, net content, manufacturer info, and usage instructions. Cross-border e-commerce cosmetics are exempt from physical labeling but must display Chinese product information online.",
-    "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
-    "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
-    "brandQ5": "How do I choose a good Chinese brand name?",
-    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
+    "generalQ11": "GACC पंजीकरण और NMPA फाइलिंग के बीच क्या अंतर है?",
+    "generalA11": "चीन में प्रवेश करने वाले खाद्य और पेय उत्पादों के लिए GACC पंजीकरण (सीमा शुल्क का सामान्य प्रशासन) आवश्यक है, जबकि NMPA फाइलिंग (राष्ट्रीय चिकित्सा उत्पाद प्रशासन) सौंदर्य प्रसाधन और कुछ स्वास्थ्य उत्पादों पर लागू होती है। वे अलग-अलग एजेंसियों द्वारा प्रबंधित अलग-अलग नियामक मार्ग हैं। यदि आपका उत्पाद पोर्टफोलियो कई श्रेणियों में फैला है तो हम दोनों को एक साथ संभाल सकते हैं।",
+    "labelQ5": "क्या सौंदर्य प्रसाधनों को भी चीनी लेबल की आवश्यकता है?",
+    "labelQ5a": "हां, पारंपरिक खुदरा चैनलों के माध्यम से बेचे जाने वाले आयातित सौंदर्य प्रसाधनों में एनएमपीए आवश्यकताओं के अनुरूप चीनी लेबल होना चाहिए, जिसमें चीनी अनुवाद, शुद्ध सामग्री, निर्माता जानकारी और उपयोग निर्देशों के साथ आईएनसीआई प्रारूप में घटक सूचियां शामिल हैं। सीमा पार ई-कॉमर्स सौंदर्य प्रसाधनों को भौतिक लेबलिंग से छूट दी गई है, लेकिन उन्हें चीनी उत्पाद की जानकारी ऑनलाइन प्रदर्शित करनी होगी।",
+    "ecommerceQ5": "पीआईपीएल क्या है और यह मेरे ई-कॉमर्स स्टोर को कैसे प्रभावित करता है?",
+    "ecommerceA5": "पीआईपीएल (व्यक्तिगत सूचना संरक्षण कानून) चीन का डेटा गोपनीयता विनियमन है जो चीनी उपभोक्ताओं के व्यक्तिगत डेटा एकत्र करने वाले किसी भी व्यवसाय पर लागू होता है। सीमा पार ई-कॉमर्स के लिए, इसका मतलब है कि आपको उचित सहमति तंत्र, डेटा स्थानीयकरण विचार और स्पष्ट गोपनीयता नीतियों की आवश्यकता है। हम अपनी ई-कॉमर्स सेटअप सेवा के हिस्से के रूप में पीआईपीएल अनुपालन आकलन प्रदान करते हैं।",
+    "brandQ5": "मैं एक अच्छा चीनी ब्रांड नाम कैसे चुनूँ?",
+    "brandQ5a": "एक मजबूत चीनी ब्रांड नाम ध्वन्यात्मक रूप से आपके अंग्रेजी नाम के समान होना चाहिए, सांस्कृतिक रूप से उपयुक्त, याद रखने में आसान और ट्रेडमार्क पंजीकरण के लिए कानूनी रूप से उपलब्ध होना चाहिए। हम चीनी नाम विकास सेवाएं प्रदान करते हैं जिसमें सांस्कृतिक परामर्श, ट्रेडमार्क उपलब्धता खोज और पंजीकरण शामिल है ताकि यह सुनिश्चित किया जा सके कि आपकी चीनी ब्रांड पहचान पहले दिन से सुरक्षित रहे।"
   },
   "About": {
     "heroTitle": "SinoTrade Compliance के बारे में",
@@ -467,19 +467,19 @@
     "expertTeam": "विशेषज्ञ टीम"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
-    "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "title": "अंतर्दृष्टि एवं अनुपालन मार्गदर्शिकाएँ",
+    "subtitle": "चीन के आयात नियमों, बाजार में प्रवेश और सर्वोत्तम अनुपालन प्रथाओं पर विशेषज्ञ लेख।",
+    "readMore": "और पढ़ें",
+    "categories": "श्रेणियाँ",
+    "all": "सभी",
+    "backToBlog": "ब्लॉग पर वापस जाएँ",
+    "backToHome": "घर वापिस जा रहा हूँ",
+    "pagination": "पेज",
+    "noPosts": "कोई पोस्ट नहीं मिली.",
+    "publishedOn": "पर प्रकाशित",
+    "author": "डेविड झांग",
+    "ctaTitle": "चीन अनुपालन में सहायता चाहिए?",
+    "ctaSubtitle": "हमारी विशेषज्ञ टीम से निःशुल्क अनुपालन मूल्यांकन प्राप्त करें।",
+    "ctaButton": "निःशुल्क मूल्यांकन प्राप्त करें"
   }
 }

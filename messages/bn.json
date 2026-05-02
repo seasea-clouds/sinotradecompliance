@@ -467,19 +467,19 @@
     "expertTeam": "বিশেষজ্ঞ দল"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
-    "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "title": "অন্তর্দৃষ্টি এবং সম্মতি নির্দেশিকা",
+    "subtitle": "চীন আমদানি প্রবিধান, বাজারে প্রবেশ, এবং সম্মতি সর্বোত্তম অনুশীলনের উপর বিশেষজ্ঞ নিবন্ধ।",
+    "readMore": "আরও পড়ুন",
+    "categories": "ক্যাটাগরি",
+    "all": "সব",
+    "backToBlog": "ব্লগে ফিরে যান",
+    "backToHome": "হোমে ফিরে যান",
+    "pagination": "পাতা",
+    "noPosts": "কোন পোস্ট পাওয়া যায়নি.",
+    "publishedOn": "প্রকাশিত",
+    "author": "ডেভিড ঝাং",
+    "ctaTitle": "চীন সম্মতি সঙ্গে সাহায্য প্রয়োজন?",
+    "ctaSubtitle": "আমাদের বিশেষজ্ঞ দল থেকে একটি বিনামূল্যে সম্মতি মূল্যায়ন পান।",
+    "ctaButton": "বিনামূল্যে মূল্যায়ন পান"
   }
 }

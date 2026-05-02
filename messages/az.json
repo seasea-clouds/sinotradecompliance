@@ -467,19 +467,19 @@
     "expertTeam": "Ekspert Komanda"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
+    "title": "Anlayışlar və Uyğunluq Bələdçiləri",
+    "subtitle": "Çin idxal qaydaları, bazara giriş və uyğunluq üzrə ən yaxşı təcrübələr haqqında ekspert məqalələri.",
+    "readMore": "Ətraflı Oxu",
+    "categories": "Kateqoriyalar",
+    "all": "Hamısı",
+    "backToBlog": "Bloqa qayıt",
+    "backToHome": "Evə qayıt",
+    "pagination": "Səhifə",
+    "noPosts": "Heç bir yazı tapılmadı.",
+    "publishedOn": "dərc olunub",
     "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "ctaTitle": "Çin Uyğunluğu ilə bağlı Yardım lazımdır?",
+    "ctaSubtitle": "Ekspert komandamızdan ödənişsiz uyğunluq qiymətləndirməsini əldə edin.",
+    "ctaButton": "Pulsuz Qiymətləndirmə alın"
   }
 }
