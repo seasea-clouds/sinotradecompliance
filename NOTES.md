@@ -1,6 +1,31 @@
 # 官网 - 注意事项
 
 ## 巡检记录
+### 2026-05-03 07:30 UTC+8 第 23 次巡检（第 22 轮组合深度检查）— 全站稳定，全部通过
+- **执行任务**：无待执行任务（T0-T69 全部完成）
+- **组合深度检查（第 22 轮）**：
+  - ✅ 构建：867 pages, 0 error
+  - ✅ 翻译完整性：48/48 语言 key 结构完全一致（444 keys），0 缺失 0 多余 0 空值
+  - ✅ 线上页面：/, /zh/, /en/faq/ 全部 HTTP 200
+  - ✅ 根路径 `/`：302 → `/en/` 正常
+  - ✅ JSON-LD：各页面 1 个 inline `<script type="application/ld+json">` 正确渲染
+  - ✅ hreflang：常规页 48 个 `<link rel="alternate" hrefLang>`，博客文章页 96 个
+  - ✅ Sitemap：864 URL，hreflang 完整
+  - ✅ canonical：en/index.html → https://sinotradecompliance.com/en/ 正确
+  - ✅ OG/Twitter：完整 8+ 项，og-image 1200×630 PNG 正确注入
+  - ✅ H1 唯一：en/zh 首页均为 1
+  - ✅ FAQ 语义化：39 个 dt/dd 对
+  - ✅ 语义化 HTML：`<main>` 标签存在，nav/footer/section/aria 完整（en 首页 51 aria 属性）
+  - ✅ 多语言 SEO：zh 首页含完整中文内容（无英文残留），en 首页英文内容正确
+  - ✅ 品牌名：zh 首页含 25 处 "SinoTrade Compliance"
+  - ✅ 联系方式：en 首页 email 8 处、WhatsApp 6 处，全部一致
+  - ✅ 禁用内容：packages 页无实际价格数字（$x.xx 格式 0 处）
+  - ✅ robots.txt：User-agent: * / Allow: / / Sitemap 正确
+  - ✅ 无孤儿文件：0 个 .bak/.tmp/.orig/.swp
+  - ✅ 构建输出：468MB（含所有 48 语言 × 14 页面 + 240 博客文章）
+- **Git**：working tree clean
+- **结论**：全站运行稳定，无新发现问题 ✅
+
 ### 2026-05-03 15:20 UTC+8 第 22 次巡检（第 21 轮组合深度检查）— 全站稳定，全部通过
 - **执行任务**：无待执行任务（T0-T69 全部完成）
 - **组合深度检查（第 21 轮）**：
