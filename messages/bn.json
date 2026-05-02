@@ -374,7 +374,15 @@
     "labelQ3": "স্বাস্থ্য পরিপূরক বিভিন্ন লেবেল প্রয়োজন?",
     "labelQ3a": "হ্যাঁ, হেলথ সাপ্লিমেন্টের (保健食品) স্বাস্থ্য ফাংশন দাবি, 适宜人群 (উপযুক্ত 人群), এবং ব্যবহারের নির্দেশাবলী সহ স্ট্যান্ডার্ড প্রিপ্যাকেজড খাবারের বাইরে অতিরিক্ত লেবেলিং প্রয়োজনীয়তা রয়েছে। আমরা বিভাগ-নির্দিষ্ট লেবেল প্রয়োজনীয়তা পরিচালনা করি।",
     "labelQ4": "কত দ্রুত লেবেল সম্পন্ন করা যাবে?",
-    "labelQ4a": "স্ট্যান্ডার্ড লেবেল পর্যালোচনা এবং ডিজাইন প্রতি SKU প্রতি 1-2 সপ্তাহ সময় নেয়। জরুরী চালানের জন্য, আমরা দ্রুত পরিষেবা অফার করি। রাশ অর্ডারগুলি পণ্যের জটিলতা এবং বর্তমান কাজের চাপের উপর নির্ভর করে।"
+    "labelQ4a": "স্ট্যান্ডার্ড লেবেল পর্যালোচনা এবং ডিজাইন প্রতি SKU প্রতি 1-2 সপ্তাহ সময় নেয়। জরুরী চালানের জন্য, আমরা দ্রুত পরিষেবা অফার করি। রাশ অর্ডারগুলি পণ্যের জটিলতা এবং বর্তমান কাজের চাপের উপর নির্ভর করে।",
+    "generalQ11": "What is the difference between GACC registration and NMPA filing?",
+    "generalA11": "GACC registration (General Administration of Customs) is required for food and beverage products entering China, while NMPA filing (National Medical Products Administration) applies to cosmetics and certain health products. They are separate regulatory pathways managed by different agencies. We can handle both simultaneously if your product portfolio spans multiple categories.",
+    "labelQ5": "Do cosmetics need Chinese labels too?",
+    "labelQ5a": "Yes, imported cosmetics sold through traditional retail channels must have Chinese labels compliant with NMPA requirements, including ingredient lists in INCI format with Chinese translations, net content, manufacturer info, and usage instructions. Cross-border e-commerce cosmetics are exempt from physical labeling but must display Chinese product information online.",
+    "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
+    "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
+    "brandQ5": "How do I choose a good Chinese brand name?",
+    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
   },
   "About": {
     "heroTitle": "SinoTrade Compliance সম্পর্কে",

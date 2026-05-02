@@ -374,7 +374,15 @@
     "brandQ4": "Moet ek my logo en Chinese handelsnaam apart registreer?",
     "cccQ3": "Kan ek CCC-sertifikate van 'n vorige vervaardiger gebruik?",
     "cccQ3a": "Nee, CCC-sertifikate is gekoppel aan die spesifieke vervaardigingsfasiliteit. As jy van vervaardiger verander, word 'n nuwe CCC-toepassing vereis. Ons kan help met die oordrag of heraansoek om sertifisering.",
-    "cccQ4": "Wat is die koste van CCC-sertifisering?"
+    "cccQ4": "Wat is die koste van CCC-sertifisering?",
+    "generalQ11": "What is the difference between GACC registration and NMPA filing?",
+    "generalA11": "GACC registration (General Administration of Customs) is required for food and beverage products entering China, while NMPA filing (National Medical Products Administration) applies to cosmetics and certain health products. They are separate regulatory pathways managed by different agencies. We can handle both simultaneously if your product portfolio spans multiple categories.",
+    "labelQ5": "Do cosmetics need Chinese labels too?",
+    "labelQ5a": "Yes, imported cosmetics sold through traditional retail channels must have Chinese labels compliant with NMPA requirements, including ingredient lists in INCI format with Chinese translations, net content, manufacturer info, and usage instructions. Cross-border e-commerce cosmetics are exempt from physical labeling but must display Chinese product information online.",
+    "ecommerceQ5": "What is the PIPL and how does it affect my e-commerce store?",
+    "ecommerceA5": "PIPL (Personal Information Protection Law) is China's data privacy regulation that applies to any business collecting Chinese consumers' personal data. For cross-border e-commerce, this means you need proper consent mechanisms, data localization considerations, and clear privacy policies. We provide PIPL compliance assessments as part of our e-commerce setup service.",
+    "brandQ5": "How do I choose a good Chinese brand name?",
+    "brandQ5a": "A strong Chinese brand name should be phonetically similar to your English name, culturally appropriate, easy to remember, and legally available for trademark registration. We provide Chinese name development services that include cultural consultation, trademark availability search, and registration to ensure your Chinese brand identity is protected from day one."
   },
   "About": {
     "heroTitle": "Oor SinoTrade Compliance",
