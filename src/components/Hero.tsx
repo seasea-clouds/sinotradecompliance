@@ -10,7 +10,7 @@ export default function Hero() {
   const locale = params?.locale ?? 'en';
 
   return (
-    <section className="bg-primary-navy text-white pt-32 pb-20 sm:pt-40 sm:pb-28 px-4 sm:px-6 lg:px-8">
+    <section className="bg-primary-navy text-white pt-28 pb-16 sm:pt-32 sm:pb-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto text-center">
         <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6 leading-tight">
           {t('heroTitle')}

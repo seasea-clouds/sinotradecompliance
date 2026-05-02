@@ -1,61 +1,55 @@
 # 官网改版 — 任务清单
 
-## 当前状态 (2026-05-01 23:18 UTC+8)
-- ✅ 改版方案已确认，首页组件已升级
-- ✅ 48 种语言已配置
-- ✅ 组件命名空间对齐（Home / ServiceCommon 双格式兼容）
-- ✅ 16 个翻译文件正在 AI 生成中（子-agent 执行）
+## 当前状态 (2026-05-02 12:00 UTC+8)
+- ⚠️ 构建仍有报错（About 页面 key 不匹配），最新修复已推送但未部署完成
+- ⚠️ 页面样式不统一（顶部间距不一致）
+- ⚠️ 第三方表单 Web3Forms 已恢复代码但未验证
+- ⚠️ FAQ 缺少语义化结构和 Common Questions
 
-## 执行清单
+---
 
-### Phase 1: 翻译文件
-- [x] 定义 messages/en.json 所有新增 key（18 个 namespace）
-- [x] AI 生成 47 种语言翻译 — **32/48 已完成，16 个待翻译（子-agent 执行中）**
-- [ ] 校验 48 个文件 key 完整性（不允许缺失）
-- [ ] 校验 npx next build 无 missing key warning
+## 待执行任务（按优先级）
 
-#### 已完成（32 个，完整 18 keys）
-ar, bn, ca, cs, da, de, el, en, es, fa, fi, fr, he, hr, hu, id, it, ja, ko, nl, pl, pt, ro, ru, sl, sr, sv, sw, tr, vi, zh, af
+### 🔴 P0：修复构建
+- [x] T1. 验证最新构建成功（commit 后需 0 error） — 387d21c ✅
+- [x] T2. 修复所有页面翻译 key 不匹配问题（About/Packages/Home 的 title/subtitle 等）
+- [x] T3. 校验 48 个 locale 文件 key 与 en.json 完全一致
 
-#### 待翻译（16 个，旧 8 keys 结构 → 需更新为 18 keys）
-az, be, bg, hi, hy, ka, ms, ne, no, si, sk, sq, ta, th, uk, ur
-> ⏳ 子-agent `translate-remaining-16` 正在执行
+### 🔴 P0：样式统一
+- [ ] T4. 统一所有页面顶部间距为 pt-28（当前首页 Hero pt-32，服务页 ServiceHero pt-28，About/Packages/FAQ pt-28，ServicesGrid pt-32 — 不统一）
+- [ ] T5. 统一 section 间距规范（各组件 py-16/20 不统一）
+- [ ] T6. 验证各页面在移动端响应式正常
 
-> ⚠️ 翻译可能有频率限制，分 5 批执行，批次间隔 ≥10 分钟。
-> 用 cron 设置定时任务，每 15 分钟执行一批。
+### 🟡 P1：内容完善
+- [ ] T7. 各服务页添加 Common Questions（FAQ 区，3-4 个 Q&A）— REDESIGN-PLAN 要求
+- [ ] T8. FAQ 页改为语义化结构（dl/dt/dd）— REDESIGN-PLAN §5.2 GEO 要求
+- [ ] T9. LeadMagnet 第三方表单功能验证（Web3Forms 已恢复代码，需测试提交+跳转）
+- [ ] T10. 各服务页 CTA 锚点或跳转到表单
 
-### Phase 2: 路由 + 页面框架
-- [x] 新建 8 个页面路由（about / services / 6 services / packages / faq）
-- [x] 新建组件：ServicesGrid / ServiceHero / CoverSection / ProcessSteps / FAQAccordion / PackageCards / WhyUsCards / CTASection
-- [x] 升级 Navbar（Services 下拉菜单 + 新页面链接）
-- [x] 升级 Footer（服务链接列表 + 快速链接）
-- [x] npx next build 通过（579 页面，exit 0）
+### 🟡 P1：翻译质量
+- [ ] T11. 48 个 locale 文件翻译质量抽检（中文、日文、韩文、阿拉伯文等）
+- [ ] T12. 修复 zh.json 等关键语言翻译不准确问题（之前用户报告过翻译质量问题）
 
-### Phase 3: 内容填充
-- [x] 首页（Hero 升级 Home namespace / ServicesGrid / WhyUsCards 4 卡片 / ProcessSteps / Expert / CTASection / LeadMagnet）
-- [x] 服务总览页（ServicesGrid + CTASection）
-- [x] 6 个服务详情页（gacc / label / ccc / cosmetics / ecommerce / brand）— 路由+组件结构已完成
-- [x] 套餐页（PackageCards + CTASection）
-- [x] FAQ 页（FAQAccordion + JSON-LD + CTASection）
-- [x] 关于页（Mission / Values / CTA）
+### 🟢 P2：SEO/GEO
+- [ ] T13. 验证 sitemap.xml 含全部 576 路由 + hreflang
+- [ ] T14. 验证 JSON-LD 结构化数据正确
+- [ ] T15. 添加 Open Graph image（og:image）
 
-### Phase 4: SEO + GEO
-- [x] 每页独立 metadata（title / description / OG / hreflang）— 所有页面 generateMetadata 已完成
-- [x] JSON-LD 结构化数据（OrganizationJsonLd 组件 + FAQ JSON-LD）
-- [x] sitemap.xml（scripts/generate-sitemap.mjs 已创建）
-- [x] robots.txt（public/robots.txt 已创建）
-- [ ] FAQ 语义化结构（dl/dt/dd）
+### 🟢 P2：上线准备
+- [ ] T16. 多语言页面抽样验证（/zh/ /ja/ /ar/ /ru/）
+- [ ] T17. 浏览器兼容性检查
+- [ ] T18. 性能优化（Lighthouse 评分）
 
-### Phase 5: 第三方表单集成
-- [ ] 嵌入第三方表单到 LeadMagnet
-- [ ] 各服务页 CTA 锚点到表单
+---
 
-### Phase 6: 构建 + 部署
-- [ ] npx next build → 确认 0 error
-- [ ] 校验 48 语言 key 完整性
-- [ ] git add / commit / push
-- [ ] 验证 Cloudflare Pages 构建成功
-- [ ] 多语言页面抽样验证
+## 执行记录
+
+| 时间 | 任务 | 状态 |
+|------|------|------|
+| 05-02 12:00 | 创建此任务清单 | ✅ |
+| | | |
+
+---
 
 ## 关键规则
 - ❌ 不展示价格
