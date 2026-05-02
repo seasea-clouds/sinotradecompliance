@@ -454,7 +454,9 @@
   "ThankYou": {
     "title": "Mulțumim!",
     "subtitle": "Am primit solicitarea ta. Echipa noastră te va contacta în 24 de ore.",
-    "back": "Înapoi la Acasă"
+    "back": "Înapoi la Acasă",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Common": {
     "whatsapp": "Scrie-ne pe WhatsApp",

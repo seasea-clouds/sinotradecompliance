@@ -31,7 +31,21 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 
 
 
-export default function ThankYou() {
+export default async function ThankYouPage({ params }: { params: Promise<{ locale: string }> }) {
+  const locale = (await params).locale;
+  const t = await getTranslations({ locale, namespace: 'ThankYou' });
+  const title = t('title');
+  const subtitle = t('subtitle');
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": `${title} — SinoTrade Compliance`,
+    "description": subtitle,
+    "url": `https://sinotradecompliance.com/${locale}/thank-you/`,
+    "publisher": {"@type": "Organization", "name": "SinoTrade Compliance"},
+  };
+
   return (
     <main className="flex flex-col min-h-screen">
       <Navbar />
@@ -45,17 +59,17 @@ export default function ThankYou() {
 
           {/* Title */}
           <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-primary-navy mb-4">
-            Thanks!
+            {title}
           </h1>
 
           {/* Message */}
           <p className="text-lg sm:text-xl text-text-muted mb-6 leading-relaxed">
-            The checklist is on its way to your inbox.
+            {subtitle}
           </p>
 
           {/* Secondary Message */}
           <p className="text-base text-text-charcoal mb-8 leading-relaxed">
-            While you wait, why not chat with David on WhatsApp for a free assessment?
+            {t('waitMsg')}
           </p>
 
           {/* WhatsApp CTA */}
@@ -66,33 +80,28 @@ export default function ThankYou() {
             className="inline-flex items-center gap-2 bg-accent-blue hover:bg-accent-blue/90 text-white font-bold py-4 px-8 rounded-md transition-all hover:shadow-lg"
           >
             <MessageCircle className="w-5 h-5" />
-            Chat with David on WhatsApp
+            {t('whatsappCta')}
           </a>
 
           {/* Back to Home */}
           <div className="mt-8">
             <a
-              href="/"
+              href={`/${locale}/`}
               className="text-primary-navy hover:text-primary-navy/80 font-medium transition-colors"
             >
-              ← Back to Home
+              ← {t('back')}
             </a>
           </div>
         </div>
       </section>
 
       <Footer />
-    
-      <script id="jsonld-thankyou" type="application/ld+json" dangerouslySetInnerHTML={{
-        __html: JSON.stringify({
-          "@context": "https://schema.org",
-          "@type": "WebPage",
-          "name": "ThankYou — SinoTrade Compliance",
-          "description": "WebPage page for SinoTrade Compliance",
-          "url": "https://sinotradecompliance.com/thank-you/",
-          "publisher": {"@type": "Organization", "name": "SinoTrade Compliance"},
-        })
-      }} />
+
+      <script
+        id="jsonld-thankyou"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
     </main>
   );
 }

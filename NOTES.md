@@ -2,6 +2,21 @@
 
 ## 巡检记录
 
+### 2026-05-02 18:20 UTC+8 第二十次巡检（第 3 轮组件交互审计）— 发现 7 个翻译缺口 + 1 个导航 bug
+- **执行任务**：无待执行任务（T0-T38 全部完成）
+- **组件交互（第 3 轮）**：
+  - ✅ Services 下拉菜单 — 6 项全部正常（GACC/Label/CCC/Cosmetics/Ecommerce/Brand）
+  - ✅ 语言切换器 — 48 种语言全部显示，切换到中文正常工作
+  - ✅ 表单提交 — LeadMagnet 表单成功提交并跳转到 ThankYou 页
+  - ✅ FAQ 手风琴 — 点击展开/收起正常
+  - ✅ CTA 按钮 — 所有 WhatsApp 链接正确（https://wa.me/message/HPPZ5X6XZSMLM1）
+  - ✅ 内部导航 — 首页→服务页→About 页→Blog 页全部正常
+  - ❌ **翻译缺口**：中文版本多个页面仍有英文文本未翻译（详见 TASK.md T39-T45）
+  - ❌ **导航 bug**：ThankYou 页 "← Back to Home" 链接指向 `/` 而非 `/zh/`，导致从中文版返回时跳转到英文首页
+- **线上验证**：en/zh 首页、GACC 页、About 页、Blog 页全部 HTTP 200 ✅
+- **构建**：632 pages, 0 error（上次构建）
+- **Git**：TASK.md 已更新（新增 T39-T45），待后续修复
+
 ### 2026-05-02 16:17 UTC+8 第十五次巡检 — 全站运行稳定，无新发现问题
 - **线上全量验证**：12 页面 × 9 种语言（en/zh/ja/ko/ar/ru/es/fr/de）全部 HTTP 200 ✅
 - **根路径 `/`**：HTTP 302 → `/en/`（Cloudflare Pages `_redirects` 生效）✅

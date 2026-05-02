@@ -454,7 +454,9 @@
   "ThankYou": {
     "title": "ধন্যবাদ!",
     "subtitle": "আমরা আপনার অনুরোধ পেয়েছি। আমাদের দল ২৪ ঘণ্টার মধ্যে আপনার সাথে যোগাযোগ করবে।",
-    "back": "হোমে ফিরে যান"
+    "back": "হোমে ফিরে যান",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Common": {
     "whatsapp": "WhatsApp-এ আমাদের সাথে যোগাযোগ করুন",

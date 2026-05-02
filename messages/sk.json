@@ -462,7 +462,9 @@
   "ThankYou": {
     "title": "Ďakujeme!",
     "subtitle": "Dostali sme vašu žiadosť. Náš tím vás bude kontaktovať do 24 hodín. Späť na domovskú stránkuĎakujeme! Dostali sme vašu žiadosť. Náš tím vás bude kontaktovať do 24 hodín. Späť na domovskú stránkuCan't load alternativesTry againĎakujeme! Dostali sme vašu žiadosť. Náš tím vás bude kontaktovať do 24 hodín. Späť na domovskú stránku",
-    "back": "Späť na úvod"
+    "back": "Späť na úvod",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Blog": {
     "title": "Insights & Compliance Guides",

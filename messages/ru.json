@@ -454,7 +454,9 @@
   "ThankYou": {
     "title": "Спасибо!",
     "subtitle": "Мы получили ваш запрос. Наша команда свяжется с вами в течение 24 часов.",
-    "back": "На главную"
+    "back": "На главную",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Common": {
     "whatsapp": "WhatsApp",

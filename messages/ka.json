@@ -462,7 +462,9 @@
   "ThankYou": {
     "title": "გმადლობთ!",
     "subtitle": "ჩვენ მივიღეთ თქვენი მოთხოვნა. ჩვენი გუნდი დაგიკავშირდებათ 24 საათის განმავლობაში.",
-    "back": "მთავარზე დაბრუნება"
+    "back": "მთავარზე დაბრუნება",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Blog": {
     "title": "Insights & Compliance Guides",

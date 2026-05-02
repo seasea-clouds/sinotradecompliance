@@ -454,7 +454,9 @@
   "ThankYou": {
     "title": "Bedankt!",
     "subtitle": "Wij hebben uw aanvraag ontvangen. Ons team neemt binnen 24 uur contact met u op.",
-    "back": "Terug naar Home"
+    "back": "Terug naar Home",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Common": {
     "whatsapp": "WhatsApp Ons",

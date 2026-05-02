@@ -462,7 +462,9 @@
   "ThankYou": {
     "title": "Terima kasih!",
     "subtitle": "Kami telah menerima permintaan anda. Pasukan kami akan menghubungi anda dalam masa 24 jam. Kembali ke Laman UtamaTerima kasih! Kami telah menerima permintaan anda. Pasukan kami akan menghubungi anda dalam masa 24 jam. Kembali ke Laman UtamaCan't load alternativesTry againTerima kasih! Kami telah menerima permintaan anda. Pasukan kami akan menghubungi anda dalam masa 24 jam. Kembali ke Laman Utama",
-    "back": "Kembali ke Utama"
+    "back": "Kembali ke Utama",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Blog": {
     "title": "Insights & Compliance Guides",

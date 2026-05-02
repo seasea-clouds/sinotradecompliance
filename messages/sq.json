@@ -454,7 +454,9 @@
   "ThankYou": {
     "title": "Faleminderit!",
     "subtitle": "Ne kemi marrë kërkesën tuaj. Ekipi ynë do t'ju kontaktojë brenda 24 orëve.",
-    "back": "Kthehuni në Kryefaqje"
+    "back": "Kthehuni në Kryefaqje",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Common": {
     "whatsapp": "Na shkruani në WhatsApp",

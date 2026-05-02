@@ -454,7 +454,9 @@
   "ThankYou": {
     "title": "Cảm ơn bạn!",
     "subtitle": "Chúng tôi đã nhận yêu cầu. Đội ngũ sẽ liên hệ trong vòng 24 giờ.",
-    "back": "Quay lại trang chủ"
+    "back": "Quay lại trang chủ",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Common": {
     "whatsapp": "Nhắn WhatsApp",

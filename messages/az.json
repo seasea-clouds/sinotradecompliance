@@ -454,7 +454,9 @@
   "ThankYou": {
     "title": "Təşəkkür Edirik!",
     "subtitle": "Sorğunuzu aldıq. Komandamız 24 saat ərzində sizinlə əlaqə saxlayacaq.",
-    "back": "Ana Səhifəyə Qayıt"
+    "back": "Ana Səhifəyə Qayıt",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Common": {
     "whatsapp": "WhatsApp ilə Yazın",

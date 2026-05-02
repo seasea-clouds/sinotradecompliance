@@ -164,6 +164,15 @@
 
 ---
 
+### 阶段五：组件交互巡检修复（第3轮巡检发现）
+- [ ] T39. 修复 zh.json 服务页未翻译 keys — GACC/Label/CCC/Cosmetics/Ecommerce/Brand 各页的 "What We Cover"、"How It Works"、"Why Choose Us" 标题仍为英文，需添加中文翻译
+- [ ] T40. 修复 zh.json 服务页 FAQ 未翻译 — 各服务页 FAQ 第5、6问（"Who needs to register" / "Can I ship products"）仍为英文
+- [ ] T41. 修复 zh.json 服务页 CTA 未翻译 — "Need This Service?" 标题和 "Get Free Assessment" 链接仍为英文
+- [ ] T42. 修复 zh.json ThankYou 页未翻译 — "Thanks!"、"The checklist is on its way..."、"While you wait..."、"← Back to Home" 仍为英文
+- [ ] T43. 修复 ThankYou 页 Back 链接 locale 丢失 — 从 /zh/thank-you/ 点返回跳转到 /en/ 而非 /zh/，需改为 locale-aware 链接
+- [ ] T44. 修复 zh.json About 页未翻译 — "Our Team" 标题、团队成员描述、"Trusted Partners" 标题、Partner tags（Legal/Audit/Logistics/Manufacturing）仍为英文
+- [ ] T45. 修复 zh.json Blog 页未翻译 — "Insights & Compliance Guides"、description、"← Back to Home"、"No posts yet" 仍为英文
+
 ## 新需求任务（2026-05-02）
 
 ### 阶段一：表单简化（只留邮箱）

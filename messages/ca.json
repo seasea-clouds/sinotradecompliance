@@ -454,7 +454,9 @@
   "ThankYou": {
     "title": "Gràcies!",
     "subtitle": "Hem rebut la vostra sol·licitud. El nostre equip es posarà en contacte amb vosaltres en 24 hores.",
-    "back": "Tornar a l'Inici"
+    "back": "Tornar a l'Inici",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Common": {
     "whatsapp": "Contacteu-nos per WhatsApp",

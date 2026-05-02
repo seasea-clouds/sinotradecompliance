@@ -454,7 +454,9 @@
   "ThankYou": {
     "title": "תודה רבה!",
     "subtitle": "קיבלנו את הבקשה שלכם. הצוות שלנו ייצור איתכם קשר תוך 24 שעות.",
-    "back": "חזרה לדף הבית"
+    "back": "חזרה לדף הבית",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Common": {
     "whatsapp": "צרו קשר ב-WhatsApp",

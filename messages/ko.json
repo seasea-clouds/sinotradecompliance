@@ -454,7 +454,9 @@
   "ThankYou": {
     "title": "감사합니다!",
     "subtitle": "요청을 받았습니다. 저희 팀이 24시간 이내에 연락드리겠습니다.",
-    "back": "홈으로 돌아가기"
+    "back": "홈으로 돌아가기",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Common": {
     "whatsapp": "WhatsApp",

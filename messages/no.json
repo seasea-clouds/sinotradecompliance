@@ -462,7 +462,9 @@
   "ThankYou": {
     "title": "Takk!",
     "subtitle": "Vi har mottatt forespørselen din. Teamet vårt vil kontakte deg innen 24 timer. Tilbake til forsidenTakk! Vi har mottatt forespørselen din. Teamet vårt vil kontakte deg innen 24 timer. Tilbake til forsidenCan't load alternativesTry againTakk! Vi har mottatt forespørselen din. Teamet vårt vil kontakte deg innen 24 timer. Tilbake til forsiden",
-    "back": "Tilbake til startsiden"
+    "back": "Tilbake til startsiden",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Blog": {
     "title": "Insights & Compliance Guides",

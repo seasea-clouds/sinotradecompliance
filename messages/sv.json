@@ -454,7 +454,9 @@
   "ThankYou": {
     "title": "Tack!",
     "subtitle": "Vi har tagit emot din förfrågan. Vårt team kommer att kontakta dig inom 24 timmar.",
-    "back": "Tillbaka till startsidan"
+    "back": "Tillbaka till startsidan",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Common": {
     "whatsapp": "WhatsApp oss",

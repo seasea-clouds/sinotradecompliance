@@ -130,10 +130,10 @@
     "faq3a": "关键文件包括：营业执照、生产设施信息、产品成分清单、加工流程图和质量管理体系文件。",
     "faq4q": "注册永久有效吗？",
     "faq4a": "不是，GACC 注册有效期为 5 年。需在到期前 6 个月提交续期申请。",
-    "faq5a": "The overseas manufacturing facility must be registered. If you manufacture products at multiple facilities, each facility needs its own GACC registration. We can handle registrations for multiple sites under one account.",
-    "faq5q": "Who needs to register — the manufacturer or the exporter?",
-    "faq6a": "No. Since January 1, 2022, Chinese customs will reject any food imports without a valid GACC registration number. Registration must be completed before your first shipment.",
-    "faq6q": "Can I ship products to China before registration is complete?"
+    "faq5a": "需要注册的是海外生产设施。如果您在多个工厂生产产品，每个工厂都需要自己的 GACC 注册。我们可以在一个账户下处理多个站点的注册。",
+    "faq5q": "谁需要注册——制造商还是出口商？",
+    "faq6a": "不可以。自2022年1月1日起，中国海关将拒绝任何没有有效 GACC 注册号的食品进口。注册必须在您的第一批货物发出之前完成。",
+    "faq6q": "注册完成前我可以先把产品发往中国吗？"
   },
   "ServiceLabel": {
     "heroTitle": "中文标签合规",
@@ -153,10 +153,10 @@
     "faq3a": "不合规的标签可能导致海关拒绝、产品扣押、罚款或销毁。",
     "faq4q": "你们也设计标签吗？",
     "faq4a": "是的，我们提供完整的标签服务：合规审查、中文标签设计和通关支持。",
-    "faq5a": "Yes, each SKU requires its own compliant label as ingredients, nutrition facts, and product specifications vary. We review and design labels for each of your SKUs individually.",
-    "faq5q": "Do I need separate labels for each product SKU?",
-    "faq6a": "Prepackaged food labels must comply with GB 7718-2025 (General Standard for Prepackaged Food Labels) and GB 28050-2025 (Nutrition Labeling Standard). These cover product naming, ingredient lists, nutrition panels, allergen declarations, and more.",
-    "faq6q": "What standards do labels need to comply with?"
+    "faq5a": "是的，每个 SKU 都需要自己的合规标签，因为配料、营养成分表和产品规格各不相同。我们会逐一审核和设计您每个 SKU 的标签。",
+    "faq5q": "每个产品 SKU 都需要单独的标签吗？",
+    "faq6a": "预包装食品标签必须符合 GB 7718-2025《预包装食品标签通则》和 GB 28050-2025《预包装食品营养标签通则》。这些标准涵盖产品命名、配料表、营养成分表、过敏原声明等内容。",
+    "faq6q": "标签需要符合哪些标准？"
   },
   "ServiceCcc": {
     "heroTitle": "CCC 认证",
@@ -176,10 +176,10 @@
     "faq3a": "CCC 流程通常需要 4-8 个月，包括工厂审核、产品测试和证书审批。",
     "faq4q": "可以从海外完成 CCC 认证吗？",
     "faq4a": "可以，但需要与中国检测实验室和认证机构协调。",
-    "faq5a": "Yes, certain product categories qualify for self-declaration of conformity (SDOC) instead of full certification. We assess your product to determine if SDOC applies, which can significantly reduce time and cost.",
-    "faq5q": "Is there a self-declaration option for CCC?",
-    "faq6a": "CCC certificates require annual factory inspections to maintain validity. We provide ongoing compliance monitoring and prepare your facility for surveillance audits to ensure uninterrupted market access.",
-    "faq6q": "What happens after I get the CCC certificate?"
+    "faq5a": "是的，某些产品类别符合自我声明（SDOC）资格，无需完整认证。我们会评估您的产品是否符合 SDOC 条件，这可以显著节省时间和成本。",
+    "faq5q": "CCC 有自我声明选项吗？",
+    "faq6a": "CCC 证书需要年度工厂检查以保持有效性。我们提供持续的合规监测，并帮助您的工厂准备监督审核，确保市场准入不受影响。",
+    "faq6q": "获得 CCC 证书后还需要做什么？"
   },
   "ServiceCosmetics": {
     "heroTitle": "化妆品备案（NMPA）",
@@ -199,10 +199,10 @@
     "faq3a": "是的，所有进口化妆品必须指定一名中国境内责任人。",
     "faq4q": "可以通过跨境电商无需 NMPA 销售化妆品吗？",
     "faq4a": "是的，跨境电商（CBEC）渠道允许化妆品在无需 NMPA 备案的情况下销售，因为这些渠道被视为个人使用进口。",
-    "faq5a": "China has relaxed animal testing requirements for many ordinary imported cosmetics since 2021. Products manufactured under good manufacturing practices (GMP) with a safety assessment may be exempt. We evaluate your products for exemption eligibility.",
-    "faq5q": "Does animal testing apply to imported cosmetics?",
-    "faq6a": "Minor formulation changes may only require a notification update. Significant changes — especially to active ingredients — may require re-filing or a new registration. We advise on the regulatory impact before you make changes.",
-    "faq6q": "Can I update my product formulation after NMPA filing?"
+    "faq5a": "自2021年以来，中国已放宽对许多进口普通化妆品的动物测试要求。在良好生产规范（GMP）下生产且具有安全评估的产品可能获得豁免。我们会评估您的产品是否符合豁免条件。",
+    "faq5q": "进口化妆品需要进行动物测试吗？",
+    "faq6a": "小幅配方变更可能只需要更新通知。重大变更——尤其是活性成分的变更——可能需要重新备案或重新注册。我们会在您做出变更前告知监管影响。",
+    "faq6q": "NMPA 备案后可以修改产品配方吗？"
   },
   "ServiceEcommerce": {
     "heroTitle": "跨境电商",
@@ -222,10 +222,10 @@
     "faq3a": "平台注册通常需要 2-4 周。店铺搭建、产品上架和运营设置可能需要额外 4-8 周。",
     "faq4q": "跨境产品需要中文标签吗？",
     "faq4a": "跨境电商产品通常免于中文标签要求，因为它们被视为个人使用进口。",
-    "faq5a": "Yes, cross-border e-commerce platforms allow overseas companies to sell directly to Chinese consumers without establishing a local entity. We guide you through platform registration as an overseas merchant.",
-    "faq5q": "Can I sell on Chinese platforms without a local company?",
-    "faq6a": "Alipay and WeChat Pay dominate the Chinese e-commerce market. Most cross-border platforms handle payment processing automatically, but we ensure your store is optimized for Chinese consumer preferences.",
-    "faq6q": "What payment methods do Chinese consumers prefer?"
+    "faq5a": "可以。跨境电商平台允许海外公司直接向中国消费者销售，无需设立本地实体。我们会指导您完成海外商家的平台注册流程。",
+    "faq5q": "没有本地公司可以在中国平台上销售吗？",
+    "faq6a": "支付宝和微信支付占据中国电商市场主导地位。大多数跨境电商平台会自动处理支付流程，但我们会确保您的店铺针对中国消费者的偏好进行了优化。",
+    "faq6q": "中国消费者更喜欢哪些支付方式？"
   },
   "ServiceBrand": {
     "heroTitle": "品牌保护",
@@ -245,10 +245,10 @@
     "faq3a": "马德里体系允许您将现有商标注册扩展到多个国家，包括中国。这可以简化流程并降低成本。",
     "faq4q": "如何防范假冒产品？",
     "faq4a": "我们提供全面的品牌保护：商标注册、海关知识产权备案、广告合规审查和持续的侵权监控。",
-    "faq5a": "No, trademark rights are territorial. A US or EU trademark registration provides no protection in China. You must file separately with China's CNIPA or extend via the Madrid System. We recommend direct CNIPA filing for the strongest protection.",
-    "faq5q": "Can I use my existing US/EU trademark in China?",
-    "faq6a": "After registration, we provide ongoing trademark monitoring services that scan for conflicting applications, counterfeit products on e-commerce platforms, and unauthorized use of your brand name in advertising.",
-    "faq6q": "How do I monitor for trademark infringement in China?"
+    "faq5a": "不可以。商标权具有地域性。美国或欧盟的商标注册在中国不提供任何保护。您必须单独向中国国家知识产权局（CNIPA）申请，或通过马德里体系延伸。我们建议直接向 CNIPA 申请以获得最强保护。",
+    "faq5q": "我可以使用已有的美国/欧盟商标在中国使用吗？",
+    "faq6a": "注册后，我们提供持续的商标监控服务，扫描冲突申请、电商平台上的假冒产品以及广告中未经授权使用您品牌名称的行为。",
+    "faq6q": "如何监控中国的商标侵权？"
   },
   "ServiceCommon": {
     "whoTitle": "适用对象",
@@ -407,19 +407,19 @@
     "subtitle": "值得信赖的中国进口法规合规合作伙伴",
     "missionText": "我们的使命是帮助国际品牌顺利进入中国市场，确保每一步都符合中国法规要求。从 GACC 注册到品牌保护，我们提供端到端的合规解决方案。",
     "values": "专业,经验,透明,高效",
-    "partnersSubtitle": "We work with accredited laboratories, certification bodies, and legal partners across China.",
-    "partnersTitle": "Trusted Partners",
-    "teamMember1Desc": "5+ years specializing in GACC Decree 248/249 registrations across all 18 food categories.",
+    "partnersSubtitle": "我们与中国各地的认可实验室、认证机构和法律合作伙伴携手合作。",
+    "partnersTitle": "值得信赖的合作伙伴",
+    "teamMember1Desc": "5 年以上 GACC 248/249 号令注册经验，覆盖全部 18 大食品类别。",
     "teamMember1Name": "Sarah Chen",
-    "teamMember1Role": "GACC Registration Specialist",
-    "teamMember2Desc": "Expert in CCC certification processes and CNCA-accredited laboratory coordination.",
+    "teamMember1Role": "GACC 注册专员",
+    "teamMember2Desc": "精通 CCC 认证流程及 CNCA 认可实验室协调。",
     "teamMember2Name": "Mike Wang",
-    "teamMember2Role": "Certification & Testing Coordinator",
-    "teamMember3Desc": "Specializes in NMPA filings for both ordinary and special-use cosmetics.",
+    "teamMember2Role": "认证与检测协调员",
+    "teamMember3Desc": "专注于普通和特殊用途化妆品的 NMPA 备案。",
     "teamMember3Name": "Lisa Liu",
-    "teamMember3Role": "Cosmetics Regulatory Specialist",
-    "teamSubtitle": "A dedicated team of regulatory professionals committed to your success in China.",
-    "teamTitle": "Our Team"
+    "teamMember3Role": "化妆品法规专员",
+    "teamSubtitle": "一支致力于帮助您在中国市场取得成功的专业法规团队。",
+    "teamTitle": "我们的团队"
   },
   "Expert": {
     "title": "认识您的中国专家",
@@ -454,7 +454,9 @@
   "ThankYou": {
     "title": "感谢您的关注！",
     "subtitle": "我们已收到您的请求。我们的团队将在 24 小时内与您联系。",
-    "back": "返回首页"
+    "back": "返回首页",
+    "waitMsg": "等待期间，不妨通过 WhatsApp 与 David 聊聊，获取免费评估？",
+    "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Common": {
     "whatsapp": "WhatsApp 联系我们",
@@ -465,19 +467,19 @@
     "expertTeam": "专家团队"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
+    "title": "洞察与合规指南",
+    "subtitle": "关于中国进口法规、市场准入和合规最佳实践的专业文章。",
+    "readMore": "阅读全文",
+    "categories": "分类",
+    "all": "全部",
+    "backToBlog": "返回博客",
+    "backToHome": "返回首页",
+    "pagination": "第",
+    "noPosts": "暂无文章。",
+    "publishedOn": "发布于",
     "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "ctaTitle": "需要中国合规方面的帮助？",
+    "ctaSubtitle": "从我们的专家团队获取免费合规评估。",
+    "ctaButton": "获取免费评估"
   }
 }
