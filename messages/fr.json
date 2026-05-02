@@ -13,7 +13,7 @@
       "brand": "Protection de Marque"
     },
     "packages": "Forfaits",
-    "faq": "FAQ",
+    "faq": "Questions Fréquentes",
     "contact": "Contactez-nous"
   },
   "Home": {
@@ -46,21 +46,21 @@
     "ctaTitle": "Prêt à Entrer en Chine ?",
     "ctaSubtitle": "Obtenez une évaluation de conformité gratuite pour vos produits dès aujourd'hui.",
     "ctaButton": "Obtenir une Évaluation Gratuite",
-    "processStep5Title": "Quality Assurance",
-    "processStep5Desc": "We verify all documentation and certifications meet Chinese regulatory standards.",
-    "processStep6Title": "Market Entry Support",
-    "processStep6Desc": "Ongoing compliance monitoring and regulatory updates to keep your business running smoothly.",
+    "processStep5Title": "Assurance Qualité",
+    "processStep5Desc": "Nous vérifions que toute la documentation et les certifications respectent les normes réglementaires chinoises.",
+    "processStep6Title": "Support d'Entrée sur le Marché",
+    "processStep6Desc": "Surveillance continue de la conformité et mises à jour réglementaires pour assurer le bon fonctionnement de votre entreprise.",
     "title": "Le Passeport de Votre Marque pour la Chine — De la Conformité au Commerce",
     "subtitle": "Services réglementaires d'importation complets pour l'alimentation, les cosmétiques, l'électronique et plus encore.",
-    "faqPreviewTitle": "Frequently Asked Questions",
-    "faqPreviewSubtitle": "Quick answers to common questions about entering the Chinese market.",
-    "faqPreviewQ1": "What is GACC Decree 248?",
-    "faqPreviewA1": "GACC Decree 248 requires all overseas food manufacturers to register with China's General Administration of Customs before exporting food products to China.",
-    "faqPreviewQ2": "How long does registration take?",
-    "faqPreviewA2": "Registration typically takes 2-4 weeks depending on the product category and completeness of documentation.",
-    "faqPreviewQ3": "Is the registration valid forever?",
-    "faqPreviewA3": "No, GACC registration is valid for 5 years. Renewal must be submitted 6 months before expiration.",
-    "faqPreviewLink": "View all questions →"
+    "faqPreviewTitle": "Questions Fréquentes",
+    "faqPreviewSubtitle": "Réponses rapides aux questions courantes sur l'entrée sur le marché chinois",
+    "faqPreviewQ1": "Qu'est-ce que le Décret GACC 248 ?",
+    "faqPreviewA1": "Le Décret GACC 248 exige que tous les fabricants de produits alimentaires étrangers s'enregistrent auprès de l'Administration Générale des Douanes de Chine avant d'exporter des produits alimentaires vers la Chine.",
+    "faqPreviewQ2": "Combien de temps prend l'enregistrement ?",
+    "faqPreviewA2": "L'enregistrement prend généralement 2 à 4 semaines selon la catégorie de produit et l'exhaustivité de la documentation.",
+    "faqPreviewQ3": "L'enregistrement est-il valable indéfiniment ?",
+    "faqPreviewA3": "Non, l'enregistrement GACC est valable 5 ans. Le renouvellement doit être soumis 6 mois avant l'expiration.",
+    "faqPreviewLink": "Voir toutes les questions →"
   },
   "Services": {
     "heroTitle": "Nos Services",
