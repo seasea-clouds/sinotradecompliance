@@ -264,7 +264,7 @@
 - **部署状态：** 已推送到 main，等待 Cloudflare Pages 部署后在线验证
 
 ### 阶段十四：第 17 轮深度巡检发现（2026-05-03）
-- [ ] T68. 修复 6 种语言首页 ServiceCard + SocialProof 英文残留 — `*Industries`（6 keys）、`*PainPoint`（6 keys）在 zh/sv/sw/ur/vi/sr 中为英文原文；`socialProofTitle`+`socialProofSubtitle` 在 zh/sv/sw/ur/vi 中为英文；`stat*Label`（4 keys）在 zh/sv/sw/ur/vi 中为英文。共约 80+ 条翻译需修复。优先级：P1。
+- [x] T68. 修复 7 种语言 ServiceCard + SocialProof 英文残留 — Services namespace `*Industries`+`*PainPoint`（12 keys）修复 zh/sv/sw/ur/vi/sr；Home namespace `socialProofTitle`+`socialProofSubtitle`+`stat*Label`（6 keys）修复 zh/sv/sw/ur/vi；fi 修复 `stat4Label`。共 91 keys，构建 867 pages 0 error。✅ commit 422885e
 
 ## T54+T55 修复 (2026-05-03)
 - T54: 博客页 hreflang — 根因 `output: 'export'` 不渲染 `alternates.languages` → 方案：`scripts/inject-hreflang.py` post-build 注入 234 HTML 文件，每页 48 个 `<link rel="alternate">`

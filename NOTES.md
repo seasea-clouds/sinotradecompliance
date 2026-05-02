@@ -21,8 +21,12 @@
     - `stat*Label`（4 keys）：zh/sv/sw/ur/vi 为英文（"Brands Served"/"Countries" 等）
     - 根因：T23 文案丰富化时新增的 Industries/PainPoint/SocialProof/statLabel keys 在批量翻译中遗漏了这些语言
     - 影响：中文用户访问首页时，服务卡片提示语、社交证明区、统计数据标签全部为英文
-- **Git**：1 commit 已推送 (bfe9a2a T67 清理死 keys)
-- **结论**：发现 6 种语言翻译残留问题，已创建 T68
+  - **T68 修复**：修复 7 种语言（zh/sv/sw/ur/vi/sr/fi）共 91 个翻译 key
+    - Services namespace：`*Industries`+`*PainPoint`（12 keys）修复 zh/sv/sw/ur/vi/sr
+    - Home namespace：`socialProofTitle`+`socialProofSubtitle`+`stat*Label`（6 keys）修复 zh/sv/sw/ur/vi
+    - fi：修复 `stat4Label`（1 key）
+    - 构建验证：867 pages, 0 error，48 语言各 439 keys 完全一致
+    - Commit: 422885e
 
 ### 2026-05-03 05:30 UTC+8 第 16 次巡检（第 16 轮组合深度检查）— 全站稳定，全部任务完成
 - **执行任务**：T58 ✅（et/ 目录已清理）, T62 ✅（PROJECT.md 已包含博客描述）, T63 ✅（巡检协议已完善）, T64 ✅（packages 空白为正常留白）
