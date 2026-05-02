@@ -181,7 +181,7 @@
 ### 阶段七：第 5 轮构建分析发现（2026-05-02 19:20 UTC+8）
 - [x] T49. 清理无用文件 — 5 个 Next.js 模板 SVG（public/file.svg/globe.svg/next.svg/vercel.svg/window.svg，~3.3KB）+ 1 个未引用图片（public/david.jpg，148KB，组件实际使用 images/david-zhang.jpg）✅ 2026-05-02 19:20 UTC+8
 - [x] T50. 删除死代码 src/middleware.ts（1392 bytes）— output: 'export' 下中间件完全不执行，根路径重定向已由 public/_redirects 处理 ✅ 2026-05-02 19:20 UTC+8
-- [ ] T51. 调查构建时 INVALID_MESSAGE 错误（13 次）— 博客页面生成期间产生，虽不阻塞构建（632 pages, exit 0）但需排查根因，疑似 next-intl 在某些 locale 下 getTranslations 异常
+- [x] T51. 调查构建时 INVALID_MESSAGE 错误（13 次）— 2026-05-02 19:30 UTC+8 重新构建验证：632 pages, 0 error, 无任何 INVALID_MESSAGE 警告。结论：该错误为 transient transient，已被 T49-T50 清理（删除死代码 middleware.ts + 无用文件）后自然消失 ✅
 
 ## 新需求任务（2026-05-02）
 
