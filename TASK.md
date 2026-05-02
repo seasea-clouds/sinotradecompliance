@@ -178,6 +178,11 @@
 - [x] T47. 修复 47 种语言各 8 个 FAQ 新增 keys 未翻译 — generalQ11/A11/labelQ5/Q5a/ecommerceQ5/A5/brandQ5/Q5a/cosmeticsA2/A3
 - [x] T48. 修复 46 种语言（非 en/zh）Blog namespace 全部 14 keys 未翻译 — Blog title/subtitle/readMore 等仍为英文
 
+### 阶段七：第 5 轮构建分析发现（2026-05-02 19:20 UTC+8）
+- [x] T49. 清理无用文件 — 5 个 Next.js 模板 SVG（public/file.svg/globe.svg/next.svg/vercel.svg/window.svg，~3.3KB）+ 1 个未引用图片（public/david.jpg，148KB，组件实际使用 images/david-zhang.jpg）✅ 2026-05-02 19:20 UTC+8
+- [x] T50. 删除死代码 src/middleware.ts（1392 bytes）— output: 'export' 下中间件完全不执行，根路径重定向已由 public/_redirects 处理 ✅ 2026-05-02 19:20 UTC+8
+- [ ] T51. 调查构建时 INVALID_MESSAGE 错误（13 次）— 博客页面生成期间产生，虽不阻塞构建（632 pages, exit 0）但需排查根因，疑似 next-intl 在某些 locale 下 getTranslations 异常
+
 ## 新需求任务（2026-05-02）
 
 ### 阶段一：表单简化（只留邮箱）

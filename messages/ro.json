@@ -467,19 +467,19 @@
     "expertTeam": "Echipă de experți"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
+    "title": "Informații și ghiduri de conformitate",
+    "subtitle": "Articole de experți despre reglementările de import din China, intrarea pe piață și cele mai bune practici de conformitate.",
+    "readMore": "Citeşte mai mult",
+    "categories": "Categorii",
+    "all": "Toate",
+    "backToBlog": "Înapoi la Blog",
+    "backToHome": "Înapoi la Acasă",
+    "pagination": "Pagină",
+    "noPosts": "Nu au fost găsite postări.",
+    "publishedOn": "Publicat pe",
     "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "ctaTitle": "Aveți nevoie de ajutor pentru conformitatea cu China?",
+    "ctaSubtitle": "Obțineți o evaluare gratuită a conformității de la echipa noastră de experți.",
+    "ctaButton": "Obțineți o evaluare gratuită"
   }
 }

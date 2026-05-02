@@ -467,19 +467,19 @@
     "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
-    "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "title": "විදසුන් සහ අනුකූලතා මාර්ගෝපදේශ",
+    "subtitle": "චීනය ආනයන රෙගුලාසි, වෙළඳපල ප්‍රවේශය සහ අනුකූලතා හොඳම භාවිතයන් පිළිබඳ විශේෂඥ ලිපි.",
+    "readMore": "තවත් කියවන්න",
+    "categories": "වර්ග",
+    "all": "සියල්ල",
+    "backToBlog": "බ්ලොගය වෙත ආපසු",
+    "backToHome": "ආපසු නිවසට",
+    "pagination": "පිටුව",
+    "noPosts": "පළ කිරීම් හමු නොවිණි.",
+    "publishedOn": "ප්‍රකාශයට පත් කරන ලදී",
+    "author": "ඩේවිඩ් ෂැං",
+    "ctaTitle": "චීනයේ අනුකූලතාවයට උදව් අවශ්‍යද?",
+    "ctaSubtitle": "අපගේ විශේෂඥ කණ්ඩායමෙන් නොමිලේ අනුකූලතා තක්සේරුවක් ලබා ගන්න.",
+    "ctaButton": "නොමිලේ තක්සේරුවක් ලබා ගන්න"
   }
 }

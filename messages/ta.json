@@ -467,19 +467,19 @@
     "whatsappCta": "在 WhatsApp 上与 David 聊天"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
-    "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "title": "நுண்ணறிவு மற்றும் இணக்க வழிகாட்டிகள்",
+    "subtitle": "சீனா இறக்குமதி விதிமுறைகள், சந்தை நுழைவு மற்றும் இணக்கமான சிறந்த நடைமுறைகள் பற்றிய நிபுணர் கட்டுரைகள்.",
+    "readMore": "மேலும் படிக்க",
+    "categories": "வகைகள்",
+    "all": "அனைத்து",
+    "backToBlog": "வலைப்பதிவுக்குத் திரும்பு",
+    "backToHome": "முகப்புக்குத் திரும்பு",
+    "pagination": "பக்கம்",
+    "noPosts": "இடுகைகள் இல்லை.",
+    "publishedOn": "அன்று வெளியிடப்பட்டது",
+    "author": "டேவிட் ஜாங்",
+    "ctaTitle": "சீனா இணக்கத்துடன் உதவி தேவையா?",
+    "ctaSubtitle": "எங்கள் நிபுணர் குழுவிடமிருந்து இலவச இணக்க மதிப்பீட்டைப் பெறுங்கள்.",
+    "ctaButton": "இலவச மதிப்பீட்டைப் பெறுங்கள்"
   }
 }

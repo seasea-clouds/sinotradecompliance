@@ -347,8 +347,8 @@
     "cccQ3a": "No, CCC certificates are tied to the specific manufacturing facility. If you change manufacturers, a new CCC application is required. We can assist with transferring or re-applying for certification.",
     "cccQ4": "What is the cost of CCC certification?",
     "cccQ4a": "CCC costs vary by product category, testing requirements, and factory audit scope. We provide a detailed cost estimate after assessing your specific product. Our fixed-fee structure means no surprises.",
-    "cosmeticsA2": "A境内责任人 (domestic responsible person) is a China-based entity legally responsible for your product's quality and safety. They handle NMPA communications, adverse event reporting, and regulatory compliance. We can serve as your responsible agent.",
-    "cosmeticsA3": "Yes, NMPA requires safety and efficacy testing at accredited Chinese laboratories. Some foreign test data may be accepted for certain assessments, but core safety testing must be conducted in China.",
+    "cosmeticsA2": "A境内责任人 (mtu anayewajibika nyumbani) ni huluki yenye makao yake Uchina inayowajibika kisheria kwa ubora na usalama wa bidhaa yako. Wanashughulikia mawasiliano ya NMPA, kuripoti matukio mabaya, na kufuata kanuni. Tunaweza kutumika kama wakala wako anayewajibika.",
+    "cosmeticsA3": "Ndiyo, NMPA inahitaji upimaji wa usalama na ufanisi katika maabara za Kichina zilizoidhinishwa. Baadhi ya data ya majaribio ya kigeni inaweza kukubaliwa kwa tathmini fulani, lakini majaribio ya msingi ya usalama lazima yafanywe nchini Uchina.",
     "cosmeticsQ2": "What is a Chinese responsible agent?",
     "cosmeticsQ3": "Do I need to test my products in China?",
     "ecommerceA3": "Most cross-border platforms provide built-in customer service tools and return handling. We advise on setting up Chinese-language customer service workflows and managing returns through bonded warehouses.",
@@ -467,19 +467,19 @@
     "expertTeam": "Timu ya Wataalamu"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
+    "title": "Maarifa na Miongozo ya Uzingatiaji",
+    "subtitle": "Makala ya kitaalamu kuhusu kanuni za uingizaji wa China, kuingia sokoni, na kanuni bora za kufuata.",
+    "readMore": "Soma Zaidi",
+    "categories": "Kategoria",
+    "all": "Wote",
+    "backToBlog": "Rudi kwenye Blogu",
+    "backToHome": "Rudi Nyumbani",
+    "pagination": "Ukurasa",
+    "noPosts": "Hakuna machapisho yaliyopatikana.",
+    "publishedOn": "Imechapishwa",
     "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "ctaTitle": "Je, unahitaji Usaidizi wa Kuzingatia Uchina?",
+    "ctaSubtitle": "Pata tathmini ya kufuata bila malipo kutoka kwa timu yetu ya wataalam.",
+    "ctaButton": "Pata Tathmini ya Bure"
   }
 }

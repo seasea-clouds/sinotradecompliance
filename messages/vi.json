@@ -347,8 +347,8 @@
     "cccQ3a": "No, CCC certificates are tied to the specific manufacturing facility. If you change manufacturers, a new CCC application is required. We can assist with transferring or re-applying for certification.",
     "cccQ4": "What is the cost of CCC certification?",
     "cccQ4a": "CCC costs vary by product category, testing requirements, and factory audit scope. We provide a detailed cost estimate after assessing your specific product. Our fixed-fee structure means no surprises.",
-    "cosmeticsA2": "A境内责任人 (domestic responsible person) is a China-based entity legally responsible for your product's quality and safety. They handle NMPA communications, adverse event reporting, and regulatory compliance. We can serve as your responsible agent.",
-    "cosmeticsA3": "Yes, NMPA requires safety and efficacy testing at accredited Chinese laboratories. Some foreign test data may be accepted for certain assessments, but core safety testing must be conducted in China.",
+    "cosmeticsA2": "A境内责任人 (người chịu trách nhiệm trong nước) là một tổ chức có trụ sở tại Trung Quốc chịu trách nhiệm pháp lý về chất lượng và an toàn sản phẩm của bạn. Họ xử lý thông tin liên lạc NMPA, báo cáo sự kiện bất lợi và tuân thủ quy định. Chúng tôi có thể phục vụ như là đại lý chịu trách nhiệm của bạn.",
+    "cosmeticsA3": "Có, NMPA yêu cầu thử nghiệm tính an toàn và hiệu quả tại các phòng thí nghiệm được Trung Quốc công nhận. Một số dữ liệu thử nghiệm nước ngoài có thể được chấp nhận cho một số đánh giá nhất định, nhưng thử nghiệm an toàn cốt lõi phải được tiến hành ở Trung Quốc.",
     "cosmeticsQ2": "What is a Chinese responsible agent?",
     "cosmeticsQ3": "Do I need to test my products in China?",
     "ecommerceA3": "Most cross-border platforms provide built-in customer service tools and return handling. We advise on setting up Chinese-language customer service workflows and managing returns through bonded warehouses.",
@@ -467,19 +467,19 @@
     "expertTeam": "Đội ngũ chuyên gia"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
+    "title": "Hướng dẫn chuyên sâu và tuân thủ",
+    "subtitle": "Các bài viết chuyên môn về quy định nhập khẩu, gia nhập thị trường và các biện pháp tuân thủ tốt nhất của Trung Quốc.",
+    "readMore": "Đọc thêm",
+    "categories": "Thể loại",
+    "all": "Tất cả",
+    "backToBlog": "Quay lại Blog",
+    "backToHome": "Quay lại trang chủ",
+    "pagination": "Trang",
+    "noPosts": "Không tìm thấy bài viết nào",
+    "publishedOn": "Xuất bản vào",
     "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "ctaTitle": "Cần trợ giúp về việc tuân thủ Trung Quốc?",
+    "ctaSubtitle": "Nhận đánh giá tuân thủ miễn phí từ nhóm chuyên gia của chúng tôi.",
+    "ctaButton": "Nhận đánh giá miễn phí"
   }
 }

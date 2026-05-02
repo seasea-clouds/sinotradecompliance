@@ -467,19 +467,19 @@
     "expertTeam": "Strokovna ekipa"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
+    "title": "Vodniki po vpogledih in skladnosti",
+    "subtitle": "Strokovni članki o kitajskih uvoznih predpisih, vstopu na trg in najboljših praksah skladnosti.",
+    "readMore": "Preberi več",
+    "categories": "kategorije",
+    "all": "Vse",
+    "backToBlog": "Nazaj na blog",
+    "backToHome": "Nazaj na dom",
+    "pagination": "Stran",
+    "noPosts": "Ni objav.",
+    "publishedOn": "Objavljeno dne",
     "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "ctaTitle": "Potrebujete pomoč pri skladnosti s predpisi na Kitajskem?",
+    "ctaSubtitle": "Zagotovite si brezplačno oceno skladnosti naše strokovne ekipe.",
+    "ctaButton": "Pridobite brezplačno oceno"
   }
 }

@@ -467,19 +467,19 @@
     "expertTeam": "Stručni Tim"
   },
   "Blog": {
-    "title": "Insights & Compliance Guides",
-    "subtitle": "Expert articles on China import regulations, market entry, and compliance best practices.",
-    "readMore": "Read More",
-    "categories": "Categories",
-    "all": "All",
-    "backToBlog": "Back to Blog",
-    "backToHome": "Back to Home",
-    "pagination": "Page",
-    "noPosts": "No posts found.",
-    "publishedOn": "Published on",
-    "author": "David Zhang",
-    "ctaTitle": "Need Help with China Compliance?",
-    "ctaSubtitle": "Get a free compliance assessment from our expert team.",
-    "ctaButton": "Get Free Assessment"
+    "title": "Водичи за увид и усклађеност",
+    "subtitle": "Стручни чланци о прописима о увозу у Кини, уласку на тржиште и најбољим праксама усклађености.",
+    "readMore": "Прочитајте више",
+    "categories": "Категорије",
+    "all": "Све",
+    "backToBlog": "Назад на блог",
+    "backToHome": "Повратак кући",
+    "pagination": "Паге",
+    "noPosts": "Нема пронађених постова.",
+    "publishedOn": "Објављено на",
+    "author": "Давид Зханг",
+    "ctaTitle": "Потребна вам је помоћ око усаглашености са Кином?",
+    "ctaSubtitle": "Добијте бесплатну процену усклађености од нашег стручног тима.",
+    "ctaButton": "Добијте бесплатну процену"
   }
 }
