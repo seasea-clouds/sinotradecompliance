@@ -194,8 +194,8 @@
 - [x] T53. 5 篇博客 MDX 文章翻译到 47 种语言（英文已有）— 235 个翻译文件，保持 MDX frontmatter 和格式不变，只翻译正文内容 ✅ 2026-05-03 — 47×5=235 文件，构建 867 pages 0 error，修复 gray-matter Date 解析 bug（blog.ts）
 
 ### 阶段十：第 12 轮深度巡检发现（2026-05-03 04:50 UTC+8）
-- [ ] T54. 博客页面缺少 hreflang 链接 — 博客列表页和博客文章页的 `generateMetadata` 中只有 `canonical`，缺少 `alternates.languages`（每页应有 48 个 alternate 链接）。涉及文件：`src/app/(site)/[locale]/blog/page.tsx` 和 `src/app/(site)/[locale]/blog/[slug]/page.tsx`。优先级：P1（SEO 影响：Google 无法发现博客的翻译版本）
-- [ ] T55. sitemap.xml 是静态文件，缺少博客 URL — `public/sitemap.xml` 是手动创建的静态文件，只包含 576 个 URL（48×12 基础页面），缺少 288 个博客 URL（48 博客列表页 + 240 博客文章页）。需改为动态生成脚本或更新静态文件。优先级：P1（SEO 影响：Google 无法通过 sitemap 发现博客页面）
+- [x] T54. 博客页面缺少 hreflang 链接 ✅ 2026-05-03 13:00 UTC+8 — generateMetadata 添加 alternates.languages (48 alternate)，commit 917239e
+- [x] T55. sitemap.xml 缺少博客 URL ✅ 2026-05-03 13:00 UTC+8 — 静态 sitemap 更新为 864 URL（576 基础 + 48 博客列表 + 240 博客文章），构建 867 pages 0 error
 
 ### 阶段一：表单简化（只留邮箱）
 - [x] T20. LeadMagnet 组件删除 Name 输入框（含图标、label、placeholder）✅ 2026-05-02 16:10 UTC+8
