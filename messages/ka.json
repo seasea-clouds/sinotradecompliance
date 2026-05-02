@@ -1,6 +1,6 @@
 {
   "Navbar": {
-    "logo": "SinoTrade შესაბამისობა",
+    "logo": "SinoTrade Compliance",
     "services": "სერვისები",
     "faq": "FAQ",
     "contact": "კონტაქტი",
@@ -55,7 +55,7 @@
     "fixedFee": "ფიქსირებული გადასახადი"
   },
   "About": {
-    "heroTitle": "SinoTrade-ის შესაბამისობის შესახებ",
+    "heroTitle": "About SinoTrade Compliance",
     "heroSubtitle": "თქვენი სანდო პარტნიორია ჩინეთის იმპორტის რეგულაციების ნავიგაციისთვის. ",
     "expertTitle": " გაიცანით თქვენი ჩინეთის სპეციალისტი",
     "expertName": "David Zhang",
@@ -73,7 +73,7 @@
     "ctaTitle": "მოდით ვისაუბროთ თქვენს პროდუქტებზე",
     "ctaSubtitle": "Business Email",
     "ctaButton": "Get Free Assessment",
-    "title": "SinoTrade-ის შესაბამისობის შესახებ",
+    "title": "About SinoTrade Compliance",
     "subtitle": "ჩინური ეტიკეტების შესაბამისობა",
     "missionText": "სასაზღვრო ელექტრონული კომერცია",
     "values": "ბრენდის დაცვა"
@@ -130,7 +130,7 @@
     "heroExplore": "გამოიკვლიეთ სერვისები",
     "servicesTitle": "ექსპერტთა გუნდი",
     "servicesSubtitle": "საერთაშორისო ბრენდებს ჩინეთის ბაზარზე წარმატების მიღწევის მრავალწლიანი გამოცდილება ეხმარება. ჩვენ ვაფასებთ თქვენს შესაბამისობის საჭიროებებს უფასოდ.",
-    "whyTitle": "რატომ აირჩიეთ SinoTrade შესაბამისობა",
+    "whyTitle": "Why Choose SinoTrade Compliance",
     "whySubtitle": "საბაჟო გეგმა",
     "whyCard1Title": "სრული კატეგორიის დაფარვა",
     "whyCard1Desc": "სრული შესრულება",
