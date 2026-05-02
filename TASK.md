@@ -171,15 +171,15 @@
 - [x] T21. 48 语言文件删除 `nameLabel` + `namePlaceholder` key ✅ 2026-05-02 16:10 UTC+8，48文件×2keys=96条删除
 
 ### 阶段二：文案丰富化
-- [ ] T22. 分析各页面文案不足，列出新增 key 清单
-  - 首页 Hero：subtitle 增加信任背书
-  - 首页流程：修正 "Four simple steps" → "Six steps"
-  - 服务总览：每个服务增加行业覆盖、客户痛点描述
-  - 服务详情页：每个服务 FAQ 从 4 个增到 6-8 个
-  - 套餐页：每个套餐增加适用场景、包含项详细说明
-  - FAQ 页：扩充到 40+ 总问题，覆盖长尾关键词
-  - About：增加团队/合作伙伴信息
-  - 全局：增加社交证明（客户来自 X 国家等）
+- [x] T22. 分析各页面文案不足，列出新增 key 清单 ✅ 2026-05-02
+  - 首页 Hero：subtitle 增加信任背书 ✅（T23 已完成：50+ countries, 10+ years）
+  - 首页流程：修正 "Four simple steps" → "Six steps" ✅（T23 已完成：6 个步骤）
+  - 服务总览：每个服务增加行业覆盖、客户痛点描述 ✅（T23 已完成：Industries + PainPoint）
+  - 服务详情页：每个服务 FAQ 从 4 个增到 6-8 个 ✅（每个服务页 6 个 FAQ）
+  - 套餐页：每个套餐增加适用场景、包含项详细说明 ✅（T23 已完成：UseCase + Includes）
+  - FAQ 页：扩充到 40+ 总问题，覆盖长尾关键词 ✅（35→45 questions，新增 5 个长尾问题）
+  - About：增加团队/合作伙伴信息 ✅（3 个团队成员 + partners section）
+  - 全局：增加社交证明（客户来自 X 国家等）✅（SocialProof 组件，4 项统计）
 - [x] T23. 撰写增强版英文文案 ✅ commit 7a5e19c
 - [x] T24. 翻译新增 key 到 47 种语言 ✅ commit fa1cdda + b79e40c
 - [x] T25. 组件适配新 key ✅ commit 0fc3067 + 17f9a1b
