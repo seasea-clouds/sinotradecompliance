@@ -165,13 +165,13 @@
 ---
 
 ### 阶段五：组件交互巡检修复（第3轮巡检发现）
-- [ ] T39. 修复 zh.json 服务页未翻译 keys — GACC/Label/CCC/Cosmetics/Ecommerce/Brand 各页的 "What We Cover"、"How It Works"、"Why Choose Us" 标题仍为英文，需添加中文翻译
-- [ ] T40. 修复 zh.json 服务页 FAQ 未翻译 — 各服务页 FAQ 第5、6问（"Who needs to register" / "Can I ship products"）仍为英文
-- [ ] T41. 修复 zh.json 服务页 CTA 未翻译 — "Need This Service?" 标题和 "Get Free Assessment" 链接仍为英文
-- [ ] T42. 修复 zh.json ThankYou 页未翻译 — "Thanks!"、"The checklist is on its way..."、"While you wait..."、"← Back to Home" 仍为英文
-- [ ] T43. 修复 ThankYou 页 Back 链接 locale 丢失 — 从 /zh/thank-you/ 点返回跳转到 /en/ 而非 /zh/，需改为 locale-aware 链接
-- [ ] T44. 修复 zh.json About 页未翻译 — "Our Team" 标题、团队成员描述、"Trusted Partners" 标题、Partner tags（Legal/Audit/Logistics/Manufacturing）仍为英文
-- [ ] T45. 修复 zh.json Blog 页未翻译 — "Insights & Compliance Guides"、description、"← Back to Home"、"No posts yet" 仍为英文
+- [x] T39. 修复 zh.json 服务页未翻译 keys — GACC/Label/CCC/Cosmetics/Ecommerce/Brand 各页的 "What We Cover"、"How It Works"、"Why Choose Us" 标题已验证为中文 ✓ (ServiceCommon 和 6 个服务页均已翻译)
+- [x] T40. 修复 zh.json 服务页 FAQ 未翻译 — 6 个服务页各 4 个 FAQ keys (faq5q/5a/6q/6a) 已全部翻译 ✓
+- [x] T41. 修复 zh.json 服务页 CTA 未翻译 — ServiceCommon ctaTitle/ctaSubtitle/ctaButton 已验证为中文 ✓
+- [x] T42. 修复 ThankYou 页硬编码英文 — 组件改用 t() 翻译，新增 waitMsg/whatsappCta keys 到 48 语言 ✓
+- [x] T43. 修复 ThankYou 页 Back 链接 locale 丢失 — href 改为 `/${locale}/` ✓
+- [x] T44. 修复 zh.json About 页未翻译 — teamTitle/teamSubtitle/teamMember*/partnersTitle/partnersSubtitle 已全部翻译 ✓
+- [x] T45. 修复 zh.json Blog 页未翻译 — 全部 14 keys 已翻译 ✓ (构建 632 pages 0 error, commit 016fac9)
 
 ## 新需求任务（2026-05-02）
 
