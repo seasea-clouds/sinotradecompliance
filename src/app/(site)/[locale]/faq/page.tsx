@@ -1,5 +1,5 @@
 import { getTranslations } from 'next-intl/server';
-import FAQAccordion from '@/components/FAQAccordion';
+import FAQSection from '@/components/FAQSection';
 import CTASection from '@/components/CTASection';
 import Script from 'next/script';
 
@@ -102,17 +102,8 @@ export default async function FAQPage({ params }: { params: Promise<{ locale: st
         </div>
       </section>
 
-      {/* FAQ Sections */}
-      <section className="py-16 bg-bg-ice">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
-          {categories.map((cat, i) => (
-            <div key={i}>
-              <h2 className="text-xl font-bold text-primary-navy mb-4">{cat.title}</h2>
-              <FAQAccordion items={cat.items} />
-            </div>
-          ))}
-        </div>
-      </section>
+      {/* FAQ Sections — semantic dl/dt/dd */}
+      <FAQSection categories={categories} />
 
       <CTASection />
     </main>
