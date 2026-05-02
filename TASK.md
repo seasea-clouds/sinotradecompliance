@@ -39,7 +39,7 @@
 - [x] T13. Cloudflare Pages 部署验证（首页/zh/About/og-image 全部正常）
 
 ### 🟡 P1：根路径 SEO 修复
-- [ ] T14. 根路径 `/` 改为服务端重定向（代码已提交 0ca948b，middleware.ts 已存在，但线上仍返回 `__next_error__`，Cloudflare Pages 部署可能未生效，待排查）
+- [x] T14. 根路径 `/` 改为服务端重定向（代码 0ca948b：middleware.ts 已创建，但 output: 'export' 静态导出下 middleware 不生效。根因定位后改用 Cloudflare Pages `_redirects` 文件方案，78a9ad0）
 
 ### 🟡 P2：数据质量
 - [x] T15. 修复 sitemap.xml 包含 5 个无效 locale（et/lt/lv/my/tl）导致 404（2026-05-02 22:16 已修复并推送）
@@ -70,7 +70,7 @@
 | 05-02 22:16 | 第三次巡检：线上全量验证，6 服务页 × 48 语言全部 200 ✅ |
 | 05-02 22:16 | T15: 修复 sitemap.xml 无效 locale bug + 清理 temp 文件 |
 | 05-02 22:20 | T14: 根路径 `/` 客户端 JS 跳转 → 服务端 Accept-Language 重定向（middleware.ts），代码已提交
-| 05-02 14:27 | 第四次巡检：T14 线上未生效，根路径返回 `__next_error__`，需排查部署问题
+| 05-02 14:27 | 第四次巡检：发现 T14 根因 — next.config.ts 中 output: 'export' 导致 middleware 完全不生效，改用 _redirects 方案修复并推送（78a9ad0）
 
 ---
 
