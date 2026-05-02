@@ -60,7 +60,17 @@
     "faqPreviewA2": "Погледајте сва питања →",
     "faqPreviewQ3": "Уобичајена питања",
     "faqPreviewA3": "Не, ГАЦЦ регистрација важи 5 година. Обнова мора бити поднета 6 месеци пре истека.",
-    "faqPreviewLink": "Пронађите одговоре на најчешће постављана питања о овој услузи."
+    "faqPreviewLink": "Пронађите одговоре на најчешће постављана питања о овој услузи.",
+    "socialProofSubtitle": "Pomaganje međunarodnim preduzećima da samouvereno uđu na kinesko tržište.",
+    "socialProofTitle": "Pouzdano od strane globalnih brendova",
+    "stat1Label": "Posluženi brendovi",
+    "stat1Number": "500",
+    "stat2Label": "Države",
+    "stat2Number": "50+",
+    "stat3Label": "Godine stručnosti",
+    "stat3Number": "10+",
+    "stat4Label": "Stopa usaglašenosti",
+    "stat4Number": "100%"
   },
   "Services": {
     "heroTitle": "Naše Usluge",
@@ -88,7 +98,19 @@
     "brandTitle": "Zaštita Brendova",
     "brandSubtitle": "Registracija zaštitnih znakova, carinska IP prijava i usklađenost oglašavanja za zaštitu vašeg brenda u Kini.",
     "brandPoints": "Pretraga i registracija zaštitnih znakova,Označavanje Madridskog sistema,Carinska IP prijava,Pregled usklađenosti oglašavanja,Strategija zaštite brenda",
-    "brandLink": "Saznajte Više"
+    "brandLink": "Saznajte Više",
+    "brandIndustries": "All industries entering China — FMCG, technology, fashion, and food & beverage.",
+    "brandPainPoint": "China's first-to-file system means your brand could already be registered by someone else.",
+    "cccIndustries": "Electronics, home appliances, IT equipment, automotive parts, toys, and lithium batteries.",
+    "cccPainPoint": "CCC is mandatory for 17 product categories. We navigate the catalog so you don't have to.",
+    "cosmeticsIndustries": "Skincare, makeup, haircare, sunscreen, fragrances, and personal care products.",
+    "cosmeticsPainPoint": "NMPA filing can take months. Our streamlined process gets you to market faster.",
+    "ecommerceIndustries": "Food & beverage, cosmetics, supplements, apparel, and consumer electronics.",
+    "ecommercePainPoint": "Platform onboarding and logistics compliance are complex. We handle the heavy lifting.",
+    "gaccIndustries": "Dairy, meat, seafood, bakery, beverages, health foods, and all 18 GACC-regulated categories.",
+    "gaccPainPoint": "Confused by Decree 248/249? We simplify CIFER registration so your products clear customs smoothly.",
+    "labelIndustries": "Prepackaged food, beverages, supplements, cosmetics, and consumer goods.",
+    "labelPainPoint": "One labeling mistake can halt your shipment at customs. Get it right the first time."
   },
   "ServiceGacc": {
     "heroTitle": "GACC Registracija Hrane",
@@ -107,7 +129,11 @@
     "faq3q": "Да ли регистрација важи заувек?",
     "faq3a": "Уобичајена питања",
     "faq4q": "Пронађите одговоре на најчешће постављана питања о овој услузи.",
-    "faq4a": "Не, ГАЦЦ регистрација важи 5 година. Обнова мора бити поднета 6 месеци пре истека. Пружамо подсетнике за обнову и водимо цео процес обнове у ваше име."
+    "faq4a": "Не, ГАЦЦ регистрација важи 5 година. Обнова мора бити поднета 6 месеци пре истека. Пружамо подсетнике за обнову и водимо цео процес обнове у ваше име.",
+    "faq5a": "The overseas manufacturing facility must be registered. If you manufacture products at multiple facilities, each facility needs its own GACC registration. We can handle registrations for multiple sites under one account.",
+    "faq5q": "Who needs to register — the manufacturer or the exporter?",
+    "faq6a": "No. Since January 1, 2022, Chinese customs will reject any food imports without a valid GACC registration number. Registration must be completed before your first shipment.",
+    "faq6q": "Can I ship products to China before registration is complete?"
   },
   "ServiceLabel": {
     "heroTitle": "Usklađenost Kineskih Etiketa",
@@ -126,7 +152,11 @@
     "faq3q": "Да ли и ви дизајнирате налепнице?",
     "faq3a": "Да, пружамо комплетне услуге налепница: преглед усклађености са стандардима ГБ, прилагођени дизајн етикета на кинеском и датотеке спремне за производњу за ваш штампач. Такође пружамо упутства о апликацијама налепница за улаз.",
     "faq4q": "Уобичајена питања",
-    "faq4a": "Пронађите одговоре на најчешће постављана питања о овој услузи."
+    "faq4a": "Пронађите одговоре на најчешће постављана питања о овој услузи.",
+    "faq5a": "Yes, each SKU requires its own compliant label as ingredients, nutrition facts, and product specifications vary. We review and design labels for each of your SKUs individually.",
+    "faq5q": "Do I need separate labels for each product SKU?",
+    "faq6a": "Prepackaged food labels must comply with GB 7718-2025 (General Standard for Prepackaged Food Labels) and GB 28050-2025 (Nutrition Labeling Standard). These cover product naming, ingredient lists, nutrition panels, allergen declarations, and more.",
+    "faq6q": "What standards do labels need to comply with?"
   },
   "ServiceCcc": {
     "heroTitle": "CCC Sertifikacija",
@@ -145,7 +175,11 @@
     "faq3q": "Колико дуго траје ЦЦЦ сертификација?",
     "faq3a": "ЦЦЦ процес обично траје 4-8 месеци укључујући фабричку ревизију, тестирање производа у лабораторијама акредитованим од ЦНАС-а и преглед сертификације. Временски оквир се разликује у зависности од категорије производа и сложености.",
     "faq4q": "Да ли се ЦЦЦ сертификација може обавити из иностранства?",
-    "faq4a": "Пронађите одговоре на најчешће постављана питања о овој услузи."
+    "faq4a": "Пронађите одговоре на најчешће постављана питања о овој услузи.",
+    "faq5a": "Yes, certain product categories qualify for self-declaration of conformity (SDOC) instead of full certification. We assess your product to determine if SDOC applies, which can significantly reduce time and cost.",
+    "faq5q": "Is there a self-declaration option for CCC?",
+    "faq6a": "CCC certificates require annual factory inspections to maintain validity. We provide ongoing compliance monitoring and prepare your facility for surveillance audits to ensure uninterrupted market access.",
+    "faq6q": "What happens after I get the CCC certificate?"
   },
   "ServiceCosmetics": {
     "heroTitle": "Prijava Kozmetike (NMPA)",
@@ -164,7 +198,11 @@
     "faq3q": "Уобичајена питања",
     "faq3a": "Пронађите одговоре на најчешће постављана питања о овој услузи.",
     "faq4q": "Могу ли продавати козметику путем прекограничне електронске трговине без НМПА?",
-    "faq4a": "Да, канали за прекограничну е-трговину (ЦБЕЦ) омогућавају продају козметике без НМПА подношења под одређеним условима. Ово је бржи пут за улазак на тржиште док припремате пуну усклађеност са НМПА."
+    "faq4a": "Да, канали за прекограничну е-трговину (ЦБЕЦ) омогућавају продају козметике без НМПА подношења под одређеним условима. Ово је бржи пут за улазак на тржиште док припремате пуну усклађеност са НМПА.",
+    "faq5a": "China has relaxed animal testing requirements for many ordinary imported cosmetics since 2021. Products manufactured under good manufacturing practices (GMP) with a safety assessment may be exempt. We evaluate your products for exemption eligibility.",
+    "faq5q": "Does animal testing apply to imported cosmetics?",
+    "faq6a": "Minor formulation changes may only require a notification update. Significant changes — especially to active ingredients — may require re-filing or a new registration. We advise on the regulatory impact before you make changes.",
+    "faq6q": "Can I update my product formulation after NMPA filing?"
   },
   "ServiceEcommerce": {
     "heroTitle": "Prekogranična E-trgovina",
@@ -183,7 +221,11 @@
     "faq3q": "Да ли су за прекограничне производе потребне кинеске ознаке?",
     "faq3a": "Регистрација на платформи обично траје 2-4 недеље. Подешавање продавнице, листа производа и оперативна спремност обично трају додатне 2-4 недеље у зависности од сложености производа и захтева платформе.",
     "faq4q": "Да ли су прекограничним производима потребне кинеске етикете?",
-    "faq4a": "ЦБЕЦ производи су генерално изузети од захтева кинеске ознаке пошто се сматрају личним увозом. Међутим, информације о производу морају бити достављене на кинеском језику на платформи за е-трговину. Водимо вас у вези са захтевима специфичним за платформу."
+    "faq4a": "ЦБЕЦ производи су генерално изузети од захтева кинеске ознаке пошто се сматрају личним увозом. Међутим, информације о производу морају бити достављене на кинеском језику на платформи за е-трговину. Водимо вас у вези са захтевима специфичним за платформу.",
+    "faq5a": "Yes, cross-border e-commerce platforms allow overseas companies to sell directly to Chinese consumers without establishing a local entity. We guide you through platform registration as an overseas merchant.",
+    "faq5q": "Can I sell on Chinese platforms without a local company?",
+    "faq6a": "Alipay and WeChat Pay dominate the Chinese e-commerce market. Most cross-border platforms handle payment processing automatically, but we ensure your store is optimized for Chinese consumer preferences.",
+    "faq6q": "What payment methods do Chinese consumers prefer?"
   },
   "ServiceBrand": {
     "heroTitle": "Zaštita Brendova",
@@ -202,7 +244,11 @@
     "faq3q": "Шта је Мадридски систем?",
     "faq3a": "Мадридски систем вам омогућава да проширите постојећу регистрацију жига на више земаља, укључујући Кину, путем једне апликације. То може бити брже и исплативије од директног подношења у Кини.",
     "faq4q": "Како да се заштитим од фалсификованих производа?",
-    "faq4a": "Пружамо свеобухватну заштиту бренда: регистрацију жига, царинску ИП евиденцију (омогућава царини да заплени фалсификовану робу), преглед усклађености рекламирања и стално праћење. Рана регистрација је најважнији први корак."
+    "faq4a": "Пружамо свеобухватну заштиту бренда: регистрацију жига, царинску ИП евиденцију (омогућава царини да заплени фалсификовану робу), преглед усклађености рекламирања и стално праћење. Рана регистрација је најважнији први корак.",
+    "faq5a": "Ne, prava na žig su teritorijalna. Registracija žiga u SAD ili EU ne pruža zaštitu u Kini. Morate zasebno podnijeti zahtjev kineskom CNIPA-u ili ga produžiti putem Madridskog sistema. Preporučujemo direktno CNIPA podnošenje za najjaču zaštitu.",
+    "faq5q": "Mogu li da koristim svoj postojeći zaštitni znak u SAD/EU u Kini?",
+    "faq6a": "Nakon registracije, pružamo stalne usluge praćenja žigova koje skeniraju konfliktne aplikacije, falsifikovane proizvode na platformama za e-trgovinu i neovlašćenu upotrebu vašeg brenda u oglašavanju.",
+    "faq6q": "Kako da pratim povredu žiga u Kini?"
   },
   "ServiceCommon": {
     "whoTitle": "Kome je Ovo Namenjeno",
@@ -241,7 +287,13 @@
     "customCta": "Kontaktirajte Nas za Prilagođenu Ponudu",
     "popular": "Najpopularnije",
     "title": "Paketi Usklađenosti",
-    "subtitle": "Izaberite paket koji odgovara strategiji ulaska vašeg brenda u Kinu."
+    "subtitle": "Izaberite paket koji odgovara strategiji ulaska vašeg brenda u Kinu.",
+    "advancedIncludes": "Sve usluge ulaska na tržište plus: Tmall Global ili JD Worldwide podešavanje prodavnice. Pretraga žigova i registracija CNIPA. Evidencija carinske IP za zaštitu granice. Pregled usklađenosti oglašavanja za sve marketinške materijale.",
+    "advancedUseCase": "Savršeno za rastuće brendove spremne da lansiraju svoju punu liniju proizvoda na kineskim platformama za e-trgovinu.",
+    "basicIncludes": "Kompletna GACC registracija putem CIFER sistema. Kineski dizajn etiketa u skladu sa GB 7718-2025. Konsultacije o usklađenosti jedan na jedan za vašu specifičnu kategoriju proizvoda.",
+    "basicUseCase": "Idealno za nove izvoznike hrane kojima je potrebna osnovna oprema za legalno slanje u Kinu.",
+    "premiumIncludes": "Sve Go-to-Market usluge plus: CCC sertifikacioni konsalting za primenljive proizvode. NMPA kozmetički filing ako se širi u lepotu. PIPL procena usaglašenosti podataka za rukovanje podacima kupaca. Posvećeni menadžer naloga za tekuće regulatorno savetovanje.",
+    "premiumUseCase": "Za etablirane kompanije koje se obavezuju na dugoročno prisustvo u više kategorija proizvoda u Kini."
   },
   "Faq": {
     "heroTitle": "Često Postavljana Pitanja",
@@ -286,7 +338,43 @@
     "generalQ3": "Gde je vaš tim lociran?",
     "generalA3": "Naš tim je lociran u Kini sa direktnim pristupom regulatornim organima, laboratorijama za testiranje i sertifikacionim telima. Radimo sa klijentima globalno.",
     "generalQ4": "Možete li vi da upravljate celim procesom za mene?",
-    "generalA4": "Da. Nudimo kompletnu uslugu od početka do kraja — od početne procene i dokumentacije do registracije, sertifikacije i kontinuiranog upravljanja usklađenošću."
+    "generalA4": "Da. Nudimo kompletnu uslugu od početka do kraja — od početne procene i dokumentacije do registracije, sertifikacije i kontinuiranog upravljanja usklađenošću.",
+    "brandA3": "Ako je treća strana registrovala vaš znak, opcije uključuju pregovaranje o prenosu, podnošenje otkaza nekorišćenja (ako se ne koristi više od 3 godine) ili osporavanje registracije u lošoj veri. Procenjujemo vašu situaciju i preporučujemo najbolju strategiju.",
+    "brandA4": "Da, svaki poseban element — vaš logotip, naziv engleskog brenda i naziv kineskog brenda — treba da bude registrovan kao zasebni zaštitni znakovi radi sveobuhvatne zaštite. Bavimo se strategijama za registraciju više elemenata.",
+    "brandQ3": "Šta ako je neko već registrovao moj žig?",
+    "brandQ4": "Da li moram odvojeno da registrujem svoj logotip i naziv kineskog brenda?",
+    "cccQ3": "Mogu li da koristim CCC sertifikate prethodnog proizvođača?",
+    "cccQ3a": "Ne, CCC sertifikati su vezani za određeni proizvodni objekat. Ako promenite proizvođača, potrebna je nova CCC aplikacija. Možemo da pomognemo u prenosu ili ponovnom podnošenju zahteva za sertifikaciju.",
+    "cccQ4": "Koliki su troškovi sertifikacije CCC?",
+    "cccQ4a": "Troškovi CCC se razlikuju u zavisnosti od kategorije proizvoda, zahteva za testiranje i obima revizije fabrike. Pružamo detaljnu procenu troškova nakon procene vašeg određenog proizvoda. Naša struktura fiksnih naknada znači da nema iznenađenja.",
+    "cosmeticsA2": "境内责任人 (Domaće odgovorno lice) je pravno lice sa sedištem u Kini koje je zakonski odgovorno za kvalitet i bezbednost vašeg proizvoda. Oni se bave komunikacijama NMPA, izveštavanjem o neželjenim događajima i usklađenošću sa propisima. Možemo da vam služimo kao odgovorni agent.",
+    "cosmeticsA3": "Da, NMPA zahteva ispitivanje bezbednosti i efikasnosti u akreditovanim kineskim laboratorijama. Neki strani podaci o ispitivanju mogu biti prihvaćeni za određene procene, ali osnovno ispitivanje bezbednosti mora se sprovesti u Kini.",
+    "cosmeticsQ2": "Ko je kineski odgovorni agent?",
+    "cosmeticsQ3": "Da li treba da testiram svoje proizvode u Kini?",
+    "ecommerceA3": "Većina prekograničnih platformi pruža ugrađene alate za korisničku podršku i rukovanje povratkom. Savetujemo vam da podesite radne tokove korisničke službe na kineskom jeziku i upravljate povraćajima preko vezanih skladišta.",
+    "ecommerceA4": "Da, mnogi brendovi koriste prekogranično kao kanal za testiranje tržišta pre prelaska na potpuni tradicionalni uvoz sa potpunom usklađenošću sa NMPA, GACC i CCC. Podržavamo oba načina.",
+    "ecommerceQ3": "Kako da upravljam povraćajima i korisničkom službom u Kini?",
+    "ecommerceQ4": "Mogu li kasnije da pređem sa prekograničnog na tradicionalni uvoz?",
+    "gaccA5": "Da, jedan proizvođač iz inostranstva može da registruje proizvode u više kategorija hrane pod jednom GACC registracijom. Svaka kategorija može imati različite uslove za dokumentaciju, a mi upravljamo čitavim obimom u vaše ime.",
+    "gaccA6": "Ako se odbije, pregledamo razloge odbijanja, ispravimo sve nedostatke i ponovo pošaljemo. Uobičajeni problemi uključuju nepotpunu dokumentaciju ili netačnu klasifikaciju HS koda. Naš postupak pregleda prije slanja smanjuje rizik od odbijanja.",
+    "gaccQ5": "Može li jedna kompanija da registruje više kategorija proizvoda?",
+    "gaccQ6": "Šta se dešava ako moja GACC registracija bude odbijena?",
+    "generalA10": "Apsolutno. Mnogi klijenti koriste naše pakete usklađenosti (Market Entry, Go-to-Market, Brand Launch) koji objedinjuju više usluga po boljoj ceni. Kreiramo i prilagođene pakete za jedinstvene potrebe.",
+    "generalA5": "Mi opslužujemo sve industrije koje izvoze u Kinu: hranu i piće, kozmetiku i ličnu negu, elektroniku i uređaje, igračke, tekstil, hemikalije, automobilske delove i još mnogo toga. Ako pređe kinesku granicu, možemo da pomognemo u usklađivanju.",
+    "generalA6": "Da. Pored početne registracije, pružamo usluge upravljanja obnavljanjem, regulatornog praćenja, savjetovanja o usklađenosti i podrške pri ulasku na tržište. Mnogi klijenti nas zadržavaju za stalno upravljanje usaglašenošću.",
+    "generalA7": "Jednostavno nam se obratite putem našeg veb-sajta, WhatsApp-a ili imejla. Zakazaćemo besplatnu konsultaciju da bismo razumeli vaše proizvode, ciljeve i vremenski okvir, a zatim ćemo obezbediti prilagođeni plan usklađenosti.",
+    "generalA8": "Naš tim radi na engleskom i mandarinskom kineskom jeziku. Klijentima pružamo usluge na globalnom nivou i možemo da komuniciramo na vašem željenom jeziku tokom celog procesa.",
+    "generalA9": "Iako nijedan konsultant ne može da garantuje odobrenje vlade, naši rezultati pokazuju stopu uspešnosti od skoro 100%. Naš temeljni pregled prije podnošenja i temeljno poznavanje propisa smanjuju rizik na najmanju moguću mjeru na svakom koraku.",
+    "generalQ10": "Mogu li da objedinim više usluga?",
+    "generalQ5": "Kojim industrijama služite?",
+    "generalQ6": "Da li nudite stalnu podršku za usklađenost?",
+    "generalQ7": "Kako da počnem?",
+    "generalQ8": "Na kojim jezicima radite?",
+    "generalQ9": "Da li garantujete odobrenje registracije?",
+    "labelQ3": "Da li dodaci ishrani zahtevaju različite oznake?",
+    "labelQ3a": "Da, zdravstveni dodaci (保健食品) imaju dodatne zahteve za označavanje pored standardne unapred upakovane hrane, uključujući tvrdnje o zdravstvenoj funkciji适宜人群 (odgovarajuće人群) i uputstva za upotrebu. Bavimo se zahtevima za označavanje specifičnim za kategoriju.",
+    "labelQ4": "Koliko brzo se mogu dovršiti etikete?",
+    "labelQ4a": "Standardni pregled i dizajn etikete traje 1-2 nedelje po SKU-u. Za hitne pošiljke nudimo brzu uslugu. Brzi nalozi zavise od složenosti proizvoda i trenutnog radnog opterećenja."
   },
   "About": {
     "heroTitle": "O SinoTrade Compliance",
@@ -310,7 +398,20 @@
     "title": "About SinoTrade Compliance",
     "subtitle": "Ваш партнер од поверења за навигацију према кинеским увозним прописима.",
     "missionText": "Да кинеске увозне прописе учините доступним и доступним за међународна предузећа свих величина. Верујемо да усклађеност не би требало да буде препрека за улазак на тржиште – требало би да буде мост.",
-    "values": "Стручност — Дубоко познавање кинеске регулативе у више индустрија.,Транспарентност — Фиксне цене са јасним резултатима — без скривених трошкова или изненађења.,Посвећеност — Остајемо уз вас од почетне консултације на тржишту."
+    "values": "Стручност — Дубоко познавање кинеске регулативе у више индустрија.,Транспарентност — Фиксне цене са јасним резултатима — без скривених трошкова или изненађења.,Посвећеност — Остајемо уз вас од почетне консултације на тржишту.",
+    "partnersSubtitle": "Sarađujemo sa akreditovanim laboratorijama, sertifikacionim telima i pravnim partnerima širom Kine.",
+    "partnersTitle": "Pouzdani partneri",
+    "teamMember1Desc": "5+ godina specijalizovanih za GACC uredbu 248/249 registracija u svih 18 kategorija hrane.",
+    "teamMember1Name": "-Sa Sarah Chen.",
+    "teamMember1Role": "Specijalista za registraciju GACC-a",
+    "teamMember2Desc": "Ekspert za procese sertifikacije CCC i koordinaciju laboratorija akreditovanih od strane CNCA.",
+    "teamMember2Name": "Majk Vang",
+    "teamMember2Role": "Koordinator za sertifikaciju i testiranje",
+    "teamMember3Desc": "Specijalizovana je za NMPA filinge za običnu i specijalnu kozmetiku.",
+    "teamMember3Name": "Lisa Liu",
+    "teamMember3Role": "Specijalista za regulaciju kozmetike",
+    "teamSubtitle": "Posvećeni tim stručnjaka za propise koji su posvećeni vašem uspehu u Kini.",
+    "teamTitle": "Naš tim"
   },
   "Expert": {
     "title": "Upoznajte Vašeg Kineskog Specijalistu",

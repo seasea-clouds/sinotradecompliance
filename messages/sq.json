@@ -60,7 +60,17 @@
     "faqPreviewA2": "Pyetjet e zakonshme",
     "faqPreviewQ3": "Gjeni përgjigjet për pyetjet më të shpeshta rreth këtij shërbimi. 22000/HACCP), dhe etiketat e produkteve. Ne ofrojmë një listë të plotë kontrolli dhe ndihmojmë me përgatitjen e dokumenteve.",
     "faqPreviewA3": "Jo, regjistrimi i GACC është i vlefshëm për 5 vjet. Rinovimi duhet të dorëzohet 6 muaj para skadimit.",
-    "faqPreviewLink": "A është regjistrimi i vlefshëm përgjithmonë?"
+    "faqPreviewLink": "A është regjistrimi i vlefshëm përgjithmonë?",
+    "socialProofSubtitle": "Ndihmoni bizneset ndërkombëtare të hyjnë me besim në tregun kinez.",
+    "socialProofTitle": "I besuar nga Global Brands",
+    "stat1Label": "Markat e servirura",
+    "stat1Number": "500+",
+    "stat2Label": "shtetet",
+    "stat2Number": "50+",
+    "stat3Label": "Vitet e Ekspertizës",
+    "stat3Number": "10+",
+    "stat4Label": "Norma e Pajtueshmërisë",
+    "stat4Number": "100%"
   },
   "Services": {
     "heroTitle": "Shërbimet Tona",
@@ -88,7 +98,19 @@
     "brandTitle": "Mbrojtja e Markës",
     "brandSubtitle": "Regjistrimi i markës tregtare, regjistrimi i IP-së doganore dhe përputhshmëria e reklamimit për të mbrojtur markën tuaj në Kinë.",
     "brandPoints": "Kërkimi dhe regjistrimi i markës tregtare,Caktimi i sistemit Madrid,Regjistrimi i IP-së doganore,Rishikimi i përputhshmërisë së reklamimit,Strategjia e mbrojtjes së markës",
-    "brandLink": "Mësoni Më Shumë"
+    "brandLink": "Mësoni Më Shumë",
+    "brandIndustries": "Të gjitha industritë që hyjnë në Kinë - FMCG, teknologjia, moda dhe ushqimi dhe pijet.",
+    "brandPainPoint": "Sistemi i parë në dosje në Kinë do të thotë që marka juaj tashmë mund të regjistrohet nga dikush tjetër.",
+    "cccIndustries": "Elektronikë, pajisje shtëpiake, pajisje IT, pjesë automobilistike, lodra dhe bateri litium.",
+    "cccPainPoint": "CCC është i detyrueshëm për 17 kategori produktesh. Ne lundrojmë në katalog që të mos keni nevojë.",
+    "cosmeticsIndustries": "Kujdesi për lëkurën, grimi, kujdesi për flokët, kremrat e diellit, aromat dhe produktet e kujdesit personal.",
+    "cosmeticsPainPoint": "Regjistrimi i NMPA mund të zgjasë me muaj. Procesi ynë i thjeshtuar ju bën të tregtoni më shpejt.",
+    "ecommerceIndustries": "Ushqim dhe pije, kozmetikë, suplemente, veshje dhe elektronikë të konsumit.",
+    "ecommercePainPoint": "Futja e platformës dhe pajtueshmëria me logjistikën janë komplekse. Ne trajtojmë ngritjen e rëndë.",
+    "gaccIndustries": "Qumësht, mish, ushqim deti, furrë buke, pije, ushqime të shëndetshme dhe të gjitha 18 kategoritë e rregulluara nga GACC.",
+    "gaccPainPoint": "Të hutuar nga dekreti 248/249? Ne thjeshtojmë regjistrimin CIFER në mënyrë që produktet tuaja të doganohen pa probleme.",
+    "labelIndustries": "Ushqime të parapaketuara, pije, suplemente, kozmetikë dhe mallra të konsumit.",
+    "labelPainPoint": "Një gabim në etiketim mund të ndalojë dërgesën tuaj në doganë. Merreni siç duhet herën e parë."
   },
   "ServiceGacc": {
     "heroTitle": "Regjistrimi GACC i Ushqimit",
@@ -107,7 +129,11 @@
     "faq3q": "Çfarë ndodh nëse etiketat e mia nuk janë në përputhje? Sigurimi i përputhshmërisë së etiketave përpara transportit parandalon këto çështje të kushtueshme.",
     "faq3a": "A i dizajnoni edhe ju etiketat?",
     "faq4q": "Po, ne ofrojmë shërbime të plota të etiketave: rishikim i pajtueshmërisë me standardet e GB, dizajn të personalizuar të etiketës në gjuhën kineze dhe skedarë të gatshëm për prodhim për printerin tuaj. Ne ofrojmë gjithashtu udhëzime për aplikacionet e ngjitësve në portin e hyrjes.",
-    "faq4a": "Jo, regjistrimi i GACC është i vlefshëm për 5 vjet. Rinovimi duhet të dorëzohet 6 muaj para skadimit. Ne ofrojmë kujtesë rinovimi dhe trajtojmë të gjithë procesin e rinovimit në emrin tuaj."
+    "faq4a": "Jo, regjistrimi i GACC është i vlefshëm për 5 vjet. Rinovimi duhet të dorëzohet 6 muaj para skadimit. Ne ofrojmë kujtesë rinovimi dhe trajtojmë të gjithë procesin e rinovimit në emrin tuaj.",
+    "faq5a": "Objekti i prodhimit jashtë shtetit duhet të regjistrohet. Nëse prodhoni produkte në shumë objekte, çdo objekt ka nevojë për regjistrimin e vet GACC. Ne mund të trajtojmë regjistrimet për shumë site nën një llogari.",
+    "faq5q": "Kush duhet të regjistrohet - prodhuesi apo eksportuesi?",
+    "faq6a": "Jo. Që nga 1 janari 2022, doganat kineze do të refuzojnë çdo import ushqimor pa një numër të vlefshëm regjistrimi GACC. Regjistrimi duhet të përfundojë përpara dërgesës suaj të parë.",
+    "faq6q": "A mund të dërgoj produkte në Kinë përpara se të përfundojë regjistrimi?"
   },
   "ServiceLabel": {
     "heroTitle": "Përputhshmëria e Etiketave Kineze",
@@ -126,7 +152,11 @@
     "faq3q": "A kam nevojë për një person përgjegjës kinez? Ne mund të shërbejmë si 境内责任人.",
     "faq3a": "Pyetje të zakonshme",
     "faq4q": "Gjeni përgjigjet për pyetjet më të shpeshta rreth këtij shërbimi. dokument. Kjo është një kërkesë doganore për mallrat CBEC. Ne sigurojmë që operacionet tuaja të përputhen me këtë kërkesë.",
-    "faq4a": "Sa kohë për të ngritur një dyqan ndërkufitar?"
+    "faq4a": "Sa kohë për të ngritur një dyqan ndërkufitar?",
+    "faq5a": "Po, çdo SKU kërkon etiketën e vet të përputhshme pasi përbërësit, faktet ushqyese dhe specifikimet e produktit ndryshojnë. Ne shqyrtojmë dhe dizajnojmë etiketat për secilën nga SKU-të tuaja individualisht.",
+    "faq5q": "A kam nevojë për etiketa të veçanta për çdo produkt SKU?",
+    "faq6a": "Etiketat e ushqimeve të parapaketuara duhet të jenë në përputhje me GB 7718-2025 (Standardi i përgjithshëm për etiketat e ushqimeve të parapaketuara) dhe GB 28050-2025 (Standardi i etiketimit të ushqimit). Këto mbulojnë emërtimin e produkteve, listat e përbërësve, panelet ushqyese, deklaratat e alergjenëve dhe më shumë.",
+    "faq6q": "Me cilat standarde duhet të respektojnë etiketat?"
   },
   "ServiceCcc": {
     "heroTitle": "Çertifikimi CCC",
@@ -145,7 +175,11 @@
     "faq3q": "Sa kohë zgjat certifikimi CCC?",
     "faq3a": "Procesi CCC zakonisht zgjat 4-8 muaj duke përfshirë auditimin e fabrikës, testimin e produktit në laboratorët e akredituar nga CNAS dhe rishikimin e certifikimit. Afati kohor ndryshon sipas kategorisë së produktit dhe kompleksitetit.",
     "faq4q": "A mund të bëhet certifikimi CCC nga jashtë?",
-    "faq4a": "Po, por kërkon koordinim me laboratorët kinezë të testimit dhe organet e certifikimit. Ne veprojmë si përfaqësuesi juaj lokal, duke menaxhuar auditimet e fabrikës, testimin e mostrës dhe të gjitha komunikimet me autoritetet certifikuese."
+    "faq4a": "Po, por kërkon koordinim me laboratorët kinezë të testimit dhe organet e certifikimit. Ne veprojmë si përfaqësuesi juaj lokal, duke menaxhuar auditimet e fabrikës, testimin e mostrës dhe të gjitha komunikimet me autoritetet certifikuese.",
+    "faq5a": "Po, disa kategori produktesh kualifikohen për vetëdeklarim të konformitetit (SDOC) në vend të certifikimit të plotë. Ne vlerësojmë produktin tuaj për të përcaktuar nëse zbatohet SDOC, gjë që mund të reduktojë ndjeshëm kohën dhe koston.",
+    "faq5q": "A ka një mundësi vetëdeklarimi për KKK?",
+    "faq6a": "Certifikatat CCC kërkojnë inspektime vjetore të fabrikës për të ruajtur vlefshmërinë. Ne ofrojmë monitorim të vazhdueshëm të përputhshmërisë dhe përgatisim objektin tuaj për auditime të mbikqyrjes për të siguruar akses të pandërprerë në treg.",
+    "faq6q": "Çfarë ndodh pasi të marr certifikatën CCC?"
   },
   "ServiceCosmetics": {
     "heroTitle": "Regjistrimi i Kozmetikës (NMPA)",
@@ -164,7 +198,11 @@
     "faq3q": "A kam nevojë për një person përgjegjës kinez?",
     "faq3a": "Po, të gjitha produktet kozmetike të importuara duhet të caktojnë një kinez境内责任人 (personi përgjegjës vendas) i cili merr përgjegjësinë ligjore për cilësinë dhe sigurinë e produktit. Ne mund të shërbejmë si 境内责任人 tuaj.",
     "faq4q": "A mund të shes kozmetikë përmes tregtisë elektronike ndërkufitare pa NMPA?",
-    "faq4a": "Po, kanalet e tregtisë elektronike ndërkufitare (CBEC) lejojnë shitjet e kozmetikës pa depozitim NMPA në kushte të caktuara. Kjo është një rrugë më e shpejtë e hyrjes në treg ndërsa përgatitni pajtueshmërinë e plotë të NMPA."
+    "faq4a": "Po, kanalet e tregtisë elektronike ndërkufitare (CBEC) lejojnë shitjet e kozmetikës pa depozitim NMPA në kushte të caktuara. Kjo është një rrugë më e shpejtë e hyrjes në treg ndërsa përgatitni pajtueshmërinë e plotë të NMPA.",
+    "faq5a": "Kina ka lehtësuar kërkesat e testimit të kafshëve për shumë kozmetikë të zakonshëm të importuar që nga viti 2021. Produktet e prodhuara sipas praktikave të mira të prodhimit (GMP) me një vlerësim sigurie mund të përjashtohen. Ne vlerësojmë produktet tuaja për të drejtën e përjashtimit.",
+    "faq5q": "A zbatohet testimi i kafshëve për kozmetikën e importuar?",
+    "faq6a": "Ndryshimet e vogla të formulimit mund të kërkojnë vetëm një përditësim njoftimi. Ndryshimet e rëndësishme - veçanërisht në përbërësit aktiv - mund të kërkojnë ri-deklarim ose regjistrim të ri. Ne ju këshillojmë për ndikimin rregullator përpara se të bëni ndryshime.",
+    "faq6q": "A mund ta përditësoj formulimin e produktit tim pas paraqitjes së NMPA?"
   },
   "ServiceEcommerce": {
     "heroTitle": "Tregtia Elektronike Ndër-kufitare",
@@ -183,7 +221,11 @@
     "faq3q": "Sa kohë për të ngritur një dyqan ndërkufitar?",
     "faq3a": "Regjistrimi i platformës zakonisht zgjat 2-4 javë. Vendosja e dyqanit, listimi i produkteve dhe gatishmëria operacionale zakonisht zgjat 2-4 javë shtesë në varësi të kompleksitetit të produktit dhe kërkesave të platformës.",
     "faq4q": "A kanë nevojë për etiketa kineze produktet ndërkufitare?",
-    "faq4a": "Produktet CBEC përgjithësisht përjashtohen nga kërkesat e etiketës kineze pasi ato konsiderohen si importe personale. Sidoqoftë, informacioni i produktit duhet të jepet në gjuhën kineze në platformën e tregtisë elektronike. Ne ju udhëzojmë për kërkesat specifike të platformës."
+    "faq4a": "Produktet CBEC përgjithësisht përjashtohen nga kërkesat e etiketës kineze pasi ato konsiderohen si importe personale. Sidoqoftë, informacioni i produktit duhet të jepet në gjuhën kineze në platformën e tregtisë elektronike. Ne ju udhëzojmë për kërkesat specifike të platformës.",
+    "faq5a": "Po, platformat e tregtisë elektronike ndërkufitare lejojnë kompanitë jashtë shtetit të shesin drejtpërdrejt te konsumatorët kinezë pa krijuar një ent lokal. Ne ju udhëzojmë përmes regjistrimit të platformës si tregtar jashtë shtetit.",
+    "faq5q": "A mund të shes në platformat kineze pa një kompani lokale?",
+    "faq6a": "Alipay dhe WeChat Pay dominojnë tregun kinez të tregtisë elektronike. Shumica e platformave ndërkufitare trajtojnë automatikisht përpunimin e pagesave, por ne sigurojmë që dyqani juaj të jetë i optimizuar për preferencat e konsumatorëve kinezë.",
+    "faq6q": "Cilat mënyra pagese preferojnë konsumatorët kinezë?"
   },
   "ServiceBrand": {
     "heroTitle": "Mbrojtja e Markës",
@@ -202,7 +244,11 @@
     "faq3q": "Çfarë është sistemi i Madridit?",
     "faq3a": "Sistemi i Madridit ju lejon të zgjeroni një regjistrim ekzistues të markës tregtare në shumë vende, duke përfshirë Kinën, përmes një aplikacioni të vetëm. Mund të jetë më i shpejtë dhe më me kosto efektive sesa depozitimi i drejtpërdrejtë në Kinë.",
     "faq4q": "Si të mbrohem nga produktet e falsifikuara? Regjistrimi i hershëm është hapi i parë më i rëndësishëm.",
-    "faq4a": "Ekipi i ekspertëve"
+    "faq4a": "Ekipi i ekspertëve",
+    "faq5a": "Jo, të drejtat e markës tregtare janë territoriale. Regjistrimi i markës tregtare në SHBA ose BE nuk ofron mbrojtje në Kinë. Ju duhet të paraqisni veçmas në CNIPA të Kinës ose të zgjeroheni përmes Sistemit të Madridit. Ne rekomandojmë paraqitjen e drejtpërdrejtë të CNIPA për mbrojtjen më të fortë.",
+    "faq5q": "A mund të përdor markën time ekzistuese të SHBA/BE në Kinë?",
+    "faq6a": "Pas regjistrimit, ne ofrojmë shërbime të vazhdueshme të monitorimit të markave tregtare që skanojnë për aplikacione konfliktuale, produkte të falsifikuara në platformat e tregtisë elektronike dhe përdorim të paautorizuar të emrit të markës tuaj në reklama.",
+    "faq6q": "Si mund të monitoroj për shkelje të markës tregtare në Kinë?"
   },
   "ServiceCommon": {
     "whoTitle": "Për Kujt Është Kjo",
@@ -241,7 +287,13 @@
     "customCta": "Na Kontaktoni për Kuotim të Personalizuar",
     "popular": "Më e Popularizuara",
     "title": "Paketat e Përputhshmërisë",
-    "subtitle": "Zgjidhni paketën që i përshtatet strategjisë së hyrjes së markës suaj në Kinë."
+    "subtitle": "Zgjidhni paketën që i përshtatet strategjisë së hyrjes së markës suaj në Kinë.",
+    "advancedIncludes": "Të gjitha shërbimet e hyrjes në treg plus: konfigurimi i dyqanit Tmall Global ose JD Worldwide. Kërkimi i markës tregtare dhe regjistrimi i CNIPA. Regjistrimi i IP-së doganore për mbrojtjen e kufirit. Rishikimi i pajtueshmërisë së reklamave për të gjitha materialet e marketingut.",
+    "advancedUseCase": "E përkryer për markat në rritje të gatshme për të lançuar linjën e tyre të plotë të produkteve në platformat kineze të tregtisë elektronike.",
+    "basicIncludes": "Plotësoni regjistrimin e GACC përmes sistemit CIFER. Dizajni kinez i etiketës në përputhje me GB 7718-2025. Konsultimi i pajtueshmërisë një-në-një për kategorinë tuaj specifike të produktit.",
+    "basicUseCase": "Ideale për eksportuesit e ushqimit për herë të parë që kanë nevojë për gjërat thelbësore për t'i dërguar legalisht në Kinë.",
+    "premiumIncludes": "Të gjitha shërbimet Go-to-Market plus: Konsulencë për certifikimin e CCC për produktet e aplikueshme. Regjistrimi i kozmetikës NMPA nëse zgjerohet në bukuri. Vlerësimi i pajtueshmërisë së të dhënave PIPL për trajtimin e të dhënave të klientit. Menaxher i dedikuar i llogarisë për këshillim të vazhdueshëm rregullator.",
+    "premiumUseCase": "Për kompanitë e themeluara që angazhohen për një prani afatgjatë në disa kategori produktesh në Kinë."
   },
   "Faq": {
     "heroTitle": "Pyetje të Shpeshta",
@@ -286,7 +338,43 @@
     "generalQ3": "Ku ndodhet ekipi juaj?",
     "generalA3": "Ekipi ynë ndodhet në Kinë me qasje të drejtpërdrejtë te autoritetet rregullatore, laboratorët e testimit dhe organet e çertifikimit. Ne punojmë me klientë globalisht.",
     "generalQ4": "A mund ta trajtoni të gjithë procesin për mua?",
-    "generalA4": "Po. Ne ofrojmë shërbim të plotë nga fillimi deri në fund — nga vlerësimi fillestar dhe dokumentacioni te regjistrimi, çertifikimi dhe menaxhimi i vazhdueshëm i përputhshmërisë."
+    "generalA4": "Po. Ne ofrojmë shërbim të plotë nga fillimi deri në fund — nga vlerësimi fillestar dhe dokumentacioni te regjistrimi, çertifikimi dhe menaxhimi i vazhdueshëm i përputhshmërisë.",
+    "brandA3": "Nëse një palë e tretë ka regjistruar markën tuaj, opsionet përfshijnë negocimin e një transferimi, paraqitjen e një anulimi të mospërdorimit (nëse nuk është përdorur për 3+ vjet) ose sfidimin e regjistrimit të keqbesimit. Ne vlerësojmë situatën tuaj dhe rekomandojmë strategjinë më të mirë.",
+    "brandA4": "Po, çdo element i veçantë - logoja juaj, emri i markës angleze dhe emri i markës kineze - duhet të regjistrohen si marka të veçanta tregtare për mbrojtje gjithëpërfshirëse. Ne trajtojmë strategjitë e regjistrimit me shumë elementë.",
+    "brandQ3": "Po sikur dikush të ketë regjistruar tashmë markën time tregtare?",
+    "brandQ4": "A duhet të regjistroj logon time dhe emrin e markës kineze veçmas?",
+    "cccQ3": "A mund të përdor certifikatat CCC nga një prodhues i mëparshëm?",
+    "cccQ3a": "Jo, certifikatat CCC janë të lidhura me objektin specifik të prodhimit. Nëse ndryshoni prodhues, kërkohet një aplikacion i ri CCC. Ne mund të ndihmojmë me transferimin ose ri-aplikimin për certifikim.",
+    "cccQ4": "Cila është kostoja e certifikimit CCC?",
+    "cccQ4a": "Kostot e CCC ndryshojnë sipas kategorisë së produktit, kërkesave të testimit dhe fushës së auditimit të fabrikës. Ne ofrojmë një vlerësim të detajuar të kostos pas vlerësimit të produktit tuaj specifik. Struktura jonë me tarifë fikse nuk do të thotë surpriza.",
+    "cosmeticsA2": "A境内责任人 (personi përgjegjës vendas) është një ent me bazë në Kinë, ligjërisht përgjegjës për cilësinë dhe sigurinë e produktit tuaj. Ata trajtojnë komunikimet NMPA, raportimin e ngjarjeve të padëshiruara dhe pajtueshmërinë rregullatore. Ne mund të shërbejmë si agjenti juaj përgjegjës.",
+    "cosmeticsA3": "Po, NMPA kërkon testim të sigurisë dhe efikasitetit në laboratorët e akredituar kinezë. Disa të dhëna të testeve të huaja mund të pranohen për vlerësime të caktuara, por testimi kryesor i sigurisë duhet të kryhet në Kinë.",
+    "cosmeticsQ2": "Çfarë është një agjent përgjegjës kinez?",
+    "cosmeticsQ3": "A duhet të testoj produktet e mia në Kinë?",
+    "ecommerceA3": "Shumica e platformave ndërkufitare ofrojnë mjete të integruara për shërbimin ndaj klientit dhe trajtimin e kthimit. Ne këshillojmë për vendosjen e flukseve të punës për shërbimin ndaj klientit në gjuhën kineze dhe menaxhimin e kthimeve përmes depove të lidhura.",
+    "ecommerceA4": "Po, shumë marka përdorin ndërkufitar si një kanal testimi tregu përpara se të kalojnë në import të plotë tradicional me pajtueshmëri të plotë NMPA, GACC dhe CCC. Ne mbështesim të dyja rrugët.",
+    "ecommerceQ3": "Si t'i trajtoj kthimet dhe shërbimin ndaj klientit në Kinë?",
+    "ecommerceQ4": "A mund të kaloj më vonë nga importi ndërkufitar në atë tradicional?",
+    "gaccA5": "Po, një prodhues i vetëm jashtë shtetit mund të regjistrojë produkte nëpër kategori të shumta ushqimore nën një regjistrim GACC. Çdo kategori mund të ketë kërkesa të ndryshme dokumentacioni dhe ne menaxhojmë qëllimin e plotë në emrin tuaj.",
+    "gaccA6": "Nëse refuzohet, ne shqyrtojmë arsyet e refuzimit, korrigjojmë çdo mangësi dhe i dorëzojmë sërish. Problemet e zakonshme përfshijnë dokumentacion jo të plotë ose klasifikim të gabuar të kodit HS. Procesi ynë i rishikimit para dorëzimit minimizon rrezikun e refuzimit.",
+    "gaccQ5": "A mund të regjistrojë një kompani e vetme kategori të shumta produktesh?",
+    "gaccQ6": "Çfarë ndodh nëse regjistrimi im në GACC refuzohet?",
+    "generalA10": "Absolutisht. Shumë klientë përdorin paketat tona të pajtueshmërisë (Hyrja në treg, Shko-to-Treg, Lancimi i markës) të cilat bashkojnë shërbime të shumta me një vlerë më të mirë. Ne gjithashtu krijojmë paketa me porosi për nevoja unike.",
+    "generalA5": "Ne u shërbejmë të gjitha industrive që eksportojnë në Kinë: ushqim dhe pije, kozmetikë dhe kujdes personal, elektronikë dhe pajisje, lodra, tekstile, kimikate, pjesë automobilash dhe më shumë. Nëse kalon kufirin kinez, ne mund të ndihmojmë me pajtueshmërinë.",
+    "generalA6": "po. Përtej regjistrimit fillestar, ne ofrojmë menaxhim rinovimi, monitorim rregullator, këshillim për pajtueshmërinë dhe mbështetje për hyrjen në treg. Shumë klientë na mbajnë për menaxhimin e vazhdueshëm të pajtueshmërisë.",
+    "generalA7": "Thjesht na kontaktoni përmes formularit të faqes sonë të internetit, WhatsApp ose emailit. Ne do të planifikojmë një konsultim falas për të kuptuar produktet, qëllimet dhe afatin kohor, më pas do të ofrojmë një plan të përshtatur përputhshmërie.",
+    "generalA8": "Ekipi ynë punon në anglisht dhe mandarin kinezisht. Ne u shërbejmë klientëve globalisht dhe mund të komunikojmë në gjuhën tuaj të preferuar gjatë gjithë procesit.",
+    "generalA9": "Ndërsa asnjë konsulent nuk mund të garantojë miratimin e qeverisë, historia jonë tregon një shkallë suksesi gati 100%. Rishikimi ynë i plotë para dorëzimit dhe njohuritë e thella rregullatore minimizojnë rrezikun në çdo hap.",
+    "generalQ10": "A mund të bashkoj shumë shërbime së bashku?",
+    "generalQ5": "Cilat industri i shërbeni?",
+    "generalQ6": "A ofroni mbështetje të vazhdueshme për pajtueshmërinë?",
+    "generalQ7": "Si mund të filloj?",
+    "generalQ8": "Në cilat gjuhë punoni?",
+    "generalQ9": "A garantoni miratimin e regjistrimit?",
+    "labelQ3": "A kanë nevojë për etiketa të ndryshme suplementet shëndetësore?",
+    "labelQ3a": "Po, suplementet shëndetësore (保健食品) kanë kërkesa shtesë për etiketim përtej ushqimit standard të parapaketuar, duke përfshirë pretendimet për funksionet shëndetësore, 适宜人群 (i përshtatshëm人群) dhe udhëzimet e përdorimit. Ne trajtojmë kërkesat e etiketës specifike të kategorive.",
+    "labelQ4": "Sa shpejt mund të plotësohen etiketat?",
+    "labelQ4a": "Rishikimi dhe dizajni standard i etiketës zgjat 1-2 javë për SKU. Për dërgesat urgjente, ne ofrojmë shërbim të përshpejtuar. Porositë e nxituara varen nga kompleksiteti i produktit dhe ngarkesa aktuale e punës."
   },
   "About": {
     "heroTitle": "Rreth SinoTrade Compliance",
@@ -310,7 +398,20 @@
     "title": "About SinoTrade Compliance",
     "subtitle": "Për t'i bërë rregulloret e importit të Kinës të aksesueshme dhe të lundrueshme për bizneset ndërkombëtare të të gjitha madhësive. Ne besojmë se pajtueshmëria nuk duhet të jetë një pengesë për hyrjen në treg — ajo duhet të jetë një urë lidhëse. Michael Scott",
     "missionText": "Email-i i biznesit",
-    "values": "Expertise — Deep knowledge of China's regulatory landscape across multiple industries.,Transparency — Fixed-fee pricing with clear deliverables — no hidden costs or surprises.,Commitment — We stay with you from initial consultation to final compliant market entry."
+    "values": "Expertise — Deep knowledge of China's regulatory landscape across multiple industries.,Transparency — Fixed-fee pricing with clear deliverables — no hidden costs or surprises.,Commitment — We stay with you from initial consultation to final compliant market entry.",
+    "partnersSubtitle": "Ne punojmë me laboratorë të akredituar, organe certifikimi dhe partnerë ligjorë në të gjithë Kinën.",
+    "partnersTitle": "Partnerë të besuar",
+    "teamMember1Desc": "5+ vjet i specializuar në regjistrimet me Dekretin 248/249 të GACC në të 18 kategoritë ushqimore.",
+    "teamMember1Name": "Sarah Chen",
+    "teamMember1Role": "Specialist i Regjistrimit të GACC",
+    "teamMember2Desc": "Ekspert në proceset e certifikimit CCC dhe koordinimin e laboratorëve të akredituar nga CNCA.",
+    "teamMember2Name": "Mike Wang",
+    "teamMember2Role": "Koordinator i Certifikimit dhe Testimit",
+    "teamMember3Desc": "Specializohet në dosjet NMPA për kozmetikë të zakonshme dhe të veçanta.",
+    "teamMember3Name": "Lisa Liu",
+    "teamMember3Role": "Specialist i Rregullatorit të Kozmetikës",
+    "teamSubtitle": "Një ekip i përkushtuar profesionistësh rregullatorë të përkushtuar për suksesin tuaj në Kinë.",
+    "teamTitle": "Ekipi ynë"
   },
   "Expert": {
     "title": "Njihuni me Specialistin Tuaj Kinez",

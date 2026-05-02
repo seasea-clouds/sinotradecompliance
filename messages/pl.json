@@ -60,7 +60,17 @@
     "faqPreviewA2": "Rejestracja trwa zazwyczaj 2-4 tygodnie w zależności od kategorii produktu i kompletności dokumentacji.",
     "faqPreviewQ3": "Czy rejestracja ważna na zawsze?",
     "faqPreviewA3": "Nie, rejestracja GACC jest ważna przez 5 lat. Odnowienie należy złożyć 6 miesięcy przed wygaśnięciem.",
-    "faqPreviewLink": "Wyświetl wszystkie pytania →"
+    "faqPreviewLink": "Wyświetl wszystkie pytania →",
+    "socialProofSubtitle": "Pomaganie międzynarodowym firmom w bezpiecznym wejściu na rynek chiński.",
+    "socialProofTitle": "Zaufały nam globalne marki",
+    "stat1Label": "Obsługiwane marki",
+    "stat1Number": "500+",
+    "stat2Label": "Kraje",
+    "stat2Number": "50+",
+    "stat3Label": "Lata doświadczenia",
+    "stat3Number": "10+",
+    "stat4Label": "Wskaźnik zgodności",
+    "stat4Number": "100%"
   },
   "Services": {
     "heroTitle": "Nasze usługi",
@@ -88,7 +98,19 @@
     "brandTitle": "Ochrona marki",
     "brandSubtitle": "Rejestracja znaków towarowych, zgłoszenie IP do ceł i zgodność reklamowa w celu ochrony Twojej marki w Chinach.",
     "brandPoints": "Wyszukiwanie i rejestracja znaków towarowych,Wyznaczenie systemu Madrytu,Zgłoszenie IP do ceł,Przegląd zgodności reklamowej,Strategia ochrony marki",
-    "brandLink": "Dowiedz się więcej"
+    "brandLink": "Dowiedz się więcej",
+    "brandIndustries": "Wszystkie branże wchodzące do Chin — FMCG, technologia, moda oraz żywność i napoje.",
+    "brandPainPoint": "Chiński system „pierwszego zgłoszenia” oznacza, że ​​Twoja marka może być już zarejestrowana przez kogoś innego.",
+    "cccIndustries": "Elektronika, sprzęt AGD, sprzęt IT, części samochodowe, zabawki i baterie litowe.",
+    "cccPainPoint": "CCC jest obowiązkowe dla 17 kategorii produktów. Poruszamy się po katalogu tak, że Ty nie musisz.",
+    "cosmeticsIndustries": "Pielęgnacja skóry, makijaż, pielęgnacja włosów, filtry przeciwsłoneczne, perfumy i produkty do higieny osobistej.",
+    "cosmeticsPainPoint": "Złożenie wniosku do NMPA może zająć miesiące. Dzięki naszemu usprawnionemu procesowi szybciej dotrzesz na rynek.",
+    "ecommerceIndustries": "Żywność i napoje, kosmetyki, suplementy, odzież i elektronika użytkowa.",
+    "ecommercePainPoint": "Wdrożenie platformy i zgodność z przepisami logistycznymi są złożone. Zajmujemy się dźwiganiem ciężkich ładunków.",
+    "gaccIndustries": "Nabiał, mięso, owoce morza, pieczywo, napoje, zdrowa żywność i wszystkie 18 kategorii regulowanych przez GACC.",
+    "gaccPainPoint": "Zdezorientowany dekretem 248/249? Upraszczamy rejestrację CIFER, aby Twoje produkty mogły sprawnie przejść odprawę celną.",
+    "labelIndustries": "Paczkowana żywność, napoje, suplementy, kosmetyki i towary konsumpcyjne.",
+    "labelPainPoint": "Jeden błąd w etykietowaniu może zatrzymać przesyłkę podczas odprawy celnej. Zrób to dobrze za pierwszym razem."
   },
   "ServiceGacc": {
     "heroTitle": "Rejestracja żywności GACC",
@@ -107,7 +129,11 @@
     "faq3q": "Jakie dokumenty są potrzebne do rejestracji?",
     "faq3a": "Kluczowe dokumenty to: zezwolenie na prowadzenie działalności, informacje o zakładzie produkcyjnym, lista produktów z kodami HS, certyfikaty zarządzania jakością (ISO 22000/HACCP) i etykiety produktów. Zapewniamy pełną listę kontrolną i pomagamy w przygotowaniu dokumentów.",
     "faq4q": "Czy rejestracja jest ważna na zawsze?",
-    "faq4a": "Nie, rejestracja GACC jest ważna przez 5 lat. Odnowienie należy złożyć 6 miesięcy przed wygaśnięciem. Zapewniamy przypomnienia o odnowieniu i zajmujemy się całym procesem odnowienia w Twoim imieniu."
+    "faq4a": "Nie, rejestracja GACC jest ważna przez 5 lat. Odnowienie należy złożyć 6 miesięcy przed wygaśnięciem. Zapewniamy przypomnienia o odnowieniu i zajmujemy się całym procesem odnowienia w Twoim imieniu.",
+    "faq5a": "Zagraniczny zakład produkcyjny musi być zarejestrowany. Jeśli wytwarzasz produkty w wielu zakładach, każdy z nich wymaga własnej rejestracji GACC. Możemy obsługiwać rejestracje dla wielu witryn w ramach jednego konta.",
+    "faq5q": "Kto musi się zarejestrować – producent czy eksporter?",
+    "faq6a": "Nie. Od 1 stycznia 2022 r. chińskie organy celne będą odrzucać wszelki import żywności bez ważnego numeru rejestracyjnego GACC. Rejestracja musi zostać zakończona przed pierwszą wysyłką.",
+    "faq6q": "Czy mogę wysłać produkty do Chin przed zakończeniem rejestracji?"
   },
   "ServiceLabel": {
     "heroTitle": "Zgodność etykiet chińskich",
@@ -126,7 +152,11 @@
     "faq3q": "Co się stanie, jeśli moje etykiety będą niezgodne?",
     "faq3a": "Niezgodne etykiety mogą skutkować odrzuceniem przez organy celne, zajęciem produktu, karami finansowymi lub przymusowym wycofaniem produktu. Zapewnienie zgodności etykiet przed wysyłką pozwala uniknąć tych kosztownych problemów.",
     "faq4q": "Czy projektujesz również etykiety?",
-    "faq4a": "Tak, zapewniamy kompleksowe usługi w zakresie etykiet: weryfikację zgodności ze standardami GB, niestandardowe projekty etykiet w języku chińskim i pliki gotowe do produkcji dla Twojej drukarki. Zapewniamy również wskazówki dotyczące aplikacji naklejek wjazdowych. Często zadawane pytania"
+    "faq4a": "Tak, zapewniamy kompleksowe usługi w zakresie etykiet: weryfikację zgodności ze standardami GB, niestandardowe projekty etykiet w języku chińskim i pliki gotowe do produkcji dla Twojej drukarki. Zapewniamy również wskazówki dotyczące aplikacji naklejek wjazdowych. Często zadawane pytania",
+    "faq5a": "Tak, każdy SKU wymaga własnej etykiety, ponieważ składniki, wartości odżywcze i specyfikacje produktów są różne. Sprawdzamy i projektujemy etykiety dla każdego SKU indywidualnie.",
+    "faq5q": "Czy potrzebuję osobnych etykiet dla każdego SKU produktu?",
+    "faq6a": "Etykiety żywności opakowanej muszą być zgodne z normami GB 7718-2025 (ogólna norma dotycząca etykiet żywności opakowanej) i GB 28050-2025 (norma dotycząca oznaczania wartości odżywczych). Obejmują one nazewnictwo produktów, listy składników, panele żywieniowe, deklaracje alergenów i inne.",
+    "faq6q": "Jakie standardy muszą spełniać etykiety?"
   },
   "ServiceCcc": {
     "heroTitle": "Certyfikacja CCC",
@@ -145,7 +175,11 @@
     "faq3q": "Jak długo trwa certyfikacja CCC?",
     "faq3a": "Proces CCC trwa zazwyczaj 4–8 miesięcy i obejmuje audyt fabryki, testowanie produktów w laboratoriach akredytowanych przez CNAS i przegląd certyfikatów. Harmonogram różni się w zależności od kategorii produktu i złożoności.",
     "faq4q": "Czy certyfikację CCC można uzyskać z zagranicy?",
-    "faq4a": "Znajdź odpowiedzi na najczęściej zadawane pytania dotyczące tej usługi. Jaka jest różnica między powiadomieniem a rejestracją? Złożenie zgłoszenia (w przypadku kosmetyków ogólnych) trwa około 4-6 miesięcy i obejmuje ocenę bezpieczeństwa produktu i przegląd składników. Rejestracja (w przypadku kosmetyków specjalnych) trwa 12-18 miesięcy i wymaga badania skuteczności oraz oceny bezpieczeństwa. Czy potrzebuję chińskiej osoby odpowiedzialnej? Tak, wszystkie importowane kosmetyki muszą być wyznaczone przez Chińską 境内责任人 (osobę odpowiedzialną w kraju), która bierze na siebie prawną odpowiedzialność za jakość i bezpieczeństwo produktu. Możemy służyć jako Twój 境内责任人."
+    "faq4a": "Znajdź odpowiedzi na najczęściej zadawane pytania dotyczące tej usługi. Jaka jest różnica między powiadomieniem a rejestracją? Złożenie zgłoszenia (w przypadku kosmetyków ogólnych) trwa około 4-6 miesięcy i obejmuje ocenę bezpieczeństwa produktu i przegląd składników. Rejestracja (w przypadku kosmetyków specjalnych) trwa 12-18 miesięcy i wymaga badania skuteczności oraz oceny bezpieczeństwa. Czy potrzebuję chińskiej osoby odpowiedzialnej? Tak, wszystkie importowane kosmetyki muszą być wyznaczone przez Chińską 境内责任人 (osobę odpowiedzialną w kraju), która bierze na siebie prawną odpowiedzialność za jakość i bezpieczeństwo produktu. Możemy służyć jako Twój 境内责任人.",
+    "faq5a": "Tak, niektóre kategorie produktów kwalifikują się do samodzielnej deklaracji zgodności (SDOC) zamiast pełnej certyfikacji. Oceniamy Twój produkt, aby określić, czy ma zastosowanie SDOC, co może znacznie skrócić czas i koszty.",
+    "faq5q": "Czy istnieje możliwość samodzielnego oświadczenia w przypadku CCC?",
+    "faq6a": "Certyfikaty CCC wymagają corocznych inspekcji fabrycznych, aby zachować ważność. Zapewniamy bieżący monitoring zgodności i przygotowujemy Twój obiekt do audytów nadzoru, aby zapewnić niezakłócony dostęp do rynku.",
+    "faq6q": "Co się stanie po otrzymaniu certyfikatu CCC?"
   },
   "ServiceCosmetics": {
     "heroTitle": "Zgłoszenie kosmetyków (NMPA)",
@@ -164,7 +198,11 @@
     "faq3q": "Jak długo zakłada się sklep transgraniczny?",
     "faq3a": "Rejestracja na platformie trwa zazwyczaj 2-4 tygodnie. Konfiguracja sklepu, lista produktów i gotowość operacyjna zwykle zajmują dodatkowe 2–4 tygodnie, w zależności od złożoności produktu i wymagań platformy. Czy produkty transgraniczne wymagają chińskich etykiet?",
     "faq4q": "Czy mogę sprzedawać kosmetyki w transgranicznym handlu elektronicznym bez NMPA?",
-    "faq4a": "Tak, transgraniczne kanały handlu elektronicznego (CBEC) umożliwiają sprzedaż kosmetyków bez konieczności składania NMPA pod pewnymi warunkami. Jest to szybsza droga wejścia na rynek po przygotowaniu pełnej zgodności z NMPA."
+    "faq4a": "Tak, transgraniczne kanały handlu elektronicznego (CBEC) umożliwiają sprzedaż kosmetyków bez konieczności składania NMPA pod pewnymi warunkami. Jest to szybsza droga wejścia na rynek po przygotowaniu pełnej zgodności z NMPA.",
+    "faq5a": "Od 2021 r. Chiny złagodziły wymogi dotyczące testów na zwierzętach w przypadku wielu zwykłych importowanych kosmetyków. Produkty wytwarzane zgodnie z dobrymi praktykami produkcyjnymi (GMP) i posiadające ocenę bezpieczeństwa mogą podlegać zwolnieniu. Oceniamy Twoje produkty pod kątem kwalifikowalności do zwolnienia.",
+    "faq5q": "Czy testy na zwierzętach dotyczą importowanych kosmetyków?",
+    "faq6a": "Drobne zmiany w recepturze mogą wymagać jedynie aktualizacji powiadomienia. Znaczące zmiany – zwłaszcza dotyczące składników aktywnych – mogą wymagać ponownego zgłoszenia lub nowej rejestracji. Doradzamy w zakresie skutków regulacyjnych przed wprowadzeniem zmian.",
+    "faq6q": "Czy mogę zaktualizować recepturę mojego produktu po złożeniu wniosku do NMPA?"
   },
   "ServiceEcommerce": {
     "heroTitle": "Handel elektroniczny transgraniczny",
@@ -183,7 +221,11 @@
     "faq3q": "Jak długo zakładać sklep transgraniczny?",
     "faq3a": "Rejestracja na platformie trwa zazwyczaj 2–4 tygodnie. Konfiguracja sklepu, lista produktów i gotowość operacyjna zwykle zajmują dodatkowe 2–4 tygodnie, w zależności od złożoności produktu i wymagań platformy.",
     "faq4q": "Czy produkty transgraniczne potrzebują chińskich etykiet?",
-    "faq4a": "Produkty CBEC są generalnie zwolnione z wymogów chińskiej etykiety, ponieważ są uważane za import osobisty. Informacje o produkcie muszą być jednak podawane na platformie e-commerce w języku chińskim. Pomożemy Ci poznać wymagania specyficzne dla platformy."
+    "faq4a": "Produkty CBEC są generalnie zwolnione z wymogów chińskiej etykiety, ponieważ są uważane za import osobisty. Informacje o produkcie muszą być jednak podawane na platformie e-commerce w języku chińskim. Pomożemy Ci poznać wymagania specyficzne dla platformy.",
+    "faq5a": "Tak, transgraniczne platformy handlu elektronicznego umożliwiają zagranicznym firmom sprzedaż bezpośrednio chińskim konsumentom bez konieczności zakładania lokalnego podmiotu. Przeprowadzimy Cię przez proces rejestracji platformy jako sprzedawca zagraniczny.",
+    "faq5q": "Czy mogę sprzedawać na chińskich platformach bez lokalnej firmy?",
+    "faq6a": "Alipay i WeChat Pay dominują na chińskim rynku e-commerce. Większość platform transgranicznych automatycznie obsługuje przetwarzanie płatności, ale zapewniamy, że Twój sklep jest zoptymalizowany pod kątem preferencji chińskich konsumentów.",
+    "faq6q": "Jakie metody płatności preferują chińscy konsumenci?"
   },
   "ServiceBrand": {
     "heroTitle": "Ochrona marki",
@@ -202,7 +244,11 @@
     "faq3q": "Czym jest System Madrycki?",
     "faq3a": "System Madrycki umożliwia rozszerzenie istniejącej rejestracji znaku towarowego na wiele krajów, w tym Chiny, za pomocą jednego wniosku. Może to być szybsze i bardziej opłacalne niż bezpośrednie składanie wniosków w Chinach.",
     "faq4q": "Jak chronić się przed podróbkami?",
-    "faq4a": "Zapewniamy kompleksową ochronę marki: rejestrację znaku towarowego, rejestrację celną IP (umożliwiającą organom celnym przejęcie podrabianego towaru), kontrolę zgodności reklam i bieżący monitoring. Wczesna rejestracja to najważniejszy pierwszy krok."
+    "faq4a": "Zapewniamy kompleksową ochronę marki: rejestrację znaku towarowego, rejestrację celną IP (umożliwiającą organom celnym przejęcie podrabianego towaru), kontrolę zgodności reklam i bieżący monitoring. Wczesna rejestracja to najważniejszy pierwszy krok.",
+    "faq5a": "Nie, prawa do znaków towarowych mają charakter terytorialny. Rejestracja znaku towarowego w USA lub UE nie zapewnia ochrony w Chinach. Należy złożyć osobny wniosek w chińskim CNIPA lub złożyć wniosek za pośrednictwem systemu madryckiego. W celu zapewnienia najsilniejszej ochrony zalecamy bezpośrednie zgłoszenie do CNIPA.",
+    "faq5q": "Czy mogę używać mojego istniejącego znaku towarowego USA/UE w Chinach?",
+    "faq6a": "Po rejestracji zapewniamy stałe usługi monitorowania znaków towarowych, które skanują w poszukiwaniu sprzecznych aplikacji, podrabianych produktów na platformach handlu elektronicznego oraz nieuprawnionego wykorzystania nazwy marki w reklamach.",
+    "faq6q": "Jak monitorować naruszenia znaków towarowych w Chinach?"
   },
   "ServiceCommon": {
     "whoTitle": "Dla kogo jest ta usługa",
@@ -241,7 +287,13 @@
     "customCta": "Skontaktuj się z nami w sprawie indywidualnej wyceny",
     "popular": "Najpopularniejszy",
     "title": "Pakiety zgodności",
-    "subtitle": "Wybierz pakiet dopasowany do strategii wejścia Twojej marki na rynek Chin."
+    "subtitle": "Wybierz pakiet dopasowany do strategii wejścia Twojej marki na rynek Chin.",
+    "advancedIncludes": "Wszystkie usługi wejścia na rynek plus: konfiguracja sklepu Tmall Global lub JD Worldwide. Wyszukiwanie znaków towarowych i rejestracja CNIPA. Rejestr celny IP dla ochrony granic. Przegląd zgodności reklamowej wszystkich materiałów marketingowych.",
+    "advancedUseCase": "Idealny dla rozwijających się marek gotowych wprowadzić pełną linię produktów na chińskie platformy e-commerce.",
+    "basicIncludes": "Dokończ rejestrację GACC w systemie CIFER. Chiński projekt etykiety zgodny z GB 7718-2025. Indywidualne konsultacje dotyczące zgodności dla konkretnej kategorii produktów.",
+    "basicUseCase": "Idealny dla eksporterów żywności po raz pierwszy, którzy potrzebują niezbędnych artykułów, aby legalnie wysłać je do Chin.",
+    "premiumIncludes": "Wszystkie usługi Go-to-Market plus: doradztwo w zakresie certyfikacji CCC dla odpowiednich produktów. Rejestracja kosmetyków NMPA, jeśli rozszerzy się na piękno. Ocena zgodności danych PIPL w zakresie przetwarzania danych klientów. Dedykowany Account Manager do bieżącego doradztwa regulacyjnego.",
+    "premiumUseCase": "Dla firm o ugruntowanej pozycji, które zobowiązały się do długoterminowej obecności w Chinach w wielu kategoriach produktów."
   },
   "Faq": {
     "heroTitle": "Najczęściej zadawane pytania",
@@ -286,7 +338,43 @@
     "generalQ3": "Gdzie znajduje się Państwa zespół?",
     "generalA3": "Nasz zespół ma siedzibę w Chinach z bezpośrednim dostępem do organów regulacyjnych, laboratoriów badawczych i jednostek certyfikujących. Współpracujemy z klientami na całym świecie.",
     "generalQ4": "Czy mogą Państwo obsłużyć cały proces za mnie?",
-    "generalA4": "Tak. Oferujemy kompletną usługę od A do Z — od wstępnej oceny i dokumentacji po rejestrację, certyfikację i ciągłe zarządzanie zgodnością."
+    "generalA4": "Tak. Oferujemy kompletną usługę od A do Z — od wstępnej oceny i dokumentacji po rejestrację, certyfikację i ciągłe zarządzanie zgodnością.",
+    "brandA3": "Jeśli Twój znak zarejestrowała osoba trzecia, dostępne opcje obejmują wynegocjowanie przeniesienia, złożenie wniosku o anulowanie nieużywania (jeśli znak nie był używany przez ponad 3 lata) lub zakwestionowanie rejestracji w złej wierze. Ocenimy Twoją sytuację i zaproponujemy najlepszą strategię.",
+    "brandA4": "Tak, każdy odrębny element — Twoje logo, angielska nazwa marki i chińska nazwa marki — powinien zostać zarejestrowany jako odrębny znak towarowy w celu zapewnienia kompleksowej ochrony. Obsługujemy wieloelementowe strategie rejestracji.",
+    "brandQ3": "A co jeśli ktoś już zarejestrował mój znak towarowy?",
+    "brandQ4": "Czy muszę osobno rejestrować moje logo i chińską nazwę marki?",
+    "cccQ3": "Czy mogę skorzystać z certyfikatów CCC poprzedniego producenta?",
+    "cccQ3a": "Nie, certyfikaty CCC są powiązane z konkretnym zakładem produkcyjnym. W przypadku zmiany producenta wymagana jest nowa aplikacja CCC. Możemy pomóc w przeniesieniu lub ponownym złożeniu wniosku o certyfikację.",
+    "cccQ4": "Jaki jest koszt certyfikacji CCC?",
+    "cccQ4a": "Koszty CCC różnią się w zależności od kategorii produktu, wymagań testowych i zakresu audytu fabryki. Szczegółowy kosztorys wykonujemy po dokonaniu wyceny konkretnego produktu. Nasza struktura opłat stałych nie oznacza żadnych niespodzianek.",
+    "cosmeticsA2": "A境内责任人 (osoba odpowiedzialna w kraju) to podmiot z siedzibą w Chinach, prawnie odpowiedzialny za jakość i bezpieczeństwo produktu. Zajmują się komunikacją NMPA, raportowaniem zdarzeń niepożądanych i zgodnością z przepisami. Możemy służyć jako Twój odpowiedzialny agent.",
+    "cosmeticsA3": "Tak, NMPA wymaga testów bezpieczeństwa i skuteczności w akredytowanych chińskich laboratoriach. Niektóre dane z testów zagranicznych mogą zostać zaakceptowane do niektórych ocen, ale podstawowe testy bezpieczeństwa muszą zostać przeprowadzone w Chinach.",
+    "cosmeticsQ2": "Kim jest chiński agent odpowiedzialny?",
+    "cosmeticsQ3": "Czy muszę testować moje produkty w Chinach?",
+    "ecommerceA3": "Większość platform transgranicznych udostępnia wbudowane narzędzia obsługi klienta i obsługi zwrotów. Doradzamy w zakresie konfiguracji procesów obsługi klienta w języku chińskim i zarządzania zwrotami za pośrednictwem składów celnych.",
+    "ecommerceA4": "Tak, wiele marek wykorzystuje handel transgraniczny jako kanał testowania rynku przed przejściem na pełny tradycyjny import z pełną zgodnością z NMPA, GACC i CCC. Wspieramy obie ścieżki.",
+    "ecommerceQ3": "Jak postępować ze zwrotami i obsługą klienta w Chinach?",
+    "ecommerceQ4": "Czy mogę później przejść z importu transgranicznego na tradycyjny?",
+    "gaccA5": "Tak, jeden zagraniczny producent może zarejestrować produkty należące do wielu kategorii żywności w ramach jednej rejestracji GACC. Każda kategoria może mieć inne wymagania dotyczące dokumentacji, a my zarządzamy pełnym zakresem w Twoim imieniu.",
+    "gaccA6": "W przypadku odrzucenia sprawdzamy powody odrzucenia, poprawiamy wszelkie braki i przesyłamy ponownie. Typowe problemy obejmują niekompletną dokumentację lub nieprawidłową klasyfikację kodu HS. Nasz proces przeglądu przed złożeniem wniosku minimalizuje ryzyko odrzucenia.",
+    "gaccQ5": "Czy jedna firma może zarejestrować wiele kategorii produktów?",
+    "gaccQ6": "Co się stanie, jeśli moja rejestracja GACC zostanie odrzucona?",
+    "generalA10": "Absolutnie. Wielu klientów korzysta z naszych pakietów zgodności (wejście na rynek, wejście na rynek, wprowadzenie marki), które obejmują wiele usług po lepszej cenie. Tworzymy również niestandardowe pakiety dla unikalnych potrzeb.",
+    "generalA5": "Obsługujemy wszystkie branże eksportujące do Chin: żywność i napoje, kosmetyki i higiena osobista, elektronika i sprzęt AGD, zabawki, tekstylia, chemikalia, części samochodowe i inne. Jeśli przekroczy granicę chińską, możemy pomóc w przestrzeganiu przepisów.",
+    "generalA6": "Tak. Oprócz pierwszej rejestracji zapewniamy zarządzanie odnowieniami, monitorowanie regulacyjne, doradztwo w zakresie zgodności i wsparcie przy wejściu na rynek. Wielu klientów zatrudnia nas w celu bieżącego zarządzania zgodnością.",
+    "generalA7": "Po prostu skontaktuj się z nami za pośrednictwem formularza na naszej stronie internetowej, WhatsApp lub e-maila. Zaplanujemy bezpłatną konsultację, aby zrozumieć Twoje produkty, cele i harmonogram, a następnie przedstawimy dostosowany plan zgodności.",
+    "generalA8": "Nasz zespół pracuje w języku angielskim i chińskim mandaryńskim. Obsługujemy klientów na całym świecie i przez cały proces możemy komunikować się w preferowanym przez Ciebie języku.",
+    "generalA9": "Chociaż żaden konsultant nie może zagwarantować zgody rządu, nasze doświadczenie pokazuje, że wskaźnik sukcesu wynosi prawie 100%. Nasza dokładna analiza przed złożeniem wniosku i dogłębna wiedza regulacyjna minimalizują ryzyko na każdym kroku.",
+    "generalQ10": "Czy mogę połączyć wiele usług w jedną całość?",
+    "generalQ5": "Jakie branże obsługujecie?",
+    "generalQ6": "Czy oferujecie stałe wsparcie w zakresie zgodności?",
+    "generalQ7": "Jak zacząć?",
+    "generalQ8": "W jakich językach pracujecie?",
+    "generalQ9": "Czy gwarantujecie zgodę na rejestrację?",
+    "labelQ3": "Czy suplementy zdrowotne wymagają różnych etykiet?",
+    "labelQ3a": "Tak, suplementy zdrowotne (保健食品) mają dodatkowe wymagania dotyczące etykietowania wykraczające poza standardową żywność opakowaną, w tym oświadczenia dotyczące funkcji zdrowotnych,适宜人群 (odpowiednie人群) i instrukcje użytkowania. Zajmujemy się wymaganiami dotyczącymi etykiet specyficznych dla kategorii.",
+    "labelQ4": "Jak szybko można wykonać etykiety?",
+    "labelQ4a": "Standardowa weryfikacja i projektowanie etykiet zajmuje 1–2 tygodnie dla każdego SKU. W przypadku przesyłek pilnych oferujemy usługę przyspieszoną. Zamówienia pilne zależą od złożoności produktu i aktualnego obciążenia pracą."
   },
   "About": {
     "heroTitle": "O SinoTrade Compliance",
@@ -310,7 +398,20 @@
     "title": "About SinoTrade Compliance",
     "subtitle": "Twój zaufany partner w poruszaniu się po chińskich przepisach importowych.",
     "missionText": "Uczynienie chińskich przepisów importowych dostępnymi i łatwymi w obsłudze dla międzynarodowych firm każdej wielkości. Wierzymy, że zgodność nie powinna stanowić bariery wejścia na rynek — powinna być pomostem.",
-    "values": "Doświadczenie — głęboka znajomość chińskiego krajobrazu regulacyjnego w wielu branżach.,Przejrzystość — Stałe opłaty z jasnymi wynikami — żadnych ukrytych kosztów i niespodzianek.,Zaangażowanie — Jesteśmy z Tobą od wstępnej konsultacji do ostatecznego zgodnego wejścia na rynek."
+    "values": "Doświadczenie — głęboka znajomość chińskiego krajobrazu regulacyjnego w wielu branżach.,Przejrzystość — Stałe opłaty z jasnymi wynikami — żadnych ukrytych kosztów i niespodzianek.,Zaangażowanie — Jesteśmy z Tobą od wstępnej konsultacji do ostatecznego zgodnego wejścia na rynek.",
+    "partnersSubtitle": "Współpracujemy z akredytowanymi laboratoriami, jednostkami certyfikującymi i partnerami prawnymi w całych Chinach.",
+    "partnersTitle": "Zaufani partnerzy",
+    "teamMember1Desc": "Ponad 5 lat specjalizacji w rejestracji dekretu GACC 248/249 we wszystkich 18 kategoriach żywności.",
+    "teamMember1Name": "Sara Chen",
+    "teamMember1Role": "Specjalista ds. Rejestracji GACC",
+    "teamMember2Desc": "Ekspert w zakresie procesów certyfikacji CCC i koordynacji laboratoriów akredytowanych przez CNCA.",
+    "teamMember2Name": "Mike'a Wanga",
+    "teamMember2Role": "Koordynator ds. certyfikacji i testów",
+    "teamMember3Desc": "Specjalizuje się w opiłkach NMPA zarówno kosmetyków zwykłego jak i specjalnego przeznaczenia.",
+    "teamMember3Name": "Lisa Liu",
+    "teamMember3Role": "Specjalista ds. regulacji dotyczących kosmetyków",
+    "teamSubtitle": "Oddany zespół specjalistów ds. regulacji prawnych zaangażowanych w Twój sukces w Chinach.",
+    "teamTitle": "Nasz zespół"
   },
   "Expert": {
     "title": "Poznaj swojego specjalistę ds. Chin",

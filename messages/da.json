@@ -60,7 +60,17 @@
     "faqPreviewA2": ". uger afhængigt af produktkategorien og fuldstændigheden af dokumentationen.",
     "faqPreviewQ3": "Er registreringen gyldig for evigt?",
     "faqPreviewA3": "Nej, GACC-registrering er gyldig i 5 år. Fornyelse skal indsendes 6 måneder før udløb.",
-    "faqPreviewLink": "Se alle spørgsmål →"
+    "faqPreviewLink": "Se alle spørgsmål →",
+    "socialProofSubtitle": "Hjælper internationale virksomheder med at komme ind på det kinesiske marked med tillid.",
+    "socialProofTitle": "Betroet af Global Brands",
+    "stat1Label": "Mærker serveret",
+    "stat1Number": "500+",
+    "stat2Label": "lande",
+    "stat2Number": "50+",
+    "stat3Label": "Års ekspertise",
+    "stat3Number": "10+",
+    "stat4Label": "Overholdelsesgrad",
+    "stat4Number": "100 %"
   },
   "Services": {
     "heroTitle": "Vores tjenester",
@@ -88,7 +98,19 @@
     "brandTitle": "Brandbeskyttelse",
     "brandSubtitle": "Varemærkeregistrering, toldens IP-registrering og reklameoverholdelse for at beskytte dit brand i Kina.",
     "brandPoints": "Varemærkesøgning og registrering,Madrid-systemudpegning,Toldens IP-registrering,Reklameoverholdelsesgennemgang,Brandbeskyttelsesstrategi",
-    "brandLink": "Lær mere"
+    "brandLink": "Lær mere",
+    "brandIndustries": "Alle industrier, der kommer ind i Kina - FMCG, teknologi, mode og mad og drikke.",
+    "brandPainPoint": "Kinas første-til-fil-system betyder, at dit brand allerede kan være registreret af en anden.",
+    "cccIndustries": "Elektronik, husholdningsapparater, it-udstyr, bildele, legetøj og lithiumbatterier.",
+    "cccPainPoint": "CCC er obligatorisk for 17 produktkategorier. Vi navigerer i kataloget, så du ikke behøver det.",
+    "cosmeticsIndustries": "Hudpleje, makeup, hårpleje, solcreme, dufte og produkter til personlig pleje.",
+    "cosmeticsPainPoint": "NMPA-ansøgning kan tage måneder. Vores strømlinede proces får dig hurtigere på markedet.",
+    "ecommerceIndustries": "Mad og drikke, kosmetik, kosttilskud, tøj og forbrugerelektronik.",
+    "ecommercePainPoint": "Platform onboarding og logistikoverholdelse er komplekse. Vi klarer de tunge løft.",
+    "gaccIndustries": "Mejeri, kød, fisk og skaldyr, bageri, drikkevarer, helsekost og alle 18 GACC-regulerede kategorier.",
+    "gaccPainPoint": "Forvirret af dekret 248/249? Vi forenkler CIFER-registreringen, så dine produkter fortolder uden problemer.",
+    "labelIndustries": "Færdigpakkede fødevarer, drikkevarer, kosttilskud, kosmetik og forbrugsvarer.",
+    "labelPainPoint": "En mærkningsfejl kan standse din forsendelse i tolden. Få det rigtigt første gang."
   },
   "ServiceGacc": {
     "heroTitle": "GACC fødevareregistrering",
@@ -107,7 +129,11 @@
     "faq3q": "Hvilke dokumenter er nødvendige for registrering?",
     "faq3a": "Nøgledokumenter omfatter: virksomhedslicens, produktionsanlægsoplysninger, produktliste med 200-certifikater for kvalitetsstyring og 200 (HACC) produktetiketter. Vi leverer en komplet tjekliste og hjælper med dokumentforberedelse.",
     "faq4q": "Gælder registreringen for evigt?",
-    "faq4a": "Nej, GACC-registrering er gyldig i 5 år. Fornyelse skal indsendes 6 måneder før udløb. Vi giver påmindelser om fornyelse og håndterer hele fornyelsesprocessen på dine vegne."
+    "faq4a": "Nej, GACC-registrering er gyldig i 5 år. Fornyelse skal indsendes 6 måneder før udløb. Vi giver påmindelser om fornyelse og håndterer hele fornyelsesprocessen på dine vegne.",
+    "faq5a": "Den oversøiske produktionsfacilitet skal være registreret. Hvis du fremstiller produkter på flere anlæg, skal hver facilitet have sin egen GACC-registrering. Vi kan håndtere registreringer for flere websteder under én konto.",
+    "faq5q": "Hvem skal registrere - producenten eller eksportøren?",
+    "faq6a": "Nej. Siden 1. januar 2022 vil kinesisk told afvise enhver fødevareimport uden et gyldigt GACC-registreringsnummer. Registreringen skal være gennemført før din første forsendelse.",
+    "faq6q": "Kan jeg sende produkter til Kina, før registreringen er fuldført?"
   },
   "ServiceLabel": {
     "heroTitle": "Kinesisk mærkningsoverholdelse",
@@ -126,7 +152,11 @@
     "faq3q": "Hvad sker der, hvis mine etiketter ikke er i overensstemmelse?",
     "faq3a": "Ikke-kompatible etiketter kan resultere i toldafvisning, produktbeslaglæggelse, bøder eller tvungen produkttilbagekaldelse. At sikre, at etiketten overholdes før forsendelse, forhindrer disse dyre problemer.",
     "faq4q": "Designer du også etiketterne?",
-    "faq4a": "Ja, vi leverer komplette etikettjenester: overensstemmelsesgennemgang i forhold til GB-standarder, tilpasset etiketdesign på kinesisk og produktionsklare filer til din printer. Vi giver også vejledning om applikationer med mærkater ved indgangshavn."
+    "faq4a": "Ja, vi leverer komplette etikettjenester: overensstemmelsesgennemgang i forhold til GB-standarder, tilpasset etiketdesign på kinesisk og produktionsklare filer til din printer. Vi giver også vejledning om applikationer med mærkater ved indgangshavn.",
+    "faq5a": "Ja, hver SKU kræver sin egen kompatible etiket, da ingredienser, ernæringsfakta og produktspecifikationer varierer. Vi gennemgår og designer etiketter for hver af dine SKU'er individuelt.",
+    "faq5q": "Har jeg brug for separate etiketter for hvert produkt SKU?",
+    "faq6a": "Færdigpakkede fødevareetiketter skal overholde GB 7718-2025 (General Standard for Prepackaged Food Labels) og GB 28050-2025 (Nutrition Labeling Standard). Disse dækker produktnavngivning, ingredienslister, ernæringspaneler, allergendeklarationer og mere.",
+    "faq6q": "Hvilke standarder skal etiketter overholde?"
   },
   "ServiceCcc": {
     "heroTitle": "CCC-certificering",
@@ -145,7 +175,11 @@
     "faq3q": "Hvor lang tid tager CCC-certificering?",
     "faq3a": "CCC-processen tager typisk 4-8 ​​måneder inklusive fabriksaudit, produkttest på CNAS-akkrediterede laboratorier og certificeringsgennemgang. Tidslinjen varierer efter produktkategori og kompleksitet.",
     "faq4q": "Kan CCC-certificering udføres fra udlandet?",
-    "faq4a": "Ja, men det kræver koordinering med kinesiske testlaboratorier og certificeringsorganer. Vi fungerer som din lokale repræsentant og administrerer fabriksaudits, prøveafprøvning og al kommunikation med certificeringsmyndigheder."
+    "faq4a": "Ja, men det kræver koordinering med kinesiske testlaboratorier og certificeringsorganer. Vi fungerer som din lokale repræsentant og administrerer fabriksaudits, prøveafprøvning og al kommunikation med certificeringsmyndigheder.",
+    "faq5a": "Ja, visse produktkategorier kvalificerer sig til selverklæring om overensstemmelse (SDOC) i stedet for fuld certificering. Vi vurderer dit produkt for at afgøre, om SDOC gælder, hvilket kan reducere tid og omkostninger betydeligt.",
+    "faq5q": "Er der mulighed for egenerklæring for CCC?",
+    "faq6a": "CCC-certifikater kræver årlige fabriksinspektioner for at opretholde gyldigheden. Vi sørger for løbende overholdelsesovervågning og forbereder din facilitet til overvågningsrevisioner for at sikre uafbrudt markedsadgang.",
+    "faq6q": "Hvad sker der, efter jeg har modtaget CCC-certifikatet?"
   },
   "ServiceCosmetics": {
     "heroTitle": "Kosmetikregistrering (NMPA)",
@@ -164,7 +198,11 @@
     "faq3q": "Har jeg brug for en kinesisk ansvarlig person?",
     "faq3a": "Ja, al importeret kosmetik skal udpege en kinesisk 境内责任人 (indenlandsk ansvarlig person), som påtager sig det juridiske ansvar for produktkvalitet og sikkerhed. Vi kan tjene som din境内责任人.",
     "faq4q": "Kan jeg sælge kosmetik gennem grænseoverskridende e-handel uden NMPA?",
-    "faq4a": "Ja, grænseoverskridende e-handelskanaler (CBEC) tillader kosmetiksalg uden NMPA-ansøgning under visse betingelser. Dette er en hurtigere markedsadgangsrute, mens du forbereder fuld NMPA-overholdelse."
+    "faq4a": "Ja, grænseoverskridende e-handelskanaler (CBEC) tillader kosmetiksalg uden NMPA-ansøgning under visse betingelser. Dette er en hurtigere markedsadgangsrute, mens du forbereder fuld NMPA-overholdelse.",
+    "faq5a": "Kina har lempet kravene til dyreforsøg for mange almindelige importerede kosmetikprodukter siden 2021. Produkter fremstillet under god fremstillingspraksis (GMP) med en sikkerhedsvurdering kan være undtaget. Vi vurderer dine produkter for fritagelsesberettigelse.",
+    "faq5q": "Gælder dyreforsøg importeret kosmetik?",
+    "faq6a": "Mindre formuleringsændringer kræver muligvis kun en notifikationsopdatering. Væsentlige ændringer - især af aktive ingredienser - kan kræve genansøgning eller en ny registrering. Vi rådgiver om den lovgivningsmæssige påvirkning, før du foretager ændringer.",
+    "faq6q": "Kan jeg opdatere min produktformulering efter NMPA-indgivelse?"
   },
   "ServiceEcommerce": {
     "heroTitle": "Grænseoverskridende e-handel",
@@ -183,7 +221,11 @@
     "faq3q": "Hvor lang tid skal du oprette en grænseoverskridende butik?",
     "faq3a": "Platformregistrering tager typisk 2-4 uger. Butiksopsætning, produktliste og driftsklarhed tager normalt yderligere 2-4 uger afhængigt af produktets kompleksitet og platformskrav. Har grænseoverskridende produkter brug for kinesiske etiketter?",
     "faq4q": "Har grænseoverskridende produkter brug for kinesiske etiketter?",
-    "faq4a": "CBEC-produkter er generelt undtaget fra kinesiske mærkekrav, da de betragtes som personlig import. Produktoplysninger skal dog gives på kinesisk på e-handelsplatformen. Vi vejleder dig om platformsspecifikke krav."
+    "faq4a": "CBEC-produkter er generelt undtaget fra kinesiske mærkekrav, da de betragtes som personlig import. Produktoplysninger skal dog gives på kinesisk på e-handelsplatformen. Vi vejleder dig om platformsspecifikke krav.",
+    "faq5a": "Ja, grænseoverskridende e-handelsplatforme giver oversøiske virksomheder mulighed for at sælge direkte til kinesiske forbrugere uden at etablere en lokal enhed. Vi guider dig gennem platformsregistrering som oversøisk købmand.",
+    "faq5q": "Kan jeg sælge på kinesiske platforme uden et lokalt firma?",
+    "faq6a": "Alipay og WeChat Pay dominerer det kinesiske e-handelsmarked. De fleste grænseoverskridende platforme håndterer betalingsbehandling automatisk, men vi sikrer, at din butik er optimeret til kinesiske forbrugeres præferencer.",
+    "faq6q": "Hvilke betalingsmetoder foretrækker kinesiske forbrugere?"
   },
   "ServiceBrand": {
     "heroTitle": "Brandbeskyttelse",
@@ -202,7 +244,11 @@
     "faq3q": "Hvad er Madrid-systemet?",
     "faq3a": "Madrid-systemet giver dig mulighed for at udvide en eksisterende varemærkeregistrering til flere lande, inklusive Kina, gennem en enkelt ansøgning. Det kan være hurtigere og mere omkostningseffektivt end direkte arkivering i Kina.",
     "faq4q": "Hvordan beskytter jeg mod forfalskede produkter?",
-    "faq4a": "Vi yder omfattende varemærkebeskyttelse: varemærkeregistrering, told IP-registrering (tillader toldmyndighederne at beslaglægge forfalskede varer), gennemgang af reklameoverholdelse og løbende overvågning. Tidlig registrering er det vigtigste første skridt."
+    "faq4a": "Vi yder omfattende varemærkebeskyttelse: varemærkeregistrering, told IP-registrering (tillader toldmyndighederne at beslaglægge forfalskede varer), gennemgang af reklameoverholdelse og løbende overvågning. Tidlig registrering er det vigtigste første skridt.",
+    "faq5a": "Nej, varemærkerettigheder er territoriale. En amerikansk eller EU-varemærkeregistrering giver ingen beskyttelse i Kina. Du skal indgive separat med Kinas CNIPA eller forlænge via Madrid-systemet. Vi anbefaler direkte CNIPA-arkivering for den stærkeste beskyttelse.",
+    "faq5q": "Kan jeg bruge mit eksisterende USA/EU-varemærke i Kina?",
+    "faq6a": "Efter registreringen leverer vi løbende varemærkeovervågningstjenester, der scanner for modstridende applikationer, forfalskede produkter på e-handelsplatforme og uautoriseret brug af dit varemærke i reklamer.",
+    "faq6q": "Hvordan overvåger jeg for varemærkekrænkelse i Kina?"
   },
   "ServiceCommon": {
     "whoTitle": "Hvem dette er til",
@@ -241,7 +287,13 @@
     "customCta": "Kontakt os for skræddersyet tilbud",
     "popular": "Mest populær",
     "title": "Overholdelsespakker",
-    "subtitle": "Vælg den pakke, der passer til dit brands Kina-adgangsstrategi."
+    "subtitle": "Vælg den pakke, der passer til dit brands Kina-adgangsstrategi.",
+    "advancedIncludes": "Alle Market Entry-tjenester plus: Tmall Global eller JD Worldwide butiksopsætning. Varemærkesøgning og CNIPA-registrering. Told IP-registrering til grænsebeskyttelse. Gennemgang af reklameoverholdelse af alt marketingmateriale.",
+    "advancedUseCase": "Perfekt til voksende mærker, der er klar til at lancere deres fulde produktlinje på kinesiske e-handelsplatforme.",
+    "basicIncludes": "Fuldfør GACC-registrering gennem CIFER-systemet. Kinesisk etiketdesign i overensstemmelse med GB 7718-2025. En-til-en konsultation om overholdelse af din specifikke produktkategori.",
+    "basicUseCase": "Ideel til førstegangsfødevareeksportører, der har brug for det væsentlige for lovligt at sende til Kina.",
+    "premiumIncludes": "Alle Go-to-Market-tjenester plus: CCC-certificeringsrådgivning for relevante produkter. NMPA kosmetik arkivering, hvis udvides til skønhed. PIPL data compliance vurdering til kundedatahåndtering. Dedikeret account manager for løbende regulatorisk rådgivning.",
+    "premiumUseCase": "For etablerede virksomheder, der forpligter sig til en langsigtet tilstedeværelse på tværs af flere produktkategorier i Kina."
   },
   "Faq": {
     "heroTitle": "Ofte stillede spørgsmål",
@@ -286,7 +338,43 @@
     "generalQ3": "Hvor er jeres team baseret?",
     "generalA3": "Vores team er baseret i Kina med direkte adgang til regulatoriske myndigheder, testlaboratorier og certificeringsorganer. Vi arbejder med kunder globalt.",
     "generalQ4": "Kan I håndtere hele processen for mig?",
-    "generalA4": "Ja. Vi tilbyder fuld end-to-end-service — fra indledende vurdering og dokumentation til registrering, certificering og løbende overholdelsesstyring."
+    "generalA4": "Ja. Vi tilbyder fuld end-to-end-service — fra indledende vurdering og dokumentation til registrering, certificering og løbende overholdelsesstyring.",
+    "brandA3": "Hvis en tredjepart har registreret dit varemærke, omfatter mulighederne at forhandle en overførsel, indgive en annullering af ikke-brug (hvis ubrugt i 3+ år) eller udfordre registrering i ond tro. Vi vurderer din situation og anbefaler den bedste strategi.",
+    "brandA4": "Ja, hvert enkelt element - dit logo, dit engelske mærke og det kinesiske mærke - bør registreres som separate varemærker for at sikre omfattende beskyttelse. Vi håndterer multi-element registreringsstrategier.",
+    "brandQ3": "Hvad hvis nogen allerede har registreret mit varemærke?",
+    "brandQ4": "Skal jeg registrere mit logo og det kinesiske mærke separat?",
+    "cccQ3": "Kan jeg bruge CCC-certifikater fra en tidligere producent?",
+    "cccQ3a": "Nej, CCC-certifikater er knyttet til den specifikke produktionsfacilitet. Hvis du skifter producent, kræves en ny CCC-applikation. Vi kan hjælpe med overførsel eller genansøgning om certificering.",
+    "cccQ4": "Hvad er prisen for CCC-certificering?",
+    "cccQ4a": "CCC-omkostninger varierer efter produktkategori, testkrav og fabriksaudits omfang. Vi giver et detaljeret prisoverslag efter vurdering af dit specifikke produkt. Vores faste gebyrstruktur betyder ingen overraskelser.",
+    "cosmeticsA2": "A境内责任人 (national ansvarlig person) er en Kina-baseret enhed, der er juridisk ansvarlig for dit produkts kvalitet og sikkerhed. De håndterer NMPA-kommunikation, rapportering af uønskede hændelser og overholdelse af lovgivning. Vi kan fungere som din ansvarlige agent.",
+    "cosmeticsA3": "Ja, NMPA kræver sikkerheds- og effektivitetstest på akkrediterede kinesiske laboratorier. Nogle udenlandske testdata kan accepteres til visse vurderinger, men kernesikkerhedstest skal udføres i Kina.",
+    "cosmeticsQ2": "Hvad er en ansvarlig kinesisk agent?",
+    "cosmeticsQ3": "Skal jeg teste mine produkter i Kina?",
+    "ecommerceA3": "De fleste grænseoverskridende platforme tilbyder indbyggede kundeserviceværktøjer og returhåndtering. Vi rådgiver om opsætning af kinesisksprogede arbejdsgange for kundeservice og håndtering af returneringer gennem toldvarehuse.",
+    "ecommerceA4": "Ja, mange mærker bruger grænseoverskridende som en markedstestkanal, før de går over til fuld traditionel import med fuldstændig NMPA-, GACC- og CCC-overholdelse. Vi støtter begge veje.",
+    "ecommerceQ3": "Hvordan håndterer jeg returneringer og kundeservice i Kina?",
+    "ecommerceQ4": "Kan jeg skifte fra grænseoverskridende til traditionel import senere?",
+    "gaccA5": "Ja, en enkelt oversøisk producent kan registrere produkter på tværs af flere fødevarekategorier under én GACC-registrering. Hver kategori kan have forskellige dokumentationskrav, og vi administrerer det fulde omfang på dine vegne.",
+    "gaccA6": "Hvis det afvises, gennemgår vi årsagerne til afvisningen, retter eventuelle mangler og indsender igen. Almindelige problemer omfatter ufuldstændig dokumentation eller forkert HS-kodeklassificering. Vores gennemgangsproces før indsendelse minimerer risikoen for afvisning.",
+    "gaccQ5": "Kan en enkelt virksomhed registrere flere produktkategorier?",
+    "gaccQ6": "Hvad sker der, hvis min GACC-registrering afvises?",
+    "generalA10": "Absolut. Mange kunder bruger vores compliance-pakker (Market Entry, Go-to-Market, Brand Launch), som samler flere tjenester til en bedre værdi. Vi laver også brugerdefinerede bundter til unikke behov.",
+    "generalA5": "Vi betjener alle industrier, der eksporterer til Kina: mad og drikkevarer, kosmetik og personlig pleje, elektronik og apparater, legetøj, tekstiler, kemikalier, bildele og meget mere. Hvis det krydser den kinesiske grænse, kan vi hjælpe med overholdelse.",
+    "generalA6": "Ja. Ud over den første registrering tilbyder vi fornyelsesstyring, reguleringsovervågning, overholdelsesrådgivning og support til markedsadgang. Mange kunder beholder os til løbende compliance-styring.",
+    "generalA7": "Du skal blot kontakte os via vores hjemmesideformular, WhatsApp eller e-mail. Vi planlægger en gratis konsultation for at forstå dine produkter, mål og tidslinje og giver derefter en skræddersyet overholdelsesplan.",
+    "generalA8": "Vores team arbejder på engelsk og mandarin-kinesisk. Vi betjener kunder globalt og kan kommunikere på dit foretrukne sprog gennem hele processen.",
+    "generalA9": "Selvom ingen konsulent kan garantere regeringens godkendelse, viser vores track record en succesrate på næsten 100 %. Vores grundige præ-indsendelsesgennemgang og dybe lovgivningsmæssige viden minimerer risikoen ved hvert trin.",
+    "generalQ10": "Kan jeg samle flere tjenester sammen?",
+    "generalQ5": "Hvilke brancher betjener du?",
+    "generalQ6": "Tilbyder du løbende compliance-support?",
+    "generalQ7": "Hvordan kommer jeg i gang?",
+    "generalQ8": "Hvilke sprog arbejder du på?",
+    "generalQ9": "Garanterer du registreringsgodkendelse?",
+    "labelQ3": "Har kosttilskud brug for forskellige etiketter?",
+    "labelQ3a": "Ja, sundhedstilskud (保健食品) har yderligere mærkningskrav ud over standard færdigpakkede fødevarer, herunder sundhedsfunktionsanprisninger,适宜人群 (egnet人群) og brugsanvisninger. Vi håndterer kategorispecifikke etiketkrav.",
+    "labelQ4": "Hvor hurtigt kan etiketter udfyldes?",
+    "labelQ4a": "Standard etiketgennemgang og design tager 1-2 uger pr. SKU. Ved hasteforsendelser tilbyder vi hurtig service. Rush-ordrer afhænger af produktets kompleksitet og den aktuelle arbejdsbyrde."
   },
   "About": {
     "heroTitle": "Om SinoTrade Compliance",
@@ -310,7 +398,20 @@
     "title": "Om SinoTrade Compliance",
     "subtitle": "Din betroede partner til at navigere i Kinas importregler.",
     "missionText": "At gøre Kinas importregler tilgængelige og sejlbare for internationale virksomheder af alle størrelser. Vi mener, at overholdelse ikke bør være en barriere for markedsadgang – det bør være en bro.",
-    "values": "Ekspertise – Dybt kendskab til Kinas lovgivningsmæssige landskab på tværs af flere industrier., Gennemsigtighed – Faste gebyrer med klare leverancer – ingen skjulte omkostninger eller overraskelser., Engagement – ​​Vi er hos dig fra første konsultation til det endelige navn."
+    "values": "Ekspertise – Dybt kendskab til Kinas lovgivningsmæssige landskab på tværs af flere industrier., Gennemsigtighed – Faste gebyrer med klare leverancer – ingen skjulte omkostninger eller overraskelser., Engagement – ​​Vi er hos dig fra første konsultation til det endelige navn.",
+    "partnersSubtitle": "Vi arbejder med akkrediterede laboratorier, certificeringsorganer og juridiske partnere i hele Kina.",
+    "partnersTitle": "betroede partnere",
+    "teamMember1Desc": "5+ år med speciale i GACC-dekret 248/249 registreringer på tværs af alle 18 fødevarekategorier.",
+    "teamMember1Name": "Sarah Chen",
+    "teamMember1Role": "GACC-registreringsspecialist",
+    "teamMember2Desc": "Ekspert i CCC-certificeringsprocesser og CNCA-akkrediteret laboratoriekoordinering.",
+    "teamMember2Name": "Mike Wang",
+    "teamMember2Role": "Certificerings- og testkoordinator",
+    "teamMember3Desc": "Specialiseret i NMPA ansøgninger til både almindelig og specialbrug kosmetik.",
+    "teamMember3Name": "Lisa Liu",
+    "teamMember3Role": "Kosmetik Regulatory Specialist",
+    "teamSubtitle": "Et dedikeret team af regulatoriske fagfolk engageret i din succes i Kina.",
+    "teamTitle": "Vores team"
   },
   "Expert": {
     "title": "Mød din Kina-specialist",

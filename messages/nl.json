@@ -60,7 +60,17 @@
     "faqPreviewA2": "Registratie duurt doorgaans 2-4 weken, afhankelijk van de productcategorie en de volledigheid van de documentatie.",
     "faqPreviewQ3": "Is de registratie voor altijd geldig?",
     "faqPreviewA3": "Nee, de GACC-registratie is 5 jaar geldig. Verlenging moet 6 maanden vóór de vervaldatum worden ingediend.",
-    "faqPreviewLink": "Bekijk alle vragen →"
+    "faqPreviewLink": "Bekijk alle vragen →",
+    "socialProofSubtitle": "Internationale bedrijven helpen met vertrouwen de Chinese markt te betreden.",
+    "socialProofTitle": "Vertrouwd door wereldwijde merken",
+    "stat1Label": "Merken geserveerd",
+    "stat1Number": "500+",
+    "stat2Label": "Landen",
+    "stat2Number": "50+",
+    "stat3Label": "Jarenlange expertise",
+    "stat3Number": "10+",
+    "stat4Label": "Nalevingspercentage",
+    "stat4Number": "100%"
   },
   "Services": {
     "heroTitle": "Onze Diensten",
@@ -88,7 +98,19 @@
     "brandTitle": "Merkenbescherming",
     "brandSubtitle": "Handelsmerkregistratie, douane IP indiening en advertentieconformiteit om uw merk te beschermen in China.",
     "brandPoints": "Handelsmerk zoekopdracht en registratie,Madrid systeem aanwijzing,Douane IP registratie,Advertentie conformiteitscontrole,Merkenbeschermingsstrategie",
-    "brandLink": "Meer Informatie"
+    "brandLink": "Meer Informatie",
+    "brandIndustries": "Alle industrieën die China binnenkomen: FMCG, technologie, mode en eten en drinken.",
+    "brandPainPoint": "Het Chinese first-to-file-systeem betekent dat uw merk al door iemand anders kan worden geregistreerd.",
+    "cccIndustries": "Elektronica, huishoudelijke apparaten, IT-apparatuur, auto-onderdelen, speelgoed en lithiumbatterijen.",
+    "cccPainPoint": "CCC is verplicht voor 17 productcategorieën. Wij navigeren door de catalogus, zodat u dat niet hoeft te doen.",
+    "cosmeticsIndustries": "Huidverzorging, make-up, haarverzorging, zonnebrandcrème, geuren en producten voor persoonlijke verzorging.",
+    "cosmeticsPainPoint": "NMPA-aanvraag kan maanden duren. Ons gestroomlijnde proces zorgt ervoor dat u sneller op de markt komt.",
+    "ecommerceIndustries": "Voeding en drank, cosmetica, supplementen, kleding en consumentenelektronica.",
+    "ecommercePainPoint": "Platform-onboarding en logistieke compliance zijn complex. Wij verzorgen het zware werk.",
+    "gaccIndustries": "Zuivel, vlees, zeevruchten, bakkerijproducten, dranken, gezonde voeding en alle 18 door de GACC gereguleerde categorieën.",
+    "gaccPainPoint": "Verward door decreet 248/249? We vereenvoudigen de CIFER-registratie, zodat uw producten soepel door de douane gaan.",
+    "labelIndustries": "Voorverpakte voedingsmiddelen, dranken, supplementen, cosmetica en consumptiegoederen.",
+    "labelPainPoint": "Eén etiketteringsfout kan uw zending bij de douane tegenhouden. Doe het de eerste keer goed."
   },
   "ServiceGacc": {
     "heroTitle": "GACC Voedselregistratie",
@@ -107,7 +129,11 @@
     "faq3q": "Welke documenten zijn nodig voor registratie?",
     "faq3a": "Belangrijke documenten omvatten: bedrijfslicentie, informatie over de productiefaciliteit, productlijst met HS-codes, kwaliteitsmanagementcertificaten (ISO 22000/HACCP) en productlabels. We bieden een volledige checklist en helpen bij het voorbereiden van documenten.",
     "faq4q": "Is de registratie voor altijd geldig?",
-    "faq4a": "Nee, de GACC-registratie is 5 jaar geldig. Verlenging moet 6 maanden vóór de vervaldatum worden ingediend. Wij zorgen voor verlengingsherinneringen en handelen namens u het gehele verlengingsproces af."
+    "faq4a": "Nee, de GACC-registratie is 5 jaar geldig. Verlenging moet 6 maanden vóór de vervaldatum worden ingediend. Wij zorgen voor verlengingsherinneringen en handelen namens u het gehele verlengingsproces af.",
+    "faq5a": "De overzeese productiefaciliteit moet geregistreerd zijn. Als u producten op meerdere locaties vervaardigt, heeft elke faciliteit een eigen GACC-registratie nodig. Wij kunnen registraties voor meerdere sites onder één account afhandelen.",
+    "faq5q": "Wie moet zich registreren: de fabrikant of de exporteur?",
+    "faq6a": "Nee. Sinds 1 januari 2022 weigert de Chinese douane alle import van voedsel zonder een geldig GACC-registratienummer. De registratie moet vóór uw eerste zending zijn voltooid.",
+    "faq6q": "Kan ik producten naar China verzenden voordat de registratie is voltooid?"
   },
   "ServiceLabel": {
     "heroTitle": "Chinese Labelconformiteit",
@@ -126,7 +152,11 @@
     "faq3q": "Veelgestelde vragen",
     "faq3a": "Vind antwoorden op de meest gestelde vragen over deze service.",
     "faq4q": "Ja, maar hiervoor is coördinatie met Chinese testlaboratoria en certificeringsinstanties vereist. Wij treden op als uw lokale vertegenwoordiger en beheren fabrieksaudits, monstertests en alle communicatie met certificeringsinstanties.",
-    "faq4a": "Veelgestelde vragen"
+    "faq4a": "Veelgestelde vragen",
+    "faq5a": "Ja, elke SKU heeft een eigen conform label nodig, omdat de ingrediënten, voedingswaarde en productspecificaties variëren. We beoordelen en ontwerpen labels voor elk van uw SKU's afzonderlijk.",
+    "faq5q": "Heb ik voor elke product-SKU aparte labels nodig?",
+    "faq6a": "Voorverpakte voedseletiketten moeten voldoen aan GB 7718-2025 (Algemene norm voor voorverpakte voedseletiketten) en GB 28050-2025 (Nutrition Labeling Standard). Deze omvatten productnaamgeving, ingrediëntenlijsten, voedingspanels, allergeenverklaringen en meer.",
+    "faq6q": "Aan welke normen moeten labels voldoen?"
   },
   "ServiceCcc": {
     "heroTitle": "CCC-certificering",
@@ -145,7 +175,11 @@
     "faq3q": "Hoe lang duurt de CCC-certificering?",
     "faq3a": "Het CCC-proces duurt doorgaans 4 tot 8 maanden, inclusief fabrieksaudit, producttesten in door CNAS geaccrediteerde laboratoria en certificeringsbeoordeling. De tijdlijn varieert per productcategorie en complexiteit.",
     "faq4q": "Kan CCC-certificering vanuit het buitenland worden gedaan?",
-    "faq4a": "Het indienen van meldingen (voor algemene cosmetica) duurt ongeveer 4-6 maanden en omvat een beoordeling van de productveiligheid en een beoordeling van de ingrediënten. Registratie (voor speciale cosmetica) duurt 12 tot 18 maanden en vereist testen op werkzaamheid en veiligheidsevaluatie. Heb ik een Chinese verantwoordelijke persoon nodig? Ja, alle geïmporteerde cosmetica moeten een Chinese 境内责任人 (binnenlandse verantwoordelijke persoon) aanwijzen die de wettelijke verantwoordelijkheid op zich neemt voor de kwaliteit en veiligheid van het product. Wij kunnen u als uw partner dienen."
+    "faq4a": "Het indienen van meldingen (voor algemene cosmetica) duurt ongeveer 4-6 maanden en omvat een beoordeling van de productveiligheid en een beoordeling van de ingrediënten. Registratie (voor speciale cosmetica) duurt 12 tot 18 maanden en vereist testen op werkzaamheid en veiligheidsevaluatie. Heb ik een Chinese verantwoordelijke persoon nodig? Ja, alle geïmporteerde cosmetica moeten een Chinese 境内责任人 (binnenlandse verantwoordelijke persoon) aanwijzen die de wettelijke verantwoordelijkheid op zich neemt voor de kwaliteit en veiligheid van het product. Wij kunnen u als uw partner dienen.",
+    "faq5a": "Ja, bepaalde productcategorieën komen in aanmerking voor een eigen conformiteitsverklaring (SDOC) in plaats van volledige certificering. Wij beoordelen uw product om te bepalen of SDOC van toepassing is, wat de tijd en kosten aanzienlijk kan verminderen.",
+    "faq5q": "Is er een mogelijkheid tot zelfverklaring voor CCC?",
+    "faq6a": "CCC-certificaten vereisen jaarlijkse fabrieksinspecties om de geldigheid te behouden. Wij bieden voortdurende monitoring van de naleving en bereiden uw vestiging voor op surveillance-audits om ononderbroken markttoegang te garanderen.",
+    "faq6q": "Wat gebeurt er nadat ik het CCC-certificaat heb ontvangen?"
   },
   "ServiceCosmetics": {
     "heroTitle": "Cosmetica Registratie (NMPA)",
@@ -164,7 +198,11 @@
     "faq3q": "Wat is de vereiste voor het matchen van drie documenten?",
     "faq3a": "Grensoverschrijdende e-commerce vereist dat er voor elke bestelling drie documenten overeenkomen: het besteldocument, het betalingsdocument en het logistieke document. Dit is een douanevereiste voor CBEC-goederen. Wij zorgen ervoor dat uw activiteiten aan deze vereiste voldoen.",
     "faq4q": "Kan ik cosmetica verkopen via grensoverschrijdende e-commerce zonder NMPA?",
-    "faq4a": "Ja, grensoverschrijdende e-commercekanalen (CBEC) staan ​​onder bepaalde voorwaarden de verkoop van cosmetica toe zonder NMPA-aanvraag. Dit is een snellere markttoegangsroute terwijl u volledige NMPA-naleving voorbereidt."
+    "faq4a": "Ja, grensoverschrijdende e-commercekanalen (CBEC) staan ​​onder bepaalde voorwaarden de verkoop van cosmetica toe zonder NMPA-aanvraag. Dit is een snellere markttoegangsroute terwijl u volledige NMPA-naleving voorbereidt.",
+    "faq5a": "China heeft sinds 2021 de eisen voor dierproeven voor veel gewone geïmporteerde cosmetica versoepeld. Producten die zijn vervaardigd onder goede productiepraktijken (GMP) met een veiligheidsbeoordeling kunnen hiervan worden vrijgesteld. Wij beoordelen uw producten om in aanmerking te komen voor vrijstelling.",
+    "faq5q": "Zijn dierproeven van toepassing op geïmporteerde cosmetica?",
+    "faq6a": "Kleine wijzigingen in de formulering vereisen mogelijk alleen een update van de kennisgeving. Bij significante wijzigingen – vooral als het om actieve ingrediënten gaat – kan het nodig zijn dat de aanvraag opnieuw wordt ingediend of dat er een nieuwe registratie nodig is. Wij adviseren over de impact van de regelgeving voordat u wijzigingen doorvoert.",
+    "faq6q": "Kan ik mijn productformulering bijwerken nadat ik een NMPA-aanvraag heb ingediend?"
   },
   "ServiceEcommerce": {
     "heroTitle": "Hoe lang duurt het opzetten van een grensoverschrijdende winkel?",
@@ -183,7 +221,11 @@
     "faq3q": "Hoe lang duurt het om een ​​grensoverschrijdende winkel op te zetten?",
     "faq3a": "Platformregistratie duurt doorgaans 2 tot 4 weken. Het opzetten van de winkel, de productvermelding en de operationele gereedheid duren doorgaans nog eens 2 tot 4 weken, afhankelijk van de productcomplexiteit en platformvereisten.",
     "faq4q": "Hebben grensoverschrijdende producten Chinese labels nodig? CBEC-producten zijn over het algemeen vrijgesteld van Chinese labelvereisten, omdat ze als persoonlijke import worden beschouwd. Productinformatie moet echter in het Chinees worden verstrekt op het e-commerceplatform. We begeleiden u bij platformspecifieke vereisten.",
-    "faq4a": "Veelgestelde vragen"
+    "faq4a": "Veelgestelde vragen",
+    "faq5a": "Ja, via grensoverschrijdende e-commerceplatforms kunnen buitenlandse bedrijven rechtstreeks aan Chinese consumenten verkopen zonder een lokale entiteit op te richten. Wij begeleiden u bij de platformregistratie als buitenlandse handelaar.",
+    "faq5q": "Kan ik op Chinese platforms verkopen zonder een lokaal bedrijf?",
+    "faq6a": "Alipay en WeChat Pay domineren de Chinese e-commercemarkt. De meeste grensoverschrijdende platforms verwerken de betalingsverwerking automatisch, maar wij zorgen ervoor dat uw winkel is geoptimaliseerd voor de voorkeuren van de Chinese consument.",
+    "faq6q": "Aan welke betaalmethoden geven Chinese consumenten de voorkeur?"
   },
   "ServiceBrand": {
     "heroTitle": "Merkenbescherming",
@@ -202,7 +244,11 @@
     "faq3q": "Wat is het Madrid-systeem?",
     "faq3a": "Met het Madrid-systeem kunt u een bestaande handelsmerkregistratie via één enkele aanvraag uitbreiden naar meerdere landen, waaronder China. Het kan sneller en kosteneffectiever zijn dan directe indiening in China.",
     "faq4q": "How do I protect against counterfeit products?",
-    "faq4a": "Contact"
+    "faq4a": "Contact",
+    "faq5a": "Nee, merkrechten zijn territoriaal. Een Amerikaanse of Europese merkregistratie biedt geen bescherming in China. U moet afzonderlijk een aanvraag indienen bij de Chinese CNIPA of verlengen via het Madrid-systeem. Voor de sterkste bescherming raden wij directe CNIPA-aangifte aan.",
+    "faq5q": "Kan ik mijn bestaande Amerikaanse/EU-handelsmerk in China gebruiken?",
+    "faq6a": "Na registratie bieden we doorlopende handelsmerkcontrolediensten die scannen op conflicterende toepassingen, namaakproducten op e-commerceplatforms en ongeoorloofd gebruik van uw merknaam in advertenties.",
+    "faq6q": "Hoe controleer ik op inbreuk op handelsmerken in China?"
   },
   "ServiceCommon": {
     "whoTitle": "Voor Wie Dit Is",
@@ -241,7 +287,13 @@
     "customCta": "Neem Contact Op voor Aangepaste Offerte",
     "popular": "Meest Populair",
     "title": "Conformiteitspakketten",
-    "subtitle": "Kies het pakket dat past bij uw merk's China toetredingsstrategie."
+    "subtitle": "Kies het pakket dat past bij uw merk's China toetredingsstrategie.",
+    "advancedIncludes": "Alle Market Entry-services plus: Tmall Global- of JD Worldwide-winkelconfiguratie. Zoeken naar handelsmerken en CNIPA-registratie. Douane-IP-registratie voor grensbescherming. Beoordeling van advertentienaleving voor al het marketingmateriaal.",
+    "advancedUseCase": "Perfect voor groeiende merken die klaar zijn om hun volledige productlijn op Chinese e-commerceplatforms te lanceren.",
+    "basicIncludes": "Voltooi de GACC-registratie via het CIFER-systeem. Chinees labelontwerp conform GB 7718-2025. Eén-op-één compliance-advies voor uw specifieke productcategorie.",
+    "basicUseCase": "Ideaal voor beginnende voedselexporteurs die de essentiële zaken nodig hebben om legaal naar China te kunnen verzenden.",
+    "premiumIncludes": "Alle Go-to-Market-diensten plus: CCC-certificeringsadvies voor toepasselijke producten. NMPA-cosmetica-aanvraag indien zich uitbreidt naar schoonheid. PIPL-gegevenscompliancebeoordeling voor de verwerking van klantgegevens. Toegewijde accountmanager voor doorlopend advies op het gebied van regelgeving.",
+    "premiumUseCase": "Voor gevestigde bedrijven die zich inzetten voor een langdurige aanwezigheid in meerdere productcategorieën in China."
   },
   "Faq": {
     "heroTitle": "Veelgestelde Vragen",
@@ -286,7 +338,43 @@
     "generalQ3": "Waar is uw team gevestigd?",
     "generalA3": "Ons team is gevestigd in China met directe toegang tot regelgevende autoriteiten, testlaboratoria en certificeringsinstanties. Wij werken wereldwijd met klanten.",
     "generalQ4": "Kunnen jullie het hele proces voor mij afhandelen?",
-    "generalA4": "Ja. Wij bieden volledige end-to-end service — van initiële beoordeling en documentatie tot registratie, certificering en doorlopend conformiteitsbeheer."
+    "generalA4": "Ja. Wij bieden volledige end-to-end service — van initiële beoordeling en documentatie tot registratie, certificering en doorlopend conformiteitsbeheer.",
+    "brandA3": "Als een derde partij uw merk heeft geregistreerd, kunt u onder meer onderhandelen over een overdracht, een annulering indienen wegens niet-gebruik (indien langer dan 3 jaar niet gebruikt) of registratie te kwader trouw aanvechten. Wij beoordelen uw situatie en adviseren u de beste strategie.",
+    "brandA4": "Ja, elk afzonderlijk element (uw logo, Engelse merknaam en Chinese merknaam) moet voor uitgebreide bescherming als afzonderlijke handelsmerken worden geregistreerd. Wij hanteren registratiestrategieën met meerdere elementen.",
+    "brandQ3": "Wat moet ik doen als iemand mijn merk al heeft geregistreerd?",
+    "brandQ4": "Moet ik mijn logo en Chinese merknaam afzonderlijk registreren?",
+    "cccQ3": "Kan ik CCC-certificaten van een vorige fabrikant gebruiken?",
+    "cccQ3a": "Nee, CCC-certificaten zijn gebonden aan de specifieke productiefaciliteit. Als u van fabrikant verandert, is een nieuwe CCC-aanvraag vereist. Wij kunnen u helpen bij het overdragen of opnieuw aanvragen van certificering.",
+    "cccQ4": "Wat zijn de kosten van CCC-certificering?",
+    "cccQ4a": "CCC-kosten variëren per productcategorie, testvereisten en reikwijdte van de fabrieksaudit. Na beoordeling van uw specifieke product maken wij een gedetailleerde kostenraming. Onze structuur met vaste vergoedingen zorgt ervoor dat u niet voor verrassingen komt te staan.",
+    "cosmeticsA2": "Een境内责任人 (huishoudelijk verantwoordelijke persoon) is een in China gevestigde entiteit die wettelijk verantwoordelijk is voor de kwaliteit en veiligheid van uw product. Zij verzorgen NMPA-communicatie, rapportage van bijwerkingen en naleving van de regelgeving. Wij kunnen optreden als uw verantwoordelijke agent.",
+    "cosmeticsA3": "Ja, NMPA vereist veiligheids- en werkzaamheidstests in geaccrediteerde Chinese laboratoria. Sommige buitenlandse testgegevens kunnen voor bepaalde beoordelingen worden geaccepteerd, maar de belangrijkste veiligheidstests moeten in China worden uitgevoerd.",
+    "cosmeticsQ2": "Wat is een Chinese verantwoordelijke agent?",
+    "cosmeticsQ3": "Moet ik mijn producten in China testen?",
+    "ecommerceA3": "De meeste grensoverschrijdende platforms bieden ingebouwde klantenservicetools en retourafhandeling. Wij adviseren over het opzetten van Chineestalige klantenserviceworkflows en het beheren van retourzendingen via douane-entrepots.",
+    "ecommerceA4": "Ja, veel merken gebruiken grensoverschrijdende producten als markttestkanaal voordat ze overstappen op volledige traditionele import met volledige NMPA-, GACC- en CCC-compliance. Wij ondersteunen beide trajecten.",
+    "ecommerceQ3": "Hoe ga ik om met retourzendingen en klantenservice in China?",
+    "ecommerceQ4": "Kan ik later overstappen van grensoverschrijdende naar traditionele import?",
+    "gaccA5": "Ja, één enkele buitenlandse fabrikant kan producten in meerdere voedselcategorieën registreren onder één GACC-registratie. Elke categorie kan verschillende documentatievereisten hebben, en wij beheren de volledige reikwijdte namens u.",
+    "gaccA6": "Indien afgewezen, beoordelen we de redenen voor afwijzing, corrigeren we eventuele tekortkomingen en dienen we de aanvraag opnieuw in. Veelvoorkomende problemen zijn onder meer onvolledige documentatie of onjuiste HS-codeclassificatie. Ons beoordelingsproces voorafgaand aan de indiening minimaliseert het risico op afwijzing.",
+    "gaccQ5": "Kan één bedrijf meerdere productcategorieën registreren?",
+    "gaccQ6": "Wat gebeurt er als mijn GACC-registratie wordt afgewezen?",
+    "generalA10": "Absoluut. Veel klanten maken gebruik van onze compliancepakketten (Market Entry, Go-to-Market, Brand Launch) die meerdere diensten tegen een betere prijs bundelen. We maken ook aangepaste bundels voor unieke behoeften.",
+    "generalA5": "We bedienen alle industrieën die naar China exporteren: voedingsmiddelen en dranken, cosmetica en persoonlijke verzorging, elektronica en apparaten, speelgoed, textiel, chemicaliën, auto-onderdelen en meer. Als het de Chinese grens overschrijdt, kunnen we helpen met naleving.",
+    "generalA6": "Ja. Naast de initiële registratie bieden wij ook verlengingsbeheer, toezicht op de regelgeving, compliance-advies en ondersteuning bij het betreden van de markt. Veel klanten schakelen ons in voor doorlopend compliancebeheer.",
+    "generalA7": "Neem eenvoudig contact met ons op via ons websiteformulier, WhatsApp of e-mail. We plannen een gratis adviesgesprek om inzicht te krijgen in uw producten, doelstellingen en tijdlijn, en bieden vervolgens een nalevingsplan op maat.",
+    "generalA8": "Ons team werkt in het Engels en het Mandarijn-Chinees. Wij bedienen klanten wereldwijd en kunnen gedurende het gehele proces in de taal van uw voorkeur communiceren.",
+    "generalA9": "Hoewel geen enkele consultant de goedkeuring van de overheid kan garanderen, laat ons trackrecord een succespercentage van bijna 100% zien. Onze grondige beoordeling voorafgaand aan de indiening en diepgaande kennis van regelgeving minimaliseren de risico's bij elke stap.",
+    "generalQ10": "Kan ik meerdere diensten bundelen?",
+    "generalQ5": "Welke industrieën bedient u?",
+    "generalQ6": "Biedt u voortdurende compliance-ondersteuning?",
+    "generalQ7": "Hoe begin ik?",
+    "generalQ8": "In welke talen werk je?",
+    "generalQ9": "Garandeert u goedkeuring van de registratie?",
+    "labelQ3": "Hebben gezondheidssupplementen verschillende labels nodig?",
+    "labelQ3a": "Ja, gezondheidssupplementen (保健食品) hebben aanvullende etiketteringsvereisten naast standaard voorverpakt voedsel, inclusief claims over de gezondheidsfunctie, geschikt product en gebruiksinstructies. Wij behandelen categoriespecifieke labelvereisten.",
+    "labelQ4": "Hoe snel kunnen labels worden voltooid?",
+    "labelQ4a": "Standaard labelbeoordeling en -ontwerp duurt 1-2 weken per SKU. Voor dringende zendingen bieden wij een versnelde service. Spoedbestellingen zijn afhankelijk van de productcomplexiteit en de huidige werklast."
   },
   "About": {
     "heroTitle": "Over SinoTrade Compliance",
@@ -310,7 +398,20 @@
     "title": "About SinoTrade Compliance",
     "subtitle": "Uw vertrouwde partner voor het navigeren door de Chinese importregelgeving.",
     "missionText": "Om de Chinese importregels toegankelijk en navigeerbaar te maken voor internationale bedrijven van elke omvang. Wij zijn van mening dat compliance geen belemmering mag zijn voor markttoegang; het moet een brug zijn.",
-    "values": "Expertise – Diepgaande kennis van het Chinese regelgevingslandschap in meerdere sectoren. Transparantie – Vaste prijzen met duidelijke resultaten – geen verborgen kosten of verrassingen. Toewijding – Wij staan ​​u bij vanaf het eerste advies tot de uiteindelijke marktintroductie die voldoet aan de eisen."
+    "values": "Expertise – Diepgaande kennis van het Chinese regelgevingslandschap in meerdere sectoren. Transparantie – Vaste prijzen met duidelijke resultaten – geen verborgen kosten of verrassingen. Toewijding – Wij staan ​​u bij vanaf het eerste advies tot de uiteindelijke marktintroductie die voldoet aan de eisen.",
+    "partnersSubtitle": "We werken samen met geaccrediteerde laboratoria, certificeringsinstanties en juridische partners in heel China.",
+    "partnersTitle": "Vertrouwde partners",
+    "teamMember1Desc": "Meer dan 5 jaar gespecialiseerd in GACC-decreet 248/249-registraties in alle 18 voedselcategorieën.",
+    "teamMember1Name": "Sarah Chen",
+    "teamMember1Role": "GACC-registratiespecialist",
+    "teamMember2Desc": "Expert in CCC-certificeringsprocessen en CNCA-geaccrediteerde laboratoriumcoördinatie.",
+    "teamMember2Name": "Mike Wang",
+    "teamMember2Role": "Certificatie- en testcoördinator",
+    "teamMember3Desc": "Gespecialiseerd in NMPA-registraties voor cosmetica voor zowel gewone als speciale doeleinden.",
+    "teamMember3Name": "Lisa Liu",
+    "teamMember3Role": "Specialist op het gebied van de regelgeving op het gebied van cosmetica",
+    "teamSubtitle": "Een toegewijd team van professionals op het gebied van de regelgeving die zich inzetten voor uw succes in China.",
+    "teamTitle": "Ons team"
   },
   "Expert": {
     "title": "Ontmoet Uw China Specialist",

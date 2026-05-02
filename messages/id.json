@@ -60,7 +60,17 @@
     "faqPreviewA2": "Pendaftaran biasanya memerlukan waktu 2-4 minggu tergantung pada kategori produk dan kelengkapan dokumentasi.",
     "faqPreviewQ3": "Apakah pendaftarannya berlaku selamanya?",
     "faqPreviewA3": "Tidak, pendaftaran GACC berlaku selama 5 tahun. Perpanjangan harus diajukan 6 bulan sebelum habis masa berlakunya.",
-    "faqPreviewLink": "Lihat semua pertanyaan →"
+    "faqPreviewLink": "Lihat semua pertanyaan →",
+    "socialProofSubtitle": "Membantu bisnis internasional memasuki pasar Tiongkok dengan percaya diri.",
+    "socialProofTitle": "Dipercaya oleh Merek Global",
+    "stat1Label": "Merek Disajikan",
+    "stat1Number": "500+",
+    "stat2Label": "Negara",
+    "stat2Number": "50+",
+    "stat3Label": "Keahlian Bertahun-tahun",
+    "stat3Number": "10+",
+    "stat4Label": "Tingkat Kepatuhan",
+    "stat4Number": "100%"
   },
   "Services": {
     "heroTitle": "Layanan Kami",
@@ -88,7 +98,19 @@
     "brandTitle": "Perlindungan Merek",
     "brandSubtitle": "Registrasi merek dagang, pencatatan IP bea cukai, dan kepatuhan iklan untuk melindungi merek Anda di Tiongkok.",
     "brandPoints": "Pencarian dan registrasi merek dagang,Penunjukan sistem Madrid,Pencatatan IP bea cukai,Tinjauan kepatuhan iklan,Strategi perlindungan merek",
-    "brandLink": "Pelajari Lebih Lanjut"
+    "brandLink": "Pelajari Lebih Lanjut",
+    "brandIndustries": "Semua industri yang memasuki Tiongkok — FMCG, teknologi, fesyen, dan makanan & minuman.",
+    "brandPainPoint": "Sistem first-to-file di Tiongkok berarti merek Anda sudah bisa didaftarkan oleh orang lain.",
+    "cccIndustries": "Elektronik, peralatan rumah tangga, peralatan IT, suku cadang otomotif, mainan, dan baterai litium.",
+    "cccPainPoint": "CCC wajib untuk 17 kategori produk. Kami menavigasi katalog sehingga Anda tidak perlu melakukannya.",
+    "cosmeticsIndustries": "Perawatan kulit, tata rias, perawatan rambut, tabir surya, wewangian, dan produk perawatan pribadi.",
+    "cosmeticsPainPoint": "Pengajuan NMPA bisa memakan waktu berbulan-bulan. Proses kami yang efisien membuat Anda memasarkan lebih cepat.",
+    "ecommerceIndustries": "Makanan & minuman, kosmetik, suplemen, pakaian jadi, dan elektronik konsumen.",
+    "ecommercePainPoint": "Orientasi platform dan kepatuhan logistik merupakan hal yang rumit. Kami menangani pekerjaan berat.",
+    "gaccIndustries": "Produk susu, daging, makanan laut, roti, minuman, makanan kesehatan, dan seluruh 18 kategori yang diatur GACC.",
+    "gaccPainPoint": "Bingung dengan SK 248/249? Kami menyederhanakan pendaftaran CIFER sehingga produk Anda melewati bea cukai dengan lancar.",
+    "labelIndustries": "Makanan kemasan, minuman, suplemen, kosmetik, dan barang konsumsi.",
+    "labelPainPoint": "Satu kesalahan pelabelan dapat menghentikan pengiriman Anda di bea cukai. Lakukan dengan benar pada kali pertama."
   },
   "ServiceGacc": {
     "heroTitle": "Registrasi Makanan GACC",
@@ -107,7 +129,11 @@
     "faq3q": "Dokumen apa saja yang diperlukan untuk pendaftaran?",
     "faq3a": "Dokumen utama antara lain: izin usaha, informasi fasilitas produksi, daftar produk dengan kode HS, sertifikat manajemen mutu (ISO 22000/HACCP), dan label produk. Kami menyediakan checklist lengkap dan membantu persiapan dokumen.",
     "faq4q": "Apakah pendaftaran berlaku selamanya?",
-    "faq4a": "Tidak, pendaftaran GACC berlaku selama 5 tahun. Perpanjangan harus diajukan 6 bulan sebelum habis masa berlakunya. Kami memberikan pengingat perpanjangan dan menangani seluruh proses perpanjangan atas nama Anda."
+    "faq4a": "Tidak, pendaftaran GACC berlaku selama 5 tahun. Perpanjangan harus diajukan 6 bulan sebelum habis masa berlakunya. Kami memberikan pengingat perpanjangan dan menangani seluruh proses perpanjangan atas nama Anda.",
+    "faq5a": "Fasilitas manufaktur di luar negeri harus terdaftar. Jika Anda memproduksi produk di beberapa fasilitas, setiap fasilitas memerlukan registrasi GACC sendiri. Kami dapat menangani pendaftaran untuk beberapa situs dalam satu akun.",
+    "faq5q": "Siapa yang perlu mendaftar – produsen atau eksportir?",
+    "faq6a": "Tidak. Sejak 1 Januari 2022, bea cukai Tiongkok akan menolak impor makanan apa pun tanpa nomor registrasi GACC yang valid. Pendaftaran harus diselesaikan sebelum pengiriman pertama Anda.",
+    "faq6q": "Bisakah saya mengirimkan produk ke Tiongkok sebelum pendaftaran selesai?"
   },
   "ServiceLabel": {
     "heroTitle": "Kepatuhan Label Tiongkok",
@@ -126,7 +152,11 @@
     "faq3q": "Apa yang terjadi jika label saya tidak mematuhi?",
     "faq3a": "Label yang tidak mematuhi dapat mengakibatkan penolakan bea cukai, penyitaan produk, denda, atau penarikan produk secara paksa. Memastikan kepatuhan label sebelum pengiriman mencegah masalah mahal ini.",
     "faq4q": "Apakah Anda juga mendesain labelnya?",
-    "faq4a": "Ya, kami menyediakan layanan label lengkap: tinjauan kepatuhan terhadap standar GB, desain label khusus dalam bahasa Cina, dan file siap produksi untuk printer Anda. Kami juga memberikan panduan tentang aplikasi stiker pelabuhan masuk."
+    "faq4a": "Ya, kami menyediakan layanan label lengkap: tinjauan kepatuhan terhadap standar GB, desain label khusus dalam bahasa Cina, dan file siap produksi untuk printer Anda. Kami juga memberikan panduan tentang aplikasi stiker pelabuhan masuk.",
+    "faq5a": "Ya, setiap SKU memerlukan label kepatuhannya sendiri karena bahan, fakta nutrisi, dan spesifikasi produk berbeda-beda. Kami meninjau dan mendesain label untuk setiap SKU Anda satu per satu.",
+    "faq5q": "Apakah saya memerlukan label terpisah untuk setiap SKU produk?",
+    "faq6a": "Label makanan kemasan harus mematuhi GB 7718-2025 (Standar Umum untuk Label Makanan Kemasan) dan GB 28050-2025 (Standar Pelabelan Nutrisi). Ini mencakup penamaan produk, daftar bahan, panel nutrisi, pernyataan alergen, dan banyak lagi.",
+    "faq6q": "Standar apa yang harus dipatuhi oleh label?"
   },
   "ServiceCcc": {
     "heroTitle": "Sertifikasi CCC",
@@ -145,7 +175,11 @@
     "faq3q": "Berapa lama waktu yang dibutuhkan untuk sertifikasi CCC?",
     "faq3a": "Proses CCC biasanya memakan waktu 4-8 bulan termasuk audit pabrik, pengujian produk di laboratorium terakreditasi CNAS, dan peninjauan sertifikasi. Garis waktu bervariasi berdasarkan kategori produk dan kompleksitas.",
     "faq4q": "Apakah sertifikasi CCC dapat dilakukan dari luar negeri?",
-    "faq4a": "Ya, tetapi memerlukan koordinasi dengan laboratorium pengujian dan lembaga sertifikasi Tiongkok. Kami bertindak sebagai perwakilan lokal Anda, mengelola audit pabrik, pengujian sampel, dan semua komunikasi dengan otoritas sertifikasi."
+    "faq4a": "Ya, tetapi memerlukan koordinasi dengan laboratorium pengujian dan lembaga sertifikasi Tiongkok. Kami bertindak sebagai perwakilan lokal Anda, mengelola audit pabrik, pengujian sampel, dan semua komunikasi dengan otoritas sertifikasi.",
+    "faq5a": "Ya, kategori produk tertentu memenuhi syarat untuk deklarasi kesesuaian mandiri (SDOC) dan bukan sertifikasi penuh. Kami menilai produk Anda untuk menentukan apakah SDOC berlaku, yang dapat mengurangi waktu dan biaya secara signifikan.",
+    "faq5q": "Apakah ada opsi deklarasi mandiri untuk CCC?",
+    "faq6a": "Sertifikat CCC memerlukan inspeksi pabrik tahunan untuk menjaga validitas. Kami menyediakan pemantauan kepatuhan berkelanjutan dan mempersiapkan fasilitas Anda untuk audit pengawasan guna memastikan akses pasar tidak terganggu.",
+    "faq6q": "Apa yang terjadi setelah saya mendapatkan sertifikat CCC?"
   },
   "ServiceCosmetics": {
     "heroTitle": "Pengajuan Kosmetik (NMPA)",
@@ -164,7 +198,11 @@
     "faq3q": "Apakah saya memerlukan penanggung jawab Tiongkok?",
     "faq3a": " Ya, semua kosmetik yang diimpor harus menunjuk 境内责任人 (penanggung jawab dalam negeri) Tiongkok yang memikul tanggung jawab hukum atas kualitas dan keamanan produk. Kami dapat membantu Anda.",
     "faq4q": "Bisakah saya menjual kosmetik melalui e-commerce lintas batas tanpa NMPA?",
-    "faq4a": "Ya, saluran e-commerce lintas batas (CBEC) mengizinkan penjualan kosmetik tanpa pengajuan NMPA dalam kondisi tertentu. Ini adalah rute masuk pasar yang lebih cepat sambil mempersiapkan kepatuhan penuh terhadap NMPA."
+    "faq4a": "Ya, saluran e-commerce lintas batas (CBEC) mengizinkan penjualan kosmetik tanpa pengajuan NMPA dalam kondisi tertentu. Ini adalah rute masuk pasar yang lebih cepat sambil mempersiapkan kepatuhan penuh terhadap NMPA.",
+    "faq5a": "Tiongkok telah melonggarkan persyaratan pengujian pada hewan untuk banyak kosmetik impor biasa sejak tahun 2021. Produk yang diproduksi berdasarkan praktik manufaktur yang baik (GMP) dengan penilaian keamanan mungkin dikecualikan. Kami mengevaluasi produk Anda untuk kelayakan pengecualian.",
+    "faq5q": "Apakah pengujian pada hewan berlaku untuk kosmetik impor?",
+    "faq6a": "Perubahan formulasi kecil mungkin hanya memerlukan pembaruan pemberitahuan. Perubahan signifikan – terutama pada bahan aktif – mungkin memerlukan pengarsipan ulang atau registrasi baru. Kami memberikan saran mengenai dampak peraturan sebelum Anda melakukan perubahan.",
+    "faq6q": "Bisakah saya memperbarui formulasi produk saya setelah pengajuan NMPA?"
   },
   "ServiceEcommerce": {
     "heroTitle": "E-commerce Lintas Batas",
@@ -183,7 +221,11 @@
     "faq3q": "Berapa lama untuk menyiapkan toko lintas batas?",
     "faq3a": "Pendaftaran platform biasanya memakan waktu 2-4 minggu. Penyiapan toko, daftar produk, dan kesiapan operasional biasanya memerlukan waktu tambahan 2-4 minggu tergantung pada kompleksitas produk dan persyaratan platform.",
     "faq4q": "Apakah produk lintas negara memerlukan label Tiongkok?",
-    "faq4a": "Produk CBEC umumnya dikecualikan dari persyaratan label Tiongkok karena dianggap sebagai impor pribadi. Namun, informasi produk harus disediakan dalam bahasa Mandarin di platform e-commerce. Kami memandu Anda tentang persyaratan khusus platform."
+    "faq4a": "Produk CBEC umumnya dikecualikan dari persyaratan label Tiongkok karena dianggap sebagai impor pribadi. Namun, informasi produk harus disediakan dalam bahasa Mandarin di platform e-commerce. Kami memandu Anda tentang persyaratan khusus platform.",
+    "faq5a": "Ya, platform e-commerce lintas negara memungkinkan perusahaan luar negeri untuk menjual langsung ke konsumen Tiongkok tanpa mendirikan entitas lokal. Kami memandu Anda melalui pendaftaran platform sebagai pedagang luar negeri.",
+    "faq5q": "Bisakah saya menjual di platform Tiongkok tanpa perusahaan lokal?",
+    "faq6a": "Alipay dan WeChat Pay mendominasi pasar e-commerce Tiongkok. Sebagian besar platform lintas batas menangani pemrosesan pembayaran secara otomatis, namun kami memastikan toko Anda dioptimalkan untuk preferensi konsumen Tiongkok.",
+    "faq6q": "Metode pembayaran apa yang disukai konsumen Tiongkok?"
   },
   "ServiceBrand": {
     "heroTitle": "Perlindungan Merek",
@@ -202,7 +244,11 @@
     "faq3q": "Apa itu Sistem Madrid?",
     "faq3a": "Sistem Madrid memungkinkan Anda memperluas pendaftaran merek dagang yang sudah ada ke beberapa negara, termasuk Tiongkok, melalui satu aplikasi. Ini bisa lebih cepat dan hemat biaya dibandingkan pengajuan langsung di Tiongkok.",
     "faq4q": "Bagaimana cara melindungi terhadap produk palsu?",
-    "faq4a": "Kami memberikan perlindungan merek yang komprehensif: pendaftaran merek dagang, pencatatan IP bea cukai (mengizinkan bea cukai menyita barang palsu), tinjauan kepatuhan periklanan, dan pemantauan berkelanjutan. Pendaftaran awal adalah langkah pertama yang paling penting."
+    "faq4a": "Kami memberikan perlindungan merek yang komprehensif: pendaftaran merek dagang, pencatatan IP bea cukai (mengizinkan bea cukai menyita barang palsu), tinjauan kepatuhan periklanan, dan pemantauan berkelanjutan. Pendaftaran awal adalah langkah pertama yang paling penting.",
+    "faq5a": "Tidak, hak merek dagang bersifat teritorial. Pendaftaran merek dagang AS atau UE tidak memberikan perlindungan di Tiongkok. Anda harus mengajukan secara terpisah ke CNIPA Tiongkok atau memperpanjang melalui Sistem Madrid. Kami merekomendasikan pengajuan CNIPA langsung untuk perlindungan terkuat.",
+    "faq5q": "Bisakah saya menggunakan merek dagang AS/UE yang sudah ada di Tiongkok?",
+    "faq6a": "Setelah pendaftaran, kami menyediakan layanan pemantauan merek dagang berkelanjutan yang memindai aplikasi yang bertentangan, produk palsu di platform e-niaga, dan penggunaan nama merek Anda secara tidak sah dalam periklanan.",
+    "faq6q": "Bagaimana cara memantau pelanggaran merek dagang di Tiongkok?"
   },
   "ServiceCommon": {
     "whoTitle": "Untuk Siapa Ini",
@@ -241,7 +287,13 @@
     "customCta": "Hubungi Kami untuk Penawaran Kustom",
     "popular": "Paling Populer",
     "title": "Paket Kepatuhan",
-    "subtitle": "Pilih paket yang sesuai dengan strategi masuk pasar Tiongkok merek Anda."
+    "subtitle": "Pilih paket yang sesuai dengan strategi masuk pasar Tiongkok merek Anda.",
+    "advancedIncludes": "Semua layanan Masuk Pasar ditambah: pengaturan toko Tmall Global atau JD Worldwide. Pencarian merek dagang dan pendaftaran CNIPA. Catatan IP bea cukai untuk perlindungan perbatasan. Tinjauan kepatuhan periklanan untuk semua materi pemasaran.",
+    "advancedUseCase": "Sempurna untuk merek berkembang yang siap meluncurkan lini produk lengkap mereka di platform e-commerce Tiongkok.",
+    "basicIncludes": "Selesaikan pendaftaran GACC melalui sistem CIFER. Desain label Tiongkok sesuai dengan GB 7718-2025. Konsultasi kepatuhan tatap muka untuk kategori produk spesifik Anda.",
+    "basicUseCase": "Ideal bagi eksportir pangan pemula yang membutuhkan kebutuhan pokok untuk mengirim secara legal ke Tiongkok.",
+    "premiumIncludes": "Semua layanan Go-to-Market ditambah: Konsultasi sertifikasi CCC untuk produk yang berlaku. Pengajuan kosmetik NMPA jika diperluas ke bidang kecantikan. Penilaian kepatuhan data PIPL untuk penanganan data pelanggan. Manajer akun khusus untuk penasihat peraturan berkelanjutan.",
+    "premiumUseCase": "Untuk perusahaan mapan yang berkomitmen untuk hadir dalam jangka panjang di berbagai kategori produk di Tiongkok."
   },
   "Faq": {
     "heroTitle": "Pertanyaan yang Sering Diajukan",
@@ -286,7 +338,43 @@
     "generalQ3": "Di mana tim Anda berbasis?",
     "generalA3": "Tim kami berbasis di Tiongkok dengan akses langsung ke otoritas regulasi, laboratorium pengujian, dan badan sertifikasi. Kami bekerja dengan klien secara global.",
     "generalQ4": "Bisakah Anda menangani seluruh proses untuk saya?",
-    "generalA4": "Ya. Kami menawarkan layanan lengkap dari awal hingga akhir — dari penilaian awal dan dokumentasi hingga registrasi, sertifikasi, dan pengelolaan kepatuhan berkelanjutan."
+    "generalA4": "Ya. Kami menawarkan layanan lengkap dari awal hingga akhir — dari penilaian awal dan dokumentasi hingga registrasi, sertifikasi, dan pengelolaan kepatuhan berkelanjutan.",
+    "brandA3": "Jika pihak ketiga telah mendaftarkan merek Anda, pilihannya mencakup menegosiasikan transfer, mengajukan pembatalan non-penggunaan (jika tidak digunakan selama 3+ tahun), atau menentang pendaftaran dengan itikad buruk. Kami menilai situasi Anda dan merekomendasikan strategi terbaik.",
+    "brandA4": "Ya, setiap elemen yang berbeda — logo Anda, nama merek Inggris, dan nama merek Tiongkok — harus didaftarkan sebagai merek dagang terpisah untuk perlindungan menyeluruh. Kami menangani strategi pendaftaran multi-elemen.",
+    "brandQ3": "Bagaimana jika seseorang telah mendaftarkan merek dagang saya?",
+    "brandQ4": "Apakah saya perlu mendaftarkan logo dan nama merek Tiongkok saya secara terpisah?",
+    "cccQ3": "Bisakah saya menggunakan sertifikat CCC dari produsen sebelumnya?",
+    "cccQ3a": "Tidak, sertifikat CCC terikat pada fasilitas manufaktur tertentu. Jika Anda berganti pabrikan, diperlukan aplikasi CCC baru. Kami dapat membantu transfer atau pengajuan ulang sertifikasi.",
+    "cccQ4": "Berapa biaya sertifikasi CCC?",
+    "cccQ4a": "Biaya CCC bervariasi menurut kategori produk, persyaratan pengujian, dan ruang lingkup audit pabrik. Kami memberikan perkiraan biaya terperinci setelah menilai produk spesifik Anda. Struktur biaya tetap kami tidak mengejutkan.",
+    "cosmeticsA2": "A境内责任人 (penanggung jawab rumah tangga) adalah entitas berbasis di Tiongkok yang secara hukum bertanggung jawab atas kualitas dan keamanan produk Anda. Mereka menangani komunikasi NMPA, pelaporan kejadian buruk, dan kepatuhan terhadap peraturan. Kami dapat bertindak sebagai agen yang bertanggung jawab.",
+    "cosmeticsA3": "Ya, NMPA memerlukan pengujian keamanan dan kemanjuran di laboratorium Tiongkok yang terakreditasi. Beberapa data pengujian asing mungkin diterima untuk penilaian tertentu, namun pengujian keamanan inti harus dilakukan di Tiongkok.",
+    "cosmeticsQ2": "Apa yang dimaksud dengan agen yang bertanggung jawab di Tiongkok?",
+    "cosmeticsQ3": "Apakah saya perlu menguji produk saya di Tiongkok?",
+    "ecommerceA3": "Sebagian besar platform lintas batas menyediakan alat layanan pelanggan dan penanganan pengembalian bawaan. Kami menyarankan pengaturan alur kerja layanan pelanggan berbahasa Mandarin dan mengelola pengembalian melalui gudang berikat.",
+    "ecommerceA4": "Ya, banyak merek menggunakan lintas batas sebagai saluran pengujian pasar sebelum beralih ke impor tradisional penuh dengan kepatuhan penuh terhadap NMPA, GACC, dan CCC. Kami mendukung kedua jalur tersebut.",
+    "ecommerceQ3": "Bagaimana cara menangani pengembalian dan layanan pelanggan di Tiongkok?",
+    "ecommerceQ4": "Bisakah saya beralih dari impor lintas batas ke impor tradisional nanti?",
+    "gaccA5": "Ya, satu produsen luar negeri dapat mendaftarkan produk di berbagai kategori makanan dalam satu registrasi GACC. Setiap kategori mungkin memiliki persyaratan dokumentasi yang berbeda, dan kami mengelola cakupan penuh atas nama Anda.",
+    "gaccA6": "Jika ditolak, kami meninjau alasan penolakan, memperbaiki kekurangan apa pun, dan mengirimkannya kembali. Masalah umum termasuk dokumentasi yang tidak lengkap atau klasifikasi kode HS yang salah. Proses peninjauan pra-pengajuan kami meminimalkan risiko penolakan.",
+    "gaccQ5": "Bisakah satu perusahaan mendaftarkan beberapa kategori produk?",
+    "gaccQ6": "Apa yang terjadi jika pendaftaran GACC saya ditolak?",
+    "generalA10": "Sangat. Banyak klien menggunakan paket kepatuhan kami (Masuk Pasar, Masuk ke Pasar, Peluncuran Merek) yang menggabungkan beberapa layanan dengan nilai lebih baik. Kami juga membuat bundel khusus untuk kebutuhan unik.",
+    "generalA5": "Kami melayani semua industri yang mengekspor ke Tiongkok: makanan dan minuman, kosmetik dan perawatan pribadi, elektronik dan peralatan, mainan, tekstil, bahan kimia, suku cadang otomotif, dan banyak lagi. Jika melintasi perbatasan Tiongkok, kami dapat membantu dengan kepatuhan.",
+    "generalA6": "Ya. Selain pendaftaran awal, kami menyediakan manajemen perpanjangan, pemantauan peraturan, nasihat kepatuhan, dan dukungan memasuki pasar. Banyak klien mempertahankan kami untuk manajemen kepatuhan berkelanjutan.",
+    "generalA7": "Cukup hubungi kami melalui formulir situs web, WhatsApp, atau email. Kami akan menjadwalkan konsultasi gratis untuk memahami produk, sasaran, dan jadwal Anda, lalu memberikan rencana kepatuhan yang disesuaikan.",
+    "generalA8": "Tim kami bekerja dalam bahasa Inggris dan Mandarin. Kami melayani klien secara global dan dapat berkomunikasi dalam bahasa pilihan Anda di seluruh proses.",
+    "generalA9": "Meskipun tidak ada konsultan yang dapat menjamin persetujuan pemerintah, rekam jejak kami menunjukkan tingkat keberhasilan yang hampir 100%. Tinjauan pra-pengajuan kami yang menyeluruh dan pengetahuan peraturan yang mendalam meminimalkan risiko di setiap langkah.",
+    "generalQ10": "Bisakah saya menggabungkan beberapa layanan menjadi satu?",
+    "generalQ5": "Industri apa yang Anda layani?",
+    "generalQ6": "Apakah Anda menawarkan dukungan kepatuhan berkelanjutan?",
+    "generalQ7": "Bagaimana cara memulainya?",
+    "generalQ8": "Dalam bahasa apa Anda bekerja?",
+    "generalQ9": "Apakah Anda menjamin persetujuan pendaftaran?",
+    "labelQ3": "Apakah suplemen kesehatan memerlukan label yang berbeda?",
+    "labelQ3a": "Ya, suplemen kesehatan (保健食品) memiliki persyaratan pelabelan tambahan di luar makanan kemasan standar, termasuk klaim fungsi kesehatan,适宜人群 (sesuai), dan petunjuk penggunaan. Kami menangani persyaratan label khusus kategori.",
+    "labelQ4": "Seberapa cepat label dapat diselesaikan?",
+    "labelQ4a": "Peninjauan dan desain label standar memerlukan waktu 1-2 minggu per SKU. Untuk pengiriman mendesak, kami menawarkan layanan yang dipercepat. Pesanan terburu-buru bergantung pada kompleksitas produk dan beban kerja saat ini."
   },
   "About": {
     "heroTitle": "Tentang SinoTrade Compliance",
@@ -310,7 +398,20 @@
     "title": "About SinoTrade Compliance",
     "subtitle": "Mitra tepercaya Anda untuk menavigasi peraturan impor Tiongkok.",
     "missionText": "Untuk membuat peraturan impor Tiongkok dapat diakses dan dinavigasi oleh bisnis internasional dari semua ukuran. Kami percaya bahwa kepatuhan tidak boleh menjadi hambatan untuk memasuki pasar — ​​melainkan harus menjadi jembatan.",
-    "values": "Keahlian — Pengetahuan mendalam tentang lanskap peraturan Tiongkok di berbagai industri.,Transparansi — Penetapan harga biaya tetap dengan hasil yang jelas — tanpa biaya atau kejutan tersembunyi.,Komitmen — Kami selalu mendampingi Anda mulai dari konsultasi awal hingga memasuki pasar sesuai kepatuhan akhir."
+    "values": "Keahlian — Pengetahuan mendalam tentang lanskap peraturan Tiongkok di berbagai industri.,Transparansi — Penetapan harga biaya tetap dengan hasil yang jelas — tanpa biaya atau kejutan tersembunyi.,Komitmen — Kami selalu mendampingi Anda mulai dari konsultasi awal hingga memasuki pasar sesuai kepatuhan akhir.",
+    "partnersSubtitle": "Kami bekerja sama dengan laboratorium terakreditasi, lembaga sertifikasi, dan mitra hukum di seluruh Tiongkok.",
+    "partnersTitle": "Mitra Tepercaya",
+    "teamMember1Desc": "5+ tahun yang mengkhususkan diri dalam pendaftaran GACC Keputusan 248/249 di seluruh 18 kategori makanan.",
+    "teamMember1Name": "Sarah Chen",
+    "teamMember1Role": "Spesialis Pendaftaran GACC",
+    "teamMember2Desc": "Ahli dalam proses sertifikasi CCC dan koordinasi laboratorium terakreditasi CNCA.",
+    "teamMember2Name": "Mike Wang",
+    "teamMember2Role": "Koordinator Sertifikasi & Pengujian",
+    "teamMember3Desc": "Mengkhususkan diri dalam pengajuan NMPA untuk kosmetik biasa dan penggunaan khusus.",
+    "teamMember3Name": "Lisa Liu",
+    "teamMember3Role": "Spesialis Regulasi Kosmetik",
+    "teamSubtitle": "Tim profesional regulasi yang berdedikasi dan berkomitmen untuk kesuksesan Anda di Tiongkok.",
+    "teamTitle": "Tim kami"
   },
   "Expert": {
     "title": "Temui Spesialis Tiongkok Anda",

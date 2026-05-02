@@ -60,7 +60,17 @@
     "faqPreviewA2": "Veure totes les preguntes →",
     "faqPreviewQ3": "Preguntes habituals",
     "faqPreviewA3": "No, el registre GACC té una validesa de 5 anys. La renovació s'ha de presentar 6 mesos abans del venciment.",
-    "faqPreviewLink": "Trobar respostes a les preguntes més freqüents sobre aquest servei."
+    "faqPreviewLink": "Trobar respostes a les preguntes més freqüents sobre aquest servei.",
+    "socialProofSubtitle": "Ajudar a les empreses internacionals a entrar al mercat xinès amb confiança.",
+    "socialProofTitle": "Global Brands és de confiança",
+    "stat1Label": "Marques servides",
+    "stat1Number": "500+",
+    "stat2Label": "Països",
+    "stat2Number": "50+",
+    "stat3Label": "Anys d'Experiència",
+    "stat3Number": "10+",
+    "stat4Label": "Taxa de compliment",
+    "stat4Number": "100%"
   },
   "Services": {
     "heroTitle": "Els Nostres Serveis",
@@ -88,7 +98,19 @@
     "brandTitle": "Protecció de Marca",
     "brandSubtitle": "Registre de marca comercial, presentació de propietat intel·lectual a duanes i conformitat publicitària per protegir la vostra marca a la Xina.",
     "brandPoints": "Cerca i registre de marca comercial,Designació del sistema de Madrid,Registre de propietat intel·lectual a duanes,Revisió de conformitat publicitària,Estratègia de protecció de marca",
-    "brandLink": "Més Informació"
+    "brandLink": "Més Informació",
+    "brandIndustries": "Totes les indústries que entren a la Xina: productes de gran consum, tecnologia, moda i aliments i begudes.",
+    "brandPainPoint": "El sistema de primers fitxers de la Xina significa que algú altre ja podria registrar la vostra marca.",
+    "cccIndustries": "Electrònica, electrodomèstics, equips informàtics, peces d'automòbils, joguines i bateries de liti.",
+    "cccPainPoint": "El CCC és obligatori per a 17 categories de productes. Naveguem pel catàleg perquè no calgui.",
+    "cosmeticsIndustries": "Productes per a la cura de la pell, el maquillatge, la cura del cabell, la protecció solar, les fragàncies i la cura personal.",
+    "cosmeticsPainPoint": "La presentació de l'NMPA pot trigar mesos. El nostre procés simplificat us permetrà comercialitzar més ràpidament.",
+    "ecommerceIndustries": "Aliments i begudes, cosmètics, suplements, roba i electrònica de consum.",
+    "ecommercePainPoint": "La incorporació de la plataforma i el compliment de la logística són complexos. Ens encarreguem del pes.",
+    "gaccIndustries": "Lactis, carn, marisc, fleca, begudes, aliments saludables i les 18 categories regulades pel GACC.",
+    "gaccPainPoint": "Confós pel Decret 248/249? Simplificam el registre CIFER perquè els vostres productes desinfecten sense problemes.",
+    "labelIndustries": "Aliments preenvasats, begudes, suplements, cosmètics i béns de consum.",
+    "labelPainPoint": "Un error d'etiquetatge pot aturar el vostre enviament a la duana. Fes-ho bé la primera vegada."
   },
   "ServiceGacc": {
     "heroTitle": "Registre GACC d'Aliments",
@@ -107,7 +129,11 @@
     "faq3q": "El registre és vàlid per sempre?",
     "faq3a": "Preguntes habituals",
     "faq4q": "Trobeu respostes a les preguntes més freqüents sobre aquest servei.",
-    "faq4a": "No, el registre GACC té una validesa de 5 anys. La renovació s'ha de presentar 6 mesos abans del venciment. Proporcionem recordatoris de renovació i gestionem tot el procés de renovació en nom vostre."
+    "faq4a": "No, el registre GACC té una validesa de 5 anys. La renovació s'ha de presentar 6 mesos abans del venciment. Proporcionem recordatoris de renovació i gestionem tot el procés de renovació en nom vostre.",
+    "faq5a": "La instal·lació de fabricació a l'estranger ha d'estar registrada. Si fabriqueu productes en diverses instal·lacions, cada instal·lació necessita el seu propi registre GACC. Podem gestionar els registres de diversos llocs amb un mateix compte.",
+    "faq5q": "Qui s'ha de registrar: el fabricant o l'exportador?",
+    "faq6a": "No. Des de l'1 de gener de 2022, la duana xinesa rebutjarà qualsevol importació d'aliments sense un número de registre GACC vàlid. El registre s'ha de completar abans del primer enviament.",
+    "faq6q": "Puc enviar productes a la Xina abans de completar el registre?"
   },
   "ServiceLabel": {
     "heroTitle": "Conformitat d'Etiquetatge Xinès",
@@ -126,7 +152,11 @@
     "faq3q": "Dissenyeu les etiquetes també?",
     "faq3a": "Sí, oferim serveis d'etiquetes complets: revisió del compliment dels estàndards de GB, disseny d'etiquetes personalitzades en xinès i fitxers preparats per a la producció per a la vostra impressora. També oferim orientació sobre les aplicacions d'adhesius de port d'entrada.",
     "faq4q": "Preguntes habituals",
-    "faq4a": "Trobeu respostes a les preguntes més freqüents sobre aquest servei."
+    "faq4a": "Trobeu respostes a les preguntes més freqüents sobre aquest servei.",
+    "faq5a": "Sí, cada SKU requereix la seva pròpia etiqueta de conformitat, ja que els ingredients, les dades nutricionals i les especificacions del producte varien. Revisem i dissenyem etiquetes per a cadascun dels vostres SKU individualment.",
+    "faq5q": "Necessito etiquetes separades per a cada SKU de producte?",
+    "faq6a": "Les etiquetes dels aliments preenvasats han de complir la norma GB 7718-2025 (estàndard general per a etiquetes d'aliments preenvasats) i la norma GB 28050-2025 (estàndard d'etiquetatge nutricional). Aquests inclouen la denominació dels productes, les llistes d'ingredients, els panells de nutrició, les declaracions d'al·lèrgens i molt més.",
+    "faq6q": "Quins estàndards han de complir les etiquetes?"
   },
   "ServiceCcc": {
     "heroTitle": "Certificació CCC",
@@ -145,7 +175,11 @@
     "faq3q": "Quant de temps triga la certificació CCC?",
     "faq3a": "El procés CCC sol trigar entre 4 i 8 mesos, incloent l'auditoria de fàbrica, les proves de productes en laboratoris acreditats per CNAS i la revisió de la certificació. La cronologia varia segons la categoria i la complexitat del producte.",
     "faq4q": "Es pot fer la certificació CCC des de l'estranger?",
-    "faq4a": "Trobeu respostes a les preguntes més freqüents sobre aquest servei."
+    "faq4a": "Trobeu respostes a les preguntes més freqüents sobre aquest servei.",
+    "faq5a": "Sí, determinades categories de productes compleixen els requisits per a l'autodeclaració de conformitat (SDOC) en lloc de la certificació completa. Avaluem el vostre producte per determinar si s'aplica SDOC, cosa que pot reduir significativament el temps i el cost.",
+    "faq5q": "Hi ha una opció d'autodeclaració per a CCC?",
+    "faq6a": "Els certificats CCC requereixen inspeccions anuals de fàbrica per mantenir la validesa. Oferim un seguiment continu del compliment i preparem la vostra instal·lació per a auditories de vigilància per garantir un accés ininterromput al mercat.",
+    "faq6q": "Què passa després d'obtenir el certificat CCC?"
   },
   "ServiceCosmetics": {
     "heroTitle": "Tramitació de Cosmètics (NMPA)",
@@ -164,7 +198,11 @@
     "faq3q": "Preguntes habituals",
     "faq3a": "Troba respostes a les preguntes més freqüents sobre aquest servei.",
     "faq4q": "Puc vendre cosmètics a través del comerç electrònic transfronterer sense NMPA?",
-    "faq4a": "Sí, els canals de comerç electrònic transfronterer (CBEC) permeten la venda de cosmètics sense la presentació de NMPA sota determinades condicions. Aquesta és una ruta d'entrada al mercat més ràpida mentre prepareu el compliment complet de NMPA."
+    "faq4a": "Sí, els canals de comerç electrònic transfronterer (CBEC) permeten la venda de cosmètics sense la presentació de NMPA sota determinades condicions. Aquesta és una ruta d'entrada al mercat més ràpida mentre prepareu el compliment complet de NMPA.",
+    "faq5a": "La Xina ha relaxat els requisits de proves amb animals per a molts cosmètics importats ordinaris des del 2021. Els productes fabricats amb bones pràctiques de fabricació (GMP) amb una avaluació de seguretat poden estar exempts. Avaluem els vostres productes per a l'elegibilitat de l'exempció.",
+    "faq5q": "Les proves amb animals s'apliquen als cosmètics importats?",
+    "faq6a": "Els canvis menors en la formulació només poden requerir una actualització de la notificació. Els canvis significatius, especialment als ingredients actius, poden requerir una nova presentació o un nou registre. Aconsellem l'impacte normatiu abans de fer canvis.",
+    "faq6q": "Puc actualitzar la formulació del meu producte després de presentar la NMPA?"
   },
   "ServiceEcommerce": {
     "heroTitle": "Comerç Electrònic Transfronterer",
@@ -183,7 +221,11 @@
     "faq3q": "Quant de temps per muntar una botiga transfronterera?",
     "faq3a": "El registre de la plataforma sol trigar entre 2 i 4 setmanes. La configuració de la botiga, la llista de productes i la preparació operativa solen trigar entre 2 i 4 setmanes addicionals, depenent de la complexitat del producte i dels requisits de la plataforma.",
     "faq4q": "Els productes transfronterers necessiten etiquetes xineses?",
-    "faq4a": "Els productes CBEC generalment estan exempts dels requisits d'etiqueta xinesa, ja que es consideren importacions personals. Tanmateix, la informació del producte s'ha de proporcionar en xinès a la plataforma de comerç electrònic. Us orientem sobre els requisits específics de la plataforma."
+    "faq4a": "Els productes CBEC generalment estan exempts dels requisits d'etiqueta xinesa, ja que es consideren importacions personals. Tanmateix, la informació del producte s'ha de proporcionar en xinès a la plataforma de comerç electrònic. Us orientem sobre els requisits específics de la plataforma.",
+    "faq5a": "Sí, les plataformes de comerç electrònic transfronterer permeten a les empreses estrangeres vendre directament als consumidors xinesos sense establir una entitat local. Us guiem a través del registre de la plataforma com a comerciant a l'estranger.",
+    "faq5q": "Puc vendre a plataformes xineses sense una empresa local?",
+    "faq6a": "Alipay i WeChat Pay dominen el mercat de comerç electrònic xinès. La majoria de plataformes transfrontereres gestionen el processament de pagaments automàticament, però ens assegurem que la vostra botiga estigui optimitzada per a les preferències dels consumidors xinesos.",
+    "faq6q": "Quins mètodes de pagament prefereixen els consumidors xinesos?"
   },
   "ServiceBrand": {
     "heroTitle": "Protecció de Marca",
@@ -202,7 +244,11 @@
     "faq3q": "Què és el sistema de Madrid?",
     "faq3a": "El Sistema de Madrid us permet estendre un registre de marca existent a diversos països, inclosa la Xina, mitjançant una única aplicació. Pot ser més ràpid i més rendible que la presentació directa a la Xina.",
     "faq4q": "Com puc protegir contra els productes falsificats?",
-    "faq4a": "Oferim una protecció integral de la marca: registre de marca registrada, registre de la propietat intel·lectual duanera (permet que la duana confisca mercaderies falsificades), revisió del compliment de la publicitat i seguiment continu. El registre anticipat és el primer pas més important."
+    "faq4a": "Oferim una protecció integral de la marca: registre de marca registrada, registre de la propietat intel·lectual duanera (permet que la duana confisca mercaderies falsificades), revisió del compliment de la publicitat i seguiment continu. El registre anticipat és el primer pas més important.",
+    "faq5a": "No, els drets de marca són territorials. Un registre de marca dels EUA o de la UE no ofereix cap protecció a la Xina. Heu de presentar per separat a la CNIPA de la Xina o ampliar a través del Sistema de Madrid. Recomanem la presentació directa de la CNIPA per a la protecció més sòlida.",
+    "faq5q": "Puc utilitzar la meva marca comercial existent als EUA/UE a la Xina?",
+    "faq6a": "Després del registre, oferim serveis de supervisió de marques comercials en curs que busquen aplicacions en conflicte, productes falsificats a plataformes de comerç electrònic i ús no autoritzat del vostre nom de marca en publicitat.",
+    "faq6q": "Com puc controlar la infracció de marques comercials a la Xina?"
   },
   "ServiceCommon": {
     "whoTitle": "Per a Qui És",
@@ -241,7 +287,13 @@
     "customCta": "Contacteu-nos per a un Pressupost Personalitzat",
     "popular": "El Més Popular",
     "title": "Paquets de Conformitat",
-    "subtitle": "Trieu el paquet que s'adapta a l'estratègia d'entrada a la Xina de la vostra marca."
+    "subtitle": "Trieu el paquet que s'adapta a l'estratègia d'entrada a la Xina de la vostra marca.",
+    "advancedIncludes": "Tots els serveis d'entrada al mercat més: configuració de botiga Tmall Global o JD Worldwide. Cerca de marques i registre CNIPA. Registre de propietat intel·lectual duanera per a la protecció de fronteres. Revisió del compliment de la publicitat per a tots els materials de màrqueting.",
+    "advancedUseCase": "Perfecte per a marques en creixement a punt per llançar la seva línia de productes completa a les plataformes de comerç electrònic xineses.",
+    "basicIncludes": "Completar el registre GACC mitjançant el sistema CIFER. Disseny de l'etiqueta xinesa compatible amb GB 7718-2025. Consulta de compliment individual per a la vostra categoria de producte específica.",
+    "basicUseCase": "Ideal per als primers exportadors d'aliments que necessiten l'essencial per enviar legalment a la Xina.",
+    "premiumIncludes": "Tots els serveis de sortida al mercat més: consultoria de certificació CCC per als productes aplicables. Presentació de cosmètics NMPA si s'expandeix a la bellesa. Avaluació del compliment de les dades PIPL per al tractament de dades dels clients. Gestor de comptes dedicat per a l'assessorament regulatori en curs.",
+    "premiumUseCase": "Per a empreses establertes que es comprometen a tenir una presència a llarg termini en múltiples categories de productes a la Xina."
   },
   "Faq": {
     "heroTitle": "Preguntes Freqüents",
@@ -286,7 +338,43 @@
     "generalQ3": "On està ubicat el vostre equip?",
     "generalA3": "El nostre equip està ubicat a la Xina amb accés directe a autoritats reguladores, laboratoris de proves i organismes de certificació. Treballem amb clients arreu del món.",
     "generalQ4": "Podeu gestionar tot el procés per mi?",
-    "generalA4": "Sí. Oferim un servei complet de principi a fi — des de l'avaluació inicial i la documentació fins al registre, certificació i gestió de conformitat contínua."
+    "generalA4": "Sí. Oferim un servei complet de principi a fi — des de l'avaluació inicial i la documentació fins al registre, certificació i gestió de conformitat contínua.",
+    "brandA3": "Si un tercer ha registrat la vostra marca, les opcions inclouen negociar una transferència, presentar una cancel·lació de no ús (si no s'utilitza durant més de 3 anys) o impugnar el registre de mala fe. Avaluem la teva situació i et recomanem la millor estratègia.",
+    "brandA4": "Sí, cada element diferent (el vostre logotip, el nom de la marca en anglès i el nom de la marca xinesa) s'han de registrar com a marques comercials separades per a una protecció integral. Gestionem estratègies de registre multielement.",
+    "brandQ3": "Què passa si algú ja ha registrat la meva marca comercial?",
+    "brandQ4": "He de registrar el meu logotip i la meva marca xinesa per separat?",
+    "cccQ3": "Puc utilitzar certificats CCC d'un fabricant anterior?",
+    "cccQ3a": "No, els certificats CCC estan vinculats a la instal·lació de fabricació específica. Si canvieu de fabricant, cal una nova aplicació CCC. Podem ajudar a transferir o tornar a sol·licitar la certificació.",
+    "cccQ4": "Quin és el cost de la certificació CCC?",
+    "cccQ4a": "Els costos de CCC varien segons la categoria de producte, els requisits de prova i l'abast de l'auditoria de fàbrica. Oferim una estimació detallada de costos després d'avaluar el vostre producte específic. La nostra estructura de tarifes fixes no significa sorpreses.",
+    "cosmeticsA2": "A境内责任人 (persona responsable domèstica) és una entitat amb seu a la Xina legalment responsable de la qualitat i seguretat del vostre producte. Gestionen les comunicacions de l'NMPA, els informes d'esdeveniments adversos i el compliment de la normativa. Podem servir com el vostre agent responsable.",
+    "cosmeticsA3": "Sí, NMPA requereix proves de seguretat i eficàcia en laboratoris xinesos acreditats. Es poden acceptar algunes dades de proves estrangeres per a determinades avaluacions, però les proves de seguretat bàsiques s'han de dur a terme a la Xina.",
+    "cosmeticsQ2": "Què és un agent responsable xinès?",
+    "cosmeticsQ3": "He de provar els meus productes a la Xina?",
+    "ecommerceA3": "La majoria de plataformes transfrontereres ofereixen eines d'atenció al client integrades i gestió de devolucions. Aconsellem la configuració de fluxos de treball d'atenció al client en xinès i la gestió de les devolucions a través de magatzems aduaners.",
+    "ecommerceA4": "Sí, moltes marques utilitzen transfronterers com a canal de prova de mercat abans de passar a la importació tradicional completa amb el compliment complet de NMPA, GACC i CCC. Donem suport a les dues vies.",
+    "ecommerceQ3": "Com puc gestionar les devolucions i l'atenció al client a la Xina?",
+    "ecommerceQ4": "Puc passar de la importació transfronterera a la tradicional més endavant?",
+    "gaccA5": "Sí, un únic fabricant estranger pot registrar productes de diverses categories d'aliments amb un sol registre GACC. Cada categoria pot tenir requisits de documentació diferents i gestionem l'abast complet en nom vostre.",
+    "gaccA6": "Si es rebutja, revisem els motius del rebuig, corregem les deficiències i tornem a enviar. Els problemes habituals inclouen documentació incompleta o classificació incorrecta del codi HS. El nostre procés de revisió prèvia a la presentació minimitza el risc de rebuig.",
+    "gaccQ5": "Una sola empresa pot registrar diverses categories de productes?",
+    "gaccQ6": "Què passa si es rebutja el meu registre GACC?",
+    "generalA10": "Absolutament. Molts clients utilitzen els nostres paquets de compliment (entrada al mercat, obertura al mercat, llançament de marca) que inclouen diversos serveis a un millor preu. També creem paquets personalitzats per a necessitats úniques.",
+    "generalA5": "Donem servei a totes les indústries que exporten a la Xina: aliments i begudes, cosmètics i cura personal, electrònica i electrodomèstics, joguines, tèxtils, productes químics, peces d'automòbils i molt més. Si creua la frontera xinesa, podem ajudar a complir-lo.",
+    "generalA6": "Sí. Més enllà del registre inicial, oferim gestió de renovacions, supervisió normativa, assessorament de compliment i suport per a l'entrada al mercat. Molts clients ens reten per a una gestió contínua del compliment.",
+    "generalA7": "Només cal que poseu-vos en contacte amb nosaltres mitjançant el formulari del nostre lloc web, WhatsApp o correu electrònic. Programarem una consulta gratuïta per entendre els vostres productes, objectius i calendari i, a continuació, oferirem un pla de compliment a mida.",
+    "generalA8": "El nostre equip treballa en anglès i xinès mandarí. Donem servei als clients a nivell mundial i podem comunicar-nos en el vostre idioma preferit durant tot el procés.",
+    "generalA9": "Tot i que cap consultor pot garantir l'aprovació del govern, el nostre historial mostra una taxa d'èxit propera al 100%. La nostra revisió exhaustiva prèvia a la presentació i el profund coneixement de la normativa minimitzen els riscos en cada pas.",
+    "generalQ10": "Puc agrupar diversos serveis?",
+    "generalQ5": "A quines indústries doneu servei?",
+    "generalQ6": "Ofereix suport de compliment permanent?",
+    "generalQ7": "Com començo?",
+    "generalQ8": "En quins idiomes treballes?",
+    "generalQ9": "Garantiu l'aprovació del registre?",
+    "labelQ3": "Els suplements de salut necessiten etiquetes diferents?",
+    "labelQ3a": "Sí, els suplements de salut (保健食品) tenen requisits d'etiquetatge addicionals més enllà dels aliments preenvasats estàndard, incloses les declaracions de funcions de salut, 适宜人群 (adequat人群) i instruccions d'ús. Gestionem els requisits d'etiqueta específics de la categoria.",
+    "labelQ4": "Amb quina rapidesa es poden completar les etiquetes?",
+    "labelQ4a": "La revisió i el disseny de l'etiqueta estàndard triguen entre 1 i 2 setmanes per SKU. Per a enviaments urgents, oferim un servei ràpid. Les comandes urgents depenen de la complexitat del producte i de la càrrega de treball actual."
   },
   "About": {
     "heroTitle": "Sobre SinoTrade Compliance",
@@ -310,7 +398,20 @@
     "title": "About SinoTrade Compliance",
     "subtitle": "El vostre soci de confiança per navegar per les regulacions d'importació de la Xina.",
     "missionText": "Per fer que les regulacions d'importació de la Xina siguin accessibles i navegables per a empreses internacionals de totes les mides. Creiem que el compliment no hauria de ser una barrera per a l'entrada al mercat, hauria de ser un pont.",
-    "values": "Experiència — Coneixement profund del panorama regulatori de la Xina en múltiples indústries.,Transparència — Preus de tarifa fixa amb lliuraments clars — sense costos ocults ni sorpreses., Compromís — Ens acompanyem des de la consulta inicial fins a l'entrada final al mercat."
+    "values": "Experiència — Coneixement profund del panorama regulatori de la Xina en múltiples indústries.,Transparència — Preus de tarifa fixa amb lliuraments clars — sense costos ocults ni sorpreses., Compromís — Ens acompanyem des de la consulta inicial fins a l'entrada final al mercat.",
+    "partnersSubtitle": "Treballem amb laboratoris acreditats, organismes de certificació i socis legals a tota la Xina.",
+    "partnersTitle": "Socis de confiança",
+    "teamMember1Desc": "Més de 5 anys especialitzat en registres del Decret 248/249 del GACC en les 18 categories d'aliments.",
+    "teamMember1Name": "Sarah Chen",
+    "teamMember1Role": "Especialista en registre GACC",
+    "teamMember2Desc": "Expert en processos de certificació CCC i coordinació de laboratoris acreditats per CNCA.",
+    "teamMember2Name": "Mike Wang",
+    "teamMember2Role": "Coordinador de certificació i proves",
+    "teamMember3Desc": "S'especialitza en les presentacions NMPA per a cosmètics d'ús normal i especial.",
+    "teamMember3Name": "Lisa Liu",
+    "teamMember3Role": "Especialista en Regulació de Cosmètica",
+    "teamSubtitle": "Un equip dedicat de professionals de la regulació compromesos amb el vostre èxit a la Xina.",
+    "teamTitle": "El nostre equip"
   },
   "Expert": {
     "title": "Conegueu el Vostre Especialista de la Xina",

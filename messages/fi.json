@@ -60,7 +60,17 @@
     "faqPreviewA2": "Onko rekisteröinti voimassa ikuisesti?",
     "faqPreviewQ3": "Katso kaikki kysymykset →",
     "faqPreviewA3": "Ei, GACC-rekisteröinti on voimassa 5 vuotta. Uusiminen on tehtävä 6 kuukautta ennen voimassaolon päättymistä.",
-    "faqPreviewLink": "Yleiset kysymykset"
+    "faqPreviewLink": "Yleiset kysymykset",
+    "socialProofSubtitle": "Autamme kansainvälisiä yrityksiä pääsemään Kiinan markkinoille luottavaisin mielin.",
+    "socialProofTitle": "Global Brands luottaa",
+    "stat1Label": "Tarjotut tuotemerkit",
+    "stat1Number": "500+",
+    "stat2Label": "maat",
+    "stat2Number": "50+",
+    "stat3Label": "Vuosien asiantuntemus",
+    "stat3Number": "10+",
+    "stat4Label": "Compliance Rate",
+    "stat4Number": "100 %"
   },
   "Services": {
     "heroTitle": "Palvelumme",
@@ -88,7 +98,19 @@
     "brandTitle": "Brändin suojaus",
     "brandSubtitle": "Tavaramerkkirekisteröinti, tullin IP-ilmoitus ja mainosvaatimustenmukaisuus brändisi suojaamiseksi Kiinassa.",
     "brandPoints": "Tavaramerkin haku ja rekisteröinti,Madrid-järjestelmän nimeäminen,Tullin IP-ilmoitus,Mainosvaatimustenmukaisuuden tarkastus,Brändin suojausstrategia",
-    "brandLink": "Tutustu tarkemmin"
+    "brandLink": "Tutustu tarkemmin",
+    "brandIndustries": "Kaikki Kiinaan tulevat teollisuudenalat – FMCG, teknologia, muoti sekä ruoka ja juoma.",
+    "brandPainPoint": "Kiinan ensimmäinen tiedostojärjestelmä tarkoittaa, että joku muu voi jo rekisteröidä brändisi.",
+    "cccIndustries": "Elektroniikka, kodinkoneet, IT-laitteet, autonosat, lelut ja litiumakut.",
+    "cccPainPoint": "CCC on pakollinen 17 tuotekategorialle. Selaamme luetteloa, jotta sinun ei tarvitse.",
+    "cosmeticsIndustries": "Ihonhoito, meikki, hiustenhoitotuotteet, aurinkosuojatuotteet, tuoksut ja henkilökohtaiset hygieniatuotteet.",
+    "cosmeticsPainPoint": "NMPA-hakemus voi kestää kuukausia. Virtaviivaistettu prosessimme saa sinut markkinoille nopeammin.",
+    "ecommerceIndustries": "Ruoka ja juoma, kosmetiikka, lisäravinteet, vaatteet ja kulutuselektroniikka.",
+    "ecommercePainPoint": "Alustan käyttöönotto ja logistiikan noudattaminen ovat monimutkaisia. Hoidamme raskaan noston.",
+    "gaccIndustries": "Maitotuotteet, liha, äyriäiset, leipomotuotteet, juomat, terveysruoat ja kaikki 18 GACC:n sääntelemää luokkaa.",
+    "gaccPainPoint": "Oletko hämmentynyt asetuksesta 248/249? Yksinkertaistamme CIFER-rekisteröinnin, jotta tuotteesi tullaan sujuvasti.",
+    "labelIndustries": "Valmiiksi pakatut elintarvikkeet, juomat, lisäravinteet, kosmetiikka ja kulutustavarat.",
+    "labelPainPoint": "Yksi merkintävirhe voi pysäyttää lähetyksesi tullissa. Tee se oikein ensimmäisellä kerralla."
   },
   "ServiceGacc": {
     "heroTitle": "GACC-elintarvikerekisteröinti",
@@ -107,7 +129,11 @@
     "faq3q": "Avainasiakirjoja ovat: toimilupa, tuotantolaitoksen tiedot, tuoteluettelo HS-koodeilla, laadunhallintasertifikaatit (ISO/HACCP.0) ja tuotemerkit (ISO/HACCP.0). Tarjoamme täydellisen tarkistuslistan ja autamme asiakirjojen valmistelussa.",
     "faq3a": "Onko rekisteröinti voimassa ikuisesti?",
     "faq4q": "Yleisiä kysymyksiä",
-    "faq4a": "Ei, GACC-rekisteröinti on voimassa 5 vuotta. Uusiminen on tehtävä 6 kuukautta ennen voimassaolon päättymistä. Tarjoamme uusimismuistutuksia ja hoidamme koko uusimisprosessin puolestasi."
+    "faq4a": "Ei, GACC-rekisteröinti on voimassa 5 vuotta. Uusiminen on tehtävä 6 kuukautta ennen voimassaolon päättymistä. Tarjoamme uusimismuistutuksia ja hoidamme koko uusimisprosessin puolestasi.",
+    "faq5a": "Ulkomaisen tuotantolaitoksen on oltava rekisteröity. Jos valmistat tuotteita useissa tiloissa, jokainen laitos tarvitsee oman GACC-rekisteröinnin. Voimme käsitellä useiden sivustojen rekisteröinnit yhdellä tilillä.",
+    "faq5q": "Kenen on rekisteröidyttävä – valmistajan vai viejän?",
+    "faq6a": "Ei. Kiinan tulli hylkää 1. tammikuuta 2022 lähtien kaiken elintarvikkeiden tuonnin ilman voimassa olevaa GACC-rekisteröintinumeroa. Rekisteröinti tulee suorittaa ennen ensimmäistä lähetystä.",
+    "faq6q": "Voinko lähettää tuotteita Kiinaan ennen kuin rekisteröinti on valmis?"
   },
   "ServiceLabel": {
     "heroTitle": "Kiinalainen tarrojen vaatimustenmukaisuus",
@@ -126,7 +152,11 @@
     "faq3q": "Vaatimukset voivat johtaa tullin hylkäämiseen, tuotteen takavarikointiin, sakkoihin tai pakollisiin tuotteiden takaisinvetoon. Tarrojen vaatimustenmukaisuuden varmistaminen ennen toimitusta estää nämä kalliit ongelmat.",
     "faq3a": "Suunnitteletko myös tarrat?",
     "faq4q": "Kyllä, tarjoamme täydelliset tarrapalvelut: vaatimustenmukaisuuden tarkastaminen GB-standardien mukaisesti, mukautettu tarrasuunnittelu kiinaksi ja tuotantovalmiit tiedostot tulostimellesi. Annamme myös opastusta sisääntuloporttitarrasovelluksiin.",
-    "faq4a": "Yleisiä kysymyksiä"
+    "faq4a": "Yleisiä kysymyksiä",
+    "faq5a": "Kyllä, jokainen SKU vaatii oman yhteensopivan etiketin, koska ainesosat, ravitsemustiedot ja tuotetiedot vaihtelevat. Tarkistamme ja suunnittelemme tarrat jokaiselle SKU:lle erikseen.",
+    "faq5q": "Tarvitsenko erilliset tarrat jokaiselle tuotteen SKU:lle?",
+    "faq6a": "Valmiiksi pakattujen elintarvikkeiden etikettien on oltava GB 7718-2025 (valmiiksi pakattujen elintarvikkeiden etikettien yleinen standardi) ja GB 28050-2025 (ravintoarvomerkintöjen standardi) mukaisia. Nämä kattavat tuotteiden nimeämisen, ainesosaluettelot, ravitsemuspaneelit, allergeeniilmoitukset ja paljon muuta.",
+    "faq6q": "Mitä standardeja etikettien tulee noudattaa?"
   },
   "ServiceCcc": {
     "heroTitle": "CCC-sertifiointi",
@@ -145,7 +175,11 @@
     "faq3q": "Kuinka kauan CCC-sertifiointi kestää?",
     "faq3a": "CCC-prosessi kestää tyypillisesti 4–8 kuukautta, mukaan lukien tehdastarkastus, tuotetestaus CNAS-akkreditoiduissa laboratorioissa ja sertifioinnin tarkistus. Aikajana vaihtelee tuoteluokan ja monimutkaisuuden mukaan.",
     "faq4q": "Voidaanko CCC-sertifiointi tehdä ulkomailta?",
-    "faq4a": "Yleiset kysymykset"
+    "faq4a": "Yleiset kysymykset",
+    "faq5a": "Kyllä, tietyt tuoteluokat täyttävät vaatimustenmukaisuusvakuutuksen (SDOC) vaatimukset täyden sertifioinnin sijaan. Arvioimme tuotteesi määrittääksemme, sovelletaanko SDOC:ta, mikä voi vähentää merkittävästi aikaa ja kustannuksia.",
+    "faq5q": "Onko CCC:lle itseilmoitusvaihtoehtoa?",
+    "faq6a": "CCC-sertifikaatit edellyttävät vuosittaisia ​​tehdastarkastuksia säilyttääkseen voimassaolonsa. Tarjoamme jatkuvaa vaatimustenmukaisuuden seurantaa ja valmistelemme laitoksesi valvonta-auditointeja varten varmistaaksemme keskeytymättömän markkinoille pääsyn.",
+    "faq6q": "Mitä tapahtuu, kun saan CCC-sertifikaatin?"
   },
   "ServiceCosmetics": {
     "heroTitle": "Kosmetiikan ilmoitus (NMPA)",
@@ -164,7 +198,11 @@
     "faq3q": "Kyllä, kaikessa tuontikosmetiikassa on nimettävä kiinalainen境内责任人 (kotimainen vastuuhenkilö), joka ottaa laillisen vastuun tuotteen laadusta ja turvallisuudesta. Voimme toimia sinun 境内责任人.",
     "faq3a": "Yleiset kysymykset",
     "faq4q": "Voinko myydä kosmetiikkaa rajat ylittävän sähköisen kaupankäynnin kautta ilman NMPA:ta?",
-    "faq4a": "Kyllä, rajat ylittävän sähköisen kaupankäynnin (CBEC) kanavat sallivat kosmeettisten tuotteiden myynnin ilman NMPA-hakemusta tietyin edellytyksin. Tämä on nopeampi markkinoilletuloreitti, kun valmistelet täyden NMPA-yhteensopivuuden."
+    "faq4a": "Kyllä, rajat ylittävän sähköisen kaupankäynnin (CBEC) kanavat sallivat kosmeettisten tuotteiden myynnin ilman NMPA-hakemusta tietyin edellytyksin. Tämä on nopeampi markkinoilletuloreitti, kun valmistelet täyden NMPA-yhteensopivuuden.",
+    "faq5a": "Kiina on keventänyt monien tavallisten tuontikosmetiikan eläinkokeiden vaatimuksia vuodesta 2021 lähtien. Hyvien valmistustapojen (GMP) mukaisesti valmistetut tuotteet, joilla on turvallisuusarviointi, voivat olla vapautettuja. Arvioimme tuotteidesi poikkeuksen kelpoisuuden.",
+    "faq5q": "Koskeeko eläinkokeet tuontikosmetiikkaa?",
+    "faq6a": "Pienet formulaatiomuutokset voivat edellyttää vain ilmoituspäivitystä. Merkittävät muutokset – erityisesti vaikuttavien aineosien osalta – voivat vaatia uudelleenhakemuksen tai uuden rekisteröinnin. Neuvomme sääntelyn vaikutuksista ennen kuin teet muutoksia.",
+    "faq6q": "Voinko päivittää tuotteeni koostumuksen NMPA-ilmoituksen jälkeen?"
   },
   "ServiceEcommerce": {
     "heroTitle": "Rajaton verkkokauppa",
@@ -183,7 +221,11 @@
     "faq3q": "Alustan rekisteröinti kestää tyypillisesti 2-4 viikkoa. Myymälän asettaminen, tuotelistaus ja käyttövalmius vievät yleensä vielä 2–4 viikkoa tuotteen monimutkaisuudesta ja alustavaatimuksista riippuen.",
     "faq3a": "Tarvitseeko rajat ylittävät tuotteet kiinalaisia ​​etikettejä?",
     "faq4q": "Tarvitsevatko rajat ylittävät tuotteet kiinalaisia ​​merkintöjä?",
-    "faq4a": "CBEC-tuotteet on yleensä vapautettu kiinalaisista etikettivaatimuksista, koska niitä pidetään henkilökohtaisena tuontina. Tuotetiedot on kuitenkin annettava kiinaksi sähköisen kaupankäynnin alustalla. Opastamme sinua alustakohtaisissa vaatimuksissa."
+    "faq4a": "CBEC-tuotteet on yleensä vapautettu kiinalaisista etikettivaatimuksista, koska niitä pidetään henkilökohtaisena tuontina. Tuotetiedot on kuitenkin annettava kiinaksi sähköisen kaupankäynnin alustalla. Opastamme sinua alustakohtaisissa vaatimuksissa.",
+    "faq5a": "Kyllä, rajat ylittävät sähköisen kaupankäynnin alustat antavat ulkomaisille yrityksille mahdollisuuden myydä suoraan kiinalaisille kuluttajille perustamatta paikallista yksikköä. Ohjaamme sinut alustan rekisteröinnissä ulkomaisena kauppiaana.",
+    "faq5q": "Voinko myydä kiinalaisilla alustoilla ilman paikallista yritystä?",
+    "faq6a": "Alipay ja WeChat Pay hallitsevat Kiinan verkkokauppamarkkinoita. Useimmat rajat ylittävät alustat käsittelevät maksujen käsittelyn automaattisesti, mutta varmistamme, että myymäläsi on optimoitu kiinalaisten kuluttajien mieltymysten mukaan.",
+    "faq6q": "Mitä maksutapoja kiinalaiset kuluttajat pitävät?"
   },
   "ServiceBrand": {
     "heroTitle": "Brändin suojaus",
@@ -202,7 +244,11 @@
     "faq3q": "Mikä on Madridin järjestelmä?",
     "faq3a": "Madrid-järjestelmän avulla voit laajentaa olemassa olevan tavaramerkin rekisteröinnin useisiin maihin, mukaan lukien Kiinaan, yhdellä hakemuksella. Se voi olla nopeampaa ja kustannustehokkaampaa kuin suora rekisteröinti Kiinassa.",
     "faq4q": "Kuinka suojaan väärennetyiltä tuotteilta?",
-    "faq4a": "Tarjoamme kattavan tuotemerkkisuojan: tavaramerkkien rekisteröinnin, tullin IP-rekisteröinnin (jolloin tulli voi takavarikoida väärennetyt tavarat), mainonnan vaatimustenmukaisuuden tarkastuksen ja jatkuvan valvonnan. Varhainen rekisteröinti on tärkein ensimmäinen askel."
+    "faq4a": "Tarjoamme kattavan tuotemerkkisuojan: tavaramerkkien rekisteröinnin, tullin IP-rekisteröinnin (jolloin tulli voi takavarikoida väärennetyt tavarat), mainonnan vaatimustenmukaisuuden tarkastuksen ja jatkuvan valvonnan. Varhainen rekisteröinti on tärkein ensimmäinen askel.",
+    "faq5a": "Ei, tavaramerkkioikeudet ovat alueellisia. Yhdysvaltain tai EU:n tavaramerkin rekisteröinti ei tarjoa suojaa Kiinassa. Sinun on ilmoitettava erikseen Kiinan CNIPA:lle tai laajennettava Madridin järjestelmän kautta. Suosittelemme suoraa CNIPA-arkistointia vahvimman suojan saavuttamiseksi.",
+    "faq5q": "Voinko käyttää olemassa olevaa USA/EU-tavaramerkkiäni Kiinassa?",
+    "faq6a": "Rekisteröinnin jälkeen tarjoamme jatkuvia tavaramerkkivalvontapalveluita, jotka etsivät ristiriitaisia ​​sovelluksia, väärennettyjä tuotteita verkkokaupan alustoilla ja tuotenimesi luvatonta käyttöä mainonnassa.",
+    "faq6q": "Kuinka valvon tavaramerkkiloukkauksia Kiinassa?"
   },
   "ServiceCommon": {
     "whoTitle": "Kenelle tämä on tarkoitettu",
@@ -241,7 +287,13 @@
     "customCta": "Ota yhteyttä räätälöityyn tarjoukseen",
     "popular": "Suosituin",
     "title": "Vaatimustenmukaisuuspaketit",
-    "subtitle": "Valitse paketti, joka sopii brändisi Kiinan-entry-strategiaan."
+    "subtitle": "Valitse paketti, joka sopii brändisi Kiinan-entry-strategiaan.",
+    "advancedIncludes": "Kaikki markkinoille pääsyn palvelut sekä: Tmall Global tai JD Worldwide -myymälän asennus. Tavaramerkkihaku ja CNIPA-rekisteröinti. Tullin IP-tietue rajasuojausta varten. Mainonnan vaatimustenmukaisuuden tarkistus kaikille markkinointimateriaaleille.",
+    "advancedUseCase": "Täydellinen kasvaville brändeille, jotka ovat valmiita lanseeraamaan täyden tuotevalikoimansa kiinalaisille verkkokaupan alustoille.",
+    "basicIncludes": "Suorita GACC-rekisteröinti CIFER-järjestelmän kautta. Kiinalainen etikettimuotoilu on GB 7718-2025 -standardin mukainen. Henkilökohtainen vaatimustenmukaisuusneuvonta tietylle tuoteryhmällesi.",
+    "basicUseCase": "Ihanteellinen ensikertalaisille elintarvikkeiden viejille, jotka tarvitsevat välttämättömät tavarat lailliseen toimitukseen Kiinaan.",
+    "premiumIncludes": "Kaikki Go-to-Market-palvelut sekä: soveltuvien tuotteiden CCC-sertifiointikonsultointi. NMPA-kosmetiikka-arkistointi laajenee kauneuteen. PIPL-tietojen vaatimustenmukaisuuden arviointi asiakastietojen käsittelyssä. Omistettu tilivastaava jatkuvasta sääntelyneuvonnasta.",
+    "premiumUseCase": "Vakiintuneille yrityksille, jotka sitoutuvat olemaan pitkällä aikavälillä läsnä useissa tuotekategorioissa Kiinassa."
   },
   "Faq": {
     "heroTitle": "Usein kysytyt kysymykset",
@@ -286,7 +338,43 @@
     "generalQ3": "Missä tiiminne sijaitsee?",
     "generalA3": "Tiimimme sijaitsee Kiinassa, ja sillä on suora pääsy sääntelyviranomaisiin, testauslaboratorioihin ja sertifiointielimiin. Työskentelemme asiakkaiden kanssa ympäri maailmaa.",
     "generalQ4": "Voitteko hoitaa koko prosessin puolestani?",
-    "generalA4": "Kyllä. Tarjoamme täyden kaiken kattavan palvelun — alkuperäisestä arvioinnista ja asiakirjoista rekisteröintiin, sertifiointiin ja jatkuvaan vaatimustenmukaisuuden hallintaan."
+    "generalA4": "Kyllä. Tarjoamme täyden kaiken kattavan palvelun — alkuperäisestä arvioinnista ja asiakirjoista rekisteröintiin, sertifiointiin ja jatkuvaan vaatimustenmukaisuuden hallintaan.",
+    "brandA3": "Jos kolmas osapuoli on rekisteröinyt tavaramerkkisi, vaihtoehtoja ovat siirrosta neuvotteleminen, käyttökiellon peruuttaminen (jos sitä ei ole käytetty 3+ vuotta) tai vilpillisen rekisteröinnin haastaminen. Arvioimme tilanteesi ja suosittelemme parasta strategiaa.",
+    "brandA4": "Kyllä, jokainen erillinen elementti – logosi, englanninkielinen tuotenimi ja kiinalainen tuotenimi – tulee rekisteröidä erilliseksi tavaramerkiksi kattavaa suojaa varten. Hoidamme monielementtiset rekisteröintistrategiat.",
+    "brandQ3": "Entä jos joku on jo rekisteröinyt tavaramerkkini?",
+    "brandQ4": "Pitääkö minun rekisteröidä logoni ja kiinalainen tuotenimi erikseen?",
+    "cccQ3": "Voinko käyttää aiemman valmistajan CCC-varmenteita?",
+    "cccQ3a": "Ei, CCC-sertifikaatit on sidottu tiettyyn tuotantolaitokseen. Jos vaihdat valmistajaa, vaaditaan uusi CCC-sovellus. Voimme auttaa sertifioinnin siirtämisessä tai uudelleen hakemisessa.",
+    "cccQ4": "Mitä CCC-sertifiointi maksaa?",
+    "cccQ4a": "CCC-kustannukset vaihtelevat tuoteluokan, testausvaatimusten ja tehtaan auditoinnin laajuuden mukaan. Annamme tarkan kustannusarvion tuotteesi arvioinnin jälkeen. Kiinteäpalkkiorakennemme ei tarkoita yllätyksiä.",
+    "cosmeticsA2": "A境内责任人 (kotimainen vastuuhenkilö) on Kiinassa toimiva taho, joka on laillisesti vastuussa tuotteesi laadusta ja turvallisuudesta. He hoitavat NMPA-viestinnän, haittatapahtumien raportoinnin ja säännösten noudattamisen. Voimme toimia vastuuhenkilönäsi.",
+    "cosmeticsA3": "Kyllä, NMPA vaatii turvallisuus- ja tehotestauksen akkreditoiduissa kiinalaisissa laboratorioissa. Jotkut ulkomaiset testitiedot voidaan hyväksyä tiettyihin arviointeihin, mutta ydinturvallisuustestit on suoritettava Kiinassa.",
+    "cosmeticsQ2": "Mikä on kiinalainen vastuullinen agentti?",
+    "cosmeticsQ3": "Pitääkö minun testata tuotteitani Kiinassa?",
+    "ecommerceA3": "Useimmat rajat ylittävät alustat tarjoavat sisäänrakennetut asiakaspalvelutyökalut ja palautusten käsittelyn. Neuvomme kiinankielisten asiakaspalvelutyönkulkujen luomisessa ja palautusten hallinnassa tullivarastojen kautta.",
+    "ecommerceA4": "Kyllä, monet tuotemerkit käyttävät rajat ylittävää markkinatestauskanavana ennen siirtymistään täysin perinteiseen tuontiin täydellisen NMPA-, GACC- ja CCC-yhteensopivuuden kanssa. Tuemme molempia polkuja.",
+    "ecommerceQ3": "Miten hoidan palautukset ja asiakaspalvelun Kiinassa?",
+    "ecommerceQ4": "Voinko siirtyä rajat ylittävästä tuonnista perinteiseen maahan myöhemmin?",
+    "gaccA5": "Kyllä, yksi ulkomainen valmistaja voi rekisteröidä tuotteita useisiin elintarvikekategorioihin yhdellä GACC-rekisteröinnillä. Jokaisella luokalla voi olla erilaiset dokumentaatiovaatimukset, ja me hallinnoimme koko laajuuden puolestasi.",
+    "gaccA6": "Jos hylkäämme, tarkistamme hylkäämisen syyt, korjaamme mahdolliset puutteet ja lähetämme uudelleen. Yleisiä ongelmia ovat puutteellinen dokumentaatio tai virheellinen HS-koodiluokitus. Toimitusta edeltävä tarkistusprosessimme minimoi hylkäämisriskin.",
+    "gaccQ5": "Voiko yksi yritys rekisteröidä useita tuoteryhmiä?",
+    "gaccQ6": "Mitä tapahtuu, jos GACC-rekisteröintini hylätään?",
+    "generalA10": "Täysin. Monet asiakkaat käyttävät vaatimustenmukaisuuspakettejamme (Market Entry, Go-to-Market, Brand Launch), jotka yhdistävät useita palveluita paremmalla hinnalla. Valmistamme myös räätälöityjä paketteja yksilöllisiin tarpeisiin.",
+    "generalA5": "Palvelemme kaikkia Kiinaan vieviä teollisuudenaloja: elintarvike- ja juomateollisuutta, kosmetiikkaa ja henkilökohtaisen hygienian hoitoa, elektroniikkaa ja kodinkoneita, leluja, tekstiilejä, kemikaaleja, autonosia ja paljon muuta. Jos se ylittää Kiinan rajan, voimme auttaa noudattamisessa.",
+    "generalA6": "Kyllä. Alkurekisteröinnin lisäksi tarjoamme uusimisen hallintaa, säännöstenmukaista seurantaa, vaatimustenmukaisuusneuvontaa ja markkinoilletulotukea. Monet asiakkaat käyttävät meidät jatkuvaan vaatimustenmukaisuuden hallintaan.",
+    "generalA7": "Ota meihin yhteyttä verkkosivustomme lomakkeella, WhatsAppilla tai sähköpostitse. Suunnittelemme ilmaisen konsultaation ymmärtääksemme tuotteitasi, tavoitteitasi ja aikataulujasi ja tarjoamme sitten räätälöidyn noudattamissuunnitelman.",
+    "generalA8": "Tiimimme työskentelee englanniksi ja mandariinikiinaksi. Palvelemme asiakkaitamme maailmanlaajuisesti ja pystymme kommunikoimaan haluamallasi kielellä koko prosessin ajan.",
+    "generalA9": "Vaikka yksikään konsultti ei voi taata hallituksen hyväksyntää, historiamme osoittaa lähes 100 %:n onnistumisasteen. Perusteellinen ennakkoarviointimme ja syvällinen sääntelytietomme minimoivat riskit joka vaiheessa.",
+    "generalQ10": "Voinko yhdistää useita palveluita?",
+    "generalQ5": "Mitä toimialoja palvelet?",
+    "generalQ6": "Tarjoatko jatkuvaa vaatimustenmukaisuustukea?",
+    "generalQ7": "Miten pääsen alkuun?",
+    "generalQ8": "Millä kielillä työskentelet?",
+    "generalQ9": "Takaatko rekisteröinnin hyväksynnän?",
+    "labelQ3": "Tarvitsevatko terveyslisät eri merkintöjä?",
+    "labelQ3a": "Kyllä, terveyslisillä (保健食品) on tavallisten valmiiksi pakattujen elintarvikkeiden lisäksi muita merkintävaatimuksia, mukaan lukien terveysvaikutusväitteet, 适宜人群 (sopiva人群) ja käyttöohjeet. Hoidamme luokkakohtaiset etikettivaatimukset.",
+    "labelQ4": "Kuinka nopeasti tarrat voidaan täyttää?",
+    "labelQ4a": "Vakiotarran tarkistus ja suunnittelu kestää 1–2 viikkoa SKU:ta kohden. Kiireellisille lähetyksille tarjoamme nopeaa palvelua. Pikatilaukset riippuvat tuotteen monimutkaisuudesta ja nykyisestä työmäärästä."
   },
   "About": {
     "heroTitle": "Tietoa SinoTrade Compliancesta",
@@ -310,7 +398,20 @@
     "title": "Tietoja SinoTrade Compliancesta",
     "subtitle": "Luotettu kumppanisi Kiinan tuontimääräyksiin tutustumiseen.",
     "missionText": "Tekee Kiinan tuontimääräyksistä kaikenkokoisten kansainvälisten yritysten saatavilla ja navigoitavissa. Uskomme, että vaatimusten noudattaminen ei saisi olla este markkinoille pääsylle – sen tulee olla silta.",
-    "values": "Asiantuntemus – Syvä tuntemus Kiinan sääntelyympäristöstä useilla toimialoilla.,Läpinäkyvyys – Kiinteämaksullinen hinnoittelu ja selkeät toimitukset – ei piilokuluja tai yllätyksiä.,Sitoumus – Pysymme kanssasi alustavasta konsultaatiosta lopulliseen markkinoilletuloon."
+    "values": "Asiantuntemus – Syvä tuntemus Kiinan sääntelyympäristöstä useilla toimialoilla.,Läpinäkyvyys – Kiinteämaksullinen hinnoittelu ja selkeät toimitukset – ei piilokuluja tai yllätyksiä.,Sitoumus – Pysymme kanssasi alustavasta konsultaatiosta lopulliseen markkinoilletuloon.",
+    "partnersSubtitle": "Teemme yhteistyötä akkreditoitujen laboratorioiden, sertifiointielinten ja laillisten kumppaneiden kanssa kaikkialla Kiinassa.",
+    "partnersTitle": "Luotetut yhteistyökumppanit",
+    "teamMember1Desc": "Yli 5 vuotta erikoistunut GACC:n asetuksen 248/249 rekisteröintiin kaikissa 18 elintarvikekategoriassa.",
+    "teamMember1Name": "Sarah Chen",
+    "teamMember1Role": "GACC-rekisteröintiasiantuntija",
+    "teamMember2Desc": "CCC-sertifiointiprosessien ja CNCA-akkreditoidun laboratoriokoordinoinnin asiantuntija.",
+    "teamMember2Name": "Mike Wang",
+    "teamMember2Role": "Sertifiointi- ja testauskoordinaattori",
+    "teamMember3Desc": "Erikoistunut NMPA-viilauksiin sekä tavalliselle että erikoiskosmetiikkalle.",
+    "teamMember3Name": "Lisa Liu",
+    "teamMember3Role": "Kosmetiikan sääntelyasiantuntija",
+    "teamSubtitle": "Omistautunut sääntelyalan ammattilaisten tiimi, joka on sitoutunut menestykseesi Kiinassa.",
+    "teamTitle": "Meidän tiimi"
   },
   "Expert": {
     "title": "Tapaa Kiina-asiantuntijasi",
