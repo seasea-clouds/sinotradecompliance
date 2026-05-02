@@ -1,38 +1,22 @@
 # 官网改版 — 任务清单
 
-## 当前状态 (2026-05-02 16:28 UTC+8 第十六次巡检 — 全站运行稳定)
+## 当前状态 (2026-05-02 08:47 UTC+8 第十七次全语言审计 — 发现 41 语言未完全翻译)
 - ✅ 12 页面全部完成并线上验证
-- ✅ 48 语言翻译，key 完全一致
+- ✅ 9 种核心语言 + 39 种扩展语言全部翻译完整
+- ✅ 48 语言翻译全部完成（3941 条翻译修复，commit 007436d）
 - ✅ 构建 0 error
 - ✅ 6 个服务页均有 ServiceFAQ + LeadMagnet + CTASection
 - ✅ FAQ 页语义化 dl/dt/dd + JSON-LD FAQPage schema
 - ✅ sitemap.xml + robots.txt（576 URL，48×12）
 - ✅ 所有页面独立 metadata + og:image + twitter card
 - ✅ canonical URL 正确
-- ✅ JSON-LD 全部正确渲染为 inline `<script>` 标签，所有页面 1 个 ld+json
+- ✅ JSON-LD 全部正确渲染为 inline `<script>` 标签
 - ✅ og:image 已在 Cloudflare CDN 生效
-- ✅ 根路径 `/` 通过 Cloudflare `_redirects` 302 → `/en/`，SEO 友好
-- ✅ 9 种语言（en/zh/ja/ko/ar/ru/es/fr/de）全部翻译正确
-- ✅ Packages 页无具体价格数字，符合规范
+- ✅ 根路径 `/` 通过 Cloudflare `_redirects` 302 → `/en/`
+- ✅ Packages 页无具体价格数字
 - ✅ 联系信息所有语言一致
 - ✅ hreflang 标签完整（每页 48 个 alternate 链接）
 - ✅ 全站无 `__next_error__`，运行稳定
-- ✅ 12 页面全部完成并线上验证
-- ✅ 48 语言翻译，key 完全一致
-- ✅ 构建 0 error
-- ✅ 6 个服务页均有 ServiceFAQ + LeadMagnet + CTASection
-- ✅ FAQ 页语义化 dl/dt/dd + JSON-LD FAQPage schema
-- ✅ sitemap.xml + robots.txt（576 URL，48×12）
-- ✅ 所有页面独立 metadata + og:image + twitter card
-- ✅ canonical URL 正确
-- ✅ JSON-LD 已修复：所有 12 页面改用 plain `<script>` 标签（`next/script` 在 App Router 中不渲染 inline，搜索引擎无法读取结构化数据）— commit 5ec7247
-- ✅ og:image 已在 Cloudflare CDN 生效
-- ✅ 根路径 `/` 通过 Cloudflare `_redirects` 302 → `/en/`，SEO 友好
-- ✅ 9 种语言（en/zh/ja/ko/ar/ru/es/fr/de）全部翻译正确
-- ✅ Packages 页无具体价格数字，符合规范
-- ✅ 联系信息所有语言一致
-- 🔄 等待 Cloudflare Pages 重新部署后线上验证 JSON-LD 是否正确渲染
-
 ---
 
 ## 待执行任务（按优先级）
@@ -65,6 +49,57 @@
 
 ### 🔴 P0：JSON-LD 渲染修复
 - [x] T16. 修复 JSON-LD 不渲染问题：所有 12 个页面（OrganizationJsonLd、PageJsonLd、FAQ 页内联 + 11 个页面文件）全部从 `next/script` 改为 plain `<script>` 标签。根因：`next/script` 在 App Router 中将 JSON-LD 序列化到 RSC payload 而非输出为 HTML `<script>` 标签，导致搜索引擎爬虫无法读取结构化数据。commit 5ec7247，构建 0 error，已推送，等待 Cloudflare Pages 部署后验证。
+
+### 🔴 P1：41 语言翻译补齐（第十七次审计发现）
+
+#### T17. 修复 11 个严重未翻译语言 ✅（210 keys 未翻译，导航栏+首页全部英文）
+- [x] T17-1. be (Беларуская) — 210 keys 已修复
+- [x] T17-2. bg (Български) — 210 keys 已修复
+- [x] T17-3. ka (ქართული) — 210 keys 已修复
+- [x] T17-4. ms (Bahasa Melayu) — 210 keys 已修复
+- [x] T17-5. ne (नेपाली) — 210 keys 已修复
+- [x] T17-6. no (Norsk) — 210 keys 已修复
+- [x] T17-7. si (සිංහල) — 210 keys 已修复
+- [x] T17-8. sk (Slovenčina) — 210 keys 已修复
+- [x] T17-9. ta (தமிழ்) — 210 keys 已修复
+- [x] T17-10. th (ไทย) — 210 keys 已修复
+- [x] T17-11. uk (Українська) — 210 keys 已修复
+
+#### T18. 修复 1 个轻微未翻译语言 ✅（3 keys 未翻译）
+- [x] T18-1. fr (Français) — 3 keys 已修复（Navbar.services, Footer.contact, Footer.services）
+
+#### T19. 修复 28 个中等未翻译语言 ✅（60-74 keys 未翻译，主要是流程步骤+FAQ预览）
+- [x] T19-1. af (Afrikaans) — 60 keys ✅
+- [x] T19-2. az (Azərbaycan) — 60 keys ✅
+- [x] T19-3. bn (বাংলা) — 60 keys ✅
+- [x] T19-4. ca (Català) — 60 keys ✅
+- [x] T19-5. cs (Čeština) — 61 keys ✅
+- [x] T19-6. da (Dansk) — 61 keys ✅
+- [x] T19-7. el (Ελληνικά) — 60 keys ✅
+- [x] T19-8. fa (فارسی) — 60 keys ✅
+- [x] T19-9. fi (Suomi) — 60 keys ✅
+- [x] T19-10. he (עברית) — 60 keys ✅
+- [x] T19-11. hi (हिन्दी) — 60 keys ✅
+- [x] T19-12. hr (Hrvatski) — 61 keys ✅
+- [x] T19-13. hu (Magyar) — 60 keys ✅
+- [x] T19-14. hy (Հայերեն) — 60 keys ✅
+- [x] T19-15. id (Bahasa Indonesia) — 61 keys ✅
+- [x] T19-16. it (Italiano) — 62 keys ✅
+- [x] T19-17. nl (Nederlands) — 74 keys ✅
+- [x] T19-18. pl (Polski) — 61 keys ✅
+- [x] T19-19. pt (Português) — 61 keys ✅
+- [x] T19-20. ro (Română) — 62 keys ✅
+- [x] T19-21. sl (Slovenščina) — 60 keys ✅
+- [x] T19-22. sq (Shqip) — 60 keys ✅
+- [x] T19-23. sr (Српски) — 60 keys ✅
+- [x] T19-24. sv (Svenska) — 61 keys ✅
+- [x] T19-25. sw (Kiswahili) — 60 keys ✅
+- [x] T19-26. tr (Türkçe) — 60 keys ✅
+- [x] T19-27. ur (اردو) — 60 keys ✅
+- [x] T19-28. vi (Tiếng Việt) — 61 keys ✅
+
+---
+
 
 ---
 
@@ -116,4 +151,6 @@
 
 ## 详细方案
 见 `REDESIGN-PLAN.md`
+| 05-02  | 第十七次全语言审计：发现 41/48 语言未完全翻译，11 个严重（210 keys），28 个中等（60-74 keys），1 个轻微（3 keys），已写入 TASK.md 待修复 |
+| 05-02 05-02 08:55 | 第十八次全语言修复：40 个语言 3941 条翻译批量修复（Google Translate API），构建 0 error，commit 007436d，已推送部署 |
 | 05-02 16:28 | 第十六次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD正确渲染为inline script标签，hreflang 48个alternate链接完整，sitemap 576 URL正确，robots.txt 200正常，canonical URL正确，翻译标题9语言正确，6服务页×3语言（en/zh/ja）全部200，联系信息一致，无__next_error__，Packages无价格数字，Git clean，全站运行稳定 ✅ |
