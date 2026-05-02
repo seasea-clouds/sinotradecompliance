@@ -287,7 +287,7 @@
     "gaccDesc": "Registrace CIFER pro vývozce potravin podle vyhlášky 248/249",
     "gaccItems": "Nastavení a odeslání účtu CIFER, Kontrola souladu s kategorií produktů, Sledování a následná registrace, Kontrola souladu štítků",
     "labelName": "Soulad se štítky",
-    "labelDesc": "Čínská povinná certifikace pro příslušné produkty",
+    "labelDesc": "Čínský design štítku a recenze podle GB 7718-2025",
     "labelItems": "Design štítku podle GB 7718-2025, Panel nutričních údajů (GB 28050), Kontrola přísad a alergenů, Doručení souborů připravených k tisku",
     "cccName": "Certifikace CCC",
     "cccItems": "Hodnocení způsobilosti produktu, Koordinace testovací laboratoře, Aplikace a dokumentace, Sledování certifikátů",
@@ -304,7 +304,7 @@
     "ctaTitle": "Jste připraveni sestavit svůj plán dodržování předpisů?",
     "ctaDesc": "Kontaktujte nás pro bezplatné posouzení. Doporučíme přesně to, co potřebujete – nic víc, nic míň.",
     "ctaButton": "Začněte bezplatné hodnocení",
-    "cccDesc": "China Compulsory Certification for applicable products"
+    "cccDesc": "Čínská povinná certifikace pro příslušné produkty"
   },
   "Faq": {
     "heroTitle": "Často kladené otázky",

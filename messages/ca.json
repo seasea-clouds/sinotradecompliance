@@ -287,7 +287,7 @@
     "gaccDesc": "Registre CIFER d'exportadors d'aliments segons el Decret 248/249",
     "gaccItems": "Configuració i enviament del compte CIFER, revisió del compliment de la categoria de producte, seguiment i seguiment del registre, comprovació del compliment de l'etiqueta",
     "labelName": "Compliment de l'etiqueta",
-    "labelDesc": "Certificació obligatòria de la Xina per als productes aplicables",
+    "labelDesc": "Disseny i revisió de l'etiqueta xinesa segons GB 7718-2025",
     "labelItems": "Disseny d'etiquetes segons GB 7718-2025, panell de dades nutricionals (GB 28050), revisió d'ingredients i al·lèrgens, lliurament de fitxers preparats per a imprimir",
     "cccName": "Certificació CCC",
     "cccItems": "Avaluació de l'elegibilitat del producte, coordinació del laboratori de proves, sol·licitud i documentació, seguiment del certificat",
@@ -304,7 +304,7 @@
     "ctaTitle": "Preparat per crear el vostre pla de compliment?",
     "ctaDesc": "Contacta amb nosaltres per a una avaluació gratuïta. Et recomanarem exactament el que necessites, ni més ni menys.",
     "ctaButton": "Inicieu l'avaluació gratuïta",
-    "cccDesc": "China Compulsory Certification for applicable products"
+    "cccDesc": "Certificació obligatòria de la Xina per als productes aplicables"
   },
   "Faq": {
     "heroTitle": "Preguntes Freqüents",

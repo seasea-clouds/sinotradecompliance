@@ -287,7 +287,7 @@
     "gaccDesc": "248/249 saylı fərmana əsasən qida ixracatçıları üçün CIFER qeydiyyatı",
     "gaccItems": "CIFER hesabının qurulması və təqdim edilməsi, Məhsul kateqoriyasına uyğunluğun nəzərdən keçirilməsi, Qeydiyyatın izlənməsi və təqibi, Etiket uyğunluğunun yoxlanılması",
     "labelName": "Etiket Uyğunluğu",
-    "labelDesc": "Müvafiq məhsullar üçün Çin Məcburi Sertifikatlaşdırma",
+    "labelDesc": "GB 7718-2025 üzrə Çin etiket dizaynı və nəzərdən keçirilməsi",
     "labelItems": "GB 7718-2025 üçün etiket dizaynı, Qidalanma faktları paneli (GB 28050), Tərkibi və allergen nəzərdən keçirilməsi, Çap üçün hazır fayl çatdırılması",
     "cccName": "CCC Sertifikatı",
     "cccItems": "Məhsulun uyğunluğunun qiymətləndirilməsi, Test laboratoriyasının koordinasiyası, Tətbiq və sənədlər, Sertifikatların izlənməsi",
@@ -304,7 +304,7 @@
     "ctaTitle": "Uyğunluq Planınızı yaratmağa hazırsınız?",
     "ctaDesc": "Pulsuz qiymətləndirmə üçün bizimlə əlaqə saxlayın. Biz sizə lazım olanı tövsiyə edəcəyik – nə daha çox, nə də az.",
     "ctaButton": "Pulsuz Qiymətləndirməyə başlayın",
-    "cccDesc": "China Compulsory Certification for applicable products"
+    "cccDesc": "Müvafiq məhsullar üçün Çin Məcburi Sertifikatlaşdırma"
   },
   "Faq": {
     "heroTitle": "Tez-tez Verilən Suallar",

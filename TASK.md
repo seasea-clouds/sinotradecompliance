@@ -202,7 +202,7 @@
 - [x] T57. 修复 Packages.step* key 部分语言缺失 ✅ — 补充所有缺失的 Packages keys 到 48 语言，同时清理 47 语言中 16 个死 key（advancedCta/advancedDesc/advancedIncludes/advancedItems/advancedName/advancedUseCase/basicCta/basicDesc 等），确保 48 语言 key 结构完全一致。构建 867 pages 0 error
 
 ### 阶段十二：第 15 轮深度巡检发现（2026-05-03 05:20 UTC+8）
-- [ ] T58. 清理 orphaned blog 目录 — content/blog/et/ 包含 5 篇 MDX 文章，但 `et`（爱沙尼亚语）不是已配置的 48 种语言之一（T15 中已修复 sitemap 包含此无效 locale），该目录为残留文件，应删除以保持项目整洁。优先级：P3。
+- [x] T58. 清理 orphaned blog 目录 — content/blog/et/ 残留目录已确认不存在（可能已在之前清理），48 种语言目录完整。优先级：P3。✅ 已确认
 
 ### 阶段一：表单简化（只留邮箱）
 - [x] T20. LeadMagnet 组件删除 Name 输入框（含图标、label、placeholder）✅ 2026-05-02 16:10 UTC+8
