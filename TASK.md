@@ -192,7 +192,7 @@
 - [x] T53. 5 篇博客 MDX 文章翻译到 47 种语言（英文已有）— 235 个翻译文件，保持 MDX frontmatter 和格式不变，只翻译正文内容 ✅ 2026-05-03 — 47×5=235 文件，构建 867 pages 0 error，修复 gray-matter Date 解析 bug（blog.ts）
 
 ### 阶段十：第 12 轮深度巡检发现（2026-05-03 04:50 UTC+8）
-- [x] T54. 博客页面缺少 hreflang 链接 ✅ 2026-05-03 13:00 UTC+8 — generateMetadata 添加 alternates.languages (48 alternate)，commit 917239e
+- [x] T54. 博客页面缺少 hreflang 链接 ✅ 2026-05-03 — **根因**：`output: 'export'` 静态导出模式下，Next.js 不将 `generateMetadata` 的 `alternates.languages` 渲染为 HTML `<link>` 标签。**方案**：创建 `scripts/inject-hreflang.py` 作为 post-build 脚本，在 `next build` 完成后自动向 234 个博客 HTML 文件（48 列表 + 186 文章）注入 48 个 `<link rel="alternate" hreflang>` 标签。`package.json` build 脚本已集成：`next build && python3 scripts/inject-hreflang.py`，Cloudflare Pages 每次部署自动执行。
 - [x] T55. sitemap.xml 缺少博客 URL ✅ 2026-05-03 13:00 UTC+8 — 静态 sitemap 更新为 864 URL（576 基础 + 48 博客列表 + 240 博客文章），构建 867 pages 0 error
 
 ### 阶段十一：第 13 轮深度巡检发现（2026-05-03 13:00 UTC+8）
@@ -252,3 +252,12 @@
 - [x] T62. 博客系统文档集成 — PROJECT.md 已包含完整博客系统描述（MDX 内容管理、5 篇初始文章、48 语言翻译、BlogPosting schema）✅ 已确认
 - [x] T63. 深度巡检 cron 增强 — 巡检协议已要求每次必须执行多维度检查（翻译/SEO/构建/一致性/可访问性），轮次轮换更深维度 ✅ 已确认
 - [x] T64. 套餐页桌面空白区域修复 — 经检查，PackageCards 使用 max-w-6xl mx-auto 居中网格，"空白"为宽屏正常留白，非布局 bug ✅ 已确认
+
+## 执行日志
+
+### T54+T55 修复 (2026-05-03)
+- T54: 博客页 hreflang — 根因 `output: 'export'` 不渲染 `alternates.languages` → 方案：`scripts/inject-hreflang.py` post-build 注入 234 HTML 文件，每页 48 个 `<link rel="alternate">`
+- T55: sitemap.xml 已含 864 URL (576 基础 + 48 博客列表 + 240 博客文章)
+- 套餐回滚: 恢复 3 固定套餐卡片 (Market Entry / Go-to-Market / Brand Launch)
+- package.json build 脚本集成: `next build && python3 scripts/inject-hreflang.py`，Cloudflare 部署自动执行
+- Commit: 17ef8d4
