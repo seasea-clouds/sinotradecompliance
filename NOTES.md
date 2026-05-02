@@ -263,6 +263,23 @@
 - 品牌名 "SinoTrade Compliance" 在所有语言中保持英文
 - 联系方式（email、WhatsApp、地址）所有语言完全一致，不得翻译
 
+### 2026-05-02 19:20 UTC+8 第 25 次巡检（第 5 轮构建分析）— 清理 7 个无用文件 + 发现 INVALID_MESSAGE 构建错误
+- **执行任务**：T49 ✅（删除 5 个模板 SVG + david.jpg，节省 ~155KB）, T50 ✅（删除死代码 src/middleware.ts）, T51 待调查
+- **构建分析（第 5 轮）**：
+  - ✅ 632 pages, 0 error, exit 0（构建成功）
+  - ✅ 编译时间 1552ms，静态生成 1652ms（18 workers）
+  - ✅ JS chunks 总计 712KB，最大单块 227KB（合理）
+  - ✅ CSS 30KB 单文件（无重复样式问题）
+  - ✅ og-image.png 8.8KB（已优化）
+  - ❌ 5 个 Next.js 模板 SVG 未使用（file/globe/next/vercel/window.svg，~3.3KB）→ T49 已清理
+  - ❌ public/david.jpg 148KB 未引用（组件使用 images/david-zhang.jpg）→ T49 已清理
+  - ❌ src/middleware.ts 1392 bytes 死代码（output: 'export' 下不执行）→ T50 已清理
+  - ❌ INVALID_MESSAGE 构建错误 13 次（博客页面生成期间），不阻塞构建但需调查 → T51
+  - ℹ️ 博客内容仅英文（content/blog/en/ 5 篇），47 种语言博客页为空列表（符合设计）
+  - ℹ️ images.unoptimized: true（output: 'export' 必需）
+- **构建**：632 pages, 0 error ✅
+- **Git**：4 commits 已推送（a3f0f52 T48 Blog翻译, 7780c11 T49+T50清理, e94dd60 temp清理）
+
 ### 2026-05-02 18:10 UTC+8 第十九次巡检（第 1 轮翻译完整性审计）— 全站运行稳定，发现并修复 3 个空翻译
 - **执行任务**：T22（分析各页面文案不足）✅ 全部 8 项子需求已完成，FAQ 从 35→45 questions
 - **翻译完整性（第 1 轮）**：47 语言 × 441 keys，0 缺失，0 多余 ✅
