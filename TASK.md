@@ -1,6 +1,22 @@
 # 官网改版 — 任务清单
 
-## 当前状态 (2026-05-02 15:47 UTC+8 第十二次巡检 — JSON-LD 渲染 bug 修复完成)
+## 当前状态 (2026-05-02 23:57 UTC+8 第十三次巡检 — 全站运行稳定)
+- ✅ 12 页面全部完成并线上验证
+- ✅ 48 语言翻译，key 完全一致
+- ✅ 构建 0 error
+- ✅ 6 个服务页均有 ServiceFAQ + LeadMagnet + CTASection
+- ✅ FAQ 页语义化 dl/dt/dd + JSON-LD FAQPage schema
+- ✅ sitemap.xml + robots.txt（576 URL，48×12）
+- ✅ 所有页面独立 metadata + og:image + twitter card
+- ✅ canonical URL 正确
+- ✅ JSON-LD 全部正确渲染为 inline `<script>` 标签，所有页面 1 个 ld+json
+- ✅ og:image 已在 Cloudflare CDN 生效
+- ✅ 根路径 `/` 通过 Cloudflare `_redirects` 302 → `/en/`，SEO 友好
+- ✅ 9 种语言（en/zh/ja/ko/ar/ru/es/fr/de）全部翻译正确
+- ✅ Packages 页无具体价格数字，符合规范
+- ✅ 联系信息所有语言一致
+- ✅ hreflang 标签完整（每页 48 个 alternate 链接）
+- ✅ 全站无 `__next_error__`，运行稳定
 - ✅ 12 页面全部完成并线上验证
 - ✅ 48 语言翻译，key 完全一致
 - ✅ 构建 0 error
@@ -85,6 +101,7 @@
 | 05-02 15:27 | 第十次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD完整，sitemap 576 URL正确，翻译标题9语言正确（含zh/ja/ko/ru完整验证），canonical正确，6服务页×3语言全部200，线上运行稳定 ✅ |
 | 05-02 15:39 | 第十一次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD完整（7个关键页面各1个ld+json），sitemap 576 URL正确，翻译标题9语言全部正确，canonical URL正确，6服务页×3语言全部200，联系信息一致，无__next_error__，Packages无价格数字，线上运行稳定 ✅ |
 | 05-02 15:47 | 第十二次巡检：发现 JSON-LD 渲染 bug — 所有页面使用 `next/script` 导致 JSON-LD 不输出为 HTML `<script>` 标签，搜索引擎无法读取。已修复全部 14 个文件（12 个页面 + 2 个组件），改用 plain `<script>`，构建 0 error，已推送（5ec7247），等待部署后验证。 |
+| 05-02 23:57 | 第十三次巡检：全量验证通过，12页面×9语言全部200，根路径302→/en/正常，JSON-LD完整且正确渲染为inline script标签，hreflang 48 alternate链接完整，sitemap 576 URL正确，canonical正确，翻译标题9语言正确，6服务页×2语言（zh/ja）全部200，联系信息一致，无__next_error__，Packages无价格数字，全站运行稳定 ✅ |
 
 ---
 

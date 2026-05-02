@@ -2,6 +2,24 @@
 
 ## 巡检记录
 
+### 2026-05-02 23:57 UTC+8 第十三次巡检 — 全站运行稳定，无新发现问题
+- **线上全量验证**：12 页面 × 9 种语言（en/zh/ja/ko/ar/ru/es/fr/de）全部 HTTP 200 ✅
+- **根路径 `/`**：HTTP 302 → `/en/`（Cloudflare Pages `_redirects` 生效）✅
+- **翻译标题验证**：9 种语言首页 title 翻译正确，各语言独立 ✅
+- **服务页**：6 个服务页 × 2 种语言抽检（zh/ja）全部 200 ✅
+- **About/Packages/FAQ/Thank-you**：全部 200 ✅
+- **JSON-LD**：/en/ /en/about/ /en/services/gacc/ /en/faq/ 各 1 个 inline `<script type="application/ld+json">`，JSON-LD 修复后已正确渲染 ✅
+- **hreflang**：每页 48 个 `<link rel="alternate" hrefLang="xx">` 完整 ✅
+- **SEO 元数据**：title/description/canonical 全部正确 ✅
+- **og:image**：所有页面正确注入，CDN 生效 ✅
+- **Sitemap**：576 URL（48×12），hreflang 完整 ✅
+- **Robots.txt**：200 正常 ✅
+- **`__next_error__` 检查**：9 个语言首页均无 `__next_error__` ✅
+- **价格检查**：Packages 页无具体价格数字 ✅
+- **联系信息**：email (david@sinotradecompliance.com) en/zh/ja/ko 一致 ✅
+- **Git 状态**：working tree clean，up to date with origin/main ✅
+- **结论**：官网改造全部任务保持完成状态，线上运行稳定，无新发现问题
+
 ### 2026-05-02 15:47 UTC+8 第十二次巡检 — JSON-LD 渲染 bug 发现并修复
 - **线上全量验证**：12 页面 × 9 种语言（en/zh/ja/ko/ar/ru/es/fr/de）全部 HTTP 200 ✅
 - **根路径 `/`**：HTTP 302 → `/en/`（Cloudflare Pages `_redirects` 生效）✅
