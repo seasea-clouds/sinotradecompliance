@@ -1,18 +1,17 @@
 # 官网改版 — 任务清单
 
-## 当前状态 (2026-05-02 22:16 UTC+8 第三次巡检)
+## 当前状态 (2026-05-02 14:27 UTC+8 第四次巡检)
 - ✅ 12 页面全部完成
 - ✅ 48 语言翻译，key 完全一致
 - ✅ 构建 0 error
 - ✅ 6 个服务页均有 ServiceFAQ + LeadMagnet + CTASection
 - ✅ FAQ 页语义化 dl/dt/dd + JSON-LD
-- ✅ sitemap.xml + robots.txt
+- ✅ sitemap.xml + robots.txt（576 URL，48×12）
 - ✅ 所有页面独立 metadata + og:image + twitter card
-- ✅ canonical URL 修复（之前所有页面都指向首页，现已修复）
-- ✅ JSON-LD 已部署到所有 12 个页面（首页/About/Services/6 服务页/Packages/ThankYou）
+- ✅ canonical URL 修复
+- ✅ JSON-LD 已部署到所有页面
 - ✅ og:image 已在 Cloudflare CDN 生效
-- ⚠️ 根路径 `/` 使用客户端 JS 跳转，搜索引擎爬虫看不到内容
-- ✅ sitemap.xml 已修复：移除 5 个无效 locale（et/lt/lv/my/tl），当前 576 URL（48×12）
+- ❌ 根路径 `/` 线上返回 `__next_error__`（middleware.ts 部署未生效，仍需排查）
 - ✅ 清理 temp/en_needed.json 临时文件
 
 ---
@@ -40,7 +39,7 @@
 - [x] T13. Cloudflare Pages 部署验证（首页/zh/About/og-image 全部正常）
 
 ### 🟡 P1：根路径 SEO 修复
-- [x] T14. 根路径 `/` 改为服务端重定向（2026-05-02 22:20 已修复：创建 src/middleware.ts 基于 Accept-Language header 服务端重定向，根路径 page.tsx 改为服务端 fallback redirect）
+- [ ] T14. 根路径 `/` 改为服务端重定向（代码已提交 0ca948b，middleware.ts 已存在，但线上仍返回 `__next_error__`，Cloudflare Pages 部署可能未生效，待排查）
 
 ### 🟡 P2：数据质量
 - [x] T15. 修复 sitemap.xml 包含 5 个无效 locale（et/lt/lv/my/tl）导致 404（2026-05-02 22:16 已修复并推送）
@@ -70,7 +69,8 @@
 | 05-02 14:06 | 新发现 T14：根路径 `/` 客户端 JS 跳转对 SEO 不友好 |
 | 05-02 22:16 | 第三次巡检：线上全量验证，6 服务页 × 48 语言全部 200 ✅ |
 | 05-02 22:16 | T15: 修复 sitemap.xml 无效 locale bug + 清理 temp 文件 |
-| 05-02 22:20 | T14: 根路径 `/` 客户端 JS 跳转 → 服务端 Accept-Language 重定向（middleware.ts）
+| 05-02 22:20 | T14: 根路径 `/` 客户端 JS 跳转 → 服务端 Accept-Language 重定向（middleware.ts），代码已提交
+| 05-02 14:27 | 第四次巡检：T14 线上未生效，根路径返回 `__next_error__`，需排查部署问题
 
 ---
 
