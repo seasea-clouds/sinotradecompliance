@@ -159,6 +159,7 @@
 | 05-02 17:28 | T25: 组件适配新 key — FAQ 动态循环 + PackageCards useCase/includes，构建 0 error，commit 0fc3067 已推送 |
 | 05-02 17:52 | T26: 构建验证 ✅ 632 pages, 0 error, commit 17f9a1b 已推送 |
 | 05-02 17:52 | T27-T31: 翻译审计 ✅ 48 语言 key 结构一致，~752 英文占位符待人工审核，品牌名一致 |
+| 05-02 20:16 | T32: 博客系统 ✅ 5 articles × 48 locales = 240 translations, 867 pages build, commit pending |
 | 05-02 18:01 | T32-T38: 博客系统 ✅ MDX 配置 + 5 篇文章 + BlogPostCard/BlogCategoryFilter 组件 + blog 路由(48×6 routes) + JSON-LD BlogPosting + 48 语言 UI keys，构建 632 pages 0 error, commit 336d87f 已推送 |
 | 05-02 18:01 | 第十八次巡检：博客系统上线，48 语言翻译完整，构建 632 pages 0 error，全站运行稳定 ✅
 
@@ -189,7 +190,7 @@
 - [x] T52. 修复 FAQ 页 6 个缺失的 sub-question A keys — labelA3a/A4a/A5a、cccA3a/A4a、brandA5a 在 en.json 中存在 Q keys 但 A keys 全部缺失，导致 6 个 FAQ 子问题在页面上不渲染（当前 33 个，应为 39 个）。需补充 6 个 A keys 到 en.json，然后翻译到其余 47 种语言。优先级：P2。✅ 2026-05-03 11:50 UTC+8 — 6 个 A keys 已添加到 en.json 并翻译到 47 种语言，构建 640 pages 0 error
 
 ### 阶段九：博客正文翻译到 48 种语言（新需求）
-- [ ] T53. 5 篇博客 MDX 文章翻译到 47 种语言（英文已有）— 235 个翻译文件，保持 MDX frontmatter 和格式不变，只翻译正文内容
+- [x] T53. 5 篇博客 MDX 文章翻译到 47 种语言（英文已有）— 235 个翻译文件，保持 MDX frontmatter 和格式不变，只翻译正文内容 ✅ 2026-05-03 — 47×5=235 文件，构建 867 pages 0 error，修复 gray-matter Date 解析 bug（blog.ts）
 
 ### 阶段一：表单简化（只留邮箱）
 - [x] T20. LeadMagnet 组件删除 Name 输入框（含图标、label、placeholder）✅ 2026-05-02 16:10 UTC+8
@@ -216,6 +217,7 @@
 - [x] T29. 品牌名检查 ✅ 所有 48 语言包含 "SinoTrade Compliance"
 - [x] T30. 联系信息一致性 ✅ email 一致，WhatsApp 硬编码在组件中（不在翻译文件）
 - [x] T31. 修复 T27-T30 发现问题 ✅ ko.json 修复，5 语言英文占位符填充
+- [x] T32. 博客系统 — MDX 内容管理 + 48 语言翻译 + Blog/Article JSON-LD ✅ 2026-05-02
 
 ### 阶段四：博客系统 ✅ 全部完成
 - [x] T32. 博客组件开发 ✅ BlogPostCard.tsx, BlogCategoryFilter.tsx, BlogClient.tsx
