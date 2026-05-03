@@ -1,6 +1,67 @@
 # 官网 - 注意事项
 
 ## 巡检记录
+### 2026-05-03 08:00 UTC+8 第 27 次巡检（第 26 轮组合深度检查）— 全站稳定，全部通过
+- **执行任务**：无待执行任务（T0-T69 全部完成）
+- **组合深度检查（第 26 轮）**：
+  - ✅ 构建：867 pages, 0 error
+  - ✅ 翻译完整性：48/48 语言 key 结构完全一致（444 keys），0 缺失 0 多余 0 空值
+  - ✅ 线上页面：/,/en/,/zh/,/ja/,/ru/,/ar/,/es/,/fr/,/de/ 首页全部 200；6 服务页×zh 全部 200；/en/faq/ /en/packages/ /en/about/ /en/blog/ /zh/blog/ /en/blog/gacc-registration-guide/ /zh/blog/gacc-registration-guide/ /en/thank-you/ 全部 200；/nonexistent 正常 404
+  - ✅ 根路径 `/`：302 → `/en/` 正常
+  - ✅ JSON-LD：首页 4 个类型（Organization+ContactPoint+PostalAddress+ProfessionalService），FAQ 1 个，博客文章 7 个类型（BlogPosting+Organization+Person+ImageObject+ContactPoint+PostalAddress+WebPage），全部 inline `<script>`
+  - ✅ hreflang：常规页 96 属性/页（48 链接×2），博客列表 192 属性，sitemap 41472 xhtml:link
+  - ✅ Sitemap：864 URL
+  - ✅ canonical：en/faq/→/en/faq/, zh/services/gacc/→/zh/services/gacc/ 全部正确
+  - ✅ H1 唯一：en/zh 首页均 = 1
+  - ✅ FAQ 语义化：39 个 dt/dd 对
+  - ✅ 语义化 HTML：nav=1, main=1, footer=1, section=9（en 首页），`<main>` 元素已修复（round 21 遗留问题已解决）
+  - ✅ 可访问性：en/ 51 aria, zh/ 49 aria, 0 img 缺 alt
+  - ✅ OG/Twitter：10 og: + 7 twitter: 标签完整，og-image 1200×630 PNG
+  - ✅ 多语言 SEO：8 种语言首页 title 全部正确本地化（zh/ja/ko/ar/ru/es/fr/de），均含 "SinoTrade Compliance"
+  - ✅ 品牌名：zh 首页 25 处 "SinoTrade Compliance"
+  - ✅ 联系方式：email 8 处/页，WhatsApp 6 处/页，en/zh 一致
+  - ✅ 禁用内容：无 #000000，packages 页 $0/$1/$5/$7 均为 RSC 内部 ID 非实际价格
+  - ✅ 外部链接：仅 WhatsApp（wa.me）
+  - ✅ 导航：Navbar 6 服务链接全部正确（gacc/label/ccc/cosmetics/ecommerce/brand）
+  - ✅ Blog：5 篇文章卡片全部渲染，zh 博客文章含 12377 个中文字符
+  - ✅ robots.txt：User-agent: * / Allow: / / Sitemap 正确
+  - ✅ 无孤儿文件：0 个 .bak/.tmp/.orig/.swp
+  - ✅ 构建输出：out/ 468MB，JS 732KB，CSS 32KB
+  - ✅ Git：working tree clean
+- **结论**：全站运行稳定，无新发现问题 ✅
+
+### 2026-05-03 15:50 UTC+8 第 24 次巡检（第 24 轮组合深度检查）— 全站稳定，全部通过
+- **执行任务**：无待执行任务（T0-T69 全部完成）
+- **组合深度检查（第 24 轮）**：
+  - ✅ 构建：867 pages, 0 error
+  - ✅ 翻译完整性：48/48 语言 key 结构完全一致（444 keys），0 缺失 0 多余 0 空值
+  - ✅ 线上页面：22 页面（/,/en/,/zh/,/ja/,/ru/,/ar/ + 6 服务页×2 语言 + FAQ×2 + Packages + About + Blog×2 + Blog 文章×2 + ThankYou）全部 HTTP 200/302
+  - ✅ 根路径 `/`：302 → `/en/` 正常
+  - ✅ JSON-LD：首页 1 个、FAQ 1 个、博客文章 2 个、服务页 1 个，全部 inline `<script>`
+  - ✅ hreflang：常规页 48 个/页，sitemap 41472 xhtml:link 条目
+  - ✅ Sitemap：864 URL，hreflang 完整
+  - ✅ canonical：en/faq/→/en/faq/, zh/services/gacc/→/zh/services/gacc/, packages→/en/packages/, about→/en/about/ 全部正确
+  - ✅ H1 唯一：6 页抽检均为 1
+  - ✅ FAQ 语义化：39 个 dt/dd 对
+  - ✅ 语义化 HTML：nav=1, main=1, footer=1, section≥1（en/zh 首页）
+  - ✅ 可访问性：en/ 51 aria, zh/ 49 aria, img alt 完整, 0 img 缺 alt
+  - ✅ OG/Twitter：17 项完整（og:title/description/url/type/locale/image/image:alt/image:width/image:height + twitter:card/title/description/image/image:alt/image:width/image:height）
+  - ✅ 多语言 SEO：13 种语言首页 title 全部正确本地化（zh/ja/ko/ru/ar/es/fr/de/pt/it/nl/tr/vi）
+  - ✅ 品牌名：所有语言 title 含 "SinoTrade Compliance"
+  - ✅ 联系方式：email=4/页, whatsapp=2/页，en/zh/ja 一致
+  - ✅ 禁用内容：无 #000000，packages 页无实际价格（$0/$1/$5/$7 均为 RSC 内部 ID）
+  - ✅ 外部链接：仅 WhatsApp（https://wa.me/message/HPPZ5X6XZSMLM1），正确
+  - ✅ 导航：Navbar 下拉 6 服务 + services index 全部正确
+  - ✅ Blog 列表：5 篇文章卡片全部渲染（article 标签×5），5 个 slug 均存在
+  - ✅ 博客内容深度：zh 博客文章页含 12377 个中文字符
+  - ✅ robots.txt：User-agent: * / Allow: / / Sitemap 正确
+  - ✅ _redirects：/ → /en/ 302 正确
+  - ✅ 无孤儿文件：0 个 .bak/.tmp/.orig/.swp
+  - ✅ 构建输出：out/ 468MB，.next/ 500M
+  - ✅ JS 包大小：总计 720KB，最大单块 223KB
+  - ✅ Git：working tree clean
+- **结论**：全站运行稳定，无新发现问题 ✅
+
 ### 2026-05-03 07:30 UTC+8 第 23 次巡检（第 22 轮组合深度检查）— 全站稳定，全部通过
 - **执行任务**：无待执行任务（T0-T69 全部完成）
 - **组合深度检查（第 22 轮）**：
