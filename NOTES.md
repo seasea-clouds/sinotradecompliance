@@ -1,6 +1,35 @@
 # 官网 - 注意事项
 
 ## 巡检记录
+### 2026-05-03 08:10 UTC+8 第 28 次巡检（第 27 轮组合深度检查）— 全站稳定，全部通过
+- **执行任务**：无待执行任务（T0-T69 全部完成）
+- **组合深度检查（第 27 轮）**：
+  - ✅ 构建：867 pages, 0 error
+  - ✅ 翻译完整性：48/48 语言 key 结构完全一致（444 keys），0 缺失 0 多余 0 空值
+  - ✅ 线上页面：25 页面全部 HTTP 200/302（根路径 302→/en/ 正常）
+  - ✅ 根路径 `/`：302 → `/en/` 正常（Cloudflare `_redirects` 生效）
+  - ✅ JSON-LD：首页 2 个 inline `<script>`（Organization），博客文章 2 个（BlogPosting+Page），FAQ 页 inline script
+  - ✅ hreflang：常规页 48 个/页，博客文章页 96 个，sitemap 41472 xhtml:link 条目
+  - ✅ Sitemap：864 URL（576 基础 + 48 博客列表 + 240 博客文章）
+  - ✅ canonical：en/faq/ → https://sinotradecompliance.com/en/faq/ 正确
+  - ✅ H1 唯一：en/ = 1, zh/ = 1
+  - ✅ FAQ 语义化：39 个 dt/dd 对，7 个 dl 组
+  - ✅ 语义化 HTML：nav/main/footer 完整
+  - ✅ 可访问性：en/ 51 aria 属性
+  - ✅ OG/Twitter：10 og: + 7 twitter: 标签完整
+  - ✅ 多语言 SEO：13 种语言首页 title 全部正确本地化（zh/ja/ko/ar/ru/es/fr/de/pt/it/nl/tr/vi），均含 "SinoTrade Compliance"
+  - ✅ 品牌名：48 语言 Navbar.logo 均为 "SinoTrade Compliance"
+  - ✅ 联系方式：全局一致，外部链接仅 WhatsApp（5 处）
+  - ✅ 禁用内容：无 #000000，packages 页无实际价格（$ 模式 0 匹配）
+  - ✅ 博客内容深度：zh 博客文章含 12377 个中文字符
+  - ✅ robots.txt：User-agent: * / Allow: / / Sitemap 正确
+  - ✅ __next_error__：en/ 和 zh/ 均未出现
+  - ✅ 无孤儿文件：0 个 .bak/.tmp/.orig/.swp
+  - ✅ 构建输出：out/ 468MB，JS chunks 756KB
+  - ✅ Blog 目录：48 种语言目录完整
+  - ✅ Git：working tree clean
+- **结论**：全站运行稳定，无新发现问题 ✅
+
 ### 2026-05-03 08:00 UTC+8 第 27 次巡检（第 26 轮组合深度检查）— 全站稳定，全部通过
 - **执行任务**：无待执行任务（T0-T69 全部完成）
 - **组合深度检查（第 26 轮）**：
