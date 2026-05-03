@@ -34,6 +34,41 @@ def inject_hreflang(html: str, hreflang_block: str) -> str:
     return hreflang_block + "\n" + html
 
 
+# Route templates for non-blog pages
+REGULAR_ROUTES = [
+    "/{}/",                     # Homepage
+    "/{}/about",                # About
+    "/{}/services",             # Services index
+    "/{}/services/gacc",        # GACC
+    "/{}/services/label",       # Chinese Label
+    "/{}/services/ccc",         # CCC
+    "/{}/services/cosmetics",   # Cosmetics
+    "/{}/services/ecommerce",   # E-commerce
+    "/{}/services/brand",       # Brand Protection
+    "/{}/packages",             # Packages
+    "/{}/faq",                  # FAQ
+    "/{}/thank-you",            # Thank You
+]
+
+
+def inject_route(template: str) -> int:
+    """Inject hreflang for a single route template across all locales."""
+    count = 0
+    for loc in LOCALES:
+        # Next.js export: /{locale}/services/gacc/ -> out/{locale}/services/gacc/index.html
+        file_path = template.replace("/{}/", "/" + loc + "/")
+        # Strip leading / and add /index.html
+        rel = file_path.lstrip("/")
+        html_file = OUT / rel / "index.html"
+        if html_file.exists():
+            html = html_file.read_text()
+            if "hreflang" not in html:
+                hreflang_block = build_hreflang(template)
+                html_file.write_text(inject_hreflang(html, hreflang_block))
+                count += 1
+    return count
+
+
 def main():
     if not OUT.exists():
         print("out/ directory not found. Run 'next build' first.")
@@ -41,7 +76,11 @@ def main():
 
     count = 0
 
-    # 1. Blog index pages: /{locale}/blog/
+    # 1. Regular pages (12 routes × 48 locales = 576 files)
+    for route in REGULAR_ROUTES:
+        count += inject_route(route)
+
+    # 2. Blog index pages: /{locale}/blog/
     for loc in LOCALES:
         index_file = OUT / loc / "blog" / "index.html"
         if index_file.exists():
@@ -51,7 +90,7 @@ def main():
                 index_file.write_text(inject_hreflang(html, hreflang))
                 count += 1
 
-    # 2. Blog article pages: /{locale}/blog/{slug}/
+    # 3. Blog article pages: /{locale}/blog/{slug}/
     blog_dir = OUT / "en" / "blog"
     if blog_dir.exists():
         for entry in blog_dir.iterdir():
